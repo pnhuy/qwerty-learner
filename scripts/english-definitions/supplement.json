@@ -5,7 +5,11 @@
   "i": ["pron. the speaker or writer, used as the subject of a verb"],
   "me": ["pron. the speaker or writer, used as the object of a verb or preposition"],
   "my": ["det. belonging to or associated with the speaker"],
-  "mine": ["pron. the one(s) belonging to me", "n. an excavation in the earth for extracting coal, metal or other minerals", "n. an explosive device placed in the ground or water"],
+  "mine": [
+    "pron. the one(s) belonging to me",
+    "n. an excavation in the earth for extracting coal, metal or other minerals",
+    "n. an explosive device placed in the ground or water"
+  ],
   "myself": ["pron. reflexive or emphatic form of \"I\" / \"me\""],
   "we": ["pron. the speaker together with one or more other people"],
   "us": ["pron. the speaker and one or more others, as the object of a verb or preposition"],
@@ -22,20 +26,33 @@
   "his": ["det. belonging to or associated with a male person previously mentioned", "pron. the one(s) belonging to him"],
   "himself": ["pron. reflexive or emphatic form of \"he\" / \"him\""],
   "she": ["pron. a female person or animal previously mentioned"],
-  "her": ["pron. a female person or animal, as the object of a verb or preposition", "det. belonging to or associated with a female person previously mentioned"],
+  "her": [
+    "pron. a female person or animal, as the object of a verb or preposition",
+    "det. belonging to or associated with a female person previously mentioned"
+  ],
   "hers": ["pron. the one(s) belonging to her"],
   "herself": ["pron. reflexive or emphatic form of \"she\" / \"her\""],
-  "it": ["pron. a thing, animal or situation previously mentioned or easily identified", "pron. used as an empty subject (e.g. it is raining)"],
+  "it": [
+    "pron. a thing, animal or situation previously mentioned or easily identified",
+    "pron. used as an empty subject (e.g. it is raining)"
+  ],
   "its": ["det. belonging to or associated with a thing or animal previously mentioned"],
   "itself": ["pron. reflexive or emphatic form of \"it\""],
-  "they": ["pron. two or more people or things previously mentioned", "pron. people in general; a person whose gender is unknown or not specified"],
+  "they": [
+    "pron. two or more people or things previously mentioned",
+    "pron. people in general; a person whose gender is unknown or not specified"
+  ],
   "them": ["pron. two or more people or things, as the object of a verb or preposition"],
   "their": ["det. belonging to or associated with the people or things previously mentioned"],
   "theirs": ["pron. the one(s) belonging to them"],
   "themselves": ["pron. reflexive or emphatic form of \"they\" / \"them\""],
   "oneself": ["pron. reflexive form of \"one\" (a person in general)"],
   "this": ["det. / pron. the person or thing near the speaker or just mentioned", "adv. to this degree; so"],
-  "that": ["det. / pron. the person or thing farther away or already mentioned", "conj. introducing a clause (e.g. I know that he left)", "adv. to that degree; so"],
+  "that": [
+    "det. / pron. the person or thing farther away or already mentioned",
+    "conj. introducing a clause (e.g. I know that he left)",
+    "adv. to that degree; so"
+  ],
   "these": ["det. / pron. plural of \"this\"; the people or things near the speaker"],
   "those": ["det. / pron. plural of \"that\"; the people or things farther away or already mentioned"],
   "what": ["pron. / det. asking for information about something", "pron. the thing(s) that"],
@@ -90,7 +107,11 @@
   "within": ["prep. inside; not beyond (a limit or time)"],
   "in": ["prep. inside; contained by; during", "adv. into a place; at home"],
   "into": ["prep. to the inside of; so as to become"],
-  "on": ["prep. touching and supported by the top surface of", "prep. about; concerning; on a particular day", "adv. continuing; in operation"],
+  "on": [
+    "prep. touching and supported by the top surface of",
+    "prep. about; concerning; on a particular day",
+    "adv. continuing; in operation"
+  ],
   "onto": ["prep. moving to a position on (the surface of)"],
   "upon": ["prep. on (more formal)"],
   "at": ["prep. indicating a point in space or time", "prep. indicating a direction or target"],
@@ -132,7 +153,10 @@
   "cannot": ["aux. can not; to be unable to"],
   "can't": ["aux. short for \"cannot\""],
   "could": ["aux. past form of \"can\"; used to express possibility or a polite request"],
-  "will": ["aux. expressing the future tense or willingness", "n. the faculty of deciding and choosing; a legal document disposing of property after death"],
+  "will": [
+    "aux. expressing the future tense or willingness",
+    "n. the faculty of deciding and choosing; a legal document disposing of property after death"
+  ],
   "would": ["aux. past form of \"will\"; expressing a conditional or polite request"],
   "shall": ["aux. expressing the future tense (with I/we); expressing a strong intention or obligation"],
   "should": ["aux. used to indicate obligation, duty or correctness", "aux. used to indicate what is probable"],
