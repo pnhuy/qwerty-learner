@@ -1,36 +1,49 @@
-name: Deployment to Github/Gitee pages
+# Builds the app and publishes it with GitHub Pages (Settings → Pages → Source: "GitHub Actions").
+# The site is served at https://<owner>.github.io/qwerty-learner/; REACT_APP_DEPLOY_ENV=pages sets that base path,
+# so the repository must be named qwerty-learner.
+name: Deploy to GitHub Pages
 on:
   push:
     branches:
       - master
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
 env:
   REACT_APP_DEPLOY_ENV: pages
   SITE_URL: https://${{ github.repository_owner }}.github.io/qwerty-learner/
+
 jobs:
-  deploy:
+  build:
     runs-on: ubuntu-latest
-    strategy:
-      matrix:
-        node-version: [18.17.0]
     steps:
-      - uses: actions/checkout@v3
-      - name: Use Node.js ${{ matrix.node-version }}
-        uses: actions/setup-node@v3
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
         with:
-          node-version: ${{ matrix.node-version }}
-      - name: Install Packages
-        run: yarn
-      - name: Build page
+          node-version: 18.17.0
+          cache: yarn
+      - name: Install packages
+        run: yarn install --frozen-lockfile
+      - name: Build
         run: yarn build
-      - name: Deploy to gh-pages
-        uses: peaceiris/actions-gh-pages@v3
+      - uses: actions/upload-pages-artifact@v3
         with:
-          deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
-          publish_dir: ./build
-      - name: Sync to Gitee
-        uses: wearerequired/git-mirror-action@master
-        env:
-          SSH_PRIVATE_KEY: ${{ secrets.GITEE }}
-        with:
-          source-repo: git@github.com:RealKai42/qwerty-learner.git
-          destination-repo: git@gitee.com:KaiyiWing/qwerty-learner.git
+          path: ./build
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
