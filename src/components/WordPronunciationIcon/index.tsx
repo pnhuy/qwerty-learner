@@ -1,5 +1,5 @@
 import { SoundIcon } from './SoundIcon'
-import usePronunciationSound from '@/hooks/usePronunciation'
+import usePronunciationSound, { getWordSound } from '@/hooks/usePronunciation'
 import type { Word } from '@/typings'
 import { useCallback, useEffect, useImperativeHandle } from 'react'
 import React from 'react'
@@ -8,20 +8,8 @@ export const WordPronunciationIcon = React.forwardRef<
   WordPronunciationIconRef,
   { word: Word; lang: string; className?: string; iconClassName?: string }
 >(({ word, lang, className, iconClassName }, ref) => {
-  const currentWord = () => {
-    if (lang === 'hapin') {
-      if (/[\u0400-\u04FF]/.test(word.notation || '')) {
-        // Kazakh Cyrillic script
-        return word.notation || ''
-      } else {
-        // Kazakh old (Arabic) script
-        return word.trans[2]
-      }
-    } else {
-      return word.name
-    }
-  }
-  const { play, stop, isPlaying } = usePronunciationSound(currentWord(), undefined, lang === 'hapin' ? undefined : word.audio)
+  const { text, audio } = getWordSound(word, lang)
+  const { play, stop, isPlaying } = usePronunciationSound(text, undefined, audio)
 
   const playSound = useCallback(() => {
     stop()

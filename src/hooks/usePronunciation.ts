@@ -1,11 +1,11 @@
 import { pronunciationConfigAtom } from '@/store'
-import type { PronunciationType } from '@/typings'
+import type { PronunciationType, Word } from '@/typings'
 import { addHowlListener } from '@/utils'
 import { romajiToHiragana } from '@/utils/kana'
 import noop from '@/utils/noop'
-import type { Howl } from 'howler'
+import { Howl } from 'howler'
 import { useAtomValue } from 'jotai'
-import { useEffect, useMemo, useState } from 'react'
+import { useCallback, useEffect, useMemo, useState } from 'react'
 import useSound from 'use-sound'
 import type { HookOptions } from 'use-sound/dist/types'
 
@@ -44,6 +44,47 @@ export function generateWordSoundSrc(word: string, pronunciation: Exclude<Pronun
     default:
       return ''
   }
+}
+
+/** The text to pronounce for a word, and its own recording if it has one. */
+export function getWordSound(word: Word, lang: string): { text: string; audio?: string } {
+  if (lang === 'hapin') {
+    // Kazakh: the Cyrillic notation if there is one, otherwise the old (Arabic) script
+    return { text: /[\u0400-\u04FF]/.test(word.notation || '') ? word.notation || '' : word.trans[2] }
+  }
+  return { text: word.name, audio: word.audio }
+}
+
+let oneShotSound: Howl | null = null
+
+/**
+ * Returns a function that pronounces a word once, independently of any component. Used when the pronunciation plays
+ * after the word is typed: the panel moves on to the next word straight away, which would cut a component's sound off.
+ * Starting a new sound stops the previous one.
+ */
+export function usePlayWordSoundOnce() {
+  const { type, volume, rate } = useAtomValue(pronunciationConfigAtom)
+
+  return useCallback(
+    (word: Word, lang: string) => {
+      const { text, audio } = getWordSound(word, lang)
+      const src = generateWordSoundSrc(text, type, audio)
+      if (!src) return
+
+      oneShotSound?.unload()
+      const sound = new Howl({ src: [src], html5: true, format: ['mp3'], volume, rate })
+      const release = () => {
+        sound.unload()
+        if (oneShotSound === sound) oneShotSound = null
+      }
+      sound.once('end', release)
+      sound.once('loaderror', release)
+      sound.once('playerror', release)
+      oneShotSound = sound
+      sound.play()
+    },
+    [type, volume, rate],
+  )
 }
 
 export default function usePronunciationSound(word: string, isLoop?: boolean, audio?: string) {

@@ -1,7 +1,7 @@
 import Tooltip from '@/components/Tooltip'
 import { LANG_PRON_MAP } from '@/resources/soundResource'
 import { currentDictInfoAtom, phoneticConfigAtom, pronunciationConfigAtom } from '@/store'
-import type { PronunciationType } from '@/typings'
+import type { PronunciationTiming, PronunciationType } from '@/typings'
 import { PRONUNCIATION_PHONETIC_MAP } from '@/typings'
 import { CTRL } from '@/utils'
 import { Listbox, Popover, Switch, Transition } from '@headlessui/react'
@@ -9,6 +9,12 @@ import { useAtom, useAtomValue } from 'jotai'
 import { Fragment, useCallback, useEffect, useMemo } from 'react'
 import IconCheck from '~icons/tabler/check'
 import IconChevronDown from '~icons/tabler/chevron-down'
+
+const TIMING_OPTIONS: { value: PronunciationTiming; name: string; description: string }[] = [
+  { value: 'appear', name: 'When shown', description: 'Plays as soon as the word appears' },
+  { value: 'afterTyping', name: 'After typing', description: 'Plays after each attempt, right or wrong' },
+  { value: 'afterCorrect', name: 'When correct', description: 'Plays only after you type the word correctly' },
+]
 
 const PronunciationSwitcher = () => {
   const currentDictInfo = useAtomValue(currentDictInfoAtom)
@@ -71,6 +77,18 @@ const PronunciationSwitcher = () => {
     },
     [setPronunciationConfig],
   )
+
+  const onChangePronunciationTiming = useCallback(
+    (value: PronunciationTiming) => {
+      setPronunciationConfig((old) => ({
+        ...old,
+        timing: value,
+      }))
+    },
+    [setPronunciationConfig],
+  )
+
+  const currentTiming = TIMING_OPTIONS.find((item) => item.value === pronunciationConfig.timing) ?? TIMING_OPTIONS[0]
 
   const onChangePhoneticIsOpen = useCallback(
     (value: boolean) => {
@@ -174,11 +192,45 @@ const PronunciationSwitcher = () => {
                   className="flex w-full flex-col items-center justify-center gap-4"
                   enter="transition-all duration-300 ease-in"
                   enterFrom="max-h-0 opacity-0"
-                  enterTo="max-h-[300px] opacity-100"
+                  enterTo="max-h-[400px] opacity-100"
                   leave="transition-all duration-300 ease-out"
-                  leaveFrom="max-h-[300px] opacity-100"
+                  leaveFrom="max-h-[400px] opacity-100"
                   leaveTo="max-h-0 opacity-0"
                 >
+                  <div className="flex w-full flex-col items-start gap-2 py-0">
+                    <span className="text-sm font-normal leading-5 text-gray-900 dark:text-white dark:text-opacity-60">
+                      Play pronunciation
+                    </span>
+                    <Listbox value={currentTiming.value} onChange={onChangePronunciationTiming}>
+                      <div className="relative">
+                        <Listbox.Button className="listbox-button">
+                          <span>{currentTiming.name}</span>
+                          <span>
+                            <IconChevronDown className="focus:outline-none" />
+                          </span>
+                        </Listbox.Button>
+                        <Transition as={Fragment} leave="transition ease-in duration-100" leaveFrom="opacity-100" leaveTo="opacity-0">
+                          <Listbox.Options className="listbox-options z-10">
+                            {TIMING_OPTIONS.map((item) => (
+                              <Listbox.Option key={item.value} value={item.value}>
+                                {({ selected }) => (
+                                  <>
+                                    <span>{item.name}</span>
+                                    {selected ? (
+                                      <span className="listbox-options-icon">
+                                        <IconCheck className="focus:outline-none" />
+                                      </span>
+                                    ) : null}
+                                  </>
+                                )}
+                              </Listbox.Option>
+                            ))}
+                          </Listbox.Options>
+                        </Transition>
+                      </div>
+                    </Listbox>
+                    <span className="text-xs font-normal leading-tight text-gray-600 dark:text-gray-400">{currentTiming.description}</span>
+                  </div>
                   <div className="flex w-full  flex-col  items-start gap-2 py-0">
                     <span className="text-sm font-normal leading-5 text-gray-900 dark:text-white dark:text-opacity-60">
                       Repeat pronunciation

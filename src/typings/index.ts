@@ -1,6 +1,8 @@
 export * from './resource'
 
 export type PronunciationType = 'us' | 'uk' | 'romaji' | 'zh' | 'ja' | 'de' | 'hapin' | 'kk' | 'id' | 'fi'
+/** When a word is pronounced automatically: as it appears, after each attempt (right or wrong), or only after a correct one. */
+export type PronunciationTiming = 'appear' | 'afterTyping' | 'afterCorrect'
 export type PhoneticType = 'us' | 'uk' | 'romaji' | 'zh' | 'ja' | 'de' | 'hapin' | 'kk' | 'id' | 'fi'
 export type LanguageType = 'en' | 'romaji' | 'zh' | 'ja' | 'code' | 'de' | 'kk' | 'hapin' | 'id' | 'fi'
 export type LanguageCategoryType = 'en' | 'ja' | 'de' | 'code' | 'kk' | 'id' | 'fi'

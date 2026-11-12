@@ -8,6 +8,7 @@ import type {
   InfoPanelState,
   LoopWordTimesOption,
   PhoneticType,
+  PronunciationTiming,
   PronunciationType,
   WordDictationOpenBy,
   WordDictationType,
@@ -58,6 +59,7 @@ export const pronunciationConfigAtom = atomForConfig('pronunciation', {
   isTransRead: false,
   transVolume: 1,
   rate: 1,
+  timing: 'appear' as PronunciationTiming,
 })
 
 export const fontSizeConfigAtom = atomForConfig('fontsize', defaultFontSizeConfig)

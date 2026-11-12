@@ -11,6 +11,7 @@ import type { WordPronunciationIconRef } from '@/components/WordPronunciationIco
 import { WordPronunciationIcon } from '@/components/WordPronunciationIcon'
 import { EXPLICIT_SPACE } from '@/constants'
 import useKeySounds from '@/hooks/useKeySounds'
+import { usePlayWordSoundOnce } from '@/hooks/usePronunciation'
 import { TypingContext, TypingStateActionType } from '@/pages/Typing/store'
 import {
   currentChapterAtom,
@@ -18,6 +19,7 @@ import {
   isIgnoreCaseAtom,
   isShowAnswerOnHoverAtom,
   isTextSelectableAtom,
+  pronunciationConfigAtom,
   pronunciationIsOpenAtom,
   wordDictationConfigAtom,
 } from '@/store'
@@ -44,6 +46,8 @@ export default function WordComponent({ word, onFinish }: { word: Word; onFinish
   // const wordLogUploader = useMixPanelWordLogUploader(state)
   const [playKeySound, playBeepSound, playHintSound] = useKeySounds()
   const pronunciationIsOpen = useAtomValue(pronunciationIsOpenAtom)
+  const pronunciationTiming = useAtomValue(pronunciationConfigAtom).timing
+  const playWordSoundOnce = usePlayWordSoundOnce()
   const [isHoveringWord, setIsHoveringWord] = useState(false)
   const currentLanguage = useAtomValue(currentDictInfoAtom).language
   const currentLanguageCategory = useAtomValue(currentDictInfoAtom).languageCategory
@@ -129,10 +133,10 @@ export default function WordComponent({ word, onFinish }: { word: Word; onFinish
   )
 
   useEffect(() => {
-    if (wordState.inputWord.length === 0 && state.isTyping) {
+    if (pronunciationTiming === 'appear' && wordState.inputWord.length === 0 && state.isTyping) {
       wordPronunciationIconRef.current?.play && wordPronunciationIconRef.current?.play()
     }
-  }, [state.isTyping, wordState.inputWord.length, wordPronunciationIconRef.current?.play])
+  }, [pronunciationTiming, state.isTyping, wordState.inputWord.length, wordPronunciationIconRef.current?.play])
 
   const getLetterVisible = useCallback(
     (index: number) => {
@@ -193,6 +197,7 @@ export default function WordComponent({ word, onFinish }: { word: Word; onFinish
           state.endTime = getUtcStringForMixpanel()
         })
         playHintSound()
+        if (pronunciationIsOpen && pronunciationTiming !== 'appear') playWordSoundOnce(word, currentLanguage)
       } else {
         setWordState((state) => {
           state.letterStates[inputLength - 1] = 'correct'
@@ -204,6 +209,7 @@ export default function WordComponent({ word, onFinish }: { word: Word; onFinish
     } else {
       // Wrong input
       playBeepSound()
+      if (pronunciationIsOpen && pronunciationTiming === 'afterTyping') playWordSoundOnce(word, currentLanguage)
       // Build the new mistakes outside the updater: updaters run during render (and twice in StrictMode), so
       // dispatching to the parent from inside one updates App while WordComponent renders.
       const letterMistake = {
