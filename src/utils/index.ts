@@ -1,4 +1,5 @@
 import { CHAPTER_LENGTH } from '@/constants'
+import type { LanguageType } from '@/typings'
 import type { Howl } from 'howler'
 
 export * from './mixpanel'
@@ -39,6 +40,18 @@ const bannedKeys = [
 export const isLegal = (key: string): boolean => {
   if (bannedKeys.includes(key)) return false
   return true
+}
+
+// Letters that may be typed without their diacritic, so learners without a local keyboard layout can still practise.
+const LENIENT_LETTERS: Partial<Record<LanguageType, Record<string, string>>> = {
+  fi: { ä: 'a', ö: 'o', å: 'a', Ä: 'A', Ö: 'O', Å: 'A' },
+}
+
+export const isCharMatch = (input: string, correct: string, ignoreCase: boolean, language: LanguageType): boolean => {
+  const fold = (c: string) => (ignoreCase ? c.toLowerCase() : c)
+  if (fold(input) === fold(correct)) return true
+  const plain = LENIENT_LETTERS[language]?.[correct]
+  return plain !== undefined && fold(input) === fold(plain)
 }
 
 export const isChineseSymbol = (val: string): boolean =>

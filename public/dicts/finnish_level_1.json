@@ -1,0 +1,3226 @@
+[
+  {
+    "name": "olla",
+    "trans": [
+      "v. to be; to be, constitute, make up, form; to have; to own, to possess"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/8b/Fi-olla.ogg/Fi-olla.ogg.mp3"
+  },
+  {
+    "name": "ei",
+    "trans": [
+      "v. The negative verb or negation verb; not, be not, do not, etc",
+      "int. no"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/8d/Fi-ei.ogg/Fi-ei.ogg.mp3"
+  },
+  {
+    "name": "se",
+    "trans": [
+      "pron. that; it; the one",
+      "det. that; the"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/cd/LL-Q1412_%28fin%29-Nurtsio-se.wav/LL-Q1412_%28fin%29-Nurtsio-se.wav.mp3"
+  },
+  {
+    "name": "hän",
+    "trans": [
+      "pron. he, she, one, they sg; he, she, one, they, it"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/07/Fi-h%C3%A4n.ogg/Fi-h%C3%A4n.ogg.mp3"
+  },
+  {
+    "name": "ja",
+    "trans": [
+      "conj. and",
+      "n. AND"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/61/Fi-ja.ogg/Fi-ja.ogg.mp3"
+  },
+  {
+    "name": "minä",
+    "trans": [
+      "pron. I (first-person singular personal pronoun)",
+      "n. ego; self"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/92/Fi-min%C3%A4.ogg/Fi-min%C3%A4.ogg.mp3"
+  },
+  {
+    "name": "mikä",
+    "trans": [
+      "pron. what, which; which, that, what",
+      "det. what, which"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/44/LL-Q1412_%28fin%29-Seqv-mik%C3%A4.wav/LL-Q1412_%28fin%29-Seqv-mik%C3%A4.wav.mp3"
+  },
+  {
+    "name": "sinä",
+    "trans": [
+      "pron. you, thou"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/ea/Fi-sin%C3%A4.ogg/Fi-sin%C3%A4.ogg.mp3"
+  },
+  {
+    "name": "että",
+    "trans": [
+      "conj. that; because; in order to, to, so that, that"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d4/Fi-ett%C3%A4.ogg/Fi-ett%C3%A4.ogg.mp3"
+  },
+  {
+    "name": "tämä",
+    "trans": [
+      "pron. this; he, she, they",
+      "det. this"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/cd/LL-Q1412_%28fin%29-Seqv-t%C3%A4m%C3%A4.wav/LL-Q1412_%28fin%29-Seqv-t%C3%A4m%C3%A4.wav.mp3"
+  },
+  {
+    "name": "tietää",
+    "trans": [
+      "v. to know, be aware of; to mean, spell, signify, presage, bode"
+    ]
+  },
+  {
+    "name": "niin",
+    "trans": [
+      "adv. like that, in that way, so; so, to this or that extent; that; so, then, in that case",
+      "conj. then; used to introduce the main clause after an auxiliary clause"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/73/LL-Q1412_%28fin%29-Seqv-niin.wav/LL-Q1412_%28fin%29-Seqv-niin.wav.mp3"
+  },
+  {
+    "name": "mutta",
+    "trans": [
+      "conj. but",
+      "n. ifs, ands, or buts"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/1c/LL-Q1412_%28fin%29-Seqv-mutta.wav/LL-Q1412_%28fin%29-Seqv-mutta.wav.mp3"
+  },
+  {
+    "name": "hyvä",
+    "trans": [
+      "adj. good; in good health; dear"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e1/Fi-hyv%C3%A4.ogg/Fi-hyv%C3%A4.ogg.mp3"
+  },
+  {
+    "name": "haluta",
+    "trans": [
+      "v. to want, desire, wish, crave"
+    ]
+  },
+  {
+    "name": "me",
+    "trans": [
+      "pron. we"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/2/2f/LL-Q1412_%28fin%29-Nurtsio-me.wav/LL-Q1412_%28fin%29-Nurtsio-me.wav.mp3"
+  },
+  {
+    "name": "saada",
+    "trans": [
+      "v. to get, receive; to get as one's task or responsibility to, be assigned to do"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c1/Fi-saada.ogg/Fi-saada.ogg.mp3"
+  },
+  {
+    "name": "tehdä",
+    "trans": [
+      "v. to do, perform, execute, carry out; to make, manufacture; to make, render, turn"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/09/LL-Q1412_%28fin%29-Seqv-tehd%C3%A4.wav/LL-Q1412_%28fin%29-Seqv-tehd%C3%A4.wav.mp3"
+  },
+  {
+    "name": "pitää",
+    "trans": [
+      "v. to hold, grasp, grip; to hold; to hold, to be in possession"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/5c/LL-Q1412_%28fin%29-Seqv-pit%C3%A4%C3%A4.wav/LL-Q1412_%28fin%29-Seqv-pit%C3%A4%C3%A4.wav.mp3"
+  },
+  {
+    "name": "voida",
+    "trans": [
+      "v. can, to be able to, to be capable; can, may, might, to be possible; could"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/41/Fi-voida.ogg/Fi-voida.ogg.mp3"
+  },
+  {
+    "name": "vain",
+    "trans": [
+      "adv. only, merely, exclusively, solely, just; ever"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/4a/LL-Q1412_%28fin%29-Seqv-vain.wav/LL-Q1412_%28fin%29-Seqv-vain.wav.mp3"
+  },
+  {
+    "name": "tulla",
+    "trans": [
+      "v. to come; to become, get, go, turn; to come into, get"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/59/Fi-tulla.ogg/Fi-tulla.ogg.mp3"
+  },
+  {
+    "name": "he",
+    "trans": [
+      "pron. they; he, she, one, they",
+      "n. he"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/8c/Fi-he.ogg/Fi-he.ogg.mp3"
+  },
+  {
+    "name": "mitä",
+    "trans": [
+      "adv. the; most, very",
+      "int. what?; what's up, how's it going"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/0c/LL-Q1412_%28fin%29-Seqv-mit%C3%A4.wav/LL-Q1412_%28fin%29-Seqv-mit%C3%A4.wav.mp3"
+  },
+  {
+    "name": "kaikki",
+    "trans": [
+      "pron. everything; everyone, everybody; all-, omni-",
+      "det. all"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/5c/LL-Q1412_%28fin%29-Seqv-kaikki.wav/LL-Q1412_%28fin%29-Seqv-kaikki.wav.mp3"
+  },
+  {
+    "name": "mennä",
+    "trans": [
+      "v. to go; to go, extend; to go, lead"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/89/Fi-menn%C3%A4.ogg/Fi-menn%C3%A4.ogg.mp3"
+  },
+  {
+    "name": "jos",
+    "trans": [
+      "conj. if"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/65/LL-Q1412_%28fin%29-Seqv-jos.wav/LL-Q1412_%28fin%29-Seqv-jos.wav.mp3"
+  },
+  {
+    "name": "nyt",
+    "trans": [
+      "adv. now; Used when understating, belittling, etc"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a9/LL-Q1412_%28fin%29-Seqv-nyt.wav/LL-Q1412_%28fin%29-Seqv-nyt.wav.mp3"
+  },
+  {
+    "name": "kun",
+    "trans": [
+      "conj. when, as, while"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/9e/LL-Q1412_%28fin%29-Seqv-kun.wav/LL-Q1412_%28fin%29-Seqv-kun.wav.mp3"
+  },
+  {
+    "name": "joka",
+    "trans": [
+      "pron. who, which, that",
+      "det. every, each"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/93/LL-Q1412_%28fin%29-Seqv-joka.wav/LL-Q1412_%28fin%29-Seqv-joka.wav.mp3"
+  },
+  {
+    "name": "sanoa",
+    "trans": [
+      "v. to say, tell; to call, name, dub; go by"
+    ]
+  },
+  {
+    "name": "voi",
+    "trans": [
+      "n. butter",
+      "int. oh, bloody, damn, too; poor"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b0/LL-Q1412_%28fin%29-Seqv-voi.wav/LL-Q1412_%28fin%29-Seqv-voi.wav.mp3"
+  },
+  {
+    "name": "nähdä",
+    "trans": [
+      "v. to see; can see; to see, meet"
+    ]
+  },
+  {
+    "name": "täällä",
+    "trans": [
+      "adv. here, over here"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/77/LL-Q1412_%28fin%29-Nurtsio-t%C3%A4%C3%A4ll%C3%A4.wav/LL-Q1412_%28fin%29-Nurtsio-t%C3%A4%C3%A4ll%C3%A4.wav.mp3"
+  },
+  {
+    "name": "antaa",
+    "trans": [
+      "v. to give; to give, allow, afford, grant; to let, allow, permit"
+    ]
+  },
+  {
+    "name": "mikään",
+    "trans": [
+      "pron. anything, any; nothing, no; anywhere; nowhere"
+    ]
+  },
+  {
+    "name": "jokin",
+    "trans": [
+      "pron. something; somewhere",
+      "det. some, one, a"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/35/LL-Q1412_%28fin%29-Susannaanas-jokin.wav/LL-Q1412_%28fin%29-Susannaanas-jokin.wav.mp3"
+  },
+  {
+    "name": "kanssa",
+    "trans": [
+      "postp. with"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/2/2a/LL-Q1412_%28fin%29-Seqv-kanssa.wav/LL-Q1412_%28fin%29-Seqv-kanssa.wav.mp3"
+  },
+  {
+    "name": "sitten",
+    "trans": [
+      "adv. then; when,ever; then, in that case",
+      "postp. ago"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b8/LL-Q1412_%28fin%29-Seqv-sitten.wav/LL-Q1412_%28fin%29-Seqv-sitten.wav.mp3"
+  },
+  {
+    "name": "te",
+    "trans": [
+      "pron. you"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/43/LL-Q1412_%28fin%29-Nurtsio-te.wav/LL-Q1412_%28fin%29-Nurtsio-te.wav.mp3"
+  },
+  {
+    "name": "miten",
+    "trans": [
+      "adv. how"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/5b/LL-Q1412_%28fin%29-Seqv-miten.wav/LL-Q1412_%28fin%29-Seqv-miten.wav.mp3"
+  },
+  {
+    "name": "kyllä",
+    "trans": [
+      "adv. an intensifier; corresponds to the English auxiliary do in many cases",
+      "int. yes"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/2/28/Fi-kyll%C3%A4.ogg/Fi-kyll%C3%A4.ogg.mp3"
+  },
+  {
+    "name": "kiitos",
+    "trans": [
+      "int. thank you, thanks; please; Used to politely answer a yes-no question",
+      "prep. thanks to"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/2/2b/Fi-kiitos.ogg/Fi-kiitos.ogg.mp3"
+  },
+  {
+    "name": "yksi",
+    "trans": [
+      "num. one",
+      "det. one; a/an, some"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c7/LL-Q1412_%28fin%29-Seqv-yksi.wav/LL-Q1412_%28fin%29-Seqv-yksi.wav.mp3"
+  },
+  {
+    "name": "aika",
+    "trans": [
+      "n. time; time, period; time, moment",
+      "adj. quite, pretty; synonym of aimo"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/ae/Fi-aika.ogg/Fi-aika.ogg.mp3"
+  },
+  {
+    "name": "hei",
+    "trans": [
+      "int. hi; hey; bye"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/57/Fi-hei.ogg/Fi-hei.ogg.mp3"
+  },
+  {
+    "name": "puhua",
+    "trans": [
+      "v. to speak, talk; to speak; synonym of puhaltaa"
+    ]
+  },
+  {
+    "name": "mies",
+    "trans": [
+      "n. man; husband"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/86/Fi-mies.ogg/Fi-mies.ogg.mp3"
+  },
+  {
+    "name": "asia",
+    "trans": [
+      "n. matter, issue, affair, concern, business, subject, case, thing; case, court case; thing, object"
+    ]
+  },
+  {
+    "name": "kertoa",
+    "trans": [
+      "v. to tell; to have it; to be about, tell of"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/db/Fi-kertoa.ogg/Fi-kertoa.ogg.mp3"
+  },
+  {
+    "name": "tarvita",
+    "trans": [
+      "v. to need, require; to come in handy; to need to, have to"
+    ]
+  },
+  {
+    "name": "kuu",
+    "trans": [
+      "n. the moon; moon, satellite; month",
+      "num. six"
+    ]
+  },
+  {
+    "name": "tuo",
+    "trans": [
+      "pron. that",
+      "det. that"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/63/Fi-tuo.ogg/Fi-tuo.ogg.mp3"
+  },
+  {
+    "name": "tai",
+    "trans": [
+      "conj. or",
+      "n. OR"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/04/LL-Q1412_%28fin%29-Seqv-tai.wav/LL-Q1412_%28fin%29-Seqv-tai.wav.mp3"
+  },
+  {
+    "name": "sitä",
+    "trans": [
+      "pron. the; General intensifier"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c4/LL-Q1412_%28fin%29-Seqv-sit%C3%A4.wav/LL-Q1412_%28fin%29-Seqv-sit%C3%A4.wav.mp3"
+  },
+  {
+    "name": "ottaa",
+    "trans": [
+      "v. to take; to take, ingest or drink; to deprive of, bereave of"
+    ]
+  },
+  {
+    "name": "isä",
+    "trans": [
+      "n. father; father, forefather, forebear, ancestor"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/0d/Fi-is%C3%A4.ogg/Fi-is%C3%A4.ogg.mp3"
+  },
+  {
+    "name": "tee",
+    "trans": [
+      "n. tea; tea, cup of tea; The name of the Latin script letter T/t"
+    ]
+  },
+  {
+    "name": "kuka",
+    "trans": [
+      "pron. who"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/6a/Fi-kuka.ogg/Fi-kuka.ogg.mp3"
+  },
+  {
+    "name": "kuin",
+    "trans": [
+      "conj. as if",
+      "part. as, like; as; than"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/2/2e/LL-Q1412_%28fin%29-Seqv-kuin.wav/LL-Q1412_%28fin%29-Seqv-kuin.wav.mp3"
+  },
+  {
+    "name": "miksi",
+    "trans": [
+      "adv. why"
+    ]
+  },
+  {
+    "name": "ehkä",
+    "trans": [
+      "adv. perhaps, maybe"
+    ]
+  },
+  {
+    "name": "lähteä",
+    "trans": [
+      "v. to leave, go, go away, set off, take off, depart, embark, sail; to originate, begin"
+    ]
+  },
+  {
+    "name": "vielä",
+    "trans": [
+      "adv. yet; yet, even; still"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/17/LL-Q1412_%28fin%29-Seqv-viel%C3%A4.wav/LL-Q1412_%28fin%29-Seqv-viel%C3%A4.wav.mp3"
+  },
+  {
+    "name": "luulla",
+    "trans": [
+      "v. to believe, think, suppose, guess; to mistake, take"
+    ]
+  },
+  {
+    "name": "jo",
+    "trans": [
+      "adv. already; now, already"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/f8/LL-Q1412_%28fin%29-Seqv-jo.wav/LL-Q1412_%28fin%29-Seqv-jo.wav.mp3"
+  },
+  {
+    "name": "et",
+    "trans": [
+      "conj. and"
+    ]
+  },
+  {
+    "name": "muu",
+    "trans": [
+      "pron. other, another; the others; else",
+      "det. other, another"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/ba/Fi-muu.ogg/Fi-muu.ogg.mp3"
+  },
+  {
+    "name": "katsoa",
+    "trans": [
+      "v. to look, have a look, take a look; to watch; to choose, look for"
+    ]
+  },
+  {
+    "name": "äiti",
+    "trans": [
+      "n. mother"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/41/Fi-%C3%A4iti.ogg/Fi-%C3%A4iti.ogg.mp3"
+  },
+  {
+    "name": "yrittää",
+    "trans": [
+      "v. to try, attempt, endeavour/endeavor; to run an enterprise, be an entrepreneur"
+    ]
+  },
+  {
+    "name": "anteeksi",
+    "trans": [
+      "int. sorry, I'm sorry; excuse me, excuse us; pardon, please repeat"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/39/Fi-anteeksi.ogg/Fi-anteeksi.ogg.mp3"
+  },
+  {
+    "name": "eikä",
+    "trans": [
+      "v. nor"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/69/LL-Q1412_%28fin%29-Seqv-eik%C3%A4.wav/LL-Q1412_%28fin%29-Seqv-eik%C3%A4.wav.mp3"
+  },
+  {
+    "name": "tuoda",
+    "trans": [
+      "v. to bring, fetch, get; to bring; to bring, lead, guide"
+    ]
+  },
+  {
+    "name": "joku",
+    "trans": [
+      "pron. someone, somebody; something",
+      "det. one, a, any, some; some, around, approximately"
+    ]
+  },
+  {
+    "name": "koska",
+    "trans": [
+      "conj. because, since",
+      "adv. synonym of milloin"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/40/LL-Q1412_%28fin%29-Seqv-koska.wav/LL-Q1412_%28fin%29-Seqv-koska.wav.mp3"
+  },
+  {
+    "name": "ihminen",
+    "trans": [
+      "n. human, human being; man, Homo sapiens; synonym of henkilö"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/2/2d/Fi-ihminen.ogg/Fi-ihminen.ogg.mp3"
+  },
+  {
+    "name": "tänne",
+    "trans": [
+      "adv. here, hither"
+    ]
+  },
+  {
+    "name": "näyttää",
+    "trans": [
+      "v. to show, present, display; to show, demonstrate, indicate; to look, appear, seem"
+    ]
+  },
+  {
+    "name": "selvä",
+    "trans": [
+      "adj. clear; clear, plain, lucid; clear, unmistakable, obvious, evident",
+      "int. all right, OK; roger!"
+    ]
+  },
+  {
+    "name": "tapahtua",
+    "trans": [
+      "v. to happen, take place, occur, come about, come up; to happen; to happen, be going on"
+    ]
+  },
+  {
+    "name": "tosi",
+    "trans": [
+      "adj. true; real, serious, real-life",
+      "adv. really, very"
+    ]
+  },
+  {
+    "name": "poika",
+    "trans": [
+      "n. boy; son; young"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/4b/Fi-poika.ogg/Fi-poika.ogg.mp3"
+  },
+  {
+    "name": "auttaa",
+    "trans": [
+      "v. to help, assist, give assistance, lend a hand, aid; to help; one better do"
+    ]
+  },
+  {
+    "name": "herra",
+    "trans": [
+      "n. Mister; sir; gentleman"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/2/27/Fi-herra.ogg/Fi-herra.ogg.mp3"
+  },
+  {
+    "name": "ennen",
+    "trans": [
+      "prep. before, prior to",
+      "postp. before, prior to"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/79/LL-Q1412_%28fin%29-Seqv-ennen.wav/LL-Q1412_%28fin%29-Seqv-ennen.wav.mp3"
+  },
+  {
+    "name": "täytyä",
+    "trans": [
+      "v. must, have to"
+    ]
+  },
+  {
+    "name": "kuulla",
+    "trans": [
+      "v. to hear; to hear of; to listen to"
+    ]
+  },
+  {
+    "name": "työ",
+    "trans": [
+      "n. work, toil, effort, labour; work; work, labour"
+    ]
+  },
+  {
+    "name": "kaksi",
+    "trans": [
+      "num. two"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/56/LL-Q1412_%28fin%29-Seqv-kaksi.wav/LL-Q1412_%28fin%29-Seqv-kaksi.wav.mp3"
+  },
+  {
+    "name": "löytää",
+    "trans": [
+      "v. to find; to discover; to come across; to find one's way, be able to reach, get to"
+    ]
+  },
+  {
+    "name": "siellä",
+    "trans": [
+      "adv. there"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/8d/LL-Q1412_%28fin%29-Nurtsio-siell%C3%A4.wav/LL-Q1412_%28fin%29-Nurtsio-siell%C3%A4.wav.mp3"
+  },
+  {
+    "name": "odottaa",
+    "trans": [
+      "v. to wait, await, expect, anticipate; to expect, to anticipate; to be expecting, be pregnant"
+    ]
+  },
+  {
+    "name": "toinen",
+    "trans": [
+      "adj. second",
+      "pron. other, another; one ... the other; the others, other ones"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/de/LL-Q1412_%28fin%29-Susannaanas-toinen.wav/LL-Q1412_%28fin%29-Susannaanas-toinen.wav.mp3"
+  },
+  {
+    "name": "viedä",
+    "trans": [
+      "v. to take away, take, bring away; to take, lead, carry, bring; to lead, take"
+    ]
+  },
+  {
+    "name": "tappaa",
+    "trans": [
+      "v. to kill, slay"
+    ]
+  },
+  {
+    "name": "käydä",
+    "trans": [
+      "v. to visit, go to, attend; to go do; to attend, go to, be in"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b4/Fi-k%C3%A4yd%C3%A4.ogg/Fi-k%C3%A4yd%C3%A4.ogg.mp3"
+  },
+  {
+    "name": "pois",
+    "trans": [
+      "adv. away, off; minus, take away; just"
+    ]
+  },
+  {
+    "name": "älä",
+    "trans": [
+      "int. don't!, stop!; wow, really?; tell me about it! I know, right?"
+    ]
+  },
+  {
+    "name": "päästä",
+    "trans": [
+      "v. to get to, reach, arrive at/in; to get, be accessible; to get to go, be allowed/permitted to go",
+      "postp. in, after, a from; away"
+    ]
+  },
+  {
+    "name": "oikea",
+    "trans": [
+      "adj. right; right, correct; right, appropriate, proper, fitting"
+    ]
+  },
+  {
+    "name": "päivä",
+    "trans": [
+      "n. day; event, occasion, symposium, forum, fair, etc"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b0/Fi-p%C3%A4iv%C3%A4.ogg/Fi-p%C3%A4iv%C3%A4.ogg.mp3"
+  },
+  {
+    "name": "kuolla",
+    "trans": [
+      "v. to die; to die, perish, fade out or wither away to nothingness"
+    ]
+  },
+  {
+    "name": "enää",
+    "trans": [
+      "adv. any more, any longer; only, merely, just, solely"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/03/LL-Q1412_%28fin%29-Seqv-en%C3%A4%C3%A4.wav/LL-Q1412_%28fin%29-Seqv-en%C3%A4%C3%A4.wav.mp3"
+  },
+  {
+    "name": "sama",
+    "trans": [
+      "det. same"
+    ]
+  },
+  {
+    "name": "tarkoittaa",
+    "trans": [
+      "v. to mean, intend; to mean; to mean, signify, refer to"
+    ]
+  },
+  {
+    "name": "ymmärtää",
+    "trans": [
+      "v. to understand; to identify with, relate to, understand"
+    ]
+  },
+  {
+    "name": "tuntea",
+    "trans": [
+      "v. to feel, sense; to sense; to feel"
+    ]
+  },
+  {
+    "name": "lapsi",
+    "trans": [
+      "n. child"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c3/Fi-lapsi.ogg/Fi-lapsi.ogg.mp3"
+  },
+  {
+    "name": "koko",
+    "trans": [
+      "adj. whole, entire; synonym of aika",
+      "n. size, dimensions; heap, pile"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/12/LL-Q1412_%28fin%29-Seqv-koko.wav/LL-Q1412_%28fin%29-Seqv-koko.wav.mp3"
+  },
+  {
+    "name": "kuinka",
+    "trans": [
+      "adv. how"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/02/LL-Q1412_%28fin%29-Seqv-kuinka.wav/LL-Q1412_%28fin%29-Seqv-kuinka.wav.mp3"
+  },
+  {
+    "name": "vai",
+    "trans": [
+      "conj. or",
+      "adv. is that so? or what?"
+    ]
+  },
+  {
+    "name": "alkaa",
+    "trans": [
+      "v. to begin, start, initiate, set in, be initiated, originate, be originated, take its origin"
+    ]
+  },
+  {
+    "name": "soittaa",
+    "trans": [
+      "v. to play; to phone, call; to ring, toll"
+    ]
+  },
+  {
+    "name": "tie",
+    "trans": [
+      "n. way, road, path, route; road; road, way, route"
+    ]
+  },
+  {
+    "name": "ajatella",
+    "trans": [
+      "v. to think; to think, have an opinion of, reckon; to plan, intend",
+      "int. to think. An expression of confusion, surprise or thoughtfulness"
+    ]
+  },
+  {
+    "name": "nimi",
+    "trans": [
+      "n. name"
+    ]
+  },
+  {
+    "name": "itsensä",
+    "trans": [
+      "pron. The reflexive pronoun, oneself; himself, herself; themselves; itself"
+    ]
+  },
+  {
+    "name": "vuosi",
+    "trans": [
+      "n. year"
+    ]
+  },
+  {
+    "name": "koskaan",
+    "trans": [
+      "adv. ever; never"
+    ]
+  },
+  {
+    "name": "mukaan",
+    "trans": [
+      "adv. along, with one, on",
+      "postp. along with; according to, by, in someone's opinion; as to, by, according to"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d5/LL-Q1412_%28fin%29-Seqv-mukaan.wav/LL-Q1412_%28fin%29-Seqv-mukaan.wav.mp3"
+  },
+  {
+    "name": "tyttö",
+    "trans": [
+      "n. girl; synonym of tytär; girl, lass"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/44/Fi-tytt%C3%B6.ogg/Fi-tytt%C3%B6.ogg.mp3"
+  },
+  {
+    "name": "ihan",
+    "trans": [
+      "adv. very, rather, quite; exactly, precisely, just; completely, totally"
+    ]
+  },
+  {
+    "name": "kai",
+    "trans": [
+      "adv. probably, I guess; Used to indicate derision or disbelief; Used as a fortifier, or to confirm"
+    ]
+  },
+  {
+    "name": "häntä",
+    "trans": [
+      "n. a narrow tail; ogonek"
+    ]
+  },
+  {
+    "name": "pää",
+    "trans": [
+      "n. head; end, tip; mood"
+    ]
+  },
+  {
+    "name": "tässä",
+    "trans": [
+      "adv. here",
+      "int. here you are"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/94/LL-Q1412_%28fin%29-Seqv-t%C3%A4ss%C3%A4.wav/LL-Q1412_%28fin%29-Seqv-t%C3%A4ss%C3%A4.wav.mp3"
+  },
+  {
+    "name": "raha",
+    "trans": [
+      "n. money; cash, piece of currency, money; money, wealth"
+    ]
+  },
+  {
+    "name": "tavata",
+    "trans": [
+      "v. to meet; to meet up; to encounter"
+    ]
+  },
+  {
+    "name": "uskoa",
+    "trans": [
+      "v. to believe, have faith; to believe, trust; to believe"
+    ]
+  },
+  {
+    "name": "joten",
+    "trans": [
+      "adv. so, therefore, hence, whereupon, thus"
+    ]
+  },
+  {
+    "name": "aivan",
+    "trans": [
+      "adv. very, rather, quite; exactly, precisely, just; completely, totally",
+      "int. indeed!"
+    ]
+  },
+  {
+    "name": "aikoa",
+    "trans": [
+      "v. to plan to do, intend to do, aim to do; to be going to do, will do"
+    ]
+  },
+  {
+    "name": "uusi",
+    "trans": [
+      "adj. new"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/77/Fi-uusi.ogg/Fi-uusi.ogg.mp3"
+  },
+  {
+    "name": "no",
+    "trans": [
+      "int. well!; well?"
+    ]
+  },
+  {
+    "name": "siis",
+    "trans": [
+      "adv. therefore, so, thus; I mean, so; as in, in the sense of"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/fb/LL-Q1412_%28fin%29-Seqv-siis.wav/LL-Q1412_%28fin%29-Seqv-siis.wav.mp3"
+  },
+  {
+    "name": "taitaa",
+    "trans": [
+      "v. to probably do, think that one does"
+    ]
+  },
+  {
+    "name": "auto",
+    "trans": [
+      "n. car, automobile"
+    ]
+  },
+  {
+    "name": "elämä",
+    "trans": [
+      "n. life; life, lifetime"
+    ]
+  },
+  {
+    "name": "entä",
+    "trans": [
+      "conj. what about"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/2/20/Fi-ent%C3%A4.ogg/Fi-ent%C3%A4.ogg.mp3"
+  },
+  {
+    "name": "itse",
+    "trans": [
+      "pron. oneself, itself; self-, auto-; ego-, self-",
+      "n. self, ego"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/9e/LL-Q1412_%28fin%29-Seqv-itse.wav/LL-Q1412_%28fin%29-Seqv-itse.wav.mp3"
+  },
+  {
+    "name": "rakastaa",
+    "trans": [
+      "v. to love"
+    ]
+  },
+  {
+    "name": "missä",
+    "trans": [
+      "adv. where"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b4/LL-Q1412_%28fin%29-Susannaanas-miss%C3%A4.wav/LL-Q1412_%28fin%29-Susannaanas-miss%C3%A4.wav.mp3"
+  },
+  {
+    "name": "paikka",
+    "trans": [
+      "n. place, location, spot, site; area, region, locality, neighbourhood/neighborhood; space, room",
+      "int. stay!"
+    ]
+  },
+  {
+    "name": "ystävä",
+    "trans": [
+      "n. friend; -phile, admirer, enthusiast"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/2/2d/Fi-yst%C3%A4v%C3%A4.ogg/Fi-yst%C3%A4v%C3%A4.ogg.mp3"
+  },
+  {
+    "name": "nainen",
+    "trans": [
+      "n. woman; lady"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/85/Fi-nainen.ogg/Fi-nainen.ogg.mp3"
+  },
+  {
+    "name": "kuten",
+    "trans": [
+      "adv. as, like; such as, like, for example",
+      "conj. as well as"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/58/LL-Q1412_%28fin%29-Seqv-kuten.wav/LL-Q1412_%28fin%29-Seqv-kuten.wav.mp3"
+  },
+  {
+    "name": "tuli",
+    "trans": [
+      "n. fire; synonym of nuotio; fire, gunfire"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/5f/LL-Q1412_%28fin%29-Seqv-tuli.wav/LL-Q1412_%28fin%29-Seqv-tuli.wav.mp3"
+  },
+  {
+    "name": "oma",
+    "trans": [
+      "adj. own; friendly",
+      "n. friendly"
+    ]
+  },
+  {
+    "name": "hieno",
+    "trans": [
+      "adj. fine; good-looking, fine; fine; select; elegant, fancy, posh"
+    ]
+  },
+  {
+    "name": "siittää",
+    "trans": [
+      "v. to impregnate, inseminate, breed, conceive; to cause, breed, seed"
+    ]
+  },
+  {
+    "name": "siitä",
+    "trans": [
+      "adv. from there, thence",
+      "v. to be conceived; to procreate; to stem, originate"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/8e/LL-Q1412_%28fin%29-Seqv-siit%C3%A4.wav/LL-Q1412_%28fin%29-Seqv-siit%C3%A4.wav.mp3"
+  },
+  {
+    "name": "valmis",
+    "trans": [
+      "adj. completed, finished, done; ready, prepared; ready, poised, set up"
+    ]
+  },
+  {
+    "name": "pyytää",
+    "trans": [
+      "v. to ask, request; to invite; to strive after, seek"
+    ]
+  },
+  {
+    "name": "juttu",
+    "trans": [
+      "n. tale, anecdote; story; item"
+    ]
+  },
+  {
+    "name": "edes",
+    "trans": [
+      "adv. even; at least; anyway"
+    ]
+  },
+  {
+    "name": "hyvin",
+    "trans": [
+      "adv. well; very, well"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/8f/Fi-hyvin.ogg/Fi-hyvin.ogg.mp3"
+  },
+  {
+    "name": "muistaa",
+    "trans": [
+      "v. to remember, recall, recollect; to remember, not forget; to remember"
+    ]
+  },
+  {
+    "name": "kolme",
+    "trans": [
+      "num. three"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e5/LL-Q1412_%28fin%29-Seqv-kolme.wav/LL-Q1412_%28fin%29-Seqv-kolme.wav.mp3"
+  },
+  {
+    "name": "kukaan",
+    "trans": [
+      "pron. anybody, anyone; no-one, none, nobody"
+    ]
+  },
+  {
+    "name": "käyttää",
+    "trans": [
+      "v. to use, make use of‚ employ, apply, utilize, exploit, take advantage of, exert, exercise; to wear"
+    ]
+  },
+  {
+    "name": "varma",
+    "trans": [
+      "adj. sure, certain; sure, confident"
+    ]
+  },
+  {
+    "name": "puoli",
+    "trans": [
+      "adj. half; mid-; half an hour before, 30 minutes before",
+      "n. half; A time that is 30 minutes before any hour; half past, the bottom of the hour; side"
+    ]
+  },
+  {
+    "name": "myös",
+    "trans": [
+      "adv. also, too, likewise, as well"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/82/LL-Q1412_%28fin%29-Seqv-my%C3%B6s.wav/LL-Q1412_%28fin%29-Seqv-my%C3%B6s.wav.mp3"
+  },
+  {
+    "name": "vuo",
+    "trans": [
+      "n. stream, river; flow, current; flow"
+    ]
+  },
+  {
+    "name": "lopettaa",
+    "trans": [
+      "v. to stop, end, finish, quit; to call it a day; to complete, finish"
+    ]
+  },
+  {
+    "name": "muuttaa",
+    "trans": [
+      "v. to modify, change, alter, amend; to transform, transmute, convert, change, transubstantiate, turn"
+    ]
+  },
+  {
+    "name": "kysyä",
+    "trans": [
+      "v. to ask, inquire/enquire; to take, require, necessitate, call for"
+    ]
+  },
+  {
+    "name": "paljon",
+    "trans": [
+      "adv. a lot, plenty, much; late"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/fd/LL-Q1412_%28fin%29-Seqv-paljon.wav/LL-Q1412_%28fin%29-Seqv-paljon.wav.mp3"
+  },
+  {
+    "name": "jättää",
+    "trans": [
+      "v. to leave, leave behind; to leave, spare, save; to leave"
+    ]
+  },
+  {
+    "name": "ulos",
+    "trans": [
+      "adv. out, outside; outdoors"
+    ]
+  },
+  {
+    "name": "etsiä",
+    "trans": [
+      "v. to look for, seek, search; to find, figure out"
+    ]
+  },
+  {
+    "name": "mieli",
+    "trans": [
+      "n. mind, reason; mind; mood"
+    ]
+  },
+  {
+    "name": "taas",
+    "trans": [
+      "adv. again, another time, once again; on the other hand, for one"
+    ]
+  },
+  {
+    "name": "hetki",
+    "trans": [
+      "n. moment, instant; moment, minute, while; hour"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/9c/Fi-hetki.ogg/Fi-hetki.ogg.mp3"
+  },
+  {
+    "name": "vaikka",
+    "trans": [
+      "conj. although, though, even though; even if; not that",
+      "adv. for instance, for example; how about, what about; emphasizes the openness of a set or group"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c3/LL-Q1412_%28fin%29-Seqv-vaikka.wav/LL-Q1412_%28fin%29-Seqv-vaikka.wav.mp3"
+  },
+  {
+    "name": "paljo",
+    "trans": [
+      "adj. much, plenty, voluminous"
+    ]
+  },
+  {
+    "name": "sellainen",
+    "trans": [
+      "adj. such, that kind of, like that"
+    ]
+  },
+  {
+    "name": "pahoillaan",
+    "trans": [
+      "adv. sorry; upset, sad; sorry"
+    ]
+  },
+  {
+    "name": "tänään",
+    "trans": [
+      "adv. today"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/37/LL-Q1412_%28fin%29-Seqv-t%C3%A4n%C3%A4%C3%A4n.wav/LL-Q1412_%28fin%29-Seqv-t%C3%A4n%C3%A4%C3%A4n.wav.mp3"
+  },
+  {
+    "name": "halu",
+    "trans": [
+      "n. desire, wish, want; urge, itch"
+    ]
+  },
+  {
+    "name": "niittää",
+    "trans": [
+      "v. to mow, mow down, cut, cut down, scythe, reap; to reap"
+    ]
+  },
+  {
+    "name": "helvetti",
+    "trans": [
+      "n. hell",
+      "int. damn"
+    ]
+  },
+  {
+    "name": "vanha",
+    "trans": [
+      "adj. old; old, former; expired"
+    ]
+  },
+  {
+    "name": "kiinni",
+    "trans": [
+      "adv. closed, shut; attached, connected, fastened; in contact; very near, right next to",
+      "postp. due to, down to, depending on; up to"
+    ]
+  },
+  {
+    "name": "todella",
+    "trans": [
+      "adv. really, for real, truly; very, really"
+    ]
+  },
+  {
+    "name": "hoitaa",
+    "trans": [
+      "v. to nurse, care for, take care of, look after; to nurse, heal, cure; to treat, care for"
+    ]
+  },
+  {
+    "name": "aa",
+    "trans": [
+      "n. The name of the Latin script letter A/a, called ay in English",
+      "int. oh, ah"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/01/Fi-aa.ogg/Fi-aa.ogg.mp3"
+  },
+  {
+    "name": "käsi",
+    "trans": [
+      "n. hand, arm; an upper limb of a human or certain animals; hand"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/ea/Fi-k%C3%A4si.ogg/Fi-k%C3%A4si.ogg.mp3"
+  },
+  {
+    "name": "sana",
+    "trans": [
+      "n. word; word; say; Word, Scripture"
+    ]
+  },
+  {
+    "name": "aina",
+    "trans": [
+      "adv. always; all the way to, until; more and more, ever more",
+      "n. the string in the upper or lower edge of a fishing net or seine; line in a gillnet"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/0f/LL-Q1412_%28fin%29-Seqv-aina.wav/LL-Q1412_%28fin%29-Seqv-aina.wav.mp3"
+  },
+  {
+    "name": "pysyä",
+    "trans": [
+      "v. to stay, remain; to hold, not come/fall off/out"
+    ]
+  },
+  {
+    "name": "kerta",
+    "trans": [
+      "n. time, occasion; time; synonym of kerros",
+      "adv. synonym of kerran"
+    ]
+  },
+  {
+    "name": "luoja",
+    "trans": [
+      "n. creator"
+    ]
+  },
+  {
+    "name": "siinä",
+    "trans": [
+      "adv. there"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/ed/LL-Q1412_%28fin%29-Seqv-siin%C3%A4.wav/LL-Q1412_%28fin%29-Seqv-siin%C3%A4.wav.mp3"
+  },
+  {
+    "name": "maailma",
+    "trans": [
+      "n. the Earth, the world; a world; a celestial body"
+    ]
+  },
+  {
+    "name": "elää",
+    "trans": [
+      "v. to live, be alive; to live; to live on"
+    ]
+  },
+  {
+    "name": "varmasti",
+    "trans": [
+      "adv. certainly, definitely, surely, positively"
+    ]
+  },
+  {
+    "name": "osa",
+    "trans": [
+      "n. part; part; piece; one/a -th, one/a third, one/a fourth, etc"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/9b/LL-Q1412_%28fin%29-Seqv-osa.wav/LL-Q1412_%28fin%29-Seqv-osa.wav.mp3"
+  },
+  {
+    "name": "kuulua",
+    "trans": [
+      "v. to be heard/audible; to be said; used to refer to the state of one's life or affairs"
+    ]
+  },
+  {
+    "name": "sinne",
+    "trans": [
+      "adv. there"
+    ]
+  },
+  {
+    "name": "heti",
+    "trans": [
+      "adv. right away, as soon as, immediately, at once; right, immediately, directly"
+    ]
+  },
+  {
+    "name": "naiset",
+    "trans": [
+      "int. ladies"
+    ]
+  },
+  {
+    "name": "takia",
+    "trans": [
+      "postp. because of, due to"
+    ]
+  },
+  {
+    "name": "tapa",
+    "trans": [
+      "n. habit; custom; habit, manner"
+    ]
+  },
+  {
+    "name": "ensimmäinen",
+    "trans": [
+      "adj. first; former"
+    ]
+  },
+  {
+    "name": "maa",
+    "trans": [
+      "n. ground, land; ground, floor, down; dry ground, port, shore"
+    ]
+  },
+  {
+    "name": "palata",
+    "trans": [
+      "v. to return, come back, go back, get back"
+    ]
+  },
+  {
+    "name": "ajaa",
+    "trans": [
+      "v. to drive, ride, travel, transport; used of several other forms of movement"
+    ]
+  },
+  {
+    "name": "mistä",
+    "trans": [
+      "adv. from where, whence"
+    ]
+  },
+  {
+    "name": "tuntua",
+    "trans": [
+      "v. to feel; to be felt; be feelable; to feel like, seem, appear"
+    ]
+  },
+  {
+    "name": "kunto",
+    "trans": [
+      "n. condition; fitness; shape; form"
+    ]
+  },
+  {
+    "name": "pian",
+    "trans": [
+      "adv. soon; soon, quickly"
+    ]
+  },
+  {
+    "name": "näin",
+    "trans": [
+      "adv. in this way, like this, so, thus",
+      "int. like so, that's it; true, indeed; that's it, there you have it"
+    ]
+  },
+  {
+    "name": "vasta",
+    "trans": [
+      "adv. Expressing delay or that something takes place later; not ... until, only, but",
+      "n. bath broom, a kind of whip made of birch twigs and used in the sauna to enhance the effect of…"
+    ]
+  },
+  {
+    "name": "tunti",
+    "trans": [
+      "n. hour; lesson, class"
+    ]
+  },
+  {
+    "name": "jäädä",
+    "trans": [
+      "v. to stay, remain; to be left; to end up, to become"
+    ]
+  },
+  {
+    "name": "usko",
+    "trans": [
+      "n. faith; belief, faith"
+    ]
+  },
+  {
+    "name": "ase",
+    "trans": [
+      "n. weapon; gun"
+    ]
+  },
+  {
+    "name": "syödä",
+    "trans": [
+      "v. to eat; to wear out, tire, strain; to erode; to eat away; to eat into; to bite"
+    ]
+  },
+  {
+    "name": "viikko",
+    "trans": [
+      "n. week; working week"
+    ]
+  },
+  {
+    "name": "kauan",
+    "trans": [
+      "adv. a long time"
+    ]
+  },
+  {
+    "name": "paha",
+    "trans": [
+      "adj. bad, evil, ill; bad, unsuitable, unfitting, unhealthy",
+      "n. the evil"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/93/LL-Q1412_%28fin%29-Anniina_%28WikiLucas00%29-paha.wav/LL-Q1412_%28fin%29-Anniina_%28WikiLucas00%29-paha.wav.mp3"
+  },
+  {
+    "name": "jälki",
+    "trans": [
+      "n. track, trail; mark, imprint; trace"
+    ]
+  },
+  {
+    "name": "kuunnella",
+    "trans": [
+      "v. to listen; to listen in, eavesdrop"
+    ]
+  },
+  {
+    "name": "ongelma",
+    "trans": [
+      "n. problem, trouble, issue; problem, assignment; puzzle"
+    ]
+  },
+  {
+    "name": "poliisi",
+    "trans": [
+      "n. police; policeman, police officer"
+    ]
+  },
+  {
+    "name": "iso",
+    "trans": [
+      "adj. big, large, great; big, grown-up; great",
+      "n. main; ellipsis of isopurje"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/ca/LL-Q1412_%28fin%29-Susannaanas-iso.wav/LL-Q1412_%28fin%29-Susannaanas-iso.wav.mp3"
+  },
+  {
+    "name": "vaimo",
+    "trans": [
+      "n. wife"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c3/Fi-vaimo.ogg/Fi-vaimo.ogg.mp3"
+  },
+  {
+    "name": "vähän",
+    "trans": [
+      "adv. few; a little; early"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a8/LL-Q1412_%28fin%29-Seqv-v%C3%A4h%C3%A4n.wav/LL-Q1412_%28fin%29-Seqv-v%C3%A4h%C3%A4n.wav.mp3"
+  },
+  {
+    "name": "täältä",
+    "trans": [
+      "adv. from here, hence"
+    ]
+  },
+  {
+    "name": "kaveri",
+    "trans": [
+      "n. friend, buddy, pal, mate; dude, bloke, guy, fellow"
+    ]
+  },
+  {
+    "name": "ilta",
+    "trans": [
+      "n. evening"
+    ]
+  },
+  {
+    "name": "saattaa",
+    "trans": [
+      "v. to escort, usher, see, accompany, walk, take; to bring, drive; may; might"
+    ]
+  },
+  {
+    "name": "sisään",
+    "trans": [
+      "adv. into, in, inside, inwards; in, indoors",
+      "postp. into, in, inside, inwards"
+    ]
+  },
+  {
+    "name": "talo",
+    "trans": [
+      "n. house; building; farm, homestead"
+    ]
+  },
+  {
+    "name": "tästä",
+    "trans": [
+      "adv. from here, hither"
+    ]
+  },
+  {
+    "name": "suuri",
+    "trans": [
+      "adj. large, big, great; high; great"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/04/LL-Q1412_%28fin%29-Seqv-suuri.wav/LL-Q1412_%28fin%29-Seqv-suuri.wav.mp3"
+  },
+  {
+    "name": "hakea",
+    "trans": [
+      "v. to get, fetch, retrieve, bring; to look for, search; to seek, strive after"
+    ]
+  },
+  {
+    "name": "joutua",
+    "trans": [
+      "v. to get; to end up; to be forced to, have to"
+    ]
+  },
+  {
+    "name": "vastata",
+    "trans": [
+      "v. to answer, to reply; to respond; to react, counter, respond, reciprocate"
+    ]
+  },
+  {
+    "name": "laittaa",
+    "trans": [
+      "v. to put, set, place; to make, prepare; to send, dispatch"
+    ]
+  },
+  {
+    "name": "sopia",
+    "trans": [
+      "v. to fit; to suit, to be suitable, to be suited; to comport with, match"
+    ]
+  },
+  {
+    "name": "unohtaa",
+    "trans": [
+      "v. to forget; to leave behind"
+    ]
+  },
+  {
+    "name": "kerto",
+    "trans": [
+      "n. parallelism; repeat, repetition, multiplication"
+    ]
+  },
+  {
+    "name": "syy",
+    "trans": [
+      "n. fibre, filament; grain; fibre"
+    ]
+  },
+  {
+    "name": "kyse",
+    "trans": [
+      "n. question, discussion"
+    ]
+  },
+  {
+    "name": "toimia",
+    "trans": [
+      "v. to serve, act, work; to act, take action; to work, function, run, operate"
+    ]
+  },
+  {
+    "name": "yhä",
+    "trans": [
+      "adv. still; more and more, ever more"
+    ]
+  },
+  {
+    "name": "yö",
+    "trans": [
+      "n. night"
+    ]
+  },
+  {
+    "name": "mukava",
+    "trans": [
+      "adj. comfortable; nice, pleasant; affable, friendly, courteous, sociable, nice"
+    ]
+  },
+  {
+    "name": "tohtori",
+    "trans": [
+      "n. doctor, one with a doctorate; doctorate; physician"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/88/Fi-tohtori.ogg/Fi-tohtori.ogg.mp3"
+  },
+  {
+    "name": "liika",
+    "trans": [
+      "n. excess, overabundance, glut",
+      "adj. excessive, excess, surplus; that is unnecessary or too much"
+    ]
+  },
+  {
+    "name": "koti",
+    "trans": [
+      "n. home"
+    ]
+  },
+  {
+    "name": "istua",
+    "trans": [
+      "v. to sit, be sitting; to sit down, sit, take a seat; to be a member in a board or similar"
+    ]
+  },
+  {
+    "name": "hitto",
+    "trans": [
+      "n. damn, heck, hell, rats or crap"
+    ]
+  },
+  {
+    "name": "pieni",
+    "trans": [
+      "adj. small, little; small, insignificant; quiet"
+    ]
+  },
+  {
+    "name": "joo",
+    "trans": [
+      "adv. yeah, yes",
+      "int. yeah!"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b4/Fi-joo.ogg/Fi-joo.ogg.mp3"
+  },
+  {
+    "name": "vähä",
+    "trans": [
+      "adj. little, few, scarce; little"
+    ]
+  },
+  {
+    "name": "hauska",
+    "trans": [
+      "adj. pleasant, nice, merry, fun, enjoyable; funny, amusing"
+    ]
+  },
+  {
+    "name": "tieto",
+    "trans": [
+      "n. knowledge; information; data"
+    ]
+  },
+  {
+    "name": "totta",
+    "trans": [
+      "int. true"
+    ]
+  },
+  {
+    "name": "perhe",
+    "trans": [
+      "n. family, nuclear family, immediate family; synonym of joukkoperhe"
+    ]
+  },
+  {
+    "name": "taata",
+    "trans": [
+      "v. to guarantee, warrant; to guarantee, secure"
+    ]
+  },
+  {
+    "name": "jatkaa",
+    "trans": [
+      "v. to continue, keep on, go on, proceed, keep going; to resume"
+    ]
+  },
+  {
+    "name": "kutsua",
+    "trans": [
+      "v. to invite; to beckon, call, call for summon; to call, name, dub, go by"
+    ]
+  },
+  {
+    "name": "osata",
+    "trans": [
+      "v. to know how, can; to know"
+    ]
+  },
+  {
+    "name": "hullu",
+    "trans": [
+      "adj. crazy, mad, insane, lunatic",
+      "n. crazy, mad or insane person; reckless person; enthusiast, addict, freak, aficionado, junkie"
+    ]
+  },
+  {
+    "name": "minne",
+    "trans": [
+      "adv. where, whereto, whither"
+    ]
+  },
+  {
+    "name": "siihen",
+    "trans": [
+      "adv. there, thither"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/08/LL-Q1412_%28fin%29-Seqv-siihen.wav/LL-Q1412_%28fin%29-Seqv-siihen.wav.mp3"
+  },
+  {
+    "name": "ovi",
+    "trans": [
+      "n. door"
+    ]
+  },
+  {
+    "name": "kaunis",
+    "trans": [
+      "adj. beautiful, pretty, fair; fair"
+    ]
+  },
+  {
+    "name": "kuollut",
+    "trans": [
+      "adj. dead; extinct",
+      "n. dead person, decedent, deceased"
+    ]
+  },
+  {
+    "name": "oikein",
+    "trans": [
+      "adv. correctly; rightly, right; correct, right, corresponding to reality"
+    ]
+  },
+  {
+    "name": "ainoa",
+    "trans": [
+      "adj. only, sole, lone; only"
+    ]
+  },
+  {
+    "name": "mä",
+    "trans": [
+      "pron. I (first person singular personal pronoun)"
+    ]
+  },
+  {
+    "name": "kestää",
+    "trans": [
+      "v. to stand, withstand, endure, hold up, stand up; to last, remain; to last, take, endure"
+    ]
+  },
+  {
+    "name": "lähettää",
+    "trans": [
+      "v. to send, dispatch; to dispatch; to ship"
+    ]
+  },
+  {
+    "name": "aloittaa",
+    "trans": [
+      "v. to start, begin, commence, initiate"
+    ]
+  },
+  {
+    "name": "kuolema",
+    "trans": [
+      "n. death, demise, decease"
+    ]
+  },
+  {
+    "name": "tärkeä",
+    "trans": [
+      "adj. important, very relevant; important, significant, dignified; self-important"
+    ]
+  },
+  {
+    "name": "viisi",
+    "trans": [
+      "num. five"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/82/Fi-viisi.ogg/Fi-viisi.ogg.mp3"
+  },
+  {
+    "name": "noki",
+    "trans": [
+      "n. soot; black spores of ustilago or stripe smut that cause plant diseases"
+    ]
+  },
+  {
+    "name": "pystyä",
+    "trans": [
+      "v. to be able to, can; to cut into, sink into, to bite into; to affect, have an effect on"
+    ]
+  },
+  {
+    "name": "panna",
+    "trans": [
+      "v. to put, set, place; to send; to have or make someone",
+      "n. ban, anathema"
+    ]
+  },
+  {
+    "name": "rouva",
+    "trans": [
+      "n. Mrs; madam, ma'am; lady"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/bf/Fi-rouva.ogg/Fi-rouva.ogg.mp3"
+  },
+  {
+    "name": "riittää",
+    "trans": [
+      "v. to be enough, suffice, do; to cover in a layer of ice"
+    ]
+  },
+  {
+    "name": "pelätä",
+    "trans": [
+      "v. to fear, dread, be afraid of"
+    ]
+  },
+  {
+    "name": "apu",
+    "trans": [
+      "n. help, aid, assistance, relief, succour; helping hand, one who helps; remedy, relief"
+    ]
+  },
+  {
+    "name": "kaupunki",
+    "trans": [
+      "n. town, city; downtown"
+    ]
+  },
+  {
+    "name": "väli",
+    "trans": [
+      "n. gap, interspace, space, interstice; distance, interval; interval"
+    ]
+  },
+  {
+    "name": "myöhään",
+    "trans": [
+      "adv. late"
+    ]
+  },
+  {
+    "name": "ampua",
+    "trans": [
+      "v. to shoot, fire; to shoot, fire at; to explode, blast, especially to blast rock"
+    ]
+  },
+  {
+    "name": "jumala",
+    "trans": [
+      "n. god, deity"
+    ]
+  },
+  {
+    "name": "hätä",
+    "trans": [
+      "n. emergency; distress; distress, anxiety, panic"
+    ]
+  },
+  {
+    "name": "päästää",
+    "trans": [
+      "v. to let; to detach, take off, let go, separate; to release, to let loose, rid"
+    ]
+  },
+  {
+    "name": "matka",
+    "trans": [
+      "n. journey, trip, voyage, travel; distance"
+    ]
+  },
+  {
+    "name": "joskus",
+    "trans": [
+      "adv. sometimes, occasionally; sometime, someday, some day, one day"
+    ]
+  },
+  {
+    "name": "viimeinen",
+    "trans": [
+      "adj. last, final; dying"
+    ]
+  },
+  {
+    "name": "minuutti",
+    "trans": [
+      "n. minute"
+    ]
+  },
+  {
+    "name": "väärä",
+    "trans": [
+      "adj. wrong, incorrect; false, wrong, erroneous, illegitimate, illogical; wrong, immoral, bad, unjust",
+      "n. A pitch that goes outside the strike zone, ball, bad pitch"
+    ]
+  },
+  {
+    "name": "veli",
+    "trans": [
+      "n. brother; bro"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/10/Fi-veli.ogg/Fi-veli.ogg.mp3"
+  },
+  {
+    "name": "miettiä",
+    "trans": [
+      "v. to think, think over, ponder, mull over"
+    ]
+  },
+  {
+    "name": "kuva",
+    "trans": [
+      "n. picture, figure; image; photograph, photo"
+    ]
+  },
+  {
+    "name": "avata",
+    "trans": [
+      "v. to open"
+    ]
+  },
+  {
+    "name": "ilma",
+    "trans": [
+      "n. air; weather"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/0d/Fi-ilma.ogg/Fi-ilma.ogg.mp3"
+  },
+  {
+    "name": "jotta",
+    "trans": [
+      "conj. so that, in order that, for the purpose that"
+    ]
+  },
+  {
+    "name": "silmä",
+    "trans": [
+      "n. eye; mesh, opening in a mesh or net"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c0/Fi-silm%C3%A4.ogg/Fi-silm%C3%A4.ogg.mp3"
+  },
+  {
+    "name": "takaisin",
+    "trans": [
+      "adv. back"
+    ]
+  },
+  {
+    "name": "kunnossa",
+    "trans": [
+      "adv. in shape; in order; OK, all right"
+    ]
+  },
+  {
+    "name": "takainen",
+    "trans": [
+      "adj. located behind; posterior; back"
+    ]
+  },
+  {
+    "name": "käskeä",
+    "trans": [
+      "v. to order, command, tell; to request, ask for, invite"
+    ]
+  },
+  {
+    "name": "vaan",
+    "trans": [
+      "conj. but, rather; yet, but"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/4c/LL-Q1412_%28fin%29-Seqv-vaan.wav/LL-Q1412_%28fin%29-Seqv-vaan.wav.mp3"
+  },
+  {
+    "name": "heittää",
+    "trans": [
+      "v. to throw, cast, hurl, toss; to abandon, give up; to swing, sway, e.g. because it is off-center"
+    ]
+  },
+  {
+    "name": "juuri",
+    "trans": [
+      "n. root; foot, base; cause, origin, tradition",
+      "adv. right, just, exactly, precisely"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/4e/Fi-juuri.oga/Fi-juuri.oga.mp3"
+  },
+  {
+    "name": "huomenna",
+    "trans": [
+      "adv. tomorrow"
+    ]
+  },
+  {
+    "name": "sillä",
+    "trans": [
+      "conj. for, since, because",
+      "adv. for that reason or intention, because"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/3d/LL-Q1412_%28fin%29-Seqv-sill%C3%A4.wav/LL-Q1412_%28fin%29-Seqv-sill%C3%A4.wav.mp3"
+  },
+  {
+    "name": "lukea",
+    "trans": [
+      "v. to read; to read, say; to study, read"
+    ]
+  },
+  {
+    "name": "kiva",
+    "trans": [
+      "adj. nice, pleasant; fun, neat"
+    ]
+  },
+  {
+    "name": "loppu",
+    "trans": [
+      "n. end, ending, finish, conclusion; the rest, the remaining, the remainder",
+      "adj. the rest, the remaining"
+    ]
+  },
+  {
+    "name": "vaikea",
+    "trans": [
+      "adj. difficult, hard; awkward, embarrassed, bothered; serious, severe"
+    ]
+  },
+  {
+    "name": "maksaa",
+    "trans": [
+      "v. to pay; to call; to cost"
+    ]
+  },
+  {
+    "name": "pari",
+    "trans": [
+      "n. pair, couple; couple, pair; partner",
+      "adv. a couple of; quite a few, a lot, lots"
+    ]
+  },
+  {
+    "name": "ostaa",
+    "trans": [
+      "v. to buy, purchase; to buy, believe, accept"
+    ]
+  },
+  {
+    "name": "moni",
+    "trans": [
+      "det. many",
+      "pron. many; poly-, multi-, many-; a few, quite a few"
+    ]
+  },
+  {
+    "name": "noin",
+    "trans": [
+      "adv. so, in that way, like that",
+      "prep. about, around, approximately, some"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/ff/LL-Q1412_%28fin%29-Seqv-noin.wav/LL-Q1412_%28fin%29-Seqv-noin.wav.mp3"
+  },
+  {
+    "name": "juuria",
+    "trans": [
+      "v. to uproot, root up, root; to uproot, eradicate"
+    ]
+  },
+  {
+    "name": "mukana",
+    "trans": [
+      "postp. along, with; along, together",
+      "adv. with, in"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/45/LL-Q1412_%28fin%29-Seqv-mukana.wav/LL-Q1412_%28fin%29-Seqv-mukana.wav.mp3"
+  },
+  {
+    "name": "taikinajuuri",
+    "trans": [
+      "n. starter dough"
+    ]
+  },
+  {
+    "name": "kello",
+    "trans": [
+      "n. watch; timer; o'clock"
+    ]
+  },
+  {
+    "name": "kohta",
+    "trans": [
+      "n. spot, location; part, piece; paragraph",
+      "adv. soon, in a moment, presently; soon, shortly after; though"
+    ]
+  },
+  {
+    "name": "milloin",
+    "trans": [
+      "adv. when"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/06/LL-Q1412_%28fin%29-Susannaanas-milloin.wav/LL-Q1412_%28fin%29-Susannaanas-milloin.wav.mp3"
+  },
+  {
+    "name": "jälkeen",
+    "trans": [
+      "postp. after, since; after, later than; after, following"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/2/20/LL-Q1412_%28fin%29-Seqv-j%C3%A4lkeen.wav/LL-Q1412_%28fin%29-Seqv-j%C3%A4lkeen.wav.mp3"
+  },
+  {
+    "name": "voittaa",
+    "trans": [
+      "v. to win; to win/prevail against, defeat, beat, overcome, conquer, triumph over"
+    ]
+  },
+  {
+    "name": "pitkä",
+    "trans": [
+      "adj. long; tall",
+      "n. a glass of beer, a pint"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d7/LL-Q1412_%28fin%29-Anniina_%28WikiLucas00%29-pitk%C3%A4.wav/LL-Q1412_%28fin%29-Anniina_%28WikiLucas00%29-pitk%C3%A4.wav.mp3"
+  },
+  {
+    "name": "kuulostaa",
+    "trans": [
+      "v. to sound; to listen closely, to listen attentively"
+    ]
+  },
+  {
+    "name": "huone",
+    "trans": [
+      "n. room; house"
+    ]
+  },
+  {
+    "name": "menettää",
+    "trans": [
+      "v. to lose; synonym of hävitä"
+    ]
+  },
+  {
+    "name": "nopeasti",
+    "trans": [
+      "adv. rapidly, quickly; promptly"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/81/LL-Q1412_%28fin%29-Anniina_%28WikiLucas00%29-nopeasti.wav/LL-Q1412_%28fin%29-Anniina_%28WikiLucas00%29-nopeasti.wav.mp3"
+  },
+  {
+    "name": "huomata",
+    "trans": [
+      "v. to notice, take notice, take note, note, see, discern, tell, spot"
+    ]
+  },
+  {
+    "name": "kota",
+    "trans": [
+      "n. A traditional conical or hemispherical shelter/hut…"
+    ]
+  },
+  {
+    "name": "neljä",
+    "trans": [
+      "num. four"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/31/LL-Q1412_%28fin%29-Susannaanas-nelj%C3%A4.wav/LL-Q1412_%28fin%29-Susannaanas-nelj%C3%A4.wav.mp3"
+  },
+  {
+    "name": "koulu",
+    "trans": [
+      "n. school"
+    ]
+  },
+  {
+    "name": "silti",
+    "trans": [
+      "adv. however, still, yet, nevertheless, nonetheless, anyway, regardless"
+    ]
+  },
+  {
+    "name": "asua",
+    "trans": [
+      "v. to live, reside, dwell; to live in and take care of, manage"
+    ]
+  },
+  {
+    "name": "jokainen",
+    "trans": [
+      "pron. everyone, everybody",
+      "det. every, each"
+    ]
+  },
+  {
+    "name": "vesi",
+    "trans": [
+      "n. water; lake; rheum"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d3/LL-Q1412_%28fin%29-Uranus123451-vesi.ogg/LL-Q1412_%28fin%29-Uranus123451-vesi.ogg.mp3"
+  },
+  {
+    "name": "seurata",
+    "trans": [
+      "v. to follow, accompany; to keep track, monitor, track, follow, trace"
+    ]
+  },
+  {
+    "name": "huono",
+    "trans": [
+      "adj. bad, poor; bad; bad, unpleasant, wicked"
+    ]
+  },
+  {
+    "name": "viime",
+    "trans": [
+      "adj. last, past; last, dying"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/14/LL-Q1412_%28fin%29-Seqv-viime.wav/LL-Q1412_%28fin%29-Seqv-viime.wav.mp3"
+  },
+  {
+    "name": "välittää",
+    "trans": [
+      "v. to transmit, convey, forward, pass on, relay; to act as an agent in something, broker"
+    ]
+  },
+  {
+    "name": "löytyä",
+    "trans": [
+      "v. to be found, be discovered, turn up; there be, to exist, come"
+    ]
+  },
+  {
+    "name": "outo",
+    "trans": [
+      "adj. strange, weird; foreign, unfamiliar"
+    ]
+  },
+  {
+    "name": "ylös",
+    "trans": [
+      "adv. up, upward, upwards"
+    ]
+  },
+  {
+    "name": "liian",
+    "trans": [
+      "adv. too"
+    ]
+  },
+  {
+    "name": "henki",
+    "trans": [
+      "n. breath; life; person"
+    ]
+  },
+  {
+    "name": "okei",
+    "trans": [
+      "int. okay",
+      "adj. okay"
+    ]
+  },
+  {
+    "name": "varmaan",
+    "trans": [
+      "adv. probably; synonym of varmasti"
+    ]
+  },
+  {
+    "name": "dollari",
+    "trans": [
+      "n. dollar"
+    ]
+  },
+  {
+    "name": "naida",
+    "trans": [
+      "v. to marry, wed"
+    ]
+  },
+  {
+    "name": "nousta",
+    "trans": [
+      "v. to rise, get up; to ascend, move upward, go up; to get up"
+    ]
+  },
+  {
+    "name": "enempi",
+    "trans": [
+      "adj. further"
+    ]
+  },
+  {
+    "name": "kysymys",
+    "trans": [
+      "n. question; issue, matter, problem"
+    ]
+  },
+  {
+    "name": "kuukausi",
+    "trans": [
+      "n. month"
+    ]
+  },
+  {
+    "name": "ohi",
+    "trans": [
+      "adv. past, beyond; over",
+      "postp. by, past; wide"
+    ]
+  },
+  {
+    "name": "toivoa",
+    "trans": [
+      "v. to hope, wish"
+    ]
+  },
+  {
+    "name": "neiti",
+    "trans": [
+      "n. Miss; miss, young lady"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/91/Fi-neiti.ogg/Fi-neiti.ogg.mp3"
+  },
+  {
+    "name": "hieman",
+    "trans": [
+      "adv. a little, bit, tad, slightly"
+    ]
+  },
+  {
+    "name": "yli",
+    "trans": [
+      "postp. over; after, past; over, across",
+      "prep. over, more than; over; over, across"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/50/LL-Q1412_%28fin%29-Seqv-yli.wav/LL-Q1412_%28fin%29-Seqv-yli.wav.mp3"
+  },
+  {
+    "name": "kirjoittaa",
+    "trans": [
+      "v. to write; to spell; to take the matriculation examination at the end of lukio"
+    ]
+  },
+  {
+    "name": "kova",
+    "trans": [
+      "adj. hard; strict, harsh, severe, unfriendly, hard, stern, brutal; tough"
+    ]
+  },
+  {
+    "name": "päättää",
+    "trans": [
+      "v. to end, conclude, terminate, finish, bring to a close; to tie off, fasten, cast off"
+    ]
+  },
+  {
+    "name": "kiltti",
+    "trans": [
+      "adj. kind, nice; well-behaved, good",
+      "n. kilt"
+    ]
+  },
+  {
+    "name": "nuori",
+    "trans": [
+      "adj. young",
+      "n. a young person; youth"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a7/Fi-nuori.ogg/Fi-nuori.ogg.mp3"
+  },
+  {
+    "name": "entää",
+    "trans": [
+      "v. to fly"
+    ]
+  },
+  {
+    "name": "ilman",
+    "trans": [
+      "prep. without",
+      "adv. without"
+    ]
+  },
+  {
+    "name": "tajuta",
+    "trans": [
+      "v. to realize; to get the idea of, grasp, perceive, comprehend, pick up on, register; to get, get it"
+    ]
+  },
+  {
+    "name": "jokka",
+    "trans": [
+      "n. transom, putlog; joker"
+    ]
+  },
+  {
+    "name": "homma",
+    "trans": [
+      "n. job, work, errand; thing, case"
+    ]
+  },
+  {
+    "name": "enemmän",
+    "trans": [
+      "adv. more"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/2/25/LL-Q1412_%28fin%29-Seqv-enemm%C3%A4n.wav/LL-Q1412_%28fin%29-Seqv-enemm%C3%A4n.wav.mp3"
+  },
+  {
+    "name": "luottaa",
+    "trans": [
+      "v. to trust, rely on, count on"
+    ]
+  },
+  {
+    "name": "pelastaa",
+    "trans": [
+      "v. to save, rescue; to redeem"
+    ]
+  },
+  {
+    "name": "odota",
+    "trans": [
+      "int. wait!"
+    ]
+  },
+  {
+    "name": "tulo",
+    "trans": [
+      "n. coming, arrival; income, revenue; product"
+    ]
+  },
+  {
+    "name": "oikeus",
+    "trans": [
+      "n. right, entitlement; law; justice, law"
+    ]
+  },
+  {
+    "name": "tähän",
+    "trans": [
+      "adv. here, hither"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/01/LL-Q1412_%28fin%29-Seqv-t%C3%A4h%C3%A4n.wav/LL-Q1412_%28fin%29-Seqv-t%C3%A4h%C3%A4n.wav.mp3"
+  },
+  {
+    "name": "toivottavasti",
+    "trans": [
+      "adv. hopefully, it is hoped that"
+    ]
+  },
+  {
+    "name": "näkyä",
+    "trans": [
+      "v. to be visible, to be seen, to show; to be around, to be here/there; to seem, appear, look"
+    ]
+  },
+  {
+    "name": "läpi",
+    "trans": [
+      "postp. through; across; past, passing",
+      "adv. over; trans-, cross-"
+    ]
+  },
+  {
+    "name": "seuraava",
+    "trans": [
+      "adj. next, following, subsequent"
+    ]
+  },
+  {
+    "name": "millainen",
+    "trans": [
+      "adj. what, what kind of, what...like"
+    ]
+  },
+  {
+    "name": "oikeasti",
+    "trans": [
+      "adv. really, actually, for real"
+    ]
+  },
+  {
+    "name": "ikä",
+    "trans": [
+      "n. age; age, time; lifetime"
+    ]
+  },
+  {
+    "name": "poissa",
+    "trans": [
+      "adv. absent, gone, not there/here, away; out of, away from; dead"
+    ]
+  },
+  {
+    "name": "ruoka",
+    "trans": [
+      "n. food; meal; dish"
+    ]
+  },
+  {
+    "name": "muuten",
+    "trans": [
+      "adv. else, or else, otherwise; by the way, incidentally"
+    ]
+  },
+  {
+    "name": "kotona",
+    "trans": [
+      "adv. at home, at somebody's place; home"
+    ]
+  },
+  {
+    "name": "selvitä",
+    "trans": [
+      "v. to become clear; to get solved; to cope, survive"
+    ]
+  },
+  {
+    "name": "juoda",
+    "trans": [
+      "v. to drink"
+    ]
+  },
+  {
+    "name": "kunnes",
+    "trans": [
+      "conj. until, till"
+    ]
+  },
+  {
+    "name": "nukkua",
+    "trans": [
+      "v. to sleep; synonym of nukahtaa"
+    ]
+  },
+  {
+    "name": "ota",
+    "trans": [
+      "n. burr, prickle, thorn; sting"
+    ]
+  },
+  {
+    "name": "tytär",
+    "trans": [
+      "n. daughter; maiden"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/97/Fi-tyt%C3%A4r.ogg/Fi-tyt%C3%A4r.ogg.mp3"
+  },
+  {
+    "name": "asti",
+    "trans": [
+      "postp. up to, all the way to; all the way from; until"
+    ]
+  },
+  {
+    "name": "molemmat",
+    "trans": [
+      "pron. both",
+      "det. both"
+    ]
+  },
+  {
+    "name": "tahansa",
+    "trans": [
+      "adv. any, -ever, either; used with interrogative pronouns to indicate that a choice between…"
+    ]
+  },
+  {
+    "name": "irti",
+    "trans": [
+      "adv. loose, unfastened, free, separate, detached; off; clear",
+      "prep. off, away"
+    ]
+  },
+  {
+    "name": "kuitenkin",
+    "trans": [
+      "adv. anyway, regardless, still; however, nevertheless, after all, still; but, then"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/69/LL-Q1412_%28fin%29-Seqv-kuitenkin.wav/LL-Q1412_%28fin%29-Seqv-kuitenkin.wav.mp3"
+  },
+  {
+    "name": "häipyä",
+    "trans": [
+      "v. to disappear, vanish; to fade out/away; to be forgotten, fade"
+    ]
+  },
+  {
+    "name": "luvata",
+    "trans": [
+      "v. to promise, vow; to bode"
+    ]
+  },
+  {
+    "name": "totuus",
+    "trans": [
+      "n. truth"
+    ]
+  },
+  {
+    "name": "vaikuttaa",
+    "trans": [
+      "v. to influence, have an influence on, affect, have an effect on, impact, have an impact on"
+    ]
+  },
+  {
+    "name": "yhteys",
+    "trans": [
+      "n. connection; connection, link; access, connection"
+    ]
+  },
+  {
+    "name": "täysi",
+    "trans": [
+      "adj. full; full, complete, whole, entire; full, satiated, replete",
+      "n. -ful, enough to fill a"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a0/Fi-t%C3%A4ysi.ogg/Fi-t%C3%A4ysi.ogg.mp3"
+  },
+  {
+    "name": "ainakin",
+    "trans": [
+      "adv. at least; for one"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/42/LL-Q1412_%28fin%29-Seqv-ainakin.wav/LL-Q1412_%28fin%29-Seqv-ainakin.wav.mp3"
+  },
+  {
+    "name": "pakko",
+    "trans": [
+      "n. obligation, force, necessity, compulsion, coercion, must, duress; duress"
+    ]
+  },
+  {
+    "name": "sota",
+    "trans": [
+      "n. war; warfare; military, war-"
+    ]
+  },
+  {
+    "name": "huoli",
+    "trans": [
+      "n. worry, concern; care"
+    ]
+  },
+  {
+    "name": "valita",
+    "trans": [
+      "v. to choose, select; to elect, choose"
+    ]
+  },
+  {
+    "name": "laskea",
+    "trans": [
+      "v. to lower, move down; to put down, set down, lay down, lay; to lower, decrease, bring down"
+    ]
+  },
+  {
+    "name": "helppo",
+    "trans": [
+      "adj. easy, simple"
+    ]
+  },
+  {
+    "name": "sä",
+    "trans": [
+      "pron. you, ya"
+    ]
+  },
+  {
+    "name": "eräs",
+    "trans": [
+      "det. a certain, some",
+      "pron. someone, one"
+    ]
+  },
+  {
+    "name": "eilen",
+    "trans": [
+      "adv. yesterday"
+    ]
+  },
+  {
+    "name": "kapteeni",
+    "trans": [
+      "n. captain; pilot in command"
+    ]
+  },
+  {
+    "name": "tutkia",
+    "trans": [
+      "v. to examine, investigate, research, search, explore; to research; to study"
+    ]
+  },
+  {
+    "name": "ruumis",
+    "trans": [
+      "n. body; corpse, cadaver"
+    ]
+  },
+  {
+    "name": "varten",
+    "trans": [
+      "postp. for"
+    ]
+  },
+  {
+    "name": "tällainen",
+    "trans": [
+      "adj. this kind of, like this, such"
+    ]
+  },
+  {
+    "name": "myydä",
+    "trans": [
+      "v. to sell"
+    ]
+  },
+  {
+    "name": "sydän",
+    "trans": [
+      "n. heart; heart, core; wick"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/87/Fi-syd%C3%A4n.ogg/Fi-syd%C3%A4n.ogg.mp3"
+  },
+  {
+    "name": "käy",
+    "trans": [
+      "int. action!"
+    ]
+  },
+  {
+    "name": "lyödä",
+    "trans": [
+      "v. to hit, strike, knock; to beat; to beat, win"
+    ]
+  },
+  {
+    "name": "niistää",
+    "trans": [
+      "v. to blow one's nose, snot; to steal; to embezzle"
+    ]
+  },
+  {
+    "name": "melkein",
+    "trans": [
+      "adv. almost, nearly, close to"
+    ]
+  },
+  {
+    "name": "miljoona",
+    "trans": [
+      "num. million, 10⁶"
+    ]
+  },
+  {
+    "name": "onni",
+    "trans": [
+      "n. happiness, pleasure, contentment, gratification, bliss; joy, delight, pleasure; luck, fortune"
+    ]
+  },
+  {
+    "name": "onnistua",
+    "trans": [
+      "v. to succeed; to manage, succeed"
+    ]
+  },
+  {
+    "name": "siksi",
+    "trans": [
+      "adv. therefore, that's why; because, thence; consequently, as a consequence; until"
+    ]
+  },
+  {
+    "name": "aamu",
+    "trans": [
+      "n. morning"
+    ]
+  },
+  {
+    "name": "sattua",
+    "trans": [
+      "v. to hurt, be sore; to happen, to be, occur, come about, come up; to happen"
+    ]
+  },
+  {
+    "name": "valehdella",
+    "trans": [
+      "v. to lie"
+    ]
+  },
+  {
+    "name": "vankila",
+    "trans": [
+      "n. prison"
+    ]
+  },
+  {
+    "name": "luokse",
+    "trans": [
+      "postp. to, up to, to"
+    ]
+  },
+  {
+    "name": "vika",
+    "trans": [
+      "n. flaw, malfunction, failure, problem, defect; fault, error, mistake; flaw, stain",
+      "adj. last"
+    ]
+  },
+  {
+    "name": "tahtoa",
+    "trans": [
+      "v. to want; to tend"
+    ]
+  },
+  {
+    "name": "peli",
+    "trans": [
+      "n. game; match, game; game; tool, means, implement, vehicle"
+    ]
+  },
+  {
+    "name": "uusia",
+    "trans": [
+      "v. to renew; to redo; to renovate, remodel; to redecorate; to revise; to revamp; to rearrange"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c2/LL-Q1412_%28fin%29-Seqv-uusia.wav/LL-Q1412_%28fin%29-Seqv-uusia.wav.mp3"
+  },
+  {
+    "name": "tapaus",
+    "trans": [
+      "n. event, incident, occurrence, occasion, episode; case, instance"
+    ]
+  },
+  {
+    "name": "jää",
+    "trans": [
+      "n. ice; the ice covering a body of water"
+    ]
+  },
+  {
+    "name": "sano",
+    "trans": [
+      "v. Especially in spoken language, a common contraction of the third person singular indicative past…"
+    ]
+  },
+  {
+    "name": "eri",
+    "trans": [
+      "adj. different, other, another; different, separate",
+      "adv. really, truly"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/41/LL-Q1412_%28fin%29-Seqv-eri.wav/LL-Q1412_%28fin%29-Seqv-eri.wav.mp3"
+  },
+  {
+    "name": "rauhoittua",
+    "trans": [
+      "v. to calm down, relax, unwind, get ahold of oneself, settle down"
+    ]
+  },
+  {
+    "name": "ikinä",
+    "trans": [
+      "adv. ever; never; never ever; ...ever"
+    ]
+  },
+  {
+    "name": "jopa",
+    "trans": [
+      "adv. even; as much as, up to; used as a fortifier"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/ac/LL-Q1412_%28fin%29-Seqv-jopa.wav/LL-Q1412_%28fin%29-Seqv-jopa.wav.mp3"
+  },
+  {
+    "name": "tuolla",
+    "trans": [
+      "adv. there, over there"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/dd/LL-Q1412_%28fin%29-Nurtsio-tuolla.wav/LL-Q1412_%28fin%29-Nurtsio-tuolla.wav.mp3"
+  },
+  {
+    "name": "vetää",
+    "trans": [
+      "v. to pull, drag, draw; to pull, tug, yank; to attract"
+    ]
+  },
+  {
+    "name": "luona",
+    "trans": [
+      "postp. at, chez; at, by, near, close to; in front of, outside"
+    ]
+  },
+  {
+    "name": "paitsi",
+    "trans": [
+      "prep. except, other than",
+      "conj. not just, not only (... myös)"
+    ]
+  },
+  {
+    "name": "kannattaa",
+    "trans": [
+      "v. to support, bear up, hold up, prop up, carry; to support, uphold, sustain"
+    ]
+  },
+  {
+    "name": "yhdessä",
+    "trans": [
+      "adv. together"
+    ]
+  },
+  {
+    "name": "kulta",
+    "trans": [
+      "n. gold; gold; gold medal; darling, dear, baby"
+    ]
+  },
+  {
+    "name": "tarve",
+    "trans": [
+      "n. need, requirement, demand; synonym of tarvike"
+    ]
+  },
+  {
+    "name": "kirja",
+    "trans": [
+      "n. book; quire; document"
+    ]
+  },
+  {
+    "name": "haloo",
+    "trans": [
+      "int. hello; come on",
+      "n. hullabaloo"
+    ]
+  },
+  {
+    "name": "sieltä",
+    "trans": [
+      "adv. from there, thence"
+    ]
+  },
+  {
+    "name": "uutinen",
+    "trans": [
+      "n. news, news item, item of news; tiding; news; first fruits, first harvest"
+    ]
+  },
+  {
+    "name": "oikeassa",
+    "trans": [
+      "adv. right, in the right, correct"
+    ]
+  },
+  {
+    "name": "tietenkin",
+    "trans": [
+      "adv. of course"
+    ]
+  },
+  {
+    "name": "lupa",
+    "trans": [
+      "n. permission; leave; license, permit"
+    ]
+  },
+  {
+    "name": "toki",
+    "trans": [
+      "adv. of course",
+      "int. Expression of politeness; sure, by all means, go ahead, feel free"
+    ]
+  },
+  {
+    "name": "ääni",
+    "trans": [
+      "n. sound; noise; voice; audio"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/f2/Fi-%C3%A4%C3%A4ni.ogg/Fi-%C3%A4%C3%A4ni.ogg.mp3"
+  },
+  {
+    "name": "hetkinen",
+    "trans": [
+      "n. moment, minute",
+      "adj. of or pertaining to a moment in time"
+    ]
+  },
+  {
+    "name": "pysty",
+    "trans": [
+      "adj. upright, vertical"
+    ]
+  },
+  {
+    "name": "tietysti",
+    "trans": [
+      "adv. of course, naturally"
+    ]
+  },
+  {
+    "name": "kerran",
+    "trans": [
+      "adv. once; once, once upon a time"
+    ]
+  },
+  {
+    "name": "toimi",
+    "trans": [
+      "n. chore, task, job, duty; activities, business, operations, affairs; action, activity"
+    ]
+  },
+  {
+    "name": "mihin",
+    "trans": [
+      "adv. where, whereto, whither"
+    ]
+  },
+  {
+    "name": "pikku",
+    "trans": [
+      "adj. little, small; little old"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/af/LL-Q1412_%28fin%29-Anniina_%28WikiLucas00%29-pikku.wav/LL-Q1412_%28fin%29-Anniina_%28WikiLucas00%29-pikku.wav.mp3"
+  },
+  {
+    "name": "liittyä",
+    "trans": [
+      "v. to be attached, be linked, be connected; to join"
+    ]
+  },
+  {
+    "name": "pelata",
+    "trans": [
+      "v. to play; to work, to function"
+    ]
+  },
+  {
+    "name": "muuttua",
+    "trans": [
+      "v. to change, alter; to become, grow, turn, change; to vary"
+    ]
+  },
+  {
+    "name": "tarina",
+    "trans": [
+      "n. story, tale; narrative"
+    ]
+  },
+  {
+    "name": "yhtä",
+    "trans": [
+      "adv. equally, as; same, equal"
+    ]
+  },
+  {
+    "name": "arvata",
+    "trans": [
+      "v. to guess"
+    ]
+  },
+  {
+    "name": "lähellä",
+    "trans": [
+      "adv. near, close, nearby; nigh",
+      "postp. near, close to, in the vicinity of"
+    ]
+  },
+  {
+    "name": "loppua",
+    "trans": [
+      "v. to end, finish, get over, stop, cease; to run out"
+    ]
+  },
+  {
+    "name": "rakkaus",
+    "trans": [
+      "n. love, affection"
+    ]
+  },
+  {
+    "name": "juosta",
+    "trans": [
+      "v. to run; to visit, pay a visit to; to flow, run"
+    ]
+  },
+  {
+    "name": "tervetuloa",
+    "trans": [
+      "int. welcome; great to see you, nice you could come"
+    ]
+  },
+  {
+    "name": "ajatus",
+    "trans": [
+      "n. thought; idea; opinion"
+    ]
+  },
+  {
+    "name": "alue",
+    "trans": [
+      "n. area, region; region, area; oblast"
+    ]
+  },
+  {
+    "name": "ikävä",
+    "trans": [
+      "adj. tedious, boring; bad, sad, nasty; regrettable",
+      "n. longing, yearning"
+    ]
+  },
+  {
+    "name": "ihana",
+    "trans": [
+      "adj. lovely, adorable; wonderful, marvellous, marvelous; fabulous, fantastic"
+    ]
+  },
+  {
+    "name": "ala",
+    "trans": [
+      "n. area; area, field, domain; field, discipline"
+    ]
+  },
+  {
+    "name": "tarjota",
+    "trans": [
+      "v. to offer; to offer, bid; to provide"
+    ]
+  },
+  {
+    "name": "hauskaa",
+    "trans": [
+      "adj. pitää hauskaa: to have fun"
+    ]
+  },
+  {
+    "name": "koira",
+    "trans": [
+      "n. dog; military police"
+    ],
+    "audio": "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/35/Fi-koira.ogg/Fi-koira.ogg.mp3"
+  },
+  {
+    "name": "syyttää",
+    "trans": [
+      "v. to blame, blame on, accuse; to accuse, charge, indict, prosecute, try, arraign"
+    ]
+  },
+  {
+    "name": "ai",
+    "trans": [
+      "int. ouch!; oh!; oh...? as in...?"
+    ]
+  }
+]

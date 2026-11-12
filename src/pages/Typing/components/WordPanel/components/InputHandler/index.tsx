@@ -13,6 +13,7 @@ export default function InputHandler({ updateInput }: { updateInput: (updateObj:
       case 'en':
         return <KeyEventHandler updateInput={updateInput} />
       case 'de':
+      case 'fi':
         return <KeyEventHandler updateInput={updateInput} />
       case 'romaji':
         return <KeyEventHandler updateInput={updateInput} />

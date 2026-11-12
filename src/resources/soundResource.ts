@@ -127,4 +127,13 @@ export const LANG_PRON_MAP: LanguagePronunciationMap = {
       },
     ],
   },
+  fi: {
+    defaultPronIndex: 0,
+    pronunciation: [
+      {
+        name: 'Finnish',
+        pron: 'fi',
+      },
+    ],
+  },
 }

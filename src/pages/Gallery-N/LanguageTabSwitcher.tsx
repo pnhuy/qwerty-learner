@@ -2,6 +2,7 @@ import { GalleryContext } from '.'
 import codeFlag from '@/assets/flags/code.png'
 import deFlag from '@/assets/flags/de.png'
 import enFlag from '@/assets/flags/en.png'
+import fiFlag from '@/assets/flags/fi.png'
 import idFlag from '@/assets/flags/id.png'
 import jpFlag from '@/assets/flags/ja.png'
 import kkFlag from '@/assets/flags/kk.png'
@@ -21,6 +22,7 @@ const options: LanguageTabOption[] = [
   { id: 'de', name: 'German', flag: deFlag },
   { id: 'kk', name: 'Kazakh', flag: kkFlag },
   { id: 'id', name: 'Indonesian', flag: idFlag },
+  { id: 'fi', name: 'Finnish', flag: fiFlag },
   { id: 'code', name: 'Code', flag: codeFlag },
 ]
 

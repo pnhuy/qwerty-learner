@@ -21,7 +21,7 @@ export const WordPronunciationIcon = React.forwardRef<
       return word.name
     }
   }
-  const { play, stop, isPlaying } = usePronunciationSound(currentWord())
+  const { play, stop, isPlaying } = usePronunciationSound(currentWord(), undefined, lang === 'hapin' ? undefined : word.audio)
 
   const playSound = useCallback(() => {
     stop()

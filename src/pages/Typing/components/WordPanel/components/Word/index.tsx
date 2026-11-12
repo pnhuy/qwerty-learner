@@ -22,7 +22,7 @@ import {
   wordDictationConfigAtom,
 } from '@/store'
 import type { Word } from '@/typings'
-import { CTRL, getUtcStringForMixpanel } from '@/utils'
+import { CTRL, getUtcStringForMixpanel, isCharMatch } from '@/utils'
 import { useSaveWordRecord } from '@/utils/db'
 import { useAtomValue } from 'jotai'
 import { useCallback, useContext, useEffect, useRef, useState } from 'react'
@@ -167,12 +167,6 @@ export default function WordComponent({ word, onFinish }: { word: Word; onFinish
 
   useEffect(() => {
     const inputLength = wordState.inputWord.length
-    /**
-     * TODO: an error is reported when the user types a wrong letter
-     * Cannot update a component (`App`) while rendering a different component (`WordComponent`). To locate the bad setState() call inside `WordComponent`, follow the stack trace as described in https://reactjs.org/link/setstate-in-render
-     * It does not affect production. Probably React calls useEffect twice in development, which shows this warning
-     * but it is still a bug and should be fixed
-     */
     if (wordState.hasWrong || inputLength === 0 || wordState.displayWord.length === 0) {
       return
     }
@@ -181,7 +175,7 @@ export default function WordComponent({ word, onFinish }: { word: Word; onFinish
     const correctChar = wordState.displayWord[inputLength - 1]
     let isEqual = false
     if (inputChar != undefined && correctChar != undefined) {
-      isEqual = isIgnoreCase ? inputChar.toLowerCase() === correctChar.toLowerCase() : inputChar === correctChar
+      isEqual = isCharMatch(inputChar, correctChar, isIgnoreCase, currentLanguage)
     }
 
     if (isEqual) {
@@ -210,22 +204,21 @@ export default function WordComponent({ word, onFinish }: { word: Word; onFinish
     } else {
       // Wrong input
       playBeepSound()
+      // Build the new mistakes outside the updater: updaters run during render (and twice in StrictMode), so
+      // dispatching to the parent from inside one updates App while WordComponent renders.
+      const letterMistake = {
+        ...wordState.letterMistake,
+        [inputLength - 1]: [...(wordState.letterMistake[inputLength - 1] ?? []), inputChar],
+      }
       setWordState((state) => {
         state.letterStates[inputLength - 1] = 'wrong'
         state.hasWrong = true
         state.hasMadeInputWrong = true
         state.wrongCount += 1
         state.letterTimeArray = []
-
-        if (state.letterMistake[inputLength - 1]) {
-          state.letterMistake[inputLength - 1].push(inputChar)
-        } else {
-          state.letterMistake[inputLength - 1] = [inputChar]
-        }
-
-        const currentState = JSON.parse(JSON.stringify(state))
-        dispatch({ type: TypingStateActionType.REPORT_WRONG_WORD, payload: { letterMistake: currentState.letterMistake } })
+        state.letterMistake = letterMistake
       })
+      dispatch({ type: TypingStateActionType.REPORT_WRONG_WORD, payload: { letterMistake } })
 
       if (currentChapter === 0 && state.chapterData.index === 0 && wordState.wrongCount >= 3) {
         setShowTipAlert(true)

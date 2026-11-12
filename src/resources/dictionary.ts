@@ -4160,6 +4160,65 @@ const indonesianDicts: DictionaryResource[] = [
  * Built-in dictionaries in an array.
  * Why arrays? Because it keeps the order across browsers.
  */
+// Built by scripts/finnish/build.py. Levels are frequency bands, not an official CEFR list.
+const finnishDicts: DictionaryResource[] = [
+  {
+    id: 'finnish_level_1',
+    name: 'Level 1 · Beginner',
+    description: 'Finnish words ranked 1–500 by frequency (about CEFR A1), with English meanings from Wiktionary',
+    category: 'Finnish',
+    tags: ['Levels'],
+    url: '/dicts/finnish_level_1.json',
+    length: 500,
+    language: 'fi',
+    languageCategory: 'fi',
+  },
+  {
+    id: 'finnish_level_2',
+    name: 'Level 2 · Elementary',
+    description: 'Finnish words ranked 501–1500 by frequency (about CEFR A2), with English meanings from Wiktionary',
+    category: 'Finnish',
+    tags: ['Levels'],
+    url: '/dicts/finnish_level_2.json',
+    length: 1000,
+    language: 'fi',
+    languageCategory: 'fi',
+  },
+  {
+    id: 'finnish_level_3',
+    name: 'Level 3 · Intermediate',
+    description: 'Finnish words ranked 1501–3000 by frequency (about CEFR B1), with English meanings from Wiktionary',
+    category: 'Finnish',
+    tags: ['Levels'],
+    url: '/dicts/finnish_level_3.json',
+    length: 1500,
+    language: 'fi',
+    languageCategory: 'fi',
+  },
+  {
+    id: 'finnish_level_4',
+    name: 'Level 4 · Upper intermediate',
+    description: 'Finnish words ranked 3001–5000 by frequency (about CEFR B2), with English meanings from Wiktionary',
+    category: 'Finnish',
+    tags: ['Levels'],
+    url: '/dicts/finnish_level_4.json',
+    length: 2000,
+    language: 'fi',
+    languageCategory: 'fi',
+  },
+  {
+    id: 'finnish_level_5',
+    name: 'Level 5 · Advanced',
+    description: 'Finnish words ranked 5001–8000 by frequency (about CEFR C1), with English meanings from Wiktionary',
+    category: 'Finnish',
+    tags: ['Levels'],
+    url: '/dicts/finnish_level_5.json',
+    length: 3000,
+    language: 'fi',
+    languageCategory: 'fi',
+  },
+]
+
 export const dictionaryResources: DictionaryResource[] = [
   ...chinaExam,
   ...internationalExam,
@@ -4169,6 +4228,7 @@ export const dictionaryResources: DictionaryResource[] = [
   ...germanExam,
   ...kazakhHapinDicts,
   ...indonesianDicts,
+  ...finnishDicts,
 
   // {
   //   id: 'zhtest',
