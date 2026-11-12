@@ -4,12 +4,14 @@ import ConclusionBar from './ConclusionBar'
 import RemarkRing from './RemarkRing'
 import WordChip from './WordChip'
 import Tooltip from '@/components/Tooltip'
+import { useExitReviewMode } from '@/hooks/useReviewMode'
 import {
   currentChapterAtom,
   currentDictInfoAtom,
   isReviewModeAtom,
+  isSpacedReviewAtom,
   randomConfigAtom,
-  reviewModeInfoAtom,
+  reviewTitleAtom,
   wordDictationConfigAtom,
 } from '@/store'
 import { Transition } from '@headlessui/react'
@@ -31,8 +33,10 @@ const ResultScreen = () => {
   const randomConfig = useAtomValue(randomConfigAtom)
   const navigate = useNavigate()
 
-  const setReviewModeInfo = useSetAtom(reviewModeInfoAtom)
+  const exitReviewMode = useExitReviewMode()
   const isReviewMode = useAtomValue(isReviewModeAtom)
+  const isSpacedReview = useAtomValue(isSpacedReviewAtom)
+  const reviewTitle = useAtomValue(reviewTitleAtom)
 
   useEffect(() => {
     // tick a zero timer to calc the stats
@@ -130,6 +134,8 @@ const ResultScreen = () => {
 
   const nextButtonHandler = useCallback(() => {
     if (isReviewMode) {
+      // After a spaced review, Enter goes back to the chapter the user was practising
+      if (isSpacedReview) exitReviewMode(currentDictInfo.id)
       return
     }
 
@@ -145,22 +151,20 @@ const ResultScreen = () => {
       setCurrentChapter((old) => old + 1)
       dispatch({ type: TypingStateActionType.NEXT_CHAPTER })
     }
-  }, [dispatch, isLastChapter, isReviewMode, setCurrentChapter, setWordDictationConfig])
+  }, [currentDictInfo.id, dispatch, exitReviewMode, isLastChapter, isReviewMode, isSpacedReview, setCurrentChapter, setWordDictationConfig])
 
   const exitButtonHandler = useCallback(() => {
     if (isReviewMode) {
-      setCurrentChapter(0)
-      setReviewModeInfo((old) => ({ ...old, isReviewMode: false }))
+      exitReviewMode(currentDictInfo.id)
     } else {
       dispatch({ type: TypingStateActionType.REPEAT_CHAPTER, shouldShuffle: false })
     }
-  }, [dispatch, isReviewMode, setCurrentChapter, setReviewModeInfo])
+  }, [currentDictInfo.id, dispatch, exitReviewMode, isReviewMode])
 
   const onNavigateToGallery = useCallback(() => {
-    setCurrentChapter(0)
-    setReviewModeInfo((old) => ({ ...old, isReviewMode: false }))
+    exitReviewMode(currentDictInfo.id)
     navigate('/gallery')
-  }, [navigate, setCurrentChapter, setReviewModeInfo])
+  }, [currentDictInfo.id, exitReviewMode, navigate])
 
   useHotkeys(
     'enter',
@@ -203,7 +207,7 @@ const ResultScreen = () => {
         <div className="flex h-screen items-center justify-center">
           <div className="my-card fixed flex w-[90vw] max-w-6xl flex-col overflow-hidden rounded-3xl bg-white pb-14 pl-10 pr-5 pt-10 shadow-lg dark:bg-gray-800 md:w-4/5 lg:w-3/5">
             <div className="text-center font-sans text-xl font-normal text-gray-900 dark:text-gray-400 md:text-2xl">
-              {`${currentDictInfo.name} ${isReviewMode ? 'Mistake Review' : 'Chapter ' + (currentChapter + 1)}`}
+              {`${currentDictInfo.name} ${isReviewMode ? reviewTitle : 'Chapter ' + (currentChapter + 1)}`}
             </div>
             <button className="absolute right-7 top-5" onClick={exitButtonHandler}>
               <IconX className="text-gray-400" />
@@ -274,7 +278,19 @@ const ResultScreen = () => {
                 </Tooltip>
               )}
 
-              {isReviewMode && (
+              {isSpacedReview && (
+                <Tooltip content="Shortcut: Enter">
+                  <button
+                    className="my-btn-primary h-12 text-base font-bold"
+                    type="button"
+                    onClick={exitButtonHandler}
+                    title="Back to practice"
+                  >
+                    Back to practice
+                  </button>
+                </Tooltip>
+              )}
+              {isReviewMode && !isSpacedReview && (
                 <button
                   className="my-btn-primary h-12 text-base font-bold"
                   type="button"

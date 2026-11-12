@@ -1,5 +1,5 @@
 import Tooltip from '@/components/Tooltip'
-import { currentChapterAtom, currentDictInfoAtom, isReviewModeAtom } from '@/store'
+import { currentChapterAtom, currentDictInfoAtom, isReviewModeAtom, reviewTitleAtom } from '@/store'
 import range from '@/utils/range'
 import { Listbox, Transition } from '@headlessui/react'
 import { useAtom, useAtomValue } from 'jotai'
@@ -12,6 +12,7 @@ export const DictChapterButton = () => {
   const [currentChapter, setCurrentChapter] = useAtom(currentChapterAtom)
   const chapterCount = currentDictInfo.chapterCount
   const isReviewMode = useAtomValue(isReviewModeAtom)
+  const reviewTitle = useAtomValue(reviewTitleAtom)
 
   const handleKeyDown: React.KeyboardEventHandler<HTMLButtonElement> = (event) => {
     if (event.key === ' ') {
@@ -25,7 +26,7 @@ export const DictChapterButton = () => {
           className="block rounded-lg px-3 py-1 text-lg transition-colors duration-300 ease-in-out hover:bg-indigo-400 hover:text-white focus:outline-none dark:text-white dark:text-opacity-60 dark:hover:text-opacity-100"
           to="/gallery"
         >
-          {currentDictInfo.name} {isReviewMode && 'Mistake review'}
+          {currentDictInfo.name} {isReviewMode && reviewTitle}
         </NavLink>
       </Tooltip>
       {!isReviewMode && (

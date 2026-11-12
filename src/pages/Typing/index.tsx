@@ -2,6 +2,7 @@ import Layout from '../../components/Layout'
 import { DictChapterButton } from './components/DictChapterButton'
 import PronunciationSwitcher from './components/PronunciationSwitcher'
 import ResultScreen from './components/ResultScreen'
+import SpacedReviewButton from './components/SpacedReviewButton'
 import Speed from './components/Speed'
 import StartButton from './components/StartButton'
 import Switcher from './components/Switcher'
@@ -13,10 +14,19 @@ import { TypingContext, TypingStateActionType, initialState, typingReducer } fro
 import Header from '@/components/Header'
 import Tooltip from '@/components/Tooltip'
 import { idDictionaryMap } from '@/resources/dictionary'
-import { currentChapterAtom, currentDictIdAtom, isReviewModeAtom, randomConfigAtom, reviewModeInfoAtom } from '@/store'
+import {
+  currentChapterAtom,
+  currentDictIdAtom,
+  isReviewModeAtom,
+  randomConfigAtom,
+  reviewModeInfoAtom,
+  saveDictProgressAtom,
+} from '@/store'
 import { IsDesktop, isLegal } from '@/utils'
 import { useSaveChapterRecord } from '@/utils/db'
+import { recordSrsResult } from '@/utils/db/srs'
 import { useMixPanelChapterLogUploader } from '@/utils/mixpanel'
+import { readDictProgress } from '@/utils/progress'
 import { useAtom, useAtomValue, useSetAtom } from 'jotai'
 import type React from 'react'
 import { useCallback, useEffect, useState } from 'react'
@@ -28,7 +38,8 @@ const App: React.FC = () => {
   const { words } = useWordList()
 
   const [currentDictId, setCurrentDictId] = useAtom(currentDictIdAtom)
-  const setCurrentChapter = useSetAtom(currentChapterAtom)
+  const [currentChapter, setCurrentChapter] = useAtom(currentChapterAtom)
+  const saveDictProgress = useSetAtom(saveDictProgressAtom)
   const randomConfig = useAtomValue(randomConfigAtom)
   const chapterLogUploader = useMixPanelChapterLogUploader(state)
   const saveChapterRecord = useSaveChapterRecord()
@@ -58,8 +69,11 @@ const App: React.FC = () => {
   }, [currentDictId, setCurrentChapter, setCurrentDictId])
 
   const skipWord = useCallback(() => {
+    const word = state.chapterData.words[state.chapterData.index]
+    // A skipped word counts as forgotten for spaced repetition
+    if (word) recordSrsResult(currentDictId, word, 'again')
     dispatch({ type: TypingStateActionType.SKIP_WORD })
-  }, [dispatch])
+  }, [currentDictId, dispatch, state.chapterData.index, state.chapterData.words])
 
   useEffect(() => {
     const onBlur = () => {
@@ -92,7 +106,14 @@ const App: React.FC = () => {
 
   useEffect(() => {
     if (words !== undefined) {
-      const initialIndex = isReviewMode && reviewModeInfo.reviewRecord?.index ? reviewModeInfo.reviewRecord.index : 0
+      let initialIndex = 0
+      if (isReviewMode) {
+        initialIndex = reviewModeInfo.reviewRecord?.index ?? 0
+      } else if (!randomConfig.isOpen) {
+        // Resume where the user stopped in this chapter
+        const progress = readDictProgress(currentDictId)
+        if (progress?.chapter === currentChapter) initialIndex = progress.index
+      }
 
       dispatch({
         type: TypingStateActionType.SETUP_CHAPTER,
@@ -101,6 +122,19 @@ const App: React.FC = () => {
     }
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [words])
+
+  useEffect(() => {
+    // Remember where the user is. Only while typing (or on finishing), so the setup of a chapter, which can run with
+    // default values before the stored settings are loaded, never overwrites saved progress.
+    if (isReviewMode || !(state.isTyping || state.isFinished) || state.chapterData.words.length === 0) return
+    if (state.isFinished) {
+      const lastChapter = (idDictionaryMap[currentDictId]?.chapterCount ?? 1) - 1
+      saveDictProgress({ dictId: currentDictId, progress: { chapter: Math.min(currentChapter + 1, lastChapter), index: 0 } })
+    } else if (!randomConfig.isOpen) {
+      saveDictProgress({ dictId: currentDictId, progress: { chapter: currentChapter, index: state.chapterData.index } })
+    }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [state.chapterData.index, state.isTyping, state.isFinished])
 
   useEffect(() => {
     // Once the chapter is finished and all word records are saved, save the chapter record
@@ -134,6 +168,7 @@ const App: React.FC = () => {
           <PronunciationSwitcher />
           <Switcher />
           <StartButton isLoading={isLoading} />
+          <SpacedReviewButton />
           <Tooltip content="Skip this word">
             <button
               className={`${

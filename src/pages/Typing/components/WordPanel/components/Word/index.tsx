@@ -15,6 +15,7 @@ import { usePlayWordSoundOnce } from '@/hooks/usePronunciation'
 import { TypingContext, TypingStateActionType } from '@/pages/Typing/store'
 import {
   currentChapterAtom,
+  currentDictIdAtom,
   currentDictInfoAtom,
   isIgnoreCaseAtom,
   isShowAnswerOnHoverAtom,
@@ -26,6 +27,8 @@ import {
 import type { Word } from '@/typings'
 import { CTRL, getUtcStringForMixpanel, isCharMatch } from '@/utils'
 import { useSaveWordRecord } from '@/utils/db'
+import { recordSrsResult } from '@/utils/db/srs'
+import { gradeFromWrongCount } from '@/utils/srs'
 import { useAtomValue } from 'jotai'
 import { useCallback, useContext, useEffect, useRef, useState } from 'react'
 import { useHotkeys } from 'react-hotkeys-hook'
@@ -52,6 +55,7 @@ export default function WordComponent({ word, onFinish }: { word: Word; onFinish
   const currentLanguage = useAtomValue(currentDictInfoAtom).language
   const currentLanguageCategory = useAtomValue(currentDictInfoAtom).languageCategory
   const currentChapter = useAtomValue(currentChapterAtom)
+  const currentDictId = useAtomValue(currentDictIdAtom)
 
   const [showTipAlert, setShowTipAlert] = useState(false)
   const wordPronunciationIconRef = useRef<WordPronunciationIconRef>(null)
@@ -267,6 +271,7 @@ export default function WordComponent({ word, onFinish }: { word: Word; onFinish
         letterTimeArray: wordState.letterTimeArray,
         letterMistake: wordState.letterMistake,
       })
+      recordSrsResult(currentDictId, word, gradeFromWrongCount(wordState.wrongCount))
 
       onFinish()
     }

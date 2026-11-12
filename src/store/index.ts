@@ -14,6 +14,8 @@ import type {
   WordDictationType,
 } from '@/typings'
 import type { ReviewRecord } from '@/utils/db/record'
+import type { DictProgress, DictProgressMap } from '@/utils/progress'
+import { DICT_PROGRESS_KEY, readDictProgressMap } from '@/utils/progress'
 import { atom } from 'jotai'
 import { atomWithStorage } from 'jotai/utils'
 
@@ -29,6 +31,20 @@ export const currentDictInfoAtom = atom<Dictionary>((get) => {
 })
 
 export const currentChapterAtom = atomWithStorage('currentChapter', 0)
+
+/** Where the user stopped in each dictionary (see utils/progress). */
+export const dictProgressAtom = atomWithStorage<DictProgressMap>(DICT_PROGRESS_KEY, {})
+
+/** Saves one dictionary's progress, merging with what localStorage holds so the other dictionaries are kept. */
+export const saveDictProgressAtom = atom(
+  null,
+  (_get, set, { dictId, progress }: { dictId: string; progress: Omit<DictProgress, 'updatedAt'> }) => {
+    const map = readDictProgressMap()
+    const old = map[dictId]
+    if (old && old.chapter === progress.chapter && old.index === progress.index) return
+    set(dictProgressAtom, { ...map, [dictId]: { ...progress, updatedAt: Date.now() } })
+  },
+)
 
 export const loopWordConfigAtom = atomForConfig<{ times: LoopWordTimesOption }>('loopWordConfig', {
   times: 1,
@@ -85,6 +101,11 @@ export const reviewModeInfoAtom = reviewInfoAtom({
   reviewRecord: undefined as ReviewRecord | undefined,
 })
 export const isReviewModeAtom = atom((get) => get(reviewModeInfoAtom).isReviewMode)
+export const isSpacedReviewAtom = atom((get) => {
+  const { isReviewMode, reviewRecord } = get(reviewModeInfoAtom)
+  return isReviewMode && reviewRecord?.kind === 'srs'
+})
+export const reviewTitleAtom = atom((get) => (get(isSpacedReviewAtom) ? 'Spaced review' : 'Mistake review'))
 
 export const phoneticConfigAtom = atomForConfig('phoneticConfig', {
   isOpen: true,

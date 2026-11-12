@@ -126,6 +126,9 @@ export interface IReviewRecord {
   isFinished: boolean
   // word list, generated and updated by the review algorithm; may contain duplicates
   words: Word[]
+  // 'srs': a spaced-review session of the words due today. It lives only in localStorage, never in reviewRecords.
+  // Undefined: a mistake review.
+  kind?: 'srs'
 }
 
 export class ReviewRecord implements IReviewRecord {
@@ -135,6 +138,7 @@ export class ReviewRecord implements IReviewRecord {
   createTime: number
   isFinished: boolean
   words: Word[]
+  kind?: 'srs'
 
   constructor(dict: string, words: Word[]) {
     this.dict = dict

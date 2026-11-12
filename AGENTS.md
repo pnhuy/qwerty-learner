@@ -59,7 +59,8 @@ src/
     dictionary.ts        Catalogue of every dictionary (id, name, description, category, tags, url, length,
                          language, languageCategory)
     soundResource.ts     Key/correct/wrong sounds and pronunciation options
-  utils/db/              Dexie RecordDB (wordRecords, chapterRecords, reviewRecords) and hooks that save them
+  utils/db/              Dexie RecordDB (wordRecords, chapterRecords, reviewRecords, srsCards) and hooks that save them
+  utils/srs.ts           Spaced-repetition scheduler; utils/progress.ts = per-dictionary resume point
   utils/mixpanel.ts      Analytics no-op stubs
   typings/               Shared types (Word, Dictionary, LanguageType, ...)
   components/            Shared UI (Header, Footer, InfoPanel, Tooltip, ui/ = shadcn primitives)
@@ -121,6 +122,20 @@ Pronunciation: Youdao has no Finnish voice. About 470 words have a human recordi
 `scripts/finnish/commons_audio.py` collects. Those words carry the MP3 link in an optional `audio` field, which
 `generateWordSoundSrc` plays first. Other Finnish words use Google Translate's unofficial TTS endpoint. That endpoint
 returns 404 if a Referer is sent, so `index.html` sets `<meta name="referrer" content="no-referrer">`. Keep that tag.
+
+## Progress and spaced repetition
+
+- **Progress.** `dictProgress` in localStorage (`src/utils/progress.ts`, `dictProgressAtom` / `saveDictProgressAtom`)
+  holds `{ chapter, index }` per dictionary. The Typing page saves it while the user types (never during chapter setup,
+  which can run with defaults before jotai loads stored values), skips the index while shuffle is on, and on finishing
+  a chapter points it at the next one. Setting up a chapter resumes at the saved index when the chapter matches. The
+  Gallery's chapter panel has a "Continue" button, and leaving a review returns to the saved chapter.
+- **Spaced repetition.** `src/utils/srs.ts` is an SM-2 variant. Every finished word is graded from its mistakes (0 →
+  good, 1 → hard, 2+ or skipped → again) and stored in the Dexie `srsCards` table (`[dict+name]`, version 4) with a due
+  date on local midnight. A correct answer before the due date doesn't change the schedule. Due words (up to 50) form
+  a review session: a `ReviewRecord` with `kind: 'srs'` that lives only in the `reviewModeInfo` localStorage key, never
+  in `reviewRecords`. It is started from the header's repeat button or from the Gallery, and `reviewTitleAtom` labels
+  it "Spaced review" instead of "Mistake review".
 
 ## Coding principles
 

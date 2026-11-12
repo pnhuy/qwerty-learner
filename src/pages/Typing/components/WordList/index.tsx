@@ -2,7 +2,7 @@ import { TypingContext, TypingStateActionType } from '../../store'
 import WordCard from './WordCard'
 import Drawer from '@/components/Drawer'
 import Tooltip from '@/components/Tooltip'
-import { currentChapterAtom, currentDictInfoAtom, isReviewModeAtom } from '@/store'
+import { currentChapterAtom, currentDictInfoAtom, isReviewModeAtom, reviewTitleAtom } from '@/store'
 import { Dialog } from '@headlessui/react'
 import * as ScrollArea from '@radix-ui/react-scroll-area'
 import { atom, useAtomValue } from 'jotai'
@@ -14,7 +14,7 @@ const currentDictTitle = atom((get) => {
   const isReviewMode = get(isReviewModeAtom)
 
   if (isReviewMode) {
-    return `${get(currentDictInfoAtom).name} Mistake review`
+    return `${get(currentDictInfoAtom).name} ${get(reviewTitleAtom)}`
   } else {
     return `${get(currentDictInfoAtom).name} Chapter ${get(currentChapterAtom) + 1}`
   }
