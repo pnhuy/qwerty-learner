@@ -150,7 +150,9 @@ returns 404 if a Referer is sent, so `index.html` sets `<meta name="referrer" co
 - **No tracking.** Don't add third-party analytics, trackers or remote calls. Only fetch dictionaries, sounds and
   pronunciation audio (Youdao, Wikimedia Commons, and Google Translate TTS for Finnish).
 - **Keep it static.** Features must work without a server, so the build can be hosted on any static host or GitHub
-  Pages (`REACT_APP_DEPLOY_ENV=pages` sets the router basename).
+  Pages (`REACT_APP_DEPLOY_ENV=pages` sets the router basename). Link to this deployment's root (`/`, or `useHref('/')`
+  for an absolute URL), never to a hard-coded domain. The absolute URLs in `index.html` come from the optional
+  `SITE_URL` build variable (see `siteUrl()` in `vite.config.ts`).
 - **Small, focused changes.** Match the surrounding code, keep components inside the page that owns them unless they
   are shared, and don't reformat unrelated files.
 

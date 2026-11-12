@@ -5,6 +5,7 @@ on:
       - master
 env:
   REACT_APP_DEPLOY_ENV: pages
+  SITE_URL: https://${{ github.repository_owner }}.github.io/qwerty-learner/
 jobs:
   deploy:
     runs-on: ubuntu-latest

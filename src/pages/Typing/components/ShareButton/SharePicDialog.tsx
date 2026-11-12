@@ -178,7 +178,7 @@ export default function SharePicDialog({ showState, setShowState, randomChoose }
               <div className="ml-5 mt-2 self-start text-xs text-gray-600">{`Chapter ${currentChapter + 1}`}</div>
             </div>
             <div className="mb-3 ml-5 mt-auto">
-              <div className="text-xs">Qwerty.kaiyi.cool</div>
+              <div className="text-xs">{window.location.host}</div>
               <div className="mt-1 text-xs font-normal text-gray-400">Vocabulary and muscle-memory training for keyboard workers</div>
             </div>
             <div className="absolute -right-9 bottom-10 ">
