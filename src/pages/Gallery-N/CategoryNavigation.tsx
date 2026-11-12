@@ -5,7 +5,7 @@ interface Props {
   titles?: string[]
 }
 
-export default function CategoryNavigation({ titles = ['中国考试', '留学考试', '代码练习'] }: Props) {
+export default function CategoryNavigation({ titles = ['Chinese Exams', 'International Exams', 'Code Practice'] }: Props) {
   const [selectedTitle, setSelectedTitle] = useState(titles[0])
 
   return (

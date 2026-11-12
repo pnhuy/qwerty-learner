@@ -1,310 +1,464 @@
 [
     {
         "name": "limitation",
-        "trans": ["n. 限制"]
+        "trans": [
+            "n. a principle that limits the extent of something; the quality of being limited or restricted"
+        ]
     },
     {
         "name": "grassland",
-        "trans": ["n. 草原"]
+        "trans": [
+            "n. land where grass or grasslike vegetation grows and is the dominant form of plant life"
+        ]
     },
     {
         "name": "marine",
-        "trans": ["adj. 海洋的", "海事的"]
+        "trans": [
+            "adj. of or relating to the sea"
+        ]
     },
     {
         "name": "undergraduate",
-        "trans": ["n. 大学生"]
+        "trans": [
+            "n. a university student who has not yet received a first degree"
+        ]
     },
     {
         "name": "scrub",
-        "trans": ["v. 用力擦洗"]
+        "trans": [
+            "v. clean with hard rubbing; wash thoroughly"
+        ]
     },
     {
         "name": "journal",
-        "trans": ["n. 期刊"]
+        "trans": [
+            "n. a daily written record of (usually personal) experiences and observations; a periodical dedicated to a particular subject"
+        ]
     },
     {
         "name": "base",
-        "trans": ["n. 基础", "基地"]
+        "trans": [
+            "n. installation from which a military force initiates operations; lowest support of a structure"
+        ]
     },
     {
         "name": "archaeology",
-        "trans": ["n. 考古学"]
+        "trans": [
+            "n. the branch of anthropology that studies prehistoric people and their cultures"
+        ]
     },
     {
         "name": "reference",
-        "trans": ["n. 参考", "参考书"]
+        "trans": [
+            "n. a remark that calls attention to something or someone; a short note recognizing a source of information or of a quoted passage"
+        ]
     },
     {
         "name": "classical",
-        "trans": ["adj. 古典的"]
+        "trans": [
+            "adj. of or relating to the most highly developed stage of an earlier civilisation and its culture; of recognized authority or excellence"
+        ]
     },
     {
         "name": "brief",
-        "trans": ["adj. 简短的"]
+        "trans": [
+            "adj. of short duration or distance; concise and succinct"
+        ]
     },
     {
         "name": "module",
-        "trans": ["n. 模块"]
+        "trans": [
+            "n. one of the inherent cognitive or perceptual powers of the mind"
+        ]
     },
     {
         "name": "compulsory",
-        "trans": ["adj. 必修的"]
+        "trans": [
+            "adj. required by rule"
+        ]
     },
     {
         "name": "classification",
-        "trans": ["n. 分类"]
+        "trans": [
+            "n. the act of distributing things into classes or categories of the same type; a group of people or things arranged by class or category"
+        ]
     },
     {
         "name": "score",
-        "trans": ["n. 分数"]
+        "trans": [
+            "n. a number or letter indicating quality (especially of a student's performance)"
+        ]
     },
     {
         "name": "judge",
-        "trans": ["v. 判断"]
+        "trans": [
+            "v. determine the result of (a competition); form a critical opinion of"
+        ]
     },
     {
         "name": "coursework",
-        "trans": ["n. 课程作业"]
+        "trans": [
+            "n. work assigned to and done by a student during a course of study; usually it is evaluated as part of the student's grade in the course"
+        ]
     },
     {
         "name": "origin",
-        "trans": ["n. 起源"]
+        "trans": [
+            "n. the place where something begins, where it springs into being; properties attributable to your ancestry"
+        ]
     },
     {
         "name": "oral",
-        "trans": ["adj. 口头的"]
+        "trans": [
+            "adj. using speech rather than writing"
+        ]
     },
     {
         "name": "engine",
-        "trans": ["n. 发动机"]
+        "trans": [
+            "n. motor that converts thermal energy to mechanical work; something used to achieve a purpose"
+        ]
     },
     {
         "name": "capacity",
-        "trans": ["n. 容量", "能力"]
+        "trans": [
+            "n. capability to perform or produce; the susceptibility of something to a particular treatment"
+        ]
     },
     {
         "name": "prefer",
-        "trans": ["v. 更喜欢"]
+        "trans": [
+            "v. like better; value more highly; select as an alternative over another"
+        ]
     },
     {
         "name": "commercial",
-        "trans": ["adj. 商业的"]
+        "trans": [
+            "adj. connected with or engaged in or sponsored by or used in commerce or commercial enterprises; of or relating to commercialism"
+        ]
     },
     {
         "name": "reliable",
-        "trans": ["adj. 可靠的"]
+        "trans": [
+            "adj. worthy of reliance or trust; worthy of being depended on"
+        ]
     },
     {
         "name": "roll over",
-        "trans": ["v. 翻滚"]
+        "trans": [
+            "v. make a rolling motion or turn"
+        ]
     },
     {
         "name": "harmful",
-        "trans": ["adj. 有害的"]
+        "trans": [
+            "adj. causing or capable of causing harm"
+        ]
     },
     {
         "name": "statistics",
-        "trans": ["n. 统计学"]
+        "trans": [
+            "n. a branch of applied mathematics concerned with the collection and interpretation of quantitative data and the use of probability theory to estimate population…"
+        ]
     },
     {
         "name": "note",
-        "trans": ["n. 笔记"]
+        "trans": [
+            "n. a brief written record; a short personal letter"
+        ]
     },
     {
         "name": "raise",
-        "trans": ["v. 提高"]
+        "trans": [
+            "v. raise the level or amount of something; raise from a lower to a higher position"
+        ]
     },
     {
         "name": "cost",
-        "trans": ["n. 花费"]
+        "trans": [
+            "n. the total spent for goods or services including money and time and labor"
+        ]
     },
     {
         "name": "reputation",
-        "trans": ["n. 名望"]
+        "trans": [
+            "n. the state of being held in high esteem and honor; notoriety for some particular characteristic"
+        ]
     },
     {
         "name": "software",
-        "trans": ["n. 软件"]
+        "trans": [
+            "n. (computer science) written programs or procedures or rules and associated documentation pertaining to the operation of a computer system and that are stored in…"
+        ]
     },
     {
         "name": "creative",
-        "trans": ["adj. 有创造力的"]
+        "trans": [
+            "adj. having the ability or power to create; promoting construction or creation"
+        ]
     },
     {
         "name": "diploma",
-        "trans": ["n. 毕业证书"]
+        "trans": [
+            "n. a document certifying the successful completion of a course of study"
+        ]
     },
     {
         "name": "respondent",
-        "trans": ["n. 回答者"]
+        "trans": [
+            "n. the codefendant (especially in a divorce proceeding) who is accused of adultery with the corespondent"
+        ]
     },
     {
         "name": "uncertain",
-        "trans": ["adj. 不确定的"]
+        "trans": [
+            "adj. lacking or indicating lack of confidence or assurance; not established beyond doubt; still undecided or unknown"
+        ]
     },
     {
         "name": "gradual",
-        "trans": ["adj. 逐渐的"]
+        "trans": [
+            "adj. proceeding in small stages"
+        ]
     },
     {
         "name": "privacy",
-        "trans": ["n. 隐私"]
+        "trans": [
+            "n. the quality of being secluded from the presence or view of others; the condition of being concealed or hidden"
+        ]
     },
     {
         "name": "margin",
-        "trans": ["n. 边缘"]
+        "trans": [
+            "n. the boundary line or the area immediately inside the boundary; an amount beyond the minimum necessary"
+        ]
     },
     {
         "name": "interaction",
-        "trans": ["n. 互动"]
+        "trans": [
+            "n. a mutual or reciprocal action; interacting"
+        ]
     },
     {
         "name": "bibliography",
-        "trans": ["n. 参考书目"]
+        "trans": [
+            "n. a list of writings with time and place of publication (such as the writings of a single author or the works referred to in preparing a document etc.)"
+        ]
     },
     {
         "name": "scale",
-        "trans": ["n. 规模"]
+        "trans": [
+            "n. an ordered reference standard; relative magnitude"
+        ]
     },
     {
         "name": "legislation",
-        "trans": ["n. 法律"]
+        "trans": [
+            "n. law enacted by a legislative body; the act of making or enacting laws"
+        ]
     },
     {
         "name": "flexibility",
-        "trans": ["n. 灵活性"]
+        "trans": [
+            "n. the property of being flexible; easily bent or shaped; the quality of being adaptable or variable"
+        ]
     },
     {
         "name": "overweigh",
-        "trans": ["v. 比...重要"]
+        "trans": [
+            "v. To exceed in weight; to overbalance; to weigh down"
+        ]
     },
     {
         "name": "psycholinguistics",
-        "trans": ["n. 心理语言学"]
+        "trans": [
+            "n. the branch of cognitive psychology that studies the psychological basis of linguistic competence and performance"
+        ]
     },
     {
         "name": "distinguish",
-        "trans": ["v. 区别"]
+        "trans": [
+            "v. mark as different; detect with the senses"
+        ]
     },
     {
         "name": "explode",
-        "trans": ["v. 爆炸"]
+        "trans": [
+            "v. cause to burst with a violent release of energy; burst outward, usually with noise"
+        ]
     },
     {
         "name": "celebrity",
-        "trans": ["n. 名人"]
+        "trans": [
+            "n. a widely known person"
+        ]
     },
     {
         "name": "pigeon",
-        "trans": ["n. 鸽子"]
+        "trans": [
+            "n. wild and domesticated birds having a heavy body and short legs"
+        ]
     },
     {
         "name": "vague",
-        "trans": ["adj. 模糊的"]
+        "trans": [
+            "adj. not clearly understood or expressed; not precisely limited, determined, or distinguished"
+        ]
     },
     {
         "name": "exploit",
-        "trans": ["v. 开发"]
+        "trans": [
+            "v. use or manipulate to one's advantage; draw from; make good use of"
+        ]
     },
     {
         "name": "disguise",
-        "trans": ["v. 伪装"]
+        "trans": [
+            "v. make unrecognizable"
+        ]
     },
     {
         "name": "index",
-        "trans": ["n. 索引"]
+        "trans": [
+            "n. a numerical scale used to compare variables with one another or with some reference number"
+        ]
     },
     {
         "name": "text",
-        "trans": ["n. 文本"]
+        "trans": [
+            "n. the words of something written"
+        ]
     },
     {
         "name": "factual",
-        "trans": ["adj. 事实的"]
+        "trans": [
+            "adj. existing in act or fact"
+        ]
     },
     {
         "name": "digital",
-        "trans": ["adj. 数字的"]
+        "trans": [
+            "adj. displaying numbers rather than scale positions"
+        ]
     },
     {
         "name": "editor",
-        "trans": ["n. 编辑"]
+        "trans": [
+            "n. a person responsible for the editorial aspects of publication; the person who determines the final content of a text (especially of a newspaper or magazine)"
+        ]
     },
     {
         "name": "status",
-        "trans": ["n. 地位"]
+        "trans": [
+            "n. the relative position or standing of things or especially persons in a society; a state at a particular time"
+        ]
     },
     {
         "name": "theoretical",
-        "trans": ["adj. 理论上的"]
+        "trans": [
+            "adj. concerned primarily with theories or hypotheses rather than practical considerations"
+        ]
     },
     {
         "name": "freedom",
-        "trans": ["n. 自由"]
+        "trans": [
+            "n. the condition of being free; the power to act or speak or think without externally imposed restraints; immunity from an obligation or duty"
+        ]
     },
     {
         "name": "challenging",
-        "trans": ["adj. 挑战的"]
+        "trans": [
+            "adj. requiring full use of your abilities or resources"
+        ]
     },
     {
         "name": "background",
-        "trans": ["n. 背景"]
+        "trans": [
+            "n. a person's social heritage: previous experience or training; the part of a scene (or picture) that lies behind objects in the foreground"
+        ]
     },
     {
         "name": "overview",
-        "trans": ["n. 概览"]
+        "trans": [
+            "n. a general summary of a subject"
+        ]
     },
     {
         "name": "existing",
-        "trans": ["adj. 现存的"]
+        "trans": [
+            "adj. having existence or being or actuality; existing in something specified"
+        ]
     },
     {
         "name": "chat",
-        "trans": ["n. 聊天"]
+        "trans": [
+            "n. an informal conversation"
+        ]
     },
     {
         "name": "technology",
-        "trans": ["n. 技术"]
+        "trans": [
+            "n. the practical application of science to commerce or industry"
+        ]
     },
     {
         "name": "debate",
-        "trans": ["v. 辩论"]
+        "trans": [
+            "v. argue with one another; think about carefully; weigh"
+        ]
     },
     {
         "name": "friendliness",
-        "trans": ["n. 友好"]
+        "trans": [
+            "n. a feeling of liking for another person; enjoyment in their company"
+        ]
     },
     {
         "name": "exchange",
-        "trans": ["v. 交换"]
+        "trans": [
+            "v. give to, and receive from, one another; exchange or replace with another, usually of the same kind or category"
+        ]
     },
     {
         "name": "conclusion",
-        "trans": ["n. 结论"]
+        "trans": [
+            "n. a position or opinion or judgment reached after consideration; an intuitive assumption"
+        ]
     },
     {
         "name": "secretary",
-        "trans": ["n. 秘书"]
+        "trans": [
+            "n. a person who is head of an administrative department of government; an assistant who handles correspondence and clerical work for a boss or an organization"
+        ]
     },
     {
         "name": "upper",
-        "trans": ["adj. 上层的"]
+        "trans": [
+            "adj. higher in place or position"
+        ]
     },
     {
         "name": "cautious",
-        "trans": ["adj. 谨慎的"]
+        "trans": [
+            "adj. showing careful forethought"
+        ]
     },
     {
         "name": "dissertation",
-        "trans": ["n. 论文"]
+        "trans": [
+            "n. a treatise advancing a new point of view resulting from research; usually a requirement for an advanced academic degree"
+        ]
     },
     {
         "name": "methodology",
-        "trans": ["n. 方法论"]
+        "trans": [
+            "n. the branch of philosophy that analyzes the principles and procedures of inquiry in a particular discipline"
+        ]
     },
     {
         "name": "generalisation",
-        "trans": ["n. 概括"]
+        "trans": [
+            "n. an idea or conclusion having general application"
+        ]
     }
 ]

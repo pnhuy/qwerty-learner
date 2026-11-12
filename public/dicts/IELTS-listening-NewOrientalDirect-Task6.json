@@ -2,19 +2,19 @@
     {
         "name": "pulse",
         "trans": [
-            "n. 脉搏"
+            "n. (electronics) a sharp transient wave in the normal electrical state (or a series of such transients)"
         ]
     },
     {
         "name": "take one's temperature",
         "trans": [
-            "测量体温"
+            "phr. to measure the temperature of one's body"
         ]
     },
     {
         "name": "blood pressure",
         "trans": [
-            "n. 血压"
+            "n. the pressure of the circulating blood against the walls of the blood vessels; results from the systole of the left ventricle of the heart…"
         ]
     },
     {
@@ -26,175 +26,177 @@
     {
         "name": "X-Ray film",
         "trans": [
-            "n. X光片"
+            "n. photographic film used to make X-ray pictures"
         ]
     },
     {
         "name": "asthma",
         "trans": [
-            "n. 哮喘"
+            "n. respiratory disorder characterized by wheezing; usually of allergic origin"
         ]
     },
     {
         "name": "heart disease",
         "trans": [
-            "n. 心脏病"
+            "n. a disease of the heart"
         ]
     },
     {
         "name": "obesity",
         "trans": [
-            "n. 肥胖症"
+            "n. more than average fatness"
         ]
     },
     {
         "name": "overweight",
         "trans": [
-            "n. 超重；adj. 超重的"
+            "n. the property of excessive fatness",
+            "adj. usually describes a large person who is fat but has a large frame to carry it"
         ]
     },
     {
         "name": "depression",
         "trans": [
-            "n. 抑郁"
+            "n. a mental state characterized by a pessimistic sense of inadequacy and a despondent lack of activity"
         ]
     },
     {
         "name": "Yellow Fever",
         "trans": [
-            "n. 黄热病"
+            "n. caused by a flavivirus transmitted by a mosquito"
         ]
     },
     {
         "name": "diabetes",
         "trans": [
-            "n. 糖尿病"
+            "n. a polygenic disease characterized by abnormally high glucose levels in the blood…"
         ]
     },
     {
         "name": "diabetic",
         "trans": [
-            "n. 糖尿病人；adj. 患糖尿病的"
+            "n. someone who has diabetes",
+            "adj. of or relating to or causing diabetes"
         ]
     },
     {
         "name": "treatment",
         "trans": [
-            "n. 治疗"
+            "n. care provided to improve a situation (especially medical procedures or applications that are intended to relieve illness or injury)"
         ]
     },
     {
         "name": "remedy",
         "trans": [
-            "n. 治疗"
+            "n. act of correcting an error or a fault or an evil; a medicine or therapy that cures disease or relieve pain"
         ]
     },
     {
         "name": "therapy",
         "trans": [
-            "n. 治疗"
+            "n. (medicine) the act of caring for someone (as by medication or remedial training etc.)"
         ]
     },
     {
         "name": "massage",
         "trans": [
-            "n. 按摩"
+            "n. kneading and rubbing parts of the body to increase circulation and promote relaxation"
         ]
     },
     {
         "name": "message",
         "trans": [
-            "n. 信息"
+            "n. a communication (usually brief) that is written or spoken or signaled; what a communication that is about something is about"
         ]
     },
     {
         "name": "acupuncture",
         "trans": [
-            "n. 针灸治疗"
+            "n. treatment of pain or disease by inserting the tips of needles at specific points on the skin"
         ]
     },
     {
         "name": "operate",
         "trans": [
-            "v. 做手术"
+            "v. direct or control; projects, businesses, etc.; perform as expected when applied"
         ]
     },
     {
         "name": "vaccinate",
         "trans": [
-            "v. 接种疫苗"
+            "v. perform vaccinations or produce immunity in by inoculation"
         ]
     },
     {
         "name": "prescribe",
         "trans": [
-            "v. 开处方"
+            "v. issue commands or orders for"
         ]
     },
     {
         "name": "pharmacy",
         "trans": [
-            "n. 药店"
+            "n. the art and science of preparing and dispensing drugs and medicines,; a retail shop where medicine and other articles are sold"
         ]
     },
     {
         "name": "tablet",
         "trans": [
-            "n. 药片"
+            "n. a slab of stone or wood suitable for bearing an inscription"
         ]
     },
     {
         "name": "pill",
         "trans": [
-            "n. 药片"
+            "n. something that resembles a tablet of medicine in shape or size; a dose of medicine in the form of a small pellet"
         ]
     },
     {
         "name": "capsule",
         "trans": [
-            "n. 胶囊"
+            "n. a small container; a pill in the form of a small rounded gelatinous container with medicine inside"
         ]
     },
     {
         "name": "antibiotic",
         "trans": [
-            "n. 抗生素"
+            "n. a chemical substance derivable from a mold or bacterium that can kill microorganisms and cure bacterial infections"
         ]
     },
     {
         "name": "painkiller",
         "trans": [
-            "n. 止痛药"
+            "n. a medicine used to relieve pain"
         ]
     },
     {
         "name": "aspirin",
         "trans": [
-            "n. 阿司匹林"
+            "n. the acetylated derivative of salicylic acid; used as an analgesic anti-inflammatory drug (trade names Bayer, Empirin…"
         ]
     },
     {
         "name": "penicillin",
         "trans": [
-            "n. 青霉素"
+            "n. any of various antibiotics obtained from Penicillium molds (or produced synthetically) and used in the treatment of various infections and diseases"
         ]
     },
     {
         "name": "vitamin",
         "trans": [
-            "n. 维他命"
+            "n. any of a group of organic substances essential in small quantities to normal metabolism"
         ]
     },
     {
         "name": "side effect",
         "trans": [
-            "n. 副作用"
+            "n. a secondary and usually adverse effect of a drug or therapy"
         ]
     },
     {
         "name": "first-aid kit",
         "trans": [
-            "n. 急救药箱"
+            "n. kit consisting of a set of bandages and medicines for giving first aid"
         ]
     }
 ]

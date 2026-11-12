@@ -2,7 +2,7 @@
     {
         "name": "your",
         "trans": [
-            "refers to something that belongs to the person being addressed."
+            "det. belonging to or associated with the person or people being addressed"
         ],
         "usphone": "jʊər; jʊr",
         "ukphone": "jɔ:(r)"
@@ -10,13 +10,14 @@
     {
         "name": "I",
         "trans": [
-            "refers to the speaker, the person who is speaking or writing."
+            "pron. the speaker or writer, used as the subject of a verb"
         ]
     },
     {
         "name": "they",
         "trans": [
-            "refers to a group of people or things being discussed or referred to."
+            "pron. two or more people or things previously mentioned",
+            "pron. people in general; a person whose gender is unknown or not specified"
         ],
         "usphone": "ðe",
         "ukphone": "ðeɪ"
@@ -24,7 +25,7 @@
     {
         "name": "their",
         "trans": [
-            "refers to something that belongs to a group of people being discussed or referred to."
+            "det. belonging to or associated with the people or things previously mentioned"
         ],
         "usphone": "ðɛr",
         "ukphone": "ðeə"
@@ -32,7 +33,7 @@
     {
         "name": "we",
         "trans": [
-            "refers to a group of people including the speaker."
+            "pron. the speaker together with one or more other people"
         ],
         "usphone": "wi",
         "ukphone": "wiː"
@@ -40,7 +41,8 @@
     {
         "name": "who",
         "trans": [
-            "used to ask about a person or people being discussed or referred to."
+            "pron. what or which person or people",
+            "pron. introducing a clause that describes a person"
         ],
         "usphone": "hu",
         "ukphone": "huː; hʊ"
@@ -48,7 +50,7 @@
     {
         "name": "them",
         "trans": [
-            "refers to a group of people or things being discussed or referred to."
+            "pron. two or more people or things, as the object of a verb or preposition"
         ],
         "usphone": "ðɛm; ðəm",
         "ukphone": "ðem; ðəm"
@@ -56,7 +58,7 @@
     {
         "name": "its",
         "trans": [
-            "refers to something that belongs to an animal, object, or thing being discussed or referred to."
+            "det. belonging to or associated with a thing or animal previously mentioned"
         ],
         "usphone": "ɪts",
         "ukphone": "ɪts"
@@ -64,7 +66,7 @@
     {
         "name": "our",
         "trans": [
-            "refers to something that belongs to a group of people including the speaker."
+            "det. belonging to or associated with the speaker and one or more others"
         ],
         "usphone": "aʊr",
         "ukphone": "aʊə"
@@ -72,7 +74,7 @@
     {
         "name": "my",
         "trans": [
-            "refers to something that belongs to the speaker."
+            "det. belonging to or associated with the speaker"
         ],
         "usphone": "maɪ",
         "ukphone": "maɪ"
@@ -80,7 +82,7 @@
     {
         "name": "those",
         "trans": [
-            "refers to a specific group of things being discussed or referred to that are not nearby."
+            "det. / pron. plural of \"that\"; the people or things farther away or already mentioned"
         ],
         "usphone": "ðoz",
         "ukphone": "ðəʊz"
@@ -88,7 +90,7 @@
     {
         "name": "he",
         "trans": [
-            "refers to a specific male person being discussed or referred to."
+            "pron. a male person or animal previously mentioned"
         ],
         "usphone": "hi",
         "ukphone": "hiː"
@@ -96,7 +98,7 @@
     {
         "name": "us",
         "trans": [
-            "refers to a group of people including the speaker."
+            "pron. the speaker and one or more others, as the object of a verb or preposition"
         ],
         "usphone": "əs; ʌs",
         "ukphone": "əs; ʌs"
@@ -104,7 +106,8 @@
     {
         "name": "her",
         "trans": [
-            "refers to a specific female person being discussed or referred to."
+            "pron. a female person or animal, as the object of a verb or preposition",
+            "det. belonging to or associated with a female person previously mentioned"
         ],
         "usphone": "hɚ",
         "ukphone": "hɜː"
@@ -112,7 +115,7 @@
     {
         "name": "something",
         "trans": [
-            "refers to a thing or object being discussed or referred to without specifying what it is."
+            "pron. a thing that is unknown or not specified"
         ],
         "usphone": "'sʌmθɪŋ",
         "ukphone": "'sʌmθɪŋ"
@@ -120,7 +123,7 @@
     {
         "name": "me",
         "trans": [
-            "refers to the speaker, the person who is speaking or writing."
+            "pron. the speaker or writer, used as the object of a verb or preposition"
         ],
         "usphone": "mi",
         "ukphone": "miː"
@@ -128,7 +131,7 @@
     {
         "name": "yourself",
         "trans": [
-            "refers to the person being addressed, or the reflexive form of you."
+            "pron. reflexive or emphatic form of \"you\" (one person)"
         ],
         "usphone": "jɔr'sɛlf",
         "ukphone": "jɔː'self; jʊə-; jə-"
@@ -136,7 +139,7 @@
     {
         "name": "someone",
         "trans": [
-            "refers to a person who is not known or specified."
+            "pron. an unknown or unspecified person"
         ],
         "usphone": "'sʌmwʌn",
         "ukphone": "'sʌmwʌn"
@@ -144,7 +147,7 @@
     {
         "name": "everything",
         "trans": [
-            "refers to all things, or the entirety of something."
+            "pron. all things; all that is important"
         ],
         "usphone": "'ɛvrɪ'θɪŋ",
         "ukphone": "'evrɪθɪŋ"
@@ -152,7 +155,7 @@
     {
         "name": "itself",
         "trans": [
-            "refers to a thing or object being discussed, or the reflexive form of it."
+            "pron. reflexive or emphatic form of \"it\""
         ],
         "usphone": "ɪt'sɛlf",
         "ukphone": "ɪt'self"
@@ -160,7 +163,7 @@
     {
         "name": "everyone",
         "trans": [
-            "refers to every person, or all members of a group."
+            "pron. every person; all people"
         ],
         "usphone": "'ɛvrɪwʌn",
         "ukphone": "'evrɪwʌn"
@@ -168,7 +171,7 @@
     {
         "name": "themselves",
         "trans": [
-            "refers to multiple people or things being discussed, or the reflexive form of they."
+            "pron. reflexive or emphatic form of \"they\" / \"them\""
         ],
         "usphone": "ðɛm'sɛlvz",
         "ukphone": "ð(ə)m'selvz"
@@ -176,7 +179,7 @@
     {
         "name": "anyone",
         "trans": [
-            "refers to any person, or a person who is not known or specified."
+            "pron. any person or people"
         ],
         "usphone": "'ɛnɪ'wʌn",
         "ukphone": "'enɪwʌn"
@@ -184,7 +187,7 @@
     {
         "name": "him",
         "trans": [
-            "refers to a male person being discussed or referred to."
+            "pron. a male person or animal, as the object of a verb or preposition"
         ],
         "usphone": "hɪm",
         "ukphone": "hɪm"
@@ -192,7 +195,7 @@
     {
         "name": "whose",
         "trans": [
-            "used to ask about or indicate possession."
+            "det. / pron. belonging to which person; of whom or of which"
         ],
         "usphone": "huz",
         "ukphone": "huːz"
@@ -200,7 +203,7 @@
     {
         "name": "myself",
         "trans": [
-            "refers to the speaker, or the reflexive form of I."
+            "pron. reflexive or emphatic form of \"I\" / \"me\""
         ],
         "usphone": "maɪ'sɛlf",
         "ukphone": "maɪ'self"
@@ -208,7 +211,7 @@
     {
         "name": "everybody",
         "trans": [
-            "refers to every person, or all members of a group."
+            "pron. every person; all people"
         ],
         "usphone": "'ɛvrɪbɑdi",
         "ukphone": "'evrɪbɒdɪ"
@@ -216,7 +219,7 @@
     {
         "name": "ourselves",
         "trans": [
-            "refers to the group of people who are speaking, or the reflexive form of we."
+            "pron. reflexive or emphatic form of \"we\" / \"us\""
         ],
         "usphone": "ɑr'sɛlvz",
         "ukphone": "aʊə'selvz"
@@ -224,7 +227,7 @@
     {
         "name": "himself",
         "trans": [
-            "refers to a male person being discussed or referred to."
+            "pron. reflexive or emphatic form of \"he\" / \"him\""
         ],
         "usphone": "hɪm'sɛlf",
         "ukphone": "hɪm'self"
@@ -232,7 +235,7 @@
     {
         "name": "somebody",
         "trans": [
-            "refers to a person who is not known or specified."
+            "pron. an unknown or unspecified person"
         ],
         "usphone": "'sʌmbədi",
         "ukphone": "'sʌmbədɪ"
@@ -240,7 +243,7 @@
     {
         "name": "yours",
         "trans": [
-            "refers to something that belongs to the person being addressed."
+            "pron. the one(s) belonging to you"
         ],
         "usphone": "jʊrz",
         "ukphone": "jɔːz; jʊəz"
@@ -248,7 +251,7 @@
     {
         "name": "herself",
         "trans": [
-            "refers to a female person being discussed or referred to."
+            "pron. reflexive or emphatic form of \"she\" / \"her\""
         ],
         "usphone": "hɝ'sɛlf",
         "ukphone": "hɜː'self"
@@ -256,7 +259,7 @@
     {
         "name": "whoever",
         "trans": [
-            "refers to any person who."
+            "pron. any person who; no matter who"
         ],
         "usphone": "hʊ'ɛvɚ",
         "ukphone": "huːˈɛvə"
@@ -264,7 +267,8 @@
     {
         "name": "you",
         "trans": [
-            "refers to the person being addressed."
+            "pron. the person or people being addressed",
+            "pron. any person; people in general"
         ],
         "usphone": "ju",
         "ukphone": "juː"
@@ -272,7 +276,9 @@
     {
         "name": "that",
         "trans": [
-            "refers to a specific thing or idea being discussed."
+            "det. / pron. the person or thing farther away or already mentioned",
+            "conj. introducing a clause (e.g. I know that he left)",
+            "adv. to that degree; so"
         ],
         "usphone": "ðæt",
         "ukphone": "ðæt; ðət"
@@ -280,7 +286,8 @@
     {
         "name": "it",
         "trans": [
-            "refers to a thing or object being discussed."
+            "pron. a thing, animal or situation previously mentioned or easily identified",
+            "pron. used as an empty subject (e.g. it is raining)"
         ],
         "usphone": "ɪt",
         "ukphone": "ɪt"
@@ -288,7 +295,8 @@
     {
         "name": "this",
         "trans": [
-            "refers to a specific thing or idea being discussed."
+            "det. / pron. the person or thing near the speaker or just mentioned",
+            "adv. to this degree; so"
         ],
         "usphone": "ðɪs",
         "ukphone": "ðɪs"
@@ -296,7 +304,8 @@
     {
         "name": "what",
         "trans": [
-            "used to ask about something or indicate surprise."
+            "pron. / det. asking for information about something",
+            "pron. the thing(s) that"
         ],
         "usphone": "hwɒt; hwɑt",
         "ukphone": "wɒt"
@@ -304,7 +313,8 @@
     {
         "name": "which",
         "trans": [
-            "used to indicate one or more alternatives."
+            "pron. / det. asking for a choice from a definite set",
+            "pron. introducing a clause that describes a thing"
         ],
         "usphone": "wɪtʃ",
         "ukphone": "wɪtʃ"
@@ -312,7 +322,7 @@
     {
         "name": "these",
         "trans": [
-            "refers to specific things being discussed or referred to."
+            "det. / pron. plural of \"this\"; the people or things near the speaker"
         ],
         "usphone": "ðiz",
         "ukphone": "ðiːz"
@@ -320,7 +330,8 @@
     {
         "name": "his",
         "trans": [
-            "refers to something that belongs to a male person being discussed or referred to."
+            "det. belonging to or associated with a male person previously mentioned",
+            "pron. the one(s) belonging to him"
         ],
         "usphone": "hɪz",
         "ukphone": "hɪz"
@@ -328,7 +339,7 @@
     {
         "name": "she",
         "trans": [
-            "refers to a female person being discussed or referred to."
+            "pron. a female person or animal previously mentioned"
         ],
         "usphone": "ʃi",
         "ukphone": "ʃiː"
@@ -336,7 +347,7 @@
     {
         "name": "lot",
         "trans": [
-            "refers to a large number or amount of something."
+            "n. (often followed by 'of') a large number or amount or extent; a parcel of land having fixed boundaries"
         ],
         "usphone": "lɑt",
         "ukphone": "lɒt"
@@ -344,7 +355,7 @@
     {
         "name": "anything",
         "trans": [
-            "refers to any thing, or a thing that is not known or specified."
+            "pron. a thing of any kind"
         ],
         "usphone": "'ɛnɪ'θɪŋ",
         "ukphone": "'enɪθɪŋ"
@@ -352,7 +363,8 @@
     {
         "name": "whatever",
         "trans": [
-            "refers to any thing or idea, or an unspecified thing or idea."
+            "pron. / det. anything that; no matter what",
+            "adv. at all; of any kind"
         ],
         "usphone": "wət'ɛvɚ",
         "ukphone": "wɒt'evə"
@@ -360,7 +372,7 @@
     {
         "name": "nobody",
         "trans": [
-            "refers to no person, or a person who is not present or specified."
+            "pron. no person; no one"
         ],
         "usphone": "'nəubədi, -bɔdi",
         "ukphone": "'nəʊbədɪ"
@@ -368,7 +380,7 @@
     {
         "name": "none",
         "trans": [
-            "refers to no one or nothing, or an absence of someone or something."
+            "adv. not at all or in no way"
         ],
         "usphone": "nʌn",
         "ukphone": "nʌn"
@@ -376,7 +388,9 @@
     {
         "name": "mine",
         "trans": [
-            "refers to something that belongs to the speaker."
+            "pron. the one(s) belonging to me",
+            "n. an excavation in the earth for extracting coal, metal or other minerals",
+            "n. an explosive device placed in the ground or water"
         ],
         "usphone": "maɪn",
         "ukphone": "maɪn"
@@ -384,7 +398,7 @@
     {
         "name": "anybody",
         "trans": [
-            "refers to any person, or a person who is not known or specified."
+            "pron. any person or people"
         ],
         "usphone": "'ɛnɪbɑdi",
         "ukphone": "'enɪbɒdɪ"
@@ -392,7 +406,8 @@
     {
         "name": "some",
         "trans": [
-            "refers to a certain amount or number of something, or an unspecified amount or number."
+            "adj. quantifier; used with either mass nouns or plural count nouns to indicate an unspecified number or quantity; relatively many but unspecified in number",
+            "adv. (of quantities) imprecise but fairly close to correct"
         ],
         "usphone": "sʌm;səm",
         "ukphone": "sʌm;səm"
@@ -400,7 +415,7 @@
     {
         "name": "there",
         "trans": [
-            "refers to a place or location being discussed or referred to."
+            "adv. in or at that place; in that matter"
         ],
         "usphone": "ðɛr",
         "ukphone": "ðeə; ðə"
@@ -408,7 +423,8 @@
     {
         "name": "all",
         "trans": [
-            "refers to everything or everyone being discussed or referred to."
+            "adj. quantifier; used with either mass or count nouns to indicate the whole number or amount of or every one of a class; completely given to or absorbed by",
+            "adv. to a complete degree or to the full or entire extent ('whole' is often used informally for 'wholly')"
         ],
         "usphone": "ɔl",
         "ukphone": "ɔːl"
@@ -416,7 +432,8 @@
     {
         "name": "where",
         "trans": [
-            "used to ask about a place or location."
+            "adv. in or to what place",
+            "conj. at, in or to the place in which"
         ],
         "usphone": "hweə(r); hwɛr",
         "ukphone": "weə"
@@ -424,7 +441,7 @@
     {
         "name": "another",
         "trans": [
-            "refers to an additional person or thing, or a person or thing that is different from one already mentioned."
+            "adj. any of various alternatives; some other"
         ],
         "usphone": "ə'nʌðɚ",
         "ukphone": "ə'nʌðə"
@@ -432,7 +449,7 @@
     {
         "name": "same",
         "trans": [
-            "refers to something that is identical or similar to something else."
+            "adj. same in identity; closely similar or comparable in kind or quality or quantity or degree"
         ],
         "usphone": "sem",
         "ukphone": "seɪm"
@@ -440,7 +457,7 @@
     {
         "name": "certain",
         "trans": [
-            "refers to a specific thing or idea being discussed, or a thing or idea that is known or definite."
+            "adj. definite but not specified or identified; having or feeling no doubt or uncertainty; confident and assured"
         ],
         "usphone": "'sɝtn",
         "ukphone": "'sɜːt(ə)n; -tɪn"
@@ -448,7 +465,7 @@
     {
         "name": "nothing",
         "trans": [
-            "refers to no thing or idea, or an absence of something."
+            "pron. not anything; no single thing"
         ],
         "usphone": "'nʌθɪŋ",
         "ukphone": "'nʌθɪŋ"
@@ -456,13 +473,15 @@
     {
         "name": "self",
         "trans": [
-            "refers to the individual person being discussed or referred to."
+            "n. your consciousness of your own identity; a person considered as a unique individual",
+            "adj. (used as a combining form) relating to--of or by or to or from or for--the self"
         ]
     },
     {
         "name": "nowhere",
         "trans": [
-            "refers to no place or location, or a place or location that is not known or specified."
+            "adv. not anywhere; in or at or to no place",
+            "n. an insignificant place"
         ],
         "usphone": "'no'wɛr",
         "ukphone": "'nəʊhweə"

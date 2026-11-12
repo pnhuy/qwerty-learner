@@ -2,7 +2,7 @@
     {
         "name": "old",
         "trans": [
-            "老的"
+            "adj. (used especially of persons) having lived for a relatively long time or attained a specific age; of long duration; not new"
         ],
         "usphone": "old",
         "ukphone": "əʊld"
@@ -10,7 +10,8 @@
     {
         "name": "young",
         "trans": [
-            "年轻的"
+            "adj. (used of living things especially persons) in an early period of life or development or growth",
+            "n. any immature animal"
         ],
         "usphone": "jʌŋ",
         "ukphone": "jʌŋ"
@@ -18,7 +19,7 @@
     {
         "name": "funny",
         "trans": [
-            "滑稽的"
+            "adj. arousing or provoking laughter; beyond or deviating from the usual or expected"
         ],
         "usphone": "'fʌni",
         "ukphone": "'fʌnɪ"
@@ -26,7 +27,8 @@
     {
         "name": "kind",
         "trans": [
-            "体贴的"
+            "n. a category of things distinguished by some common characteristic or quality",
+            "adj. having or showing a tender and considerate and helpful nature; used especially of persons and their behavior"
         ],
         "usphone": "kaɪnd",
         "ukphone": "kaɪnd"
@@ -34,7 +36,7 @@
     {
         "name": "strict",
         "trans": [
-            "严厉的"
+            "adj. rigidly accurate; allowing no deviation from a standard; (of rules) stringently enforced"
         ],
         "usphone": "strɪkt",
         "ukphone": "strɪkt"
@@ -42,7 +44,7 @@
     {
         "name": "polite",
         "trans": [
-            "有礼貌的"
+            "adj. showing regard for others in manners, speech, behavior, etc.; marked by refinement in taste and manners"
         ],
         "usphone": "pə'laɪt",
         "ukphone": "pə'laɪt"
@@ -50,7 +52,7 @@
     {
         "name": "hard-working",
         "trans": [
-            "努力的"
+            "adj. working with energy and commitment; diligent"
         ],
         "usphone": "",
         "ukphone": "ˈhɑːdˈwɜːkɪŋ"
@@ -58,7 +60,7 @@
     {
         "name": "helpful",
         "trans": [
-            "有用的"
+            "adj. providing assistance or serving a useful function"
         ],
         "usphone": "'hɛlpfl",
         "ukphone": "'helpfʊl; -f(ə)l"
@@ -66,7 +68,7 @@
     {
         "name": "clever",
         "trans": [
-            "聪明的"
+            "adj. showing self-interest and shrewdness in dealing with others; mentally quick and resourceful"
         ],
         "usphone": "'klɛvɚ",
         "ukphone": "'klevə"
@@ -74,7 +76,7 @@
     {
         "name": "shy",
         "trans": [
-            "羞怯的"
+            "v. start suddenly, as from fright"
         ],
         "usphone": "ʃaɪ",
         "ukphone": "ʃaɪ"
@@ -82,7 +84,7 @@
     {
         "name": "know",
         "trans": [
-            "知道"
+            "v. be cognizant or aware of a fact or a specific piece of information; possess knowledge or information about; know how to do or perform something"
         ],
         "usphone": "no",
         "ukphone": "nəʊ"
@@ -90,7 +92,7 @@
     {
         "name": "our",
         "trans": [
-            "我们的"
+            "det. belonging to or associated with the speaker and one or more others"
         ],
         "usphone": "aʊr",
         "ukphone": "aʊə"
@@ -98,7 +100,7 @@
     {
         "name": "Ms",
         "trans": [
-            "女士"
+            "n. a chronic progressive nervous disorder involving loss of myelin sheath around certain nerve fibers"
         ],
         "usphone": "",
         "ukphone": ""
@@ -106,7 +108,8 @@
     {
         "name": "will",
         "trans": [
-            "将要"
+            "aux. expressing the future tense or willingness",
+            "n. the faculty of deciding and choosing; a legal document disposing of property after death"
         ],
         "usphone": "wɪl",
         "ukphone": "wɪl"
@@ -114,7 +117,7 @@
     {
         "name": "sometimes",
         "trans": [
-            "有时"
+            "adv. on certain occasions or in certain cases but not always"
         ],
         "usphone": "'sʌmtaɪmz",
         "ukphone": "'sʌmtaɪmz"
@@ -122,7 +125,7 @@
     {
         "name": "robot",
         "trans": [
-            "机器人"
+            "n. a mechanism that can move automatically"
         ],
         "usphone": "'robɑt",
         "ukphone": "'rəʊbɒt"
@@ -130,7 +133,7 @@
     {
         "name": "him",
         "trans": [
-            "他"
+            "pron. a male person or animal, as the object of a verb or preposition"
         ],
         "usphone": "hɪm",
         "ukphone": "hɪm"
@@ -138,7 +141,7 @@
     {
         "name": "speak",
         "trans": [
-            "会说"
+            "v. express in speech; exchange thoughts; talk with"
         ],
         "usphone": "spik",
         "ukphone": "spiːk"
@@ -146,7 +149,8 @@
     {
         "name": "finish",
         "trans": [
-            "完成"
+            "v. come or bring to a finish or an end; finally be or do something",
+            "n. a decorative texture or appearance of a surface (or the substance that gives it that appearance)"
         ],
         "usphone": "'fɪnɪʃ",
         "ukphone": "'fɪnɪʃ"
@@ -154,7 +158,7 @@
     {
         "name": "Monday",
         "trans": [
-            "星期一"
+            "n. the second day of the week; the first working day"
         ],
         "usphone": "ˈmʌnde; ˈmʌndɪ",
         "ukphone": "ˈmʌndeɪ; ˈmʌndi"
@@ -162,7 +166,7 @@
     {
         "name": "Tuesday",
         "trans": [
-            "星期二"
+            "n. the third day of the week; the second working day"
         ],
         "usphone": "ˈtuzdɪ;-de",
         "ukphone": "'tjuːzdeɪ; -dɪ"
@@ -170,7 +174,7 @@
     {
         "name": "Wednesday",
         "trans": [
-            "星期三"
+            "n. the fourth day of the week; the third working day"
         ],
         "usphone": "ˈwɛnzdɪ",
         "ukphone": "ˈwenzdɪ"
@@ -178,7 +182,7 @@
     {
         "name": "Thursday",
         "trans": [
-            "星期四"
+            "n. the fifth day of the week; the fourth working day"
         ],
         "usphone": "ˈθɝzde; ˈθɝzdɪ",
         "ukphone": "'θɜːzdeɪ; -dɪ"
@@ -186,7 +190,7 @@
     {
         "name": "Friday",
         "trans": [
-            "星期五"
+            "n. the sixth day of the week; the fifth working day"
         ],
         "usphone": "",
         "ukphone": "ˈfraɪdeɪ"
@@ -194,7 +198,7 @@
     {
         "name": "Saturday",
         "trans": [
-            "星期六"
+            "n. the seventh and last day of the week; observed as the Sabbath by Jews and some Christians"
         ],
         "usphone": "sætɚdɪ; -de",
         "ukphone": "ˈsætədɪ; -deɪ"
@@ -202,7 +206,7 @@
     {
         "name": "Sunday",
         "trans": [
-            "星期日"
+            "n. first day of the week; observed as a day of rest and worship by most Christians"
         ],
         "usphone": "ˈsʌnde; ˈsʌndi",
         "ukphone": "ˈsʌndeɪ; ˈsʌndi"
@@ -210,7 +214,7 @@
     {
         "name": "weekend",
         "trans": [
-            "周末"
+            "n. a time period usually extending from Friday night through Sunday; more loosely defined as any period of successive days including one and only one Sunday"
         ],
         "usphone": "ˈwikend",
         "ukphone": "wiːkˈɛnd"
@@ -218,7 +222,8 @@
     {
         "name": "wash",
         "trans": [
-            "洗"
+            "v. clean with some chemical process; cleanse (one's body) with soap and water",
+            "n. a thin coat of water-base paint; the work of cleansing (usually with soap and water)"
         ],
         "usphone": "wɔʃ",
         "ukphone": "wɒʃ"
@@ -234,7 +239,8 @@
     {
         "name": "watch",
         "trans": [
-            "看"
+            "v. look attentively; follow with the eyes or the mind",
+            "n. a small portable timepiece; a period of time (4 or 2 hours) during which some of a ship's crew are on duty"
         ],
         "usphone": "wɑtʃ",
         "ukphone": "wɒtʃ"
@@ -242,7 +248,7 @@
     {
         "name": "watch TV",
         "trans": [
-            "看电视"
+            "phr. to watch television"
         ],
         "usphone": "",
         "ukphone": ""
@@ -250,7 +256,8 @@
     {
         "name": "do",
         "trans": [
-            "做"
+            "v. to perform or carry out (an action or task)",
+            "aux. used to form questions and negatives and for emphasis"
         ],
         "usphone": "du",
         "ukphone": "duː"
@@ -266,7 +273,7 @@
     {
         "name": "read",
         "trans": [
-            "看"
+            "v. interpret something that is written or printed; have or contain a certain wording or form"
         ],
         "usphone": "rid; rɛd",
         "ukphone": "ri:d;red"
@@ -282,7 +289,8 @@
     {
         "name": "play",
         "trans": [
-            "玩"
+            "v. participate in games or sport; act or have an effect in a specified way or with a specific effect or outcome",
+            "n. a dramatic work intended for performance by actors on a stage; a theatrical performance of a drama"
         ],
         "usphone": "ple",
         "ukphone": "pleɪ"
@@ -290,7 +298,7 @@
     {
         "name": "play football",
         "trans": [
-            "踢足球"
+            "phr. to take part in a game of football"
         ],
         "usphone": "",
         "ukphone": ""
@@ -298,7 +306,7 @@
     {
         "name": "cooking",
         "trans": [
-            "烹饪"
+            "n. the act of preparing something (as food) by the application of heat"
         ],
         "usphone": "'kʊkɪŋ",
         "ukphone": "'kʊkɪŋ"
@@ -306,7 +314,7 @@
     {
         "name": "often",
         "trans": [
-            "时常"
+            "adv. many times at short intervals; frequently or in great quantities"
         ],
         "usphone": "ˈɔ:fn; ɔfən",
         "ukphone": "'ɒf(tə)n"
@@ -314,7 +322,8 @@
     {
         "name": "park",
         "trans": [
-            "公园"
+            "n. a large area of land preserved in its natural state as public property; a piece of open land for recreational use in an urban area",
+            "v. place temporarily; maneuver a vehicle into a parking space"
         ],
         "usphone": "pɑrk",
         "ukphone": "pɑːk"
@@ -322,7 +331,7 @@
     {
         "name": "tired",
         "trans": [
-            "疲倦的"
+            "adj. depleted of strength or energy"
         ],
         "usphone": "ˈtaɪrd",
         "ukphone": "taɪəd"
@@ -330,7 +339,8 @@
     {
         "name": "sport",
         "trans": [
-            "体育运动"
+            "n. an active diversion requiring physical exertion and competition; the occupation of athletes who compete for pay",
+            "v. wear or display in an ostentatious or proud manner"
         ],
         "usphone": "spɔrt",
         "ukphone": "spɔːt"
@@ -338,7 +348,7 @@
     {
         "name": "play sports",
         "trans": [
-            "做体育运动"
+            "phr. to take part in sports"
         ],
         "usphone": "",
         "ukphone": ""
@@ -346,7 +356,8 @@
     {
         "name": "should",
         "trans": [
-            "应该"
+            "aux. used to indicate obligation, duty or correctness",
+            "aux. used to indicate what is probable"
         ],
         "usphone": "ʃəd; strong form ʃʊd",
         "ukphone": "ʃəd; strong form ʃʊd"
@@ -354,7 +365,7 @@
     {
         "name": "every",
         "trans": [
-            "每一个"
+            "adj. (used of count nouns) each and all of the members of a group considered singly and without exception"
         ],
         "usphone": "'ɛvri",
         "ukphone": "'evrɪ"
@@ -362,7 +373,7 @@
     {
         "name": "day",
         "trans": [
-            "一天"
+            "n. time for Earth to make a complete rotation on its axis; some point or period in time"
         ],
         "usphone": "de",
         "ukphone": "deɪ"
@@ -370,7 +381,8 @@
     {
         "name": "schedule",
         "trans": [
-            "工作计划"
+            "v. plan for an activity or event; make a schedule; plan the time and place for events",
+            "n. a temporally organized plan for matters to be attended to; an ordered list of times at which things are planned to occur"
         ],
         "usphone": "ˈskedʒʊl; skɛdʒʊl",
         "ukphone": "ˈʃedju:l"
@@ -378,7 +390,7 @@
     {
         "name": "sandwich",
         "trans": [
-            "三明治"
+            "n. two (or more) slices of bread with a filling between them"
         ],
         "usphone": "'sænwɪtʃ",
         "ukphone": "'sæn(d)wɪdʒ; -wɪtʃ"
@@ -386,7 +398,7 @@
     {
         "name": "salad",
         "trans": [
-            "沙拉"
+            "n. food mixtures either arranged on a plate or tossed and served with a moist dressing; usually consisting of or including greens"
         ],
         "usphone": "'sæləd",
         "ukphone": "'sæləd"
@@ -394,7 +406,7 @@
     {
         "name": "hamburger",
         "trans": [
-            "汉堡包"
+            "n. a sandwich consisting of a fried cake of minced beef served on a bun, often with other ingredients"
         ],
         "usphone": "hæmbɝ​ɡɚ",
         "ukphone": "ˈhæmbɜ:gə"
@@ -402,7 +414,7 @@
     {
         "name": "ice cream",
         "trans": [
-            "冰淇淋"
+            "n. frozen dessert containing cream and sugar and flavoring"
         ],
         "usphone": "aɪs krim",
         "ukphone": "aɪs kri:m"
@@ -410,7 +422,7 @@
     {
         "name": "tea",
         "trans": [
-            "茶"
+            "n. a beverage made by steeping tea leaves in water; a light midafternoon meal of tea and sandwiches or cakes"
         ],
         "usphone": "ti",
         "ukphone": "tiː"
@@ -418,7 +430,8 @@
     {
         "name": "fresh",
         "trans": [
-            "新鲜的"
+            "adj. recently made, produced, or harvested; (of a cycle) beginning or occurring again",
+            "adv. very recently"
         ],
         "usphone": "frɛʃ",
         "ukphone": "freʃ"
@@ -426,7 +439,7 @@
     {
         "name": "healthy",
         "trans": [
-            "健康的"
+            "adj. having or indicating good health in body or mind; free from infirmity or disease; financially secure and functioning well"
         ],
         "usphone": "'hɛlθi",
         "ukphone": "'helθɪ"
@@ -434,7 +447,7 @@
     {
         "name": "delicious",
         "trans": [
-            "美味的"
+            "adj. greatly pleasing or entertaining"
         ],
         "usphone": "dɪ'lɪʃəs",
         "ukphone": "dɪ'lɪʃəs"
@@ -442,7 +455,7 @@
     {
         "name": "hot",
         "trans": [
-            "辣的"
+            "adj. used of physical heat; having a high or higher than desirable temperature or giving off heat or feeling or causing a sensation of heat or burning"
         ],
         "usphone": "hɑt",
         "ukphone": "hɒt"
@@ -450,7 +463,8 @@
     {
         "name": "sweet",
         "trans": [
-            "甜的"
+            "adj. having or denoting the characteristic taste of sugar; having a sweet nature befitting an angel or cherub",
+            "adv. in an affectionate or loving manner ('sweet' is sometimes a poetic or informal variant of 'sweetly')"
         ],
         "usphone": "swit",
         "ukphone": "swiːt"
@@ -458,7 +472,8 @@
     {
         "name": "drink",
         "trans": [
-            "喝"
+            "v. take in liquids; consume alcohol",
+            "n. a single serving of a beverage; the act of drinking alcoholic beverages to excess"
         ],
         "usphone": "drɪŋk",
         "ukphone": "drɪŋk"
@@ -466,7 +481,7 @@
     {
         "name": "thirsty",
         "trans": [
-            "渴的"
+            "adj. needing moisture"
         ],
         "usphone": "'θɝsti",
         "ukphone": "'θɜːstɪ"
@@ -474,7 +489,8 @@
     {
         "name": "favourite",
         "trans": [
-            "特别喜欢的"
+            "n. a competitor thought likely to win",
+            "adj. appealing to the general public"
         ],
         "usphone": "'fevərɪt",
         "ukphone": "'feɪv(ə)rɪt"
@@ -482,7 +498,7 @@
     {
         "name": "food",
         "trans": [
-            "食物"
+            "n. any substance that can be metabolized by an animal to give energy and build tissue"
         ],
         "usphone": "fud",
         "ukphone": "fuːd"
@@ -490,7 +506,8 @@
     {
         "name": "Dear",
         "trans": [
-            "亲爱的"
+            "adj. dearly loved; with or in a close or intimate relationship",
+            "n. a beloved person; used as terms of endearment"
         ],
         "usphone": "dɪr",
         "ukphone": "dɪə"
@@ -498,7 +515,7 @@
     {
         "name": "onion",
         "trans": [
-            "洋葱"
+            "n. the bulb of an onion plant"
         ],
         "usphone": "'ʌnjən",
         "ukphone": "'ʌnjən"
@@ -506,7 +523,7 @@
     {
         "name": "sing",
         "trans": [
-            "唱"
+            "v. deliver by singing; produce tones with the voice"
         ],
         "usphone": "sɪŋ",
         "ukphone": "sɪŋ"
@@ -514,7 +531,7 @@
     {
         "name": "song",
         "trans": [
-            "歌曲"
+            "n. a short musical composition with words; a distinctive or characteristic sound"
         ],
         "usphone": "sɔŋ",
         "ukphone": "sɒŋ"
@@ -538,7 +555,7 @@
     {
         "name": "kung fu",
         "trans": [
-            "功夫"
+            "n. a Chinese martial art"
         ],
         "usphone": ",kʌŋ'fu",
         "ukphone": ",kʌŋ'fu:"
@@ -554,7 +571,8 @@
     {
         "name": "dance",
         "trans": [
-            "跳舞"
+            "v. move in a graceful and rhythmical way; move in a pattern; usually to musical accompaniment; do or perform a dance",
+            "n. an artistic form of nonverbal communication; a party of people assembled for dancing"
         ],
         "usphone": "dæns",
         "ukphone": "dɑːns"
@@ -562,7 +580,8 @@
     {
         "name": "draw",
         "trans": [
-            "画"
+            "v. cause to move by pulling; get or derive",
+            "n. a gully that is shallower than a ravine"
         ],
         "usphone": "drɔ",
         "ukphone": "drɔː"
@@ -570,7 +589,7 @@
     {
         "name": "cartoon",
         "trans": [
-            "漫画"
+            "n. a humorous or satirical drawing published in a newspaper or magazine"
         ],
         "usphone": "kɑr'tun",
         "ukphone": "kɑː'tuːn"
@@ -586,7 +605,8 @@
     {
         "name": "cook",
         "trans": [
-            "烹饪"
+            "v. prepare a hot meal; prepare for eating by applying heat",
+            "n. someone who cooks food"
         ],
         "usphone": "kʊk",
         "ukphone": "kʊk"
@@ -594,7 +614,7 @@
     {
         "name": "swim",
         "trans": [
-            "游泳"
+            "v. travel through water; be afloat either on or below a liquid surface and not sink to the bottom"
         ],
         "usphone": "swɪm",
         "ukphone": "swɪm"
@@ -610,7 +630,7 @@
     {
         "name": "ping-pong",
         "trans": [
-            "乒乓球"
+            "n. a game (trademark Ping-Pong) resembling tennis but played on a table with paddles and a light hollow ball"
         ],
         "usphone": "",
         "ukphone": ""
@@ -642,7 +662,7 @@
     {
         "name": "party",
         "trans": [
-            "聚会"
+            "n. an organization to gain political power; a group of people gathered together for pleasure"
         ],
         "usphone": "'pɑrti",
         "ukphone": "'pɑːtɪ"
@@ -650,7 +670,8 @@
     {
         "name": "next",
         "trans": [
-            "下一个的"
+            "adj. nearest in space or position; immediately adjoining without intervening space; (of elected officers) elected but not yet serving",
+            "adv. at the time or occasion immediately following"
         ],
         "usphone": "nɛkst",
         "ukphone": "nekst"
@@ -658,7 +679,7 @@
     {
         "name": "wonderful",
         "trans": [
-            "极好的"
+            "adj. extraordinarily good or great; used especially as intensifiers"
         ],
         "usphone": "ˈwʌndɚfəl",
         "ukphone": "ˈwʌndə(r)fl"
@@ -666,7 +687,7 @@
     {
         "name": "learn",
         "trans": [
-            "学习"
+            "v. gain knowledge or skills; get to know or become aware of, usually accidentally"
         ],
         "usphone": "lɝn",
         "ukphone": "lɜːn"
@@ -674,7 +695,7 @@
     {
         "name": "any",
         "trans": [
-            "任何的"
+            "adv. to any degree or extent"
         ],
         "usphone": "'ɛni",
         "ukphone": "'enɪ"
@@ -682,7 +703,7 @@
     {
         "name": "problem",
         "trans": [
-            "没问题"
+            "n. a state of difficulty that needs to be resolved; a question raised for consideration or solution"
         ],
         "usphone": "'prɑbləm",
         "ukphone": "'prɒbləm"
@@ -690,7 +711,7 @@
     {
         "name": "no problem",
         "trans": [
-            "没问题"
+            "phr. used to say that something is easy or not a trouble"
         ],
         "usphone": "",
         "ukphone": ""
@@ -698,7 +719,8 @@
     {
         "name": "want",
         "trans": [
-            "要"
+            "v. feel or have a desire for; want strongly; have need of",
+            "n. a state of extreme poverty; the state of needing something that is absent or unavailable"
         ],
         "usphone": "wɔ:nt; wɔnt",
         "ukphone": "wɒnt"
@@ -706,7 +728,7 @@
     {
         "name": "send",
         "trans": [
-            "邮寄"
+            "v. cause to go somewhere; to cause or order to be taken, directed, or transmitted to another place"
         ],
         "usphone": "sɛnd",
         "ukphone": "send"
@@ -714,7 +736,8 @@
     {
         "name": "email",
         "trans": [
-            "电子邮件"
+            "n. (computer science) a system of world-wide electronic communication in which a computer user can compose a message at one terminal that can be regenerated at…",
+            "v. communicate electronically on the computer"
         ],
         "usphone": "'imel",
         "ukphone": "'iːmeɪl"
@@ -722,7 +745,8 @@
     {
         "name": "at",
         "trans": [
-            "（接邮件地址）"
+            "prep. indicating a point in space or time",
+            "prep. indicating a direction or target"
         ],
         "usphone": "æt; ət",
         "ukphone": "æt; ət"
@@ -730,7 +754,8 @@
     {
         "name": "clock",
         "trans": [
-            "时钟"
+            "n. a timepiece that shows the time of day",
+            "v. measure the time or duration of an event or action or the person who performs an action in a certain period of time"
         ],
         "usphone": "klɑk",
         "ukphone": "klɒk"
@@ -738,7 +763,8 @@
     {
         "name": "plant",
         "trans": [
-            "植物"
+            "n. buildings for carrying on industrial labor; (botany) a living organism lacking the power of locomotion",
+            "v. put or set (seeds, seedlings, or plants) into the ground; fix or set securely or deeply"
         ],
         "usphone": "plænt",
         "ukphone": "plɑːnt"
@@ -746,7 +772,7 @@
     {
         "name": "bottle",
         "trans": [
-            "瓶子"
+            "n. a glass or plastic vessel used for storing drinks or other liquids; typically cylindrical without handles and with a narrow neck that can be plugged or capped"
         ],
         "usphone": "'bɑtl",
         "ukphone": "'bɒt(ə)l"
@@ -754,7 +780,7 @@
     {
         "name": "water bottle",
         "trans": [
-            "水瓶"
+            "n. a bottle for holding water"
         ],
         "usphone": "",
         "ukphone": ""
@@ -762,7 +788,8 @@
     {
         "name": "bike",
         "trans": [
-            "自行车"
+            "n. a motor vehicle with two wheels and a strong frame",
+            "v. ride a bicycle"
         ],
         "usphone": "baɪk",
         "ukphone": "baɪk"
@@ -770,7 +797,7 @@
     {
         "name": "photo",
         "trans": [
-            "照片"
+            "n. a representation of a person or scene in the form of a print or transparent slide; recorded by a camera on light-sensitive material"
         ],
         "usphone": "'foto",
         "ukphone": "'fəʊtəʊ"
@@ -778,7 +805,9 @@
     {
         "name": "front",
         "trans": [
-            "正面"
+            "n. the side that is forward or prominent; the line along which opposing armies face each other",
+            "adj. relating to or located in the front",
+            "v. be oriented in a certain direction, often with respect to another reference point; be opposite to; confront bodily"
         ],
         "usphone": "frʌnt",
         "ukphone": "frʌnt"
@@ -786,7 +815,7 @@
     {
         "name": "in front of",
         "trans": [
-            "在⋯⋯前面"
+            "prep. in a position just ahead of; facing"
         ],
         "usphone": "ɪn frʌnt ʌv",
         "ukphone": "ɪn frʌnt əv"
@@ -794,7 +823,7 @@
     {
         "name": "between",
         "trans": [
-            "在⋯⋯中间"
+            "prep. in the space or time separating two things"
         ],
         "usphone": "bəˈtwin",
         "ukphone": "bɪ'twiːn"
@@ -802,7 +831,7 @@
     {
         "name": "above",
         "trans": [
-            "在⋯⋯上面"
+            "prep. / adv. at a higher level than; over"
         ],
         "usphone": "ə'bʌv",
         "ukphone": "ə'bʌv"
@@ -810,7 +839,7 @@
     {
         "name": "beside",
         "trans": [
-            "在旁边"
+            "prep. at the side of; next to"
         ],
         "usphone": "bɪ'saɪd",
         "ukphone": "bɪ'saɪd"
@@ -818,7 +847,7 @@
     {
         "name": "behind",
         "trans": [
-            "在⋯⋯后面"
+            "prep. / adv. at or towards the back of"
         ],
         "usphone": "bɪ'haɪnd",
         "ukphone": "bɪ'haɪnd"
@@ -826,7 +855,7 @@
     {
         "name": "there",
         "trans": [
-            "（存在或发生）"
+            "adv. in or at that place; in that matter"
         ],
         "usphone": "ðɛr",
         "ukphone": "ðeə; ðə"
@@ -834,7 +863,7 @@
     {
         "name": "grandparent",
         "trans": [
-            "（外）祖父母"
+            "n. a parent of your father or mother"
         ],
         "usphone": "'græn'pɛrənt",
         "ukphone": "'græn(d)peər(ə)nt"
@@ -842,7 +871,7 @@
     {
         "name": "their",
         "trans": [
-            "他们的"
+            "det. belonging to or associated with the people or things previously mentioned"
         ],
         "usphone": "ðɛr",
         "ukphone": "ðeə"
@@ -850,7 +879,8 @@
     {
         "name": "house",
         "trans": [
-            "房子"
+            "n. a dwelling that serves as living quarters for one or more families; the members of a business organization that owns or operates one or more establishments",
+            "v. contain or cover; provide housing for"
         ],
         "usphone": "haʊs",
         "ukphone": "haʊs"
@@ -858,7 +888,7 @@
     {
         "name": "lot",
         "trans": [
-            "大量"
+            "n. (often followed by 'of') a large number or amount or extent; a parcel of land having fixed boundaries"
         ],
         "usphone": "lɑt",
         "ukphone": "lɒt"
@@ -866,7 +896,7 @@
     {
         "name": "lots of",
         "trans": [
-            "大量"
+            "phr. a large number or amount of"
         ],
         "usphone": "",
         "ukphone": ""
@@ -874,7 +904,8 @@
     {
         "name": "flower",
         "trans": [
-            "花"
+            "n. a plant cultivated for its blooms or blossoms; reproductive organ of angiosperm plants especially one having showy or colorful parts",
+            "v. produce or yield flowers"
         ],
         "usphone": "'flaʊɚ",
         "ukphone": "'flaʊə"
@@ -882,7 +913,8 @@
     {
         "name": "move",
         "trans": [
-            "搬家"
+            "v. change location; move, travel, or proceed, also metaphorically; cause to move or shift into a new position or place, both in a concrete and in an abstract sense",
+            "n. the act of deciding to do something; the act of changing your residence or place of business"
         ],
         "usphone": "muv",
         "ukphone": "muːv"
@@ -890,7 +922,7 @@
     {
         "name": "dirty",
         "trans": [
-            "肮脏的"
+            "adj. soiled or likely to soil with dirt or grime; (of behavior or especially language) characterized by obscenity or indecency"
         ],
         "usphone": "ˈdɝ​tɪ",
         "ukphone": "'dɜːtɪ"
@@ -898,7 +930,7 @@
     {
         "name": "everywhere",
         "trans": [
-            "处处"
+            "adv. to or in any or all places; ('everyplace' is used informally for 'everywhere')"
         ],
         "usphone": "'ɛvrɪwɛr",
         "ukphone": "'evrɪweə"
@@ -906,7 +938,7 @@
     {
         "name": "mouse",
         "trans": [
-            "老鼠"
+            "n. any of numerous small rodents typically resembling diminutive rats having pointed snouts and small ears on elongated bodies with slender usually hairless tails"
         ],
         "usphone": "maʊs",
         "ukphone": "maʊs"
@@ -914,7 +946,8 @@
     {
         "name": "live",
         "trans": [
-            "住"
+            "v. inhabit or live in; be an inhabitant of; lead a certain kind of life; live in a certain style",
+            "adj. actually being performed at the time of hearing or viewing"
         ],
         "usphone": "laɪv；lɪv",
         "ukphone": "laɪv；lɪv"
@@ -922,7 +955,7 @@
     {
         "name": "nature",
         "trans": [
-            "自然界"
+            "n. the essential qualities or characteristics by which something is recognized; a causal agent creating and controlling things in the universe"
         ],
         "usphone": "'netʃɚ",
         "ukphone": "'neɪtʃə"
@@ -930,7 +963,7 @@
     {
         "name": "forest",
         "trans": [
-            "森林"
+            "n. the trees and other plants in a large densely wooded area; land that is covered with trees and shrubs"
         ],
         "usphone": "'fɔrɪst",
         "ukphone": "'fɒrɪst"
@@ -938,7 +971,7 @@
     {
         "name": "river",
         "trans": [
-            "河"
+            "n. a large natural stream of water (larger than a creek)"
         ],
         "usphone": "'rɪvɚ",
         "ukphone": "'rɪvə"
@@ -946,7 +979,7 @@
     {
         "name": "lake",
         "trans": [
-            "湖"
+            "n. a body of (usually fresh) water surrounded by land"
         ],
         "usphone": "lek",
         "ukphone": "leɪk"
@@ -954,7 +987,7 @@
     {
         "name": "mountain",
         "trans": [
-            "山"
+            "n. a land mass that projects well above its surroundings; higher than a hill"
         ],
         "usphone": "ˈmaʊntn",
         "ukphone": "ˈmaʊntən"
@@ -962,7 +995,7 @@
     {
         "name": "hill",
         "trans": [
-            "小山"
+            "n. a local and well-defined elevation of the land; structure consisting of an artificial heap or bank usually of earth or stones"
         ],
         "usphone": "hɪl",
         "ukphone": "hɪl"
@@ -970,7 +1003,7 @@
     {
         "name": "tree",
         "trans": [
-            "树"
+            "n. a tall perennial woody plant having a main trunk and branches forming a distinct elevated crown; includes both gymnosperms and angiosperms"
         ],
         "usphone": "tri",
         "ukphone": "triː"
@@ -978,7 +1011,8 @@
     {
         "name": "bridge",
         "trans": [
-            "桥"
+            "n. a structure that allows people or vehicles to cross an obstacle such as a river or canal or railway etc.",
+            "v. connect or reduce the distance between; make a bridge across"
         ],
         "usphone": "brɪdʒ",
         "ukphone": "brɪdʒ"
@@ -986,7 +1020,7 @@
     {
         "name": "building",
         "trans": [
-            "建筑"
+            "n. a structure that has a roof and walls and stands more or less permanently in one place; the act of constructing something"
         ],
         "usphone": "'bɪldɪŋ",
         "ukphone": "'bɪldɪŋ"
@@ -994,7 +1028,7 @@
     {
         "name": "village",
         "trans": [
-            "村庄"
+            "n. a community of people smaller than a town; a settlement smaller than a town"
         ],
         "usphone": "'vɪlɪdʒ",
         "ukphone": "'vɪlɪdʒ"
@@ -1002,7 +1036,8 @@
     {
         "name": "house.",
         "trans": [
-            "房屋"
+            "n. a dwelling that serves as living quarters for one or more families; the members of a business organization that owns or operates one or more establishments",
+            "v. contain or cover; provide housing for"
         ],
         "usphone": "haʊs",
         "ukphone": "haʊs"
@@ -1010,7 +1045,7 @@
     {
         "name": "boating",
         "trans": [
-            "划船"
+            "n. water travel for pleasure"
         ],
         "usphone": "'bəutiŋ",
         "ukphone": "'bəʊtɪŋ"
@@ -1034,7 +1069,7 @@
     {
         "name": "rabbit",
         "trans": [
-            "兔"
+            "n. any of various burrowing animals of the family Leporidae having long ears and short tails; some domesticated and raised for pets or food"
         ],
         "usphone": "'ræbɪt",
         "ukphone": "'ræbɪt"
@@ -1042,7 +1077,9 @@
     {
         "name": "high",
         "trans": [
-            "高的"
+            "adj. greater than normal in degree or intensity or amount",
+            "adv. at a great altitude; in or to a high position, amount, or degree",
+            "n. a lofty level or position or degree"
         ],
         "usphone": "haɪ",
         "ukphone": "haɪ"

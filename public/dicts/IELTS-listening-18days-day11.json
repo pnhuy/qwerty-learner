@@ -1,210 +1,328 @@
 [
     {
         "name": "evidence",
-        "trans": ["证据"]
+        "trans": [
+            "n. your basis for belief or disbelief; knowledge on which to base belief; an indication that makes something evident",
+            "v. provide evidence for; stand as proof of; show by one's behavior, attitude, or external attributes; provide evidence for"
+        ]
     },
     {
         "name": "alternative",
-        "trans": ["可供选择的"]
+        "trans": [
+            "n. one of a number of things from which only one can be chosen",
+            "adj. serving or used in place of another; necessitating a choice between mutually exclusive possibilities"
+        ]
     },
     {
         "name": "intention",
-        "trans": ["意图"]
+        "trans": [
+            "n. an anticipated outcome that is intended or that guides your planned actions; (usually plural) the goal with respect to a marriage proposal"
+        ]
     },
     {
         "name": "relevant",
-        "trans": ["相关的"]
+        "trans": [
+            "adj. having a bearing on or connection with the subject at issue"
+        ]
     },
     {
         "name": "outline",
-        "trans": ["轮廓", "大纲"]
+        "trans": [
+            "v. describe roughly or briefly or give the main points or summary of",
+            "n. the line that appears to bound an object; a sketchy summary of the main points of an argument or theory"
+        ]
     },
     {
         "name": "extinct",
-        "trans": ["灭绝的"]
+        "trans": [
+            "adj. no longer in existence; lost or especially having died out leaving no living representatives"
+        ]
     },
     {
         "name": "wing",
-        "trans": ["翅膀"]
+        "trans": [
+            "n. a movable organ for flying (one of a pair); one of the horizontal airfoils on either side of the fuselage of an airplane",
+            "v. travel through the air; be airborne"
+        ]
     },
     {
         "name": "nest",
-        "trans": ["巢", "窝"]
+        "trans": [
+            "n. a structure in which animals lay eggs or give birth to their young; a kind of gun emplacement",
+            "v. inhabit a nest, usually after building; fit together or fit inside"
+        ]
     },
     {
         "name": "interference",
-        "trans": ["干预", "干涉"]
+        "trans": [
+            "n. a policy of intervening in the affairs of other countries; the act of hindering or obstructing or impeding"
+        ]
     },
     {
         "name": "standard",
-        "trans": ["标准"]
+        "trans": [
+            "n. a basis for comparison; a reference point against which other things can be evaluated; the ideal in terms of which something can be judged",
+            "adj. conforming to or constituting a standard of measurement or value; or of the usual or regularized or accepted kind; commonly used or supplied"
+        ]
     },
     {
         "name": "subtopic",
-        "trans": ["副主题"]
+        "trans": [
+            "副主题"
+        ]
     },
     {
         "name": "therapy",
-        "trans": ["治疗", "疗法"]
+        "trans": [
+            "n. (medicine) the act of caring for someone (as by medication or remedial training etc.)"
+        ]
     },
     {
         "name": "morality",
-        "trans": ["道德"]
+        "trans": [
+            "n. concern with the distinction between good and evil or right and wrong; right or good conduct; motivation based on ideas of right and wrong"
+        ]
     },
     {
         "name": "participation",
-        "trans": ["参加", "参与"]
+        "trans": [
+            "n. the act of sharing in the activities of a group"
+        ]
     },
     {
         "name": "faculty",
-        "trans": ["科", "系", "能力"]
+        "trans": [
+            "n. one of the inherent cognitive or perceptual powers of the mind; the body of teachers and administrators at a school"
+        ]
     },
     {
         "name": "fit",
-        "trans": ["健康的"]
+        "trans": [
+            "v. be agreeable or acceptable to; be the right size or shape; fit correctly or as desired",
+            "adj. meeting adequate standards for a purpose; (usually followed by 'to' or 'for') on the point of or strongly disposed",
+            "n. a display of bad temper; a sudden uncontrollable attack"
+        ]
     },
     {
         "name": "useful",
-        "trans": ["有用的"]
+        "trans": [
+            "adj. being of use or service"
+        ]
     },
     {
         "name": "confuse",
-        "trans": ["使混乱"]
+        "trans": [
+            "v. mistake one thing for another; be confusing or perplexing to; cause to be unable to think clearly"
+        ]
     },
     {
         "name": "inconvenient",
-        "trans": ["不便的"]
+        "trans": [
+            "adj. not suited to your comfort, purpose or needs"
+        ]
     },
     {
         "name": "valuable",
-        "trans": ["有价值的"]
+        "trans": [
+            "adj. having great material or monetary value especially for use or exchange; having worth or merit or value"
+        ]
     },
     {
         "name": "advisor",
-        "trans": ["顾问"]
+        "trans": [
+            "n. an expert who gives advice"
+        ]
     },
     {
         "name": "forget",
-        "trans": ["忘记"]
+        "trans": [
+            "v. dismiss from the mind; stop remembering; be unable to remember"
+        ]
     },
     {
         "name": "lecturer",
-        "trans": ["讲师"]
+        "trans": [
+            "n. a public lecturer at certain universities; someone who lectures professionally"
+        ]
     },
     {
         "name": "content",
-        "trans": ["内容"]
+        "trans": [
+            "n. everything that is included in a collection and that is held or included in something; what a communication that is about something is about",
+            "v. satisfy in a limited way; make content"
+        ]
     },
     {
         "name": "practical",
-        "trans": ["实际的"]
+        "trans": [
+            "adj. concerned with actual use or practice; guided by practical experience and observation rather than theory"
+        ]
     },
     {
         "name": "improvement",
-        "trans": ["改进"]
+        "trans": [
+            "n. a change for the better; progress in development; the act of improving something"
+        ]
     },
     {
         "name": "repetitive",
-        "trans": ["重复性的"]
+        "trans": [
+            "adj. repetitive and persistent"
+        ]
     },
     {
         "name": "village",
-        "trans": ["村庄"]
+        "trans": [
+            "n. a community of people smaller than a town; a settlement smaller than a town"
+        ]
     },
     {
         "name": "mission",
-        "trans": ["使命"]
+        "trans": [
+            "n. an organization of missionaries in a foreign land sent to carry on religious work; an operation that is assigned by a higher headquarters"
+        ]
     },
     {
         "name": "qualification",
-        "trans": ["资格"]
+        "trans": [
+            "n. an attribute that must be met or complied with and that fits a person for something; the act of modifying or changing the strength of some idea"
+        ]
     },
     {
         "name": "curriculum",
-        "trans": ["课程"]
+        "trans": [
+            "n. an integrated course of academic studies"
+        ]
     },
     {
         "name": "training",
-        "trans": ["训练"]
+        "trans": [
+            "n. activity leading to skilled behavior"
+        ]
     },
     {
         "name": "colleague",
-        "trans": ["同事"]
+        "trans": [
+            "n. an associate that one works with; a person who is member of one's class or profession"
+        ]
     },
     {
         "name": "description",
-        "trans": ["描述"]
+        "trans": [
+            "n. a statement that represents something in words"
+        ]
     },
     {
         "name": "administration",
-        "trans": ["管理"]
+        "trans": [
+            "n. a method of tending to or managing the affairs of a some group of people (especially the group's business affairs)"
+        ]
     },
     {
         "name": "farming",
-        "trans": ["农业", "耕作"]
+        "trans": [
+            "n. the practice of cultivating the land or raising stock"
+        ]
     },
     {
         "name": "damage",
-        "trans": ["损害", "损毁"]
+        "trans": [
+            "n. the occurrence of a change for the worse; loss of military equipment",
+            "v. inflict damage upon"
+        ]
     },
     {
         "name": "checklist",
-        "trans": ["清单", "检查表"]
+        "trans": [
+            "n. a list of items (names or tasks etc.) to be checked or consulted"
+        ]
     },
     {
         "name": "figures",
-        "trans": ["价格", "金额"]
+        "trans": [
+            "n. a diagram or picture illustrating textual material; alternative names for the body of a human being",
+            "v. judge to be probable; be or play a part of or in"
+        ]
     },
     {
         "name": "presentation",
-        "trans": ["陈述", "展示"]
+        "trans": [
+            "n. the activity of formally presenting something (as a prize or reward); a show or display; the act of presenting something to sight or view"
+        ]
     },
     {
         "name": "professor",
-        "trans": ["教授", "教师"]
+        "trans": [
+            "n. someone who is a member of the faculty at a college or university"
+        ]
     },
     {
         "name": "seminar",
-        "trans": ["讨论会"]
+        "trans": [
+            "n. any meeting for an exchange of ideas"
+        ]
     },
     {
         "name": "chemistry",
-        "trans": ["化学"]
+        "trans": [
+            "n. the science of matter; the branch of the natural sciences dealing with the composition of substances and their properties and reactions"
+        ]
     },
     {
         "name": "trade",
-        "trans": ["贸易", "交易"]
+        "trans": [
+            "n. the commercial exchange (buying and selling on domestic or international markets) of goods and services; the skilled practice of a practical occupation",
+            "v. engage in the trade of; turn in as payment or part payment for a purchase"
+        ]
     },
     {
         "name": "payment",
-        "trans": ["支付"]
+        "trans": [
+            "n. a sum of money paid or a claim discharged; the act of paying money"
+        ]
     },
     {
         "name": "portable",
-        "trans": ["便携的"]
+        "trans": [
+            "adj. easily or conveniently transported"
+        ]
     },
     {
         "name": "comedy",
-        "trans": ["喜剧"]
+        "trans": [
+            "n. light and humorous drama with a happy ending; a comic incident or series of incidents"
+        ]
     },
     {
         "name": "pattern",
-        "trans": ["模式"]
+        "trans": [
+            "n. a perceptual structure; a customary way of operation or behavior",
+            "v. plan or create according to a model or models"
+        ]
     },
     {
         "name": "fresh",
-        "trans": ["新鲜的"]
+        "trans": [
+            "adj. recently made, produced, or harvested; (of a cycle) beginning or occurring again",
+            "adv. very recently"
+        ]
     },
     {
         "name": "application",
-        "trans": ["申请"]
+        "trans": [
+            "n. the act of bringing something to bear; using it for a particular purpose; a verbal or written request for assistance or employment or admission to a school"
+        ]
     },
     {
         "name": "employee",
-        "trans": ["雇员"]
+        "trans": [
+            "n. a worker who is hired to perform a job"
+        ]
     },
     {
         "name": "evaporate",
-        "trans": ["蒸发"]
+        "trans": [
+            "v. lose or cause to lose liquid by vaporization leaving a more concentrated residue"
+        ]
     }
 ]

@@ -2,25 +2,26 @@
     {
         "name": "administration",
         "trans": [
-            "n. 行政，管理"
+            "n. a method of tending to or managing the affairs of a some group of people (especially the group's business affairs)"
         ]
     },
     {
         "name": "office",
         "trans": [
-            "n. 办公室"
+            "n. place of business where professional or clerical duties are performed; an administrative unit of government"
         ]
     },
     {
         "name": "clerical",
         "trans": [
-            "adj. 文书的"
+            "adj. of or relating to clerks; of or relating to the clergy"
         ]
     },
     {
         "name": "file",
         "trans": [
-            "v. 归档；n. 文件夹"
+            "v. record in a public office or in a court of law; smooth with a file",
+            "n. a set of related records (either written or electronic) kept together; a line of persons or things ranged one behind the other"
         ]
     },
     {
@@ -32,19 +33,20 @@
     {
         "name": "teleconference",
         "trans": [
-            "n. 电信会议"
+            "n. a conference of people who are in different locations that is made possible by the use of such telecommunications equipment as closed-circuit television"
         ]
     },
     {
         "name": "type",
         "trans": [
-            "v. 打字；n. 类型"
+            "v. write by means of a keyboard with types; identify as belonging to a certain type",
+            "n. a subdivision of a particular kind of thing; a person of a specified kind (usually with many eccentricities)"
         ]
     },
     {
         "name": "spreadsheet",
         "trans": [
-            "n. 电子数据表"
+            "n. a screen-oriented interactive program enabling a user to lay out financial data on the screen"
         ]
     },
     {
@@ -56,133 +58,133 @@
     {
         "name": "interpersonal",
         "trans": [
-            "adj. 人际的"
+            "adj. occurring among or involving several people"
         ]
     },
     {
         "name": "organisational",
         "trans": [
-            "adj. 组织的"
+            "adj. of or relating to an organization"
         ]
     },
     {
         "name": "communicate",
         "trans": [
-            "v. 沟通"
+            "v. transmit information; transmit thoughts or feelings"
         ]
     },
     {
         "name": "flexible",
         "trans": [
-            "adj. 灵活的，有弹性的"
+            "adj. capable of being changed; able to flex; able to bend easily"
         ]
     },
     {
         "name": "overtime",
         "trans": [
-            "adv. 超时地；adj. 超时的"
+            "adv. beyond the regular time"
         ]
     },
     {
         "name": "position",
         "trans": [
-            "n. 职位"
+            "n. the particular portion of space occupied by something; a point occupied by troops for tactical reasons"
         ]
     },
     {
         "name": "occupation",
         "trans": [
-            "n. 职业"
+            "n. the principal activity in your life that you do to earn money; the control of a country by military forces of a foreign power"
         ]
     },
     {
         "name": "part-time",
         "trans": [
-            "adj. 兼职的"
+            "adj. involving less than the standard or customary time for an activity"
         ]
     },
     {
         "name": "full-time",
         "trans": [
-            "adj. 全职的"
+            "adj. for the entire time appropriate to an activity"
         ]
     },
     {
         "name": "temporary",
         "trans": [
-            "adj. 临时的，暂时的"
+            "adj. not permanent; not lasting"
         ]
     },
     {
         "name": "internship",
         "trans": [
-            "n. 实习"
+            "n. the position of a medical intern"
         ]
     },
     {
         "name": "intern",
         "trans": [
-            "n. 实习生"
+            "n. an advanced student or graduate in medicine gaining supervised practical experience ('houseman' is a British term)"
         ]
     },
     {
         "name": "cleaner",
         "trans": [
-            "n. 清洁工"
+            "n. a preparation used in cleaning something"
         ]
     },
     {
         "name": "receptionist",
         "trans": [
-            "n. 接待员"
+            "n. a secretary whose main duty is to answer the telephone and receive visitors"
         ]
     },
     {
         "name": "secretary",
         "trans": [
-            "n. 秘书"
+            "n. a person who is head of an administrative department of government; an assistant who handles correspondence and clerical work for a boss or an organization"
         ]
     },
     {
         "name": "representative",
         "trans": [
-            "n. 代表"
+            "n. a person who represents others; an advocate who represents someone else's policy or purpose"
         ]
     },
     {
         "name": "engineer",
         "trans": [
-            "n. 工程师"
+            "n. a person who uses scientific knowledge to solve practical problems"
         ]
     },
     {
         "name": "accountant",
         "trans": [
-            "n. 会计师"
+            "n. someone who maintains and audits business accounts"
         ]
     },
     {
         "name": "staff",
         "trans": [
-            "n. 员工"
+            "n. personnel who assist their superior in carrying out an assigned task; a strong rod or stick with a specialized utilitarian purpose"
         ]
     },
     {
         "name": "manager",
         "trans": [
-            "n. 经理"
+            "n. someone who controls resources and expenditures; (sports) someone in charge of training an athlete or a team"
         ]
     },
     {
         "name": "freelancer",
         "trans": [
-            "n. 自由职业者"
+            "n. a writer or artist who sells services to different employers without a long-term contract with any of them"
         ]
     },
     {
         "name": "assistant",
         "trans": [
-            "n. 助手，助理"
+            "n. a person who contributes to the fulfillment of a need or furtherance of an effort or purpose"
         ]
     },
     {

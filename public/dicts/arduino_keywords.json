@@ -2,37 +2,42 @@
     {
         "name": "do",
         "trans": [
-            "做; 执行代码块"
+            "v. to perform or carry out (an action or task)",
+            "aux. used to form questions and negatives and for emphasis"
         ]
     },
     {
         "name": "if",
         "trans": [
-            "如果; 条件语句"
+            "conj. on the condition that; in the event that",
+            "conj. whether"
         ]
     },
     {
         "name": "for",
         "trans": [
-            "循环; 循环结构"
+            "prep. intended to belong to or be used by",
+            "prep. in order to help or benefit",
+            "prep. during (a period of time); in place of"
         ]
     },
     {
         "name": "abs",
         "trans": [
-            "绝对值; 返回绝对值"
+            "n. any of a class of composite plastics used to make car bodies and cases for computers and other appliances"
         ]
     },
     {
         "name": "max",
         "trans": [
-            "最大; 返回最大值"
+            "n. street names for gamma hydroxybutyrate"
         ]
     },
     {
         "name": "sin",
         "trans": [
-            "正弦; 计算角度的正弦值"
+            "n. estrangement from god; an act that is regarded by theologians as a transgression of God's will",
+            "v. commit a sin; violate a law of God or a moral law"
         ]
     },
     {
@@ -44,73 +49,77 @@
     {
         "name": "LOW",
         "trans": [
-            "低; 低电平"
+            "adj. less than normal in degree or intensity or amount; literal meanings; being at or having a relatively small elevation or upward extension",
+            "adv. in a low position; near the ground"
         ]
     },
     {
         "name": "min",
         "trans": [
-            "最小; 返回最小值"
+            "n. a unit of time equal to 60 seconds or 1/60th of an hour; any of the forms of Chinese spoken in Fukien province"
         ]
     },
     {
         "name": "map",
         "trans": [
-            "映射; 将一个范围内的值映射到另一个范围"
+            "n. a diagrammatic representation of the earth's surface (or part of it)",
+            "v. make a map of; show or establish the features of details of; explore or survey for the purpose of making a map"
         ]
     },
     {
         "name": "tan",
         "trans": [
-            "正切; 计算角度的正切值"
+            "n. a browning of the skin resulting from exposure to the rays of the sun; a light brown the color of topaz"
         ]
     },
     {
         "name": "pow",
         "trans": [
-            "幂; 计算一个数的幂"
+            "n. a person who surrenders to (or is taken by) the enemy in time of war"
         ]
     },
     {
         "name": "bit",
         "trans": [
-            "位; 单个二进制位"
+            "n. a small piece or quantity of something; a small fragment of something broken off from the whole"
         ]
     },
     {
         "name": "cos",
         "trans": [
-            "余弦; 计算角度的余弦值"
+            "n. ratio of the adjacent side to the hypotenuse of a right-angled triangle"
         ]
     },
     {
         "name": "true",
         "trans": [
-            "真; 布尔值“真”"
+            "adj. consistent with fact or reality; not false; accurately placed or thrown",
+            "adv. as acknowledged"
         ]
     },
     {
         "name": "data",
         "trans": [
-            "数据; 存储在变量中的信息"
+            "n. a collection of facts from which conclusions may be drawn"
         ]
     },
     {
         "name": "void",
         "trans": [
-            "无效; 表示无返回值"
+            "adj. lacking any legal or binding force"
         ]
     },
     {
         "name": "else",
         "trans": [
-            "否则; 条件的替代分支"
+            "adv. in addition; besides; different"
         ]
     },
     {
         "name": "word",
         "trans": [
-            "单词; 16位无符号数据类型"
+            "n. a unit of language that native speakers can identify; a brief statement",
+            "v. put into words or an expression"
         ]
     },
     {
@@ -122,55 +131,64 @@
     {
         "name": "HIGH",
         "trans": [
-            "高; 高电平"
+            "adj. greater than normal in degree or intensity or amount",
+            "adv. at a great altitude; in or to a high position, amount, or degree",
+            "n. a lofty level or position or degree"
         ]
     },
     {
         "name": "case",
         "trans": [
-            "情况; switch语句中的情况"
+            "n. an occurrence of something; a special set of circumstances",
+            "v. look over, usually with the intention to rob"
         ]
     },
     {
         "name": "long",
         "trans": [
-            "长; 定义长整数变量"
+            "adj. primarily temporal sense; being or indicating a relatively great or greater than average duration or passage of time or a duration as specified",
+            "adv. for an extended time or at a distant time",
+            "v. desire strongly or persistently"
         ]
     },
     {
         "name": "code",
         "trans": [
-            "代码; 编程指令"
+            "n. a set of rules or principles or laws (especially written ones); a coding system used for transmitting messages requiring brevity or secrecy",
+            "v. attach a code to"
         ]
     },
     {
         "name": "tone",
         "trans": [
-            "音调; 生成音频频率"
+            "n. the quality of a person's voice; (linguistics) a pitch or change in pitch of the voice that serves to distinguish words in tonal languages"
         ]
     },
     {
         "name": "char",
         "trans": [
-            "字符; 定义字符变量"
+            "n. a charred substance",
+            "v. burn to charcoal"
         ]
     },
     {
         "name": "byte",
         "trans": [
-            "字节; 8位无符号数据类型"
+            "n. a sequence of 8 bits (enough to represent one character of alphanumeric data) processed as a single unit of information"
         ]
     },
     {
         "name": "array",
         "trans": [
-            "数组; 元素的集合"
+            "n. an orderly arrangement; an impressive display",
+            "v. lay out orderly or logically in a line or as if in a line"
         ]
     },
     {
         "name": "index",
         "trans": [
-            "索引; 数组中的位置"
+            "n. a numerical scale used to compare variables with one another or with some reference number",
+            "v. list in an index"
         ]
     },
     {
@@ -182,49 +200,53 @@
     {
         "name": "float",
         "trans": [
-            "浮点; 定义浮点变量"
+            "v. be in motion due to some air or water current; be afloat either on or below a liquid surface and not sink to the bottom"
         ]
     },
     {
         "name": "INPUT",
         "trans": [
-            "输入; 将引脚设置为输入"
+            "n. signal going into an electronic system"
         ]
     },
     {
         "name": "maker",
         "trans": [
-            "制造者; 指制造者或创建者"
+            "n. a person who makes things"
         ]
     },
     {
         "name": "types",
         "trans": [
-            "类型; 变量的不同类型"
+            "n. a subdivision of a particular kind of thing; a person of a specified kind (usually with many eccentricities)",
+            "v. write by means of a keyboard with types; identify as belonging to a certain type"
         ]
     },
     {
         "name": "break",
         "trans": [
-            "中断; 退出循环或switch"
+            "v. terminate; become separated into pieces or fragments",
+            "n. some abrupt occurrence that interrupts an ongoing activity; an unexpected piece of good luck"
         ]
     },
     {
         "name": "while",
         "trans": [
-            "当; 条件为真时循环"
+            "conj. during the time that; whereas",
+            "n. a period of time"
         ]
     },
     {
         "name": "false",
         "trans": [
-            "假; 布尔值“假”"
+            "adj. not in accordance with the fact or reality or actuality; arising from error"
         ]
     },
     {
         "name": "delay",
         "trans": [
-            "延迟; 暂停程序执行"
+            "v. cause to be slowed down or delayed; act later than planned, scheduled, or required",
+            "n. time during which some action is awaited; the act of delaying; inactivity resulting in something being put off until a later time"
         ]
     },
     {
@@ -236,7 +258,7 @@
     {
         "name": "static",
         "trans": [
-            "静态; 在函数调用之间保留变量值"
+            "adj. not in physical motion"
         ]
     },
     {
@@ -260,25 +282,29 @@
     {
         "name": "switch",
         "trans": [
-            "开关; 选择要执行的代码块"
+            "v. change over, change around, as to a new order or sequence; exchange or give (something) in exchange for",
+            "n. control consisting of a mechanical or electrical or electronic device for making or breaking or changing the connections in a circuit"
         ]
     },
     {
         "name": "define",
         "trans": [
-            "定义; 定义宏"
+            "v. determine the essential quality of; give a definition for the meaning of a word"
         ]
     },
     {
         "name": "Stream",
         "trans": [
-            "流; 处理数据输入/输出"
+            "n. a natural body of running water flowing on or under the earth; dominant course (suggestive of running water) of successive events or ideas",
+            "v. to extend, wave or float outward, as if in the wind; exude profusely"
         ]
     },
     {
         "name": "double",
         "trans": [
-            "双精度; 定义双精度浮点变量"
+            "v. increase twofold; hit a two-base hit",
+            "adj. having more than one decidedly dissimilar aspects or qualities; consisting of or involving two parts or components usually in pairs",
+            "n. a base hit on which the batter stops safely at second base"
         ]
     },
     {
@@ -290,37 +316,40 @@
     {
         "name": "OUTPUT",
         "trans": [
-            "输出; 将引脚设置为输出"
+            "n. final product; the things produced; production of a certain amount",
+            "v. to create or manufacture a specific amount"
         ]
     },
     {
         "name": "random",
         "trans": [
-            "随机; 生成随机数"
+            "adj. lacking any definite plan or order or purpose; governed by or depending on chance"
         ]
     },
     {
         "name": "Serial",
         "trans": [
-            "串行; 处理串行通信"
+            "adj. in regular succession without gaps"
         ]
     },
     {
         "name": "string",
         "trans": [
-            "字符串; 字符序列"
+            "n. a lightweight cord; stringed instruments that are played with a bow",
+            "v. thread on or as if on a string; add as if on a string"
         ]
     },
     {
         "name": "return",
         "trans": [
-            "返回; 退出函数并可选地返回值"
+            "v. go or come back to place, condition, or activity where one has been before; give back",
+            "n. document giving the tax collector information about the taxpayer's tax liability; a coming to or returning home"
         ]
     },
     {
         "name": "boolean",
         "trans": [
-            "布尔值; 定义布尔变量"
+            "adj. of or relating to a combinatorial system devised by George Boole that combines propositions with the logical operators AND and OR and IF THEN and EXCEPT and NOT"
         ]
     },
     {
@@ -356,7 +385,7 @@
     {
         "name": "include",
         "trans": [
-            "包含; 在程序中包含文件"
+            "v. have as a part, be made up out of; consider as part of something"
         ]
     },
     {
@@ -374,7 +403,7 @@
     {
         "name": "volatile",
         "trans": [
-            "易变的; 表示变量可能会意外更改"
+            "adj. evaporating readily at normal temperatures and pressures"
         ]
     },
     {
@@ -386,13 +415,13 @@
     {
         "name": "unsigned",
         "trans": [
-            "无符号; 表示变量不能为负值"
+            "adj. lacking a signature"
         ]
     },
     {
         "name": "continue",
         "trans": [
-            "继续; 跳过当前循环的剩余部分"
+            "v. continue a certain state, condition, or activity; continue talking; he continued,"
         ]
     },
     {
@@ -410,13 +439,13 @@
     {
         "name": "constrain",
         "trans": [
-            "限制; 将值限制在范围内"
+            "v. hold back"
         ]
     },
     {
         "name": "reference",
         "trans": [
-            "参考; 指向变量或函数"
+            "n. a remark that calls attention to something or someone; a short note recognizing a source of information or of a quoted passage"
         ]
     },
     {

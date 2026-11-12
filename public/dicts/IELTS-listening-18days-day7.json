@@ -1,302 +1,454 @@
 [
     {
         "name": "personal officer",
-        "trans": ["n. 人事部员工"]
+        "trans": [
+            "n. 人事部员工"
+        ]
     },
     {
         "name": "booking form",
-        "trans": ["n. 预定表格"]
+        "trans": [
+            "n. 预定表格"
+        ]
     },
     {
         "name": "file",
-        "trans": ["n. 文件"]
+        "trans": [
+            "n. a set of related records (either written or electronic) kept together; a line of persons or things ranged one behind the other"
+        ]
     },
     {
         "name": "cabin",
-        "trans": ["n. 船舱"]
+        "trans": [
+            "n. small room on a ship or boat where people sleep; a small house built of wood; usually in a wooded area"
+        ]
     },
     {
         "name": "bill",
-        "trans": ["n. 清单"]
+        "trans": [
+            "n. a statute in draft before it becomes law; an itemized statement of money owed for goods shipped or services rendered"
+        ]
     },
     {
         "name": "neutral",
-        "trans": ["adj. 中立的"]
+        "trans": [
+            "adj. having no personal preference; having only a limited ability to react chemically; chemically inactive"
+        ]
     },
     {
         "name": "luggage",
-        "trans": ["n. 行李"]
+        "trans": [
+            "n. cases used to carry belongings when traveling"
+        ]
     },
     {
         "name": "documentary film",
-        "trans": ["n. 纪录片"]
+        "trans": [
+            "n. a film or TV program presenting the facts about a person or event"
+        ]
     },
     {
         "name": "unloaded",
-        "trans": ["adj. 卸货"]
+        "trans": [
+            "adj. (of weapons) not charged with ammunition"
+        ]
     },
     {
         "name": "parking lot",
-        "trans": ["n. 停车场"]
+        "trans": [
+            "n. a lot where cars are parked"
+        ]
     },
     {
         "name": "comedy",
-        "trans": ["n. 喜剧"]
+        "trans": [
+            "n. light and humorous drama with a happy ending; a comic incident or series of incidents"
+        ]
     },
     {
         "name": "campsite",
-        "trans": ["n. 营地"]
+        "trans": [
+            "n. a site where people on holiday can pitch a tent"
+        ]
     },
     {
         "name": "fiction",
-        "trans": ["n. 小说"]
+        "trans": [
+            "n. a literary work based on the imagination and not necessarily on fact"
+        ]
     },
     {
         "name": "metal paint",
-        "trans": ["n. 金属漆"]
+        "trans": [
+            "n. 金属漆"
+        ]
     },
     {
         "name": "meadow",
-        "trans": ["n. 草地"]
+        "trans": [
+            "n. a field where grass or alfalfa are grown to be made into hay"
+        ]
     },
     {
         "name": "metal detector",
-        "trans": ["n. 金属探测器"]
+        "trans": [
+            "n. detector that gives a signal when it detects the presence of metal; used to detect the presence of stray bits of metal in food products or to find buried metal"
+        ]
     },
     {
         "name": "cash point",
-        "trans": ["n. 提款机"]
+        "trans": [
+            "n. 提款机"
+        ]
     },
     {
         "name": "label",
-        "trans": ["n. 标签"]
+        "trans": [
+            "n. a brief description given for purposes of identification; trade name of a company that produces musical recordings"
+        ]
     },
     {
         "name": "ink",
-        "trans": ["n. 墨水"]
+        "trans": [
+            "n. a liquid used for printing or writing or drawing"
+        ]
     },
     {
         "name": "statue",
-        "trans": ["n. 雕塑"]
+        "trans": [
+            "n. a sculpture representing a human or animal"
+        ]
     },
     {
         "name": "seed",
-        "trans": ["n. 种子"]
+        "trans": [
+            "n. a small hard fruit; a mature fertilized plant ovule consisting of an embryo and its food source and having a protective coat or testa"
+        ]
     },
     {
         "name": "award",
-        "trans": ["n. 奖品"]
+        "trans": [
+            "n. a grant made by a law court; a tangible symbol signifying approval or distinction"
+        ]
     },
     {
         "name": "vehicle",
-        "trans": ["n. 车辆"]
+        "trans": [
+            "n. a conveyance that transports people or objects; a medium for the expression or achievement of something"
+        ]
     },
     {
         "name": "herb",
-        "trans": ["n. 草药"]
+        "trans": [
+            "n. a plant lacking a permanent woody stem; many are flowering garden plants or potherbs; some having medicinal properties; some are pests"
+        ]
     },
     {
         "name": "excursion",
-        "trans": ["n. 短途旅行"]
+        "trans": [
+            "n. a journey taken for pleasure"
+        ]
     },
     {
         "name": "blanket",
-        "trans": ["n. 毛毯"]
+        "trans": [
+            "n. bedding that keeps a person warm in bed; anything that covers"
+        ]
     },
     {
         "name": "extra",
-        "trans": ["adj. 额外的"]
+        "trans": [
+            "adj. more than is needed, desired, or required"
+        ]
     },
     {
         "name": "coal",
-        "trans": ["n. 煤"]
+        "trans": [
+            "n. fossil fuel consisting of carbonized vegetable matter deposited in the Carboniferous period"
+        ]
     },
     {
         "name": "terrain",
-        "trans": ["n. 地形"]
+        "trans": [
+            "n. a piece of ground having specific characteristics or military potential"
+        ]
     },
     {
         "name": "aspect",
-        "trans": ["n. 方面"]
+        "trans": [
+            "n. a distinct feature or element in a problem; a characteristic to be considered"
+        ]
     },
     {
         "name": "allow",
-        "trans": ["v. 允许"]
+        "trans": [
+            "v. make it possible through a specific action or lack of action for something to happen; consent to, give permission"
+        ]
     },
     {
         "name": "recommend",
-        "trans": ["v. 推荐"]
+        "trans": [
+            "v. push for something; express a good opinion of"
+        ]
     },
     {
         "name": "mine",
-        "trans": ["n. 矿"]
+        "trans": [
+            "pron. the one(s) belonging to me",
+            "n. an excavation in the earth for extracting coal, metal or other minerals",
+            "n. an explosive device placed in the ground or water"
+        ]
     },
     {
         "name": "reception",
-        "trans": ["n. 接待处"]
+        "trans": [
+            "n. the manner in which something is greeted; a formal party of people; as after a wedding"
+        ]
     },
     {
         "name": "technological",
-        "trans": ["adj. 科技的"]
+        "trans": [
+            "adj. based in scientific and industrial progress; of or relating to a practical subject that is organized according to scientific principles"
+        ]
     },
     {
         "name": "staff",
-        "trans": ["n. 职员"]
+        "trans": [
+            "n. personnel who assist their superior in carrying out an assigned task; a strong rod or stick with a specialized utilitarian purpose"
+        ]
     },
     {
         "name": "insight",
-        "trans": ["n. 洞察力"]
+        "trans": [
+            "n. clear or deep perception of a situation; a feeling of understanding"
+        ]
     },
     {
         "name": "elevator",
-        "trans": ["n. 电梯"]
+        "trans": [
+            "n. lifting device consisting of a platform or cage that is raised and lowered mechanically in a vertical shaft in order to move people from one floor to another…"
+        ]
     },
     {
         "name": "underground",
-        "trans": ["n. 地铁"]
+        "trans": [
+            "n. a secret group organized to overthrow a government or occupation force"
+        ]
     },
     {
         "name": "employee",
-        "trans": ["n. 员工"]
+        "trans": [
+            "n. a worker who is hired to perform a job"
+        ]
     },
     {
         "name": "notice board",
-        "trans": ["n. 布告栏"]
+        "trans": [
+            "n. a board that hangs on a wall; displays announcements"
+        ]
     },
     {
         "name": "supportive",
-        "trans": ["adj. 支持的"]
+        "trans": [
+            "adj. furnishing support or assistance"
+        ]
     },
     {
         "name": "budget",
-        "trans": ["n. 预算"]
+        "trans": [
+            "n. a sum of money allocated for a particular purpose; a summary of intended expenditures along with proposals for how to meet them"
+        ]
     },
     {
         "name": "responsibility",
-        "trans": ["n. 责任"]
+        "trans": [
+            "n. the social force that binds you to the courses of action demanded by that force; the proper sphere or extent of your activities"
+        ]
     },
     {
         "name": "atmosphere",
-        "trans": ["n. 气氛"]
+        "trans": [
+            "n. a particular environment or surrounding influence"
+        ]
     },
     {
         "name": "guest",
-        "trans": ["n. 客人"]
+        "trans": [
+            "n. a visitor to whom hospitality is extended"
+        ]
     },
     {
         "name": "screen",
-        "trans": ["n. 屏幕"]
+        "trans": [
+            "n. a white or silvered surface where pictures can be projected for viewing; a protective covering that keeps things out or hinders sight"
+        ]
     },
     {
         "name": "deliver",
-        "trans": ["v. 递送"]
+        "trans": [
+            "v. deliver (a speech, oration, or idea); bring to a destination, make a delivery"
+        ]
     },
     {
         "name": "store room",
-        "trans": ["n. 储藏室"]
+        "trans": [
+            "n. 储藏室"
+        ]
     },
     {
         "name": "main hall",
-        "trans": ["n. 大厅"]
+        "trans": [
+            "n. 大厅"
+        ]
     },
     {
         "name": "lobby",
-        "trans": ["n. 大厅"]
+        "trans": [
+            "n. a large entrance or reception room or area"
+        ]
     },
     {
         "name": "tax",
-        "trans": ["n. 税"]
+        "trans": [
+            "n. charge against a citizen's person or property or activity for the support of government"
+        ]
     },
     {
         "name": "accountant",
-        "trans": ["n. 会计师"]
+        "trans": [
+            "n. someone who maintains and audits business accounts"
+        ]
     },
     {
         "name": "architecture",
-        "trans": ["n. 建筑"]
+        "trans": [
+            "n. an architectural product or work; the discipline dealing with the principles of design and construction and ornamentation of fine buildings"
+        ]
     },
     {
         "name": "waterfall",
-        "trans": ["n. 瀑布"]
+        "trans": [
+            "n. a steep descent of the water of a river"
+        ]
     },
     {
         "name": "rent",
-        "trans": ["n. 租金"]
+        "trans": [
+            "n. a payment or series of payments made by the lessee to an owner for use of some property, facility, equipment, or service"
+        ]
     },
     {
         "name": "solar energy",
-        "trans": ["n. 太阳能"]
+        "trans": [
+            "n. energy from the sun that is converted into thermal or electrical energy"
+        ]
     },
     {
         "name": "villa",
-        "trans": ["n. 别墅"]
+        "trans": [
+            "n. Mexican revolutionary leader (1877-1923)"
+        ]
     },
     {
         "name": "picnic",
-        "trans": ["n. 野餐"]
+        "trans": [
+            "n. a day devoted to an outdoor social gathering; any undertaking that is easy to do"
+        ]
     },
     {
         "name": "pond",
-        "trans": ["n. 池塘"]
+        "trans": [
+            "n. a small lake"
+        ]
     },
     {
         "name": "pool",
-        "trans": ["n. 游泳池"]
+        "trans": [
+            "n. an excavation that is (usually) filled with water; a small lake"
+        ]
     },
     {
         "name": "agent",
-        "trans": ["n. 中介"]
+        "trans": [
+            "n. an active and efficient cause; capable of producing a certain effect; a representative who acts on behalf of other persons or organizations"
+        ]
     },
     {
         "name": "real estate",
-        "trans": ["n. 房地产"]
+        "trans": [
+            "n. property consisting of houses and land"
+        ]
     },
     {
         "name": "worthwhile",
-        "trans": ["adj. 值得的"]
+        "trans": [
+            "adj. sufficiently valuable to justify the investment of time or interest"
+        ]
     },
     {
         "name": "location",
-        "trans": ["n. 位置"]
+        "trans": [
+            "n. a point or extent in space; the act of putting something in a certain place"
+        ]
     },
     {
         "name": "suitable",
-        "trans": ["adj. 适当的"]
+        "trans": [
+            "adj. meant or adapted for an occasion or use"
+        ]
     },
     {
         "name": "decorate",
-        "trans": ["v. 装饰"]
+        "trans": [
+            "v. make more attractive by adding ornament, colour, etc."
+        ]
     },
     {
         "name": "appointment",
-        "trans": ["n. 约定"]
+        "trans": [
+            "n. the act of putting a person into a non-elective position; a meeting arranged in advance"
+        ]
     },
     {
         "name": "single",
-        "trans": ["adj. 单一的"]
+        "trans": [
+            "adj. being or characteristic of a single thing or person"
+        ]
     },
     {
         "name": "garage",
-        "trans": ["n. 车库"]
+        "trans": [
+            "n. an outbuilding (or part of a building) for housing automobiles"
+        ]
     },
     {
         "name": "spare room",
-        "trans": ["n. 空房"]
+        "trans": [
+            "n. 空房"
+        ]
     },
     {
         "name": "shade",
-        "trans": ["n. 树荫"]
+        "trans": [
+            "n. relative darkness caused by light rays being intercepted by an opaque body; a quality of a given color that differs slightly from another color"
+        ]
     },
     {
         "name": "string",
-        "trans": ["n. 线"]
+        "trans": [
+            "n. a lightweight cord; stringed instruments that are played with a bow"
+        ]
     },
     {
         "name": "lettuce",
-        "trans": ["n. 生菜"]
+        "trans": [
+            "n. informal terms for money"
+        ]
     },
     {
         "name": "spoon",
-        "trans": ["n. 勺子"]
+        "trans": [
+            "n. a piece of cutlery with a shallow bowl-shaped container and a handle; used to stir or serve or take up food"
+        ]
     }
 ]

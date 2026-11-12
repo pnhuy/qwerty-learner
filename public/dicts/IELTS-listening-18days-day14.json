@@ -1,306 +1,474 @@
 [
     {
         "name": "power steering",
-        "trans": ["动力方向盘"]
+        "trans": [
+            "n. automotive steering where engineer power amplifies the torque applied to the steering wheel"
+        ]
     },
     {
         "name": "photo journalism",
-        "trans": ["图片新闻", "摄影新闻"]
+        "trans": [
+            "图片新闻",
+            "摄影新闻"
+        ]
     },
     {
         "name": "structure",
-        "trans": ["结构"]
+        "trans": [
+            "n. a thing constructed; a complex entity constructed of many parts; the manner of construction of something and the arrangement of its parts",
+            "v. give a structure to"
+        ]
     },
     {
         "name": "repetition",
-        "trans": ["重复"]
+        "trans": [
+            "n. an event that repeats; the act of doing or performing again"
+        ]
     },
     {
         "name": "invest",
-        "trans": ["投资"]
+        "trans": [
+            "v. make an investment; give qualities or abilities to"
+        ]
     },
     {
         "name": "framing",
-        "trans": ["框架"]
+        "trans": [
+            "n. formulation of the plans and important details"
+        ]
     },
     {
         "name": "crime",
-        "trans": ["罪行"]
+        "trans": [
+            "n. (criminal law) an act punishable by law; usually considered an evil act; an evil act not necessarily punishable by law"
+        ]
     },
     {
         "name": "creative",
-        "trans": ["有创造力的"]
+        "trans": [
+            "adj. having the ability or power to create; promoting construction or creation"
+        ]
     },
     {
         "name": "frame",
-        "trans": ["设计"]
+        "trans": [
+            "n. the framework for a pair of eyeglasses; a single one of a series of still transparent pictures forming a cinema, television or video film",
+            "v. enclose in or as if in a frame; enclose in a frame, as of a picture"
+        ]
     },
     {
         "name": "inspire",
-        "trans": ["鼓舞"]
+        "trans": [
+            "v. heighten or intensify; supply the inspiration for"
+        ]
     },
     {
         "name": "handout",
-        "trans": ["讲义"]
+        "trans": [
+            "n. an announcement distributed to members of the press in order to supplement or replace an oral presentation"
+        ]
     },
     {
         "name": "disappoint",
-        "trans": ["使失望"]
+        "trans": [
+            "v. fail to meet the hopes or expectations of"
+        ]
     },
     {
         "name": "independent",
-        "trans": ["独立的"]
+        "trans": [
+            "adj. free from external control and constraint; (of political bodies) not controlled by outside forces"
+        ]
     },
     {
         "name": "external",
-        "trans": ["外部的"]
+        "trans": [
+            "adj. happening or arising or located outside or beyond some limits or especially surface; coming from the outside"
+        ]
     },
     {
         "name": "obey",
-        "trans": ["遵守"]
+        "trans": [
+            "v. be obedient to"
+        ]
     },
     {
         "name": "procedure",
-        "trans": ["手续", "过程"]
+        "trans": [
+            "n. a particular course of action intended to achieve a result"
+        ]
     },
     {
         "name": "consumer",
-        "trans": ["消费者"]
+        "trans": [
+            "n. a person who uses goods or services"
+        ]
     },
     {
         "name": "effect",
-        "trans": ["影响"]
+        "trans": [
+            "n. a phenomenon that follows and is caused by some previous phenomenon; an outward appearance",
+            "v. produce; act so as to bring into existence"
+        ]
     },
     {
         "name": "mineral",
-        "trans": ["矿物"]
+        "trans": [
+            "n. solid homogeneous inorganic substances occurring in nature having a definite chemical composition"
+        ]
     },
     {
         "name": "stitch",
-        "trans": ["缝补"]
+        "trans": [
+            "n. a link or loop or knot made by an implement in knitting, crocheting, embroidery, or sewing",
+            "v. fasten by sewing; do needlework"
+        ]
     },
     {
         "name": "pure",
-        "trans": ["纯净的"]
+        "trans": [
+            "adj. free of extraneous elements of any kind; without qualification; used informally as (often pejorative) intensifiers"
+        ]
     },
     {
         "name": "virus",
-        "trans": ["病毒"]
+        "trans": [
+            "n. (virology) ultramicroscopic infectious agent that replicates itself only within cells of living hosts; many are pathogenic…"
+        ]
     },
     {
         "name": "identity",
-        "trans": ["身份"]
+        "trans": [
+            "n. the distinct personality of an individual regarded as a persisting entity; the individual characteristics by which a thing or person is recognized or known"
+        ]
     },
     {
         "name": "evaluation",
-        "trans": ["评估"]
+        "trans": [
+            "n. act of ascertaining or fixing the value or worth of; an appraisal of the value of something"
+        ]
     },
     {
         "name": "sound quality",
-        "trans": ["音质"]
+        "trans": [
+            "音质"
+        ]
     },
     {
         "name": "case study",
-        "trans": ["案例分析"]
+        "trans": [
+            "n. a careful study of some social unit (as a corporation or division within a corporation) that attempts to determine what factors led to its success or failure"
+        ]
     },
     {
         "name": "coral",
-        "trans": ["珊瑚"]
+        "trans": [
+            "n. a variable color averaging a deep pink"
+        ]
     },
     {
         "name": "frog",
-        "trans": ["青蛙"]
+        "trans": [
+            "n. any of various tailless stout-bodied amphibians with long hind limbs for leaping; semiaquatic and terrestrial species"
+        ]
     },
     {
         "name": "bacteria",
-        "trans": ["细菌"]
+        "trans": [
+            "n. (microbiology) single-celled or noncellular spherical or spiral or rod-shaped organisms lacking chlorophyll that reproduce by fission…"
+        ]
     },
     {
         "name": "smooth",
-        "trans": ["光滑的"]
+        "trans": [
+            "adj. having a surface free from roughness or bumps or ridges or irregularities; smoothly agreeable and courteous with a degree of sophistication",
+            "v. make smooth or smoother, as if by rubbing; make (a surface) shine"
+        ]
     },
     {
         "name": "chain",
-        "trans": ["连锁"]
+        "trans": [
+            "n. a series of things depending on each other as if linked together; (chemistry) a series of linked atoms (generally in an organic molecule)"
+        ]
     },
     {
         "name": "optimisation",
-        "trans": ["最佳化"]
+        "trans": [
+            "n. the act of rendering optimal"
+        ]
     },
     {
         "name": "fibre",
-        "trans": ["纤维"]
+        "trans": [
+            "n. a slender and greatly elongated substance capable of being spun into yarn"
+        ]
     },
     {
         "name": "stabilise",
-        "trans": ["使稳定", "使稳固"]
+        "trans": [
+            "v. support or hold steady and make steadfast, with or as if with a brace"
+        ]
     },
     {
         "name": "bone",
-        "trans": ["骨头"]
+        "trans": [
+            "n. rigid connective tissue that makes up the skeleton of vertebrates; the porous calcified substance from which bones are made"
+        ]
     },
     {
         "name": "patterns",
-        "trans": ["模式"]
+        "trans": [
+            "n. a perceptual structure; a customary way of operation or behavior",
+            "v. plan or create according to a model or models"
+        ]
     },
     {
         "name": "robot",
-        "trans": ["机器人"]
+        "trans": [
+            "n. a mechanism that can move automatically"
+        ]
     },
     {
         "name": "attention",
-        "trans": ["注意力"]
+        "trans": [
+            "n. the process whereby a person concentrates on some features of the environment to the (relative) exclusion of others"
+        ]
     },
     {
         "name": "smell",
-        "trans": ["嗅"]
+        "trans": [
+            "v. inhale the odor of; perceive by the olfactory sense; emit an odor",
+            "n. the sensation that results when olfactory receptors in the nose are stimulated by particular chemicals in gaseous form"
+        ]
     },
     {
         "name": "delay",
-        "trans": ["延期"]
+        "trans": [
+            "v. cause to be slowed down or delayed; act later than planned, scheduled, or required",
+            "n. time during which some action is awaited; the act of delaying; inactivity resulting in something being put off until a later time"
+        ]
     },
     {
         "name": "accurate",
-        "trans": ["正确的"]
+        "trans": [
+            "adj. conforming exactly or almost exactly to fact or to a standard or performing with total accuracy"
+        ]
     },
     {
         "name": "chapter",
-        "trans": ["章"]
+        "trans": [
+            "n. a subdivision of a written work; usually numbered and titled; any distinct period in history or in a person's life"
+        ]
     },
     {
         "name": "darkroom",
-        "trans": ["暗室"]
+        "trans": [
+            "n. a room in which photographs are developed"
+        ]
     },
     {
         "name": "volume",
-        "trans": ["音量"]
+        "trans": [
+            "n. the amount of 3-dimensional space occupied by an object; the property of something that is great in magnitude"
+        ]
     },
     {
         "name": "craft",
-        "trans": ["手工"]
+        "trans": [
+            "n. the skilled practice of a practical occupation; a vehicle designed for navigation in or on water or air or through outer space"
+        ]
     },
     {
         "name": "packing",
-        "trans": ["包装"]
+        "trans": [
+            "n. any material used especially to protect something; the enclosure of something in a package or box"
+        ]
     },
     {
         "name": "appreciate",
-        "trans": ["感激"]
+        "trans": [
+            "v. recognize with gratitude; be grateful for; be fully aware of; realize fully"
+        ]
     },
     {
         "name": "accurate",
-        "trans": ["精确的"]
+        "trans": [
+            "adj. conforming exactly or almost exactly to fact or to a standard or performing with total accuracy"
+        ]
     },
     {
         "name": "stimulate",
-        "trans": ["刺激"]
+        "trans": [
+            "v. act as a stimulant; cause to do; cause to act in a specified manner"
+        ]
     },
     {
         "name": "utility",
-        "trans": ["实用性"]
+        "trans": [
+            "n. a company that performs a public service; subject to government regulation; the quality of being of practical use"
+        ]
     },
     {
         "name": "strict",
-        "trans": ["严格的"]
+        "trans": [
+            "adj. rigidly accurate; allowing no deviation from a standard; (of rules) stringently enforced"
+        ]
     },
     {
         "name": "font",
-        "trans": ["字体"]
+        "trans": [
+            "n. a specific size and style of type within a type family"
+        ]
     },
     {
         "name": "retail",
-        "trans": ["零售"]
+        "trans": [
+            "n. the selling of goods to consumers; usually in small quantities and not for resale",
+            "v. be sold at the retail level"
+        ]
     },
     {
         "name": "staircase",
-        "trans": ["楼梯间"]
+        "trans": [
+            "n. a way of access (upward and downward) consisting of a set of steps"
+        ]
     },
     {
         "name": "accumulate",
-        "trans": ["积累"]
+        "trans": [
+            "v. get or gather together; collect or gather"
+        ]
     },
     {
         "name": "steam",
-        "trans": ["蒸汽"]
+        "trans": [
+            "v. travel by means of steam power; emit steam"
+        ]
     },
     {
         "name": "timber",
-        "trans": ["木材"]
+        "trans": [
+            "n. the wood of trees cut and prepared for use as building material; a beam made of wood"
+        ]
     },
     {
         "name": "aggressive",
-        "trans": ["侵略的"]
+        "trans": [
+            "adj. having or showing determination and energetic pursuit of your ends"
+        ]
     },
     {
         "name": "analysis",
-        "trans": ["分析"]
+        "trans": [
+            "n. an investigation of the component parts of a whole and their relations in making up the whole"
+        ]
     },
     {
         "name": "additive",
-        "trans": ["添加剂"]
+        "trans": [
+            "n. something added to enhance food or gasoline or paint or medicine"
+        ]
     },
     {
         "name": "proofread",
-        "trans": ["校对"]
+        "trans": [
+            "v. read for errors"
+        ]
     },
     {
         "name": "ignore",
-        "trans": ["忽略"]
+        "trans": [
+            "v. refuse to acknowledge; bar from attention or consideration"
+        ]
     },
     {
         "name": "rural",
-        "trans": ["乡下的"]
+        "trans": [
+            "adj. living in or characteristic of farming or country life; of or relating to the countryside as opposed to the city"
+        ]
     },
     {
         "name": "nitrogen",
-        "trans": ["氮气"]
+        "trans": [
+            "n. a common nonmetallic element that is normally a colorless odorless tasteless inert diatomic gas; constitutes 78 percent of the atmosphere by volume…"
+        ]
     },
     {
         "name": "ozone layer",
-        "trans": ["臭氧层"]
+        "trans": [
+            "n. a layer in the stratosphere (at approximately 20 miles) that contains a concentration of ozone sufficient to block most ultraviolet radiation from the sun"
+        ]
     },
     {
         "name": "sculpture",
-        "trans": ["雕刻"]
+        "trans": [
+            "n. a three-dimensional work of plastic art; creating figures or designs in three dimensions",
+            "v. create by shaping stone or wood or any other hard material"
+        ]
     },
     {
         "name": "moisture",
-        "trans": ["水分", "湿气"]
+        "trans": [
+            "n. wetness caused by water"
+        ]
     },
     {
         "name": "rubber",
-        "trans": ["橡胶轮胎"]
+        "trans": [
+            "n. an elastic material obtained from the latex sap of trees (especially trees of the genera Hevea and Ficus) that can be vulcanized and finished into a variety of…"
+        ]
     },
     {
         "name": "downhill",
-        "trans": ["下坡路"]
+        "trans": [
+            "n. the downward slope of a hill",
+            "adj. sloping down rather steeply",
+            "adv. toward a lower or inferior state"
+        ]
     },
     {
         "name": "roof",
-        "trans": ["房顶"]
+        "trans": [
+            "n. a protective covering that covers or forms the top of a building; protective covering on top of a motor vehicle",
+            "v. provide a building with a roof; cover a building with a roof"
+        ]
     },
     {
         "name": "condition",
-        "trans": ["条件", "状况"]
+        "trans": [
+            "n. a state at a particular time; an assumption on which rests the validity or effect of something else",
+            "v. establish a conditioned response; develop (children's) behavior by instruction and practice; especially to teach self-control"
+        ]
     },
     {
         "name": "fluid",
-        "trans": ["液体", "流体"]
+        "trans": [
+            "n. a substance that is fluid at room temperature and pressure",
+            "adj. subject to change; variable"
+        ]
     },
     {
         "name": "kidney",
-        "trans": ["肾", "肾脏"]
+        "trans": [
+            "n. either of two bean-shaped excretory organs that filter wastes (especially urea) from the blood and excrete them and water in urine"
+        ]
     },
     {
         "name": "machine",
-        "trans": ["机械"]
+        "trans": [
+            "n. any mechanical or electrical device that transmits or modifies energy to perform or assist in the performance of human tasks; an efficient person"
+        ]
     },
     {
         "name": "eyesight",
-        "trans": ["视力"]
+        "trans": [
+            "n. normal use of the faculty of vision"
+        ]
     },
     {
         "name": "camel",
-        "trans": ["骆驼"]
+        "trans": [
+            "n. cud-chewing mammal used as a draft or saddle animal in desert regions"
+        ]
     }
 ]

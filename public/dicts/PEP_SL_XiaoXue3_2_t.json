@@ -1,675 +1,704 @@
 [
-{
-        "name": "Chinese",
-        "trans": [
-            "语文",
-            "汉语（的）"
-        ],
-        "usphone": "tʃaɪˈniz",
-        "ukphone": "tʃaɪˈniːz"
-    },
-    {
-        "name": "English",
-        "trans": [
-            "英语（的）"
-        ],
-        "usphone": "ˈɪŋɡlɪʃ",
-        "ukphone": "ˈɪŋɡlɪʃ"
-    },
-    {
-        "name": "science",
-        "trans": [
-            "科学"
-        ],
-        "usphone": "ˈsaɪəns",
-        "ukphone": "ˈsaɪəns"
-    },
-    {
-        "name": "PE",
-        "trans": [
-            "体育"
-        ],
-        "usphone": "ˌpiːˈiː",
-        "ukphone": "ˌpiːˈiː"
-    },
-    {
-        "name": "music",
-        "trans": [
-            "音乐"
-        ],
-        "usphone": "ˈmjuzɪk",
-        "ukphone": "ˈmjuːzɪk"
-    },
-    {
-        "name": "maths",
-        "trans": [
-            "数学"
-        ],
-        "usphone": "mæθs",
-        "ukphone": "mæθs"
-    },
-    {
-        "name": "art",
-        "trans": [
-            "美术"
-        ],
-        "usphone": "ɑrt",
-        "ukphone": "ɑːt"
-    },
-    {
-        "name": "computer class",
-        "trans": [
-            "计算机课"
-        ],
-        "usphone": "kəmˈpjuːtər klæs",
-        "ukphone": "kəmˈpjuːtə klɑːs"
-    },
-    {
-        "name": "we",
-        "trans": [
-            "我们"
-        ],
-        "usphone": "wi",
-        "ukphone": "wiː"
-    },
-    {
-        "name": "that",
-        "trans": [
-            "那，那个"
-        ],
-        "usphone": "ðæt",
-        "ukphone": "ðæt"
-    },
-    {
-        "name": "classroom",
-        "trans": [
-            "教室"
-        ],
-        "usphone": "ˈklæsˌrum",
-        "ukphone": "ˈklɑːsruːm"
-    },
-    {
-        "name": "library",
-        "trans": [
-            "图书馆"
-        ],
-        "usphone": "ˈlaɪˌbrɛri",
-        "ukphone": "ˈlʌɪbrəri"
-    },
-    {
-        "name": "toilet",
-        "trans": [
-            "厕所，洗手间"
-        ],
-        "usphone": "ˈtɔɪlət",
-        "ukphone": "ˈtɔɪlət"
-    },
-    {
-        "name": "playground",
-        "trans": [
-            "操场，运动场"
-        ],
-        "usphone": "ˈpleɪˌɡraʊnd",
-        "ukphone": "ˈpleɪɡraʊnd"
-    },
-    {
-        "name": "first",
-        "trans": [
-            "第一的"
-        ],
-        "usphone": "fɜrst",
-        "ukphone": "fɜːst"
-    },
-    {
-        "name": "second",
-        "trans": [
-            "第二的"
-        ],
-        "usphone": "ˈsɛkənd",
-        "ukphone": "ˈsekənd"
-    },
-    {
-        "name": "third",
-        "trans": [
-            "第三的"
-        ],
-        "usphone": "θɜrd",
-        "ukphone": "θɜːd"
-    },
-    {
-        "name": "floor",
-        "trans": [
-            "（楼）层"
-        ],
-        "usphone": "flɔr",
-        "ukphone": "flɔː"
-    },
-    {
-        "name": "room",
-        "trans": [
-            "房间"
-        ],
-        "usphone": "rum",
-        "ukphone": "ruːm"
-    },
-    {
-        "name": "our",
-        "trans": [
-            "我们的"
-        ],
-        "usphone": "aʊr",
-        "ukphone": "aʊə"
-    },
-    {
-        "name": "they",
-        "trans": [
-            "他们"
-        ],
-        "usphone": "ðeɪ",
-        "ukphone": "ðeɪ"
-    },
-    {
-        "name": "chair",
-        "trans": [
-            "椅子"
-        ],
-        "usphone": "tʃɛr",
-        "ukphone": "tʃeər"
-    },
-    {
-        "name": "desk",
-        "trans": [
-            "书桌；写字台"
-        ],
-        "usphone": "dɛsk",
-        "ukphone": "dɛsk"
-    },
-    {
-        "name": "blackboard",
-        "trans": [
-            "黑板"
-        ],
-        "usphone": "ˈblækˌbɔrd",
-        "ukphone": "ˈblækˌbɔːd"
-    },
-    {
-        "name": "after school",
-        "trans": [
-            "放学后"
-        ],
-        "usphone": "ˈæftər skul",
-        "ukphone": "ˈɑːftə skul"
-    },
-    {
-        "name": "play sports",
-        "trans": [
-            "做运动"
-        ],
-        "usphone": "pleɪ ˈspɔrts",
-        "ukphone": "pleɪ ˈspɔːts"
-    },
-    {
-        "name": "draw pictures",
-        "trans": [
-            "画画"
-        ],
-        "usphone": "drɔ ˈpɪktʃərz",
-        "ukphone": "drɔː ˈpɪktʃəz"
-    },
-    {
-        "name": "play chess",
-        "trans": [
-            "下棋"
-        ],
-        "usphone": "pleɪ tʃɛs",
-        "ukphone": "pleɪ tʃes"
-    },
-    {
-        "name": "dance",
-        "trans": [
-            "跳舞"
-        ],
-        "usphone": "dæns",
-        "ukphone": "dɑːns"
-    },
-    {
-        "name": "sing songs",
-        "trans": [
-            "唱歌"
-        ],
-        "usphone": "sɪŋ sɔŋz",
-        "ukphone": "sɪŋ sɒŋz"
-    },
-    {
-        "name": "read books",
-        "trans": [
-            "读书"
-        ],
-        "usphone": "rid bʊks",
-        "ukphone": "riːd bʊks"
-    },
-    {
-        "name": "really",
-        "trans": [
-            "确实"
-        ],
-        "usphone": "ˈrɪli",
-        "ukphone": "ˈrɪəli"
-    },
-    {
-        "name": "tomorrow",
-        "trans": [
-            "明天"
-        ],
-        "usphone": "təˈmɑroʊ",
-        "ukphone": "təˈmɒrəʊ"
-    },
-    {
-        "name": "wake up",
-        "trans": [
-            "叫醒"
-        ],
-        "usphone": "weɪk ʌp",
-        "ukphone": "weɪkʌp"
-    },
-    {
-        "name": "be back",
-        "trans": [
-            "回来"
-        ],
-        "usphone": "bi bæk",
-        "ukphone": "bi bæk"
-    },
-    {
-        "name": "play football",
-        "trans": [
-            "踢足球"
-        ],
-        "usphone": "pleɪ ˈfʊtˌbɔl",
-        "ukphone": "pleɪ ˈfʊtbɔːl"
-    },
-    {
-        "name": "fly a kite",
-        "trans": [
-            "放风筝"
-        ],
-        "usphone": "flaɪ ə kaɪt",
-        "ukphone": "flaɪ ə kaɪt"
-    },
-    {
-        "name": "ride a bike",
-        "trans": [
-            "骑自行车"
-        ],
-        "usphone": "raɪd ə bak",
-        "ukphone": "raɪd ə baɪk"
-    },
-    {
-        "name": "swim",
-        "trans": [
-            "游泳"
-        ],
-        "usphone": "swɪm",
-        "ukphone": "swɪm"
-    },
-    {
-        "name": "make a model plane",
-        "trans": [
-            "做飞机模型"
-        ],
-        "usphone": "meɪk ə ˈmɑdl pleɪn",
-        "ukphone": "meɪk ə ˈmɒdl pleɪn"
-    },
-    {
-        "name": "make a snowman",
-        "trans": [
-            "堆雪人"
-        ],
-        "usphone": "meɪk ə ˈsnoʊˌmæn",
-        "ukphone": "meɪk ə ˈsnəʊmən"
-    },
-    {
-        "name": "family",
-        "trans": [
-            "家庭"
-        ],
-        "usphone": "ˈfæməli",
-        "ukphone": "ˈfæməli"
-    },
-    {
-        "name": "uncle",
-        "trans": [
-            "姑父；伯父；舅父；叔叔"
-        ],
-        "usphone": "ˈʌŋkəl",
-        "ukphone": "ˈʌŋkl̩"
-    },
-    {
-        "name": "aunt",
-        "trans": [
-            "姑母；伯母；舅妈；阿姨"
-        ],
-        "usphone": "ænt",
-        "ukphone": "ɑːnt"
-    },
-    {
-        "name": "cousin",
-        "trans": [
-            "堂（或表）兄弟；堂（或表）姐妹"
-        ],
-        "usphone": "ˈkʌzn",
-        "ukphone": "ˈkʌzn"
-    },
-    {
-        "name": "handsome",
-        "trans": [
-            "英俊的"
-        ],
-        "usphone": "ˈhænsəm",
-        "ukphone": "ˈhænsəm"
-    },
-    {
-        "name": "beautiful",
-        "trans": [
-            "美丽的"
-        ],
-        "usphone": "ˈbjutəfəl",
-        "ukphone": "ˈbjuːtɪfʊl"
-    },
-    {
-        "name": "lost",
-        "trans": [
-            "遗失"
-        ],
-        "usphone": "lɔst",
-        "ukphone": "lɒst"
-    },
-    {
-        "name": "water bottle",
-        "trans": [
-            "水瓶"
-        ],
-        "usphone": "ˈwɔtər ˌbɑtəl",
-        "ukphone": "ˈwɔːtər ˌbɒtl̩"
-    },
-    {
-        "name": "know",
-        "trans": [
-            "知道"
-        ],
-        "usphone": "noʊ",
-        "ukphone": "nəʊ"
-    },
-    {
-        "name": "OK",
-        "trans": [
-            "好的；行"
-        ],
-        "usphone": "ˌoʊˈkeɪ",
-        "ukphone": "ɒˈkeɪ"
-    },
-    {
-        "name": "much",
-        "trans": [
-            "很多地；非常"
-        ],
-        "usphone": "mʌtʃ",
-        "ukphone": "mʌtʃ"
-    },
-    {
-        "name": "welcome",
-        "trans": [
-            "受欢迎的"
-        ],
-        "usphone": "ˈwɛlkəm",
-        "ukphone": "ˈwɛlkəm"
-    },
-    {
-        "name": "grandfather",
-        "trans": [
-            "（外）祖父"
-        ],
-        "usphone": "ˈɡrændˌfɑðər",
-        "ukphone": "ˈɡrænˌfɑːðər"
-    },
-    {
-        "name": "grandmother",
-        "trans": [
-            "（外）祖母"
-        ],
-        "usphone": "ˈɡrændˌmʌðər",
-        "ukphone": "ˈɡrænˌmʌðər"
-    },
-    {
-        "name": "father",
-        "trans": [
-            "父亲；爸爸"
-        ],
-        "usphone": "ˈfɑðər",
-        "ukphone": "ˈfɑːðər"
-    },
-    {
-        "name": "mother",
-        "trans": [
-            "母亲；妈妈"
-        ],
-        "usphone": "ˈmʌðər",
-        "ukphone": "ˈmʌðər"
-    },
-    {
-        "name": "brother",
-        "trans": [
-            "兄；弟"
-        ],
-        "usphone": "ˈbrʌðər",
-        "ukphone": "ˈbrʌðər"
-    },
-    {
-        "name": "sister",
-        "trans": [
-            "姐；妹"
-        ],
-        "usphone": "ˈsɪstər",
-        "ukphone": "ˈsɪstər"
-    },
-    {
-        "name": "cooking dinner",
-        "trans": [
-            "正在做饭"
-        ],
-        "usphone": "ˈkʊkɪŋ ˈdɪnər",
-        "ukphone": "ˈkʊkɪŋ ˈdɪnər"
-    },
-    {
-        "name": "walking the dog",
-        "trans": [
-            "正在遛狗"
-        ],
-        "usphone": "ˈwɔkɪŋ ðə dɔɡ",
-        "ukphone": "ˈwɔːkɪŋ ðə dɒɡ"
-    },
-    {
-        "name": "watering the plants",
-        "trans": [
-            "正在给植物浇水"
-        ],
-        "usphone": "ˈwɔtərɪŋ ðə plænts",
-        "ukphone": "ˈwɔːtərɪŋ ðə plɑːnts"
-    },
-    {
-        "name": "cleaning the room",
-        "trans": [
-            "正在打扫房间"
-        ],
-        "usphone": "ˈklinɪŋ ðə rum",
-        "ukphone": "ˈkliːnɪŋ ðə ruːm"
-    },
-    {
-        "name": "listening to music",
-        "trans": [
-            "正在听音乐"
-        ],
-        "usphone": "ˈlɪsənɪŋ tu ˈmjuzɪk",
-        "ukphone": "ˈlɪsənɪŋ tʊ ˈmjuːzɪk"
-    },
-    {
-        "name": "watching TV",
-        "trans": [
-            "正在看电视"
-        ],
-        "usphone": "ˈwɑtʃɪŋ ˈtiˈvi",
-        "ukphone": "ˈwɒtʃɪŋ ˈtiˈvi"
-    },
-    {
-        "name": "feeding the fish",
-        "trans": [
-            "正在喂鱼"
-        ],
-        "usphone": "ˈfiːdɪŋ ðə fɪʃ",
-        "ukphone": "ˈfiːdɪŋ ðə fɪʃ"
-    },
-    {
-        "name": "play with",
-        "trans": [
-            "与……玩耍"
-        ],
-        "usphone": "pleɪ wɪð",
-        "ukphone": "pleɪ wɪð"
-    },
-    {
-        "name": "in one hour",
-        "trans": [
-            "一小时之后"
-        ],
-        "usphone": "ɪn wʌn ˈaʊər",
-        "ukphone": "ɪn wʌn ˈaʊər"
-    },
-    {
-        "name": "everyone",
-        "trans": [
-            "每人，人人"
-        ],
-        "usphone": "ˈɛvrɪˌwʌn",
-        "ukphone": "ˈevrɪˌwʌn"
-    },
-    {
-        "name": "children",
-        "trans": [
-            "孩子们"
-        ],
-        "usphone": "ˈtʃɪldrən",
-        "ukphone": "ˈtʃɪldrən"
-    },
-    {
-        "name": "run",
-        "trans": [
-            "跑"
-        ],
-        "usphone": "rʌn",
-        "ukphone": "rʌn"
-    },
-    {
-        "name": "home",
-        "trans": [
-            "家；家庭"
-        ],
-        "usphone": "hoʊm",
-        "ukphone": "həʊm"
-    },
-    {
-        "name": "bedroom",
-        "trans": [
-            "卧室"
-        ],
-        "usphone": "ˈbɛdˌrum",
-        "ukphone": "ˈbɛdˌruːm"
-    },
-    {
-        "name": "living room",
-        "trans": [
-            "客厅"
-        ],
-        "usphone": "ˈlɪvɪŋ rum",
-        "ukphone": "ˈlɪvɪŋ ruːm"
-    },
-    {
-        "name": "bathroom",
-        "trans": [
-            "浴室"
-        ],
-        "usphone": "ˈbæθˌrum",
-        "ukphone": "ˈbɑːθˌruːm"
-    },
-    {
-        "name": "dining room",
-        "trans": [
-            "餐厅"
-        ],
-        "usphone": "ˈdaɪnɪŋ rum",
-        "ukphone": "ˈdaɪnɪŋ ruːm"
-    },
-    {
-        "name": "study",
-        "trans": [
-            "书房"
-        ],
-        "usphone": "ˈstʌdi",
-        "ukphone": "ˈstʌdi"
-    },
-    {
-        "name": "kitchen",
-        "trans": [
-            "厨房"
-        ],
-        "usphone": "ˈkɪtʃən",
-            "ukphone": "ˈkɪtʃɪn"
+        {
+                "name": "Chinese",
+                "trans": [
+                        "adj. of or pertaining to China or its peoples or cultures",
+                        "n. any of the Sino-Tibetan languages spoken in China…"
+                ],
+                "usphone": "tʃaɪˈniz",
+                "ukphone": "tʃaɪˈniːz"
         },
         {
-            "name": "for rent",
-            "trans": [
-                "供出租"
-            ],
-            "usphone": "fɔr rɛnt",
-            "ukphone": "fɔː rɛnt"
+                "name": "English",
+                "trans": [
+                        "adj. of or relating to or characteristic of England or its culture or people",
+                        "n. an Indo-European language belonging to the West Germanic branch; the official language of Britain and the United States and most of the commonwealth countries"
+                ],
+                "usphone": "ˈɪŋɡlɪʃ",
+                "ukphone": "ˈɪŋɡlɪʃ"
         },
         {
-            "name": "sofa",
-            "trans": [
-                "沙发"
-            ],
-            "usphone": "ˈsoʊfə",
-            "ukphone": "ˈsəʊfə"
+                "name": "science",
+                "trans": [
+                        "n. a particular branch of scientific knowledge; ability to produce solutions in some problem domain"
+                ],
+                "usphone": "ˈsaɪəns",
+                "ukphone": "ˈsaɪəns"
         },
         {
-            "name": "light",
-            "trans": [
-                "灯；发光体"
-            ],
-            "usphone": "laɪt",
-            "ukphone": "laɪt"
+                "name": "PE",
+                "trans": [
+                        "n. the 17th letter of the Hebrew alphabet"
+                ],
+                "usphone": "ˌpiːˈiː",
+                "ukphone": "ˌpiːˈiː"
         },
         {
-            "name": "bed",
-            "trans": [
-                "床；床架；床垫"
-            ],
-            "usphone": "bɛd",
-            "ukphone": "bɛd"
+                "name": "music",
+                "trans": [
+                        "n. an artistic form of auditory communication incorporating instrumental or vocal tones in a structured and continuous manner"
+                ],
+                "usphone": "ˈmjuzɪk",
+                "ukphone": "ˈmjuːzɪk"
         },
         {
-            "name": "door",
-            "trans": [
-                "门；出入口"
-            ],
-            "usphone": "dɔr",
-            "ukphone": "dɔːr"
+                "name": "maths",
+                "trans": [
+                        "n. a science (or group of related sciences) dealing with the logic of quantity and shape and arrangement"
+                ],
+                "usphone": "mæθs",
+                "ukphone": "mæθs"
         },
         {
-            "name": "box",
-            "trans": [
-                "箱子；盒子"
-            ],
-            "usphone": "bɑks",
-            "ukphone": "bɒks"
+                "name": "art",
+                "trans": [
+                        "n. the products of human creativity; works of art collectively; the creation of beautiful or significant things"
+                ],
+                "usphone": "ɑrt",
+                "ukphone": "ɑːt"
+        },
+        {
+                "name": "computer class",
+                "trans": [
+                        "计算机课"
+                ],
+                "usphone": "kəmˈpjuːtər klæs",
+                "ukphone": "kəmˈpjuːtə klɑːs"
+        },
+        {
+                "name": "we",
+                "trans": [
+                        "pron. the speaker together with one or more other people"
+                ],
+                "usphone": "wi",
+                "ukphone": "wiː"
+        },
+        {
+                "name": "that",
+                "trans": [
+                        "det. / pron. the person or thing farther away or already mentioned",
+                        "conj. introducing a clause (e.g. I know that he left)",
+                        "adv. to that degree; so"
+                ],
+                "usphone": "ðæt",
+                "ukphone": "ðæt"
+        },
+        {
+                "name": "classroom",
+                "trans": [
+                        "n. a room in a school where lessons take place"
+                ],
+                "usphone": "ˈklæsˌrum",
+                "ukphone": "ˈklɑːsruːm"
+        },
+        {
+                "name": "library",
+                "trans": [
+                        "n. a room where books are kept; a collection of literary documents or records kept for reference or borrowing"
+                ],
+                "usphone": "ˈlaɪˌbrɛri",
+                "ukphone": "ˈlʌɪbrəri"
+        },
+        {
+                "name": "toilet",
+                "trans": [
+                        "n. a room or building equipped with one or more toilets; a plumbing fixture for defecation and urination"
+                ],
+                "usphone": "ˈtɔɪlət",
+                "ukphone": "ˈtɔɪlət"
+        },
+        {
+                "name": "playground",
+                "trans": [
+                        "n. an area where many people go for recreation"
+                ],
+                "usphone": "ˈpleɪˌɡraʊnd",
+                "ukphone": "ˈpleɪɡraʊnd"
+        },
+        {
+                "name": "first",
+                "trans": [
+                        "adj. preceding all others in time or space or degree; indicating the beginning unit in a series",
+                        "adv. before anything else; the initial time",
+                        "n. the first or highest in an ordering or series; the first element in a countable series"
+                ],
+                "usphone": "fɜrst",
+                "ukphone": "fɜːst"
+        },
+        {
+                "name": "second",
+                "trans": [
+                        "adj. coming next after the first in position in space or time or degree or magnitude",
+                        "n. 1/60 of a minute; the basic unit of time adopted under the Systeme International d'Unites; an indefinitely short time",
+                        "adv. in the second place"
+                ],
+                "usphone": "ˈsɛkənd",
+                "ukphone": "ˈsekənd"
+        },
+        {
+                "name": "third",
+                "trans": [
+                        "adj. coming next after the second and just before the fourth in position",
+                        "n. one of three equal parts of a divisible whole",
+                        "adv. in the third place"
+                ],
+                "usphone": "θɜrd",
+                "ukphone": "θɜːd"
+        },
+        {
+                "name": "floor",
+                "trans": [
+                        "n. the inside lower horizontal surface (as of a room, hallway, tent, or other structure)"
+                ],
+                "usphone": "flɔr",
+                "ukphone": "flɔː"
+        },
+        {
+                "name": "room",
+                "trans": [
+                        "n. an area within a building enclosed by walls and floor and ceiling; space for movement",
+                        "v. live and take one's meals at or in"
+                ],
+                "usphone": "rum",
+                "ukphone": "ruːm"
+        },
+        {
+                "name": "our",
+                "trans": [
+                        "det. belonging to or associated with the speaker and one or more others"
+                ],
+                "usphone": "aʊr",
+                "ukphone": "aʊə"
+        },
+        {
+                "name": "they",
+                "trans": [
+                        "pron. two or more people or things previously mentioned",
+                        "pron. people in general; a person whose gender is unknown or not specified"
+                ],
+                "usphone": "ðeɪ",
+                "ukphone": "ðeɪ"
+        },
+        {
+                "name": "chair",
+                "trans": [
+                        "n. a seat for one person, with a support for the back; the position of professor"
+                ],
+                "usphone": "tʃɛr",
+                "ukphone": "tʃeər"
+        },
+        {
+                "name": "desk",
+                "trans": [
+                        "n. a piece of furniture with a writing surface and usually drawers or other compartments"
+                ],
+                "usphone": "dɛsk",
+                "ukphone": "dɛsk"
+        },
+        {
+                "name": "blackboard",
+                "trans": [
+                        "n. sheet of slate; for writing with chalk"
+                ],
+                "usphone": "ˈblækˌbɔrd",
+                "ukphone": "ˈblækˌbɔːd"
+        },
+        {
+                "name": "after school",
+                "trans": [
+                        "放学后"
+                ],
+                "usphone": "ˈæftər skul",
+                "ukphone": "ˈɑːftə skul"
+        },
+        {
+                "name": "play sports",
+                "trans": [
+                        "phr. to take part in sports"
+                ],
+                "usphone": "pleɪ ˈspɔrts",
+                "ukphone": "pleɪ ˈspɔːts"
+        },
+        {
+                "name": "draw pictures",
+                "trans": [
+                        "画画"
+                ],
+                "usphone": "drɔ ˈpɪktʃərz",
+                "ukphone": "drɔː ˈpɪktʃəz"
+        },
+        {
+                "name": "play chess",
+                "trans": [
+                        "下棋"
+                ],
+                "usphone": "pleɪ tʃɛs",
+                "ukphone": "pleɪ tʃes"
+        },
+        {
+                "name": "dance",
+                "trans": [
+                        "v. move in a graceful and rhythmical way; move in a pattern; usually to musical accompaniment; do or perform a dance",
+                        "n. an artistic form of nonverbal communication; a party of people assembled for dancing"
+                ],
+                "usphone": "dæns",
+                "ukphone": "dɑːns"
+        },
+        {
+                "name": "sing songs",
+                "trans": [
+                        "唱歌"
+                ],
+                "usphone": "sɪŋ sɔŋz",
+                "ukphone": "sɪŋ sɒŋz"
+        },
+        {
+                "name": "read books",
+                "trans": [
+                        "读书"
+                ],
+                "usphone": "rid bʊks",
+                "ukphone": "riːd bʊks"
+        },
+        {
+                "name": "really",
+                "trans": [
+                        "adv. in accordance with truth or fact or reality; in actual fact"
+                ],
+                "usphone": "ˈrɪli",
+                "ukphone": "ˈrɪəli"
+        },
+        {
+                "name": "tomorrow",
+                "trans": [
+                        "n. the day after today; the near future",
+                        "adv. the next day, the day after, following the present day"
+                ],
+                "usphone": "təˈmɑroʊ",
+                "ukphone": "təˈmɒrəʊ"
+        },
+        {
+                "name": "wake up",
+                "trans": [
+                        "v. cause to become awake or conscious; stop sleeping"
+                ],
+                "usphone": "weɪk ʌp",
+                "ukphone": "weɪkʌp"
+        },
+        {
+                "name": "be back",
+                "trans": [
+                        "adv. in or to or toward a former location; at or to or toward the back or rear",
+                        "n. the posterior part of a human (or animal) body from the neck to the end of the spine; the side that goes last or is not normally seen",
+                        "v. be behind; approve of; travel backward"
+                ],
+                "usphone": "bi bæk",
+                "ukphone": "bi bæk"
+        },
+        {
+                "name": "play football",
+                "trans": [
+                        "phr. to take part in a game of football"
+                ],
+                "usphone": "pleɪ ˈfʊtˌbɔl",
+                "ukphone": "pleɪ ˈfʊtbɔːl"
+        },
+        {
+                "name": "fly a kite",
+                "trans": [
+                        "放风筝"
+                ],
+                "usphone": "flaɪ ə kaɪt",
+                "ukphone": "flaɪ ə kaɪt"
+        },
+        {
+                "name": "ride a bike",
+                "trans": [
+                        "骑自行车"
+                ],
+                "usphone": "raɪd ə bak",
+                "ukphone": "raɪd ə baɪk"
+        },
+        {
+                "name": "swim",
+                "trans": [
+                        "v. travel through water; be afloat either on or below a liquid surface and not sink to the bottom"
+                ],
+                "usphone": "swɪm",
+                "ukphone": "swɪm"
+        },
+        {
+                "name": "make a model plane",
+                "trans": [
+                        "做飞机模型"
+                ],
+                "usphone": "meɪk ə ˈmɑdl pleɪn",
+                "ukphone": "meɪk ə ˈmɒdl pleɪn"
+        },
+        {
+                "name": "make a snowman",
+                "trans": [
+                        "堆雪人"
+                ],
+                "usphone": "meɪk ə ˈsnoʊˌmæn",
+                "ukphone": "meɪk ə ˈsnəʊmən"
+        },
+        {
+                "name": "family",
+                "trans": [
+                        "n. a social unit living together; primary social group; parents and children"
+                ],
+                "usphone": "ˈfæməli",
+                "ukphone": "ˈfæməli"
+        },
+        {
+                "name": "uncle",
+                "trans": [
+                        "n. the brother of your father or mother; the husband of your aunt; a source of help and advice and encouragement"
+                ],
+                "usphone": "ˈʌŋkəl",
+                "ukphone": "ˈʌŋkl̩"
+        },
+        {
+                "name": "aunt",
+                "trans": [
+                        "n. the sister of your father or mother; the wife of your uncle"
+                ],
+                "usphone": "ænt",
+                "ukphone": "ɑːnt"
+        },
+        {
+                "name": "cousin",
+                "trans": [
+                        "n. the child of your aunt or uncle"
+                ],
+                "usphone": "ˈkʌzn",
+                "ukphone": "ˈkʌzn"
+        },
+        {
+                "name": "handsome",
+                "trans": [
+                        "adj. pleasing in appearance especially by reason of conformity to ideals of form and proportion; given or giving freely"
+                ],
+                "usphone": "ˈhænsəm",
+                "ukphone": "ˈhænsəm"
+        },
+        {
+                "name": "beautiful",
+                "trans": [
+                        "adj. delighting the senses or exciting intellectual or emotional admiration"
+                ],
+                "usphone": "ˈbjutəfəl",
+                "ukphone": "ˈbjuːtɪfʊl"
+        },
+        {
+                "name": "lost",
+                "trans": [
+                        "adj. no longer in your possession or control; unable to be found or recovered; having lost your bearings; confused as to time or place or personal identity",
+                        "n. people who are destined to die soon"
+                ],
+                "usphone": "lɔst",
+                "ukphone": "lɒst"
+        },
+        {
+                "name": "water bottle",
+                "trans": [
+                        "n. a bottle for holding water"
+                ],
+                "usphone": "ˈwɔtər ˌbɑtəl",
+                "ukphone": "ˈwɔːtər ˌbɒtl̩"
+        },
+        {
+                "name": "know",
+                "trans": [
+                        "v. be cognizant or aware of a fact or a specific piece of information; possess knowledge or information about; know how to do or perform something"
+                ],
+                "usphone": "noʊ",
+                "ukphone": "nəʊ"
+        },
+        {
+                "name": "OK",
+                "trans": [
+                        "adv. an expression of agreement normally occurring at the beginning of a sentence"
+                ],
+                "usphone": "ˌoʊˈkeɪ",
+                "ukphone": "ɒˈkeɪ"
+        },
+        {
+                "name": "much",
+                "trans": [
+                        "adj. (quantifier used with mass nouns) great in quantity or degree or extent",
+                        "adv. to a great degree or extent; very",
+                        "n. a great amount or extent"
+                ],
+                "usphone": "mʌtʃ",
+                "ukphone": "mʌtʃ"
+        },
+        {
+                "name": "welcome",
+                "trans": [
+                        "v. accept gladly; bid welcome to; greet upon arrival",
+                        "adj. giving pleasure or satisfaction or received with pleasure or freely granted",
+                        "n. the state of being welcome"
+                ],
+                "usphone": "ˈwɛlkəm",
+                "ukphone": "ˈwɛlkəm"
+        },
+        {
+                "name": "grandfather",
+                "trans": [
+                        "n. the father of your father or mother"
+                ],
+                "usphone": "ˈɡrændˌfɑðər",
+                "ukphone": "ˈɡrænˌfɑːðər"
+        },
+        {
+                "name": "grandmother",
+                "trans": [
+                        "n. the mother of your father or mother"
+                ],
+                "usphone": "ˈɡrændˌmʌðər",
+                "ukphone": "ˈɡrænˌmʌðər"
+        },
+        {
+                "name": "father",
+                "trans": [
+                        "n. a male parent (also used as a term of address to your father); the founder of a family",
+                        "v. make children"
+                ],
+                "usphone": "ˈfɑðər",
+                "ukphone": "ˈfɑːðər"
+        },
+        {
+                "name": "mother",
+                "trans": [
+                        "n. a woman who has given birth to a child (also used as a term of address to your mother)",
+                        "v. care for like a mother"
+                ],
+                "usphone": "ˈmʌðər",
+                "ukphone": "ˈmʌðər"
+        },
+        {
+                "name": "brother",
+                "trans": [
+                        "n. a male with the same parents as someone else; a male person who is a fellow member (of a fraternity or religion or other group)"
+                ],
+                "usphone": "ˈbrʌðər",
+                "ukphone": "ˈbrʌðər"
+        },
+        {
+                "name": "sister",
+                "trans": [
+                        "n. a female person who has the same parents as another person"
+                ],
+                "usphone": "ˈsɪstər",
+                "ukphone": "ˈsɪstər"
+        },
+        {
+                "name": "cooking dinner",
+                "trans": [
+                        "正在做饭"
+                ],
+                "usphone": "ˈkʊkɪŋ ˈdɪnər",
+                "ukphone": "ˈkʊkɪŋ ˈdɪnər"
+        },
+        {
+                "name": "walking the dog",
+                "trans": [
+                        "正在遛狗"
+                ],
+                "usphone": "ˈwɔkɪŋ ðə dɔɡ",
+                "ukphone": "ˈwɔːkɪŋ ðə dɒɡ"
+        },
+        {
+                "name": "watering the plants",
+                "trans": [
+                        "正在给植物浇水"
+                ],
+                "usphone": "ˈwɔtərɪŋ ðə plænts",
+                "ukphone": "ˈwɔːtərɪŋ ðə plɑːnts"
+        },
+        {
+                "name": "cleaning the room",
+                "trans": [
+                        "正在打扫房间"
+                ],
+                "usphone": "ˈklinɪŋ ðə rum",
+                "ukphone": "ˈkliːnɪŋ ðə ruːm"
+        },
+        {
+                "name": "listening to music",
+                "trans": [
+                        "正在听音乐"
+                ],
+                "usphone": "ˈlɪsənɪŋ tu ˈmjuzɪk",
+                "ukphone": "ˈlɪsənɪŋ tʊ ˈmjuːzɪk"
+        },
+        {
+                "name": "watching TV",
+                "trans": [
+                        "正在看电视"
+                ],
+                "usphone": "ˈwɑtʃɪŋ ˈtiˈvi",
+                "ukphone": "ˈwɒtʃɪŋ ˈtiˈvi"
+        },
+        {
+                "name": "feeding the fish",
+                "trans": [
+                        "正在喂鱼"
+                ],
+                "usphone": "ˈfiːdɪŋ ðə fɪʃ",
+                "ukphone": "ˈfiːdɪŋ ðə fɪʃ"
+        },
+        {
+                "name": "play with",
+                "trans": [
+                        "phr. to have fun with; to handle in a playful way"
+                ],
+                "usphone": "pleɪ wɪð",
+                "ukphone": "pleɪ wɪð"
+        },
+        {
+                "name": "in one hour",
+                "trans": [
+                        "一小时之后"
+                ],
+                "usphone": "ɪn wʌn ˈaʊər",
+                "ukphone": "ɪn wʌn ˈaʊər"
+        },
+        {
+                "name": "everyone",
+                "trans": [
+                        "pron. every person; all people"
+                ],
+                "usphone": "ˈɛvrɪˌwʌn",
+                "ukphone": "ˈevrɪˌwʌn"
+        },
+        {
+                "name": "children",
+                "trans": [
+                        "n. a young person of either sex; a human offspring (son or daughter) of any age"
+                ],
+                "usphone": "ˈtʃɪldrən",
+                "ukphone": "ˈtʃɪldrən"
+        },
+        {
+                "name": "run",
+                "trans": [
+                        "v. move fast by using one's feet, with one foot off the ground at any given time; flee; take to one's heels; cut and run",
+                        "n. a score in baseball made by a runner touching all four bases safely; the act of testing something"
+                ],
+                "usphone": "rʌn",
+                "ukphone": "rʌn"
+        },
+        {
+                "name": "home",
+                "trans": [
+                        "n. where you live at a particular time; housing that someone is living in",
+                        "adv. at or to or in the direction of one's home or family; on or to the point aimed at",
+                        "adj. used of your own ground; relating to or being where one lives or where one's roots are"
+                ],
+                "usphone": "hoʊm",
+                "ukphone": "həʊm"
+        },
+        {
+                "name": "bedroom",
+                "trans": [
+                        "n. a room used primarily for sleeping"
+                ],
+                "usphone": "ˈbɛdˌrum",
+                "ukphone": "ˈbɛdˌruːm"
+        },
+        {
+                "name": "living room",
+                "trans": [
+                        "n. a room in a private house or establishment where people can sit and talk and relax"
+                ],
+                "usphone": "ˈlɪvɪŋ rum",
+                "ukphone": "ˈlɪvɪŋ ruːm"
+        },
+        {
+                "name": "bathroom",
+                "trans": [
+                        "n. a room (as in a residence) containing a bathtub or shower and usually a washbasin and toilet"
+                ],
+                "usphone": "ˈbæθˌrum",
+                "ukphone": "ˈbɑːθˌruːm"
+        },
+        {
+                "name": "dining room",
+                "trans": [
+                        "n. a room used for dining"
+                ],
+                "usphone": "ˈdaɪnɪŋ rum",
+                "ukphone": "ˈdaɪnɪŋ ruːm"
+        },
+        {
+                "name": "study",
+                "trans": [
+                        "n. a detailed critical inspection; applying the mind to learning and understanding a subject (especially by reading)",
+                        "v. consider in detail and subject to an analysis in order to discover essential features or meaning"
+                ],
+                "usphone": "ˈstʌdi",
+                "ukphone": "ˈstʌdi"
+        },
+        {
+                "name": "kitchen",
+                "trans": [
+                        "n. a room equipped for preparing meals"
+                ],
+                "usphone": "ˈkɪtʃən",
+                "ukphone": "ˈkɪtʃɪn"
+        },
+        {
+                "name": "for rent",
+                "trans": [
+                        "供出租"
+                ],
+                "usphone": "fɔr rɛnt",
+                "ukphone": "fɔː rɛnt"
+        },
+        {
+                "name": "sofa",
+                "trans": [
+                        "n. an upholstered seat for more than one person"
+                ],
+                "usphone": "ˈsoʊfə",
+                "ukphone": "ˈsəʊfə"
+        },
+        {
+                "name": "light",
+                "trans": [
+                        "n. (physics) electromagnetic radiation that can produce a visual sensation; any device serving as a source of illumination",
+                        "adj. of comparatively little physical weight or density; (used of color) having a relatively small amount of coloring agent",
+                        "v. make lighter or brighter; begin to smoke"
+                ],
+                "usphone": "laɪt",
+                "ukphone": "laɪt"
+        },
+        {
+                "name": "bed",
+                "trans": [
+                        "n. a piece of furniture that provides a place to sleep; a plot of ground in which plants are growing"
+                ],
+                "usphone": "bɛd",
+                "ukphone": "bɛd"
+        },
+        {
+                "name": "door",
+                "trans": [
+                        "n. a swinging or sliding barrier that will close the entrance to a room or building or vehicle"
+                ],
+                "usphone": "dɔr",
+                "ukphone": "dɔːr"
+        },
+        {
+                "name": "box",
+                "trans": [
+                        "n. a (usually rectangular) container; may have a lid; private area in a theater or grandstand where a small group can watch the performance",
+                        "v. put into a box"
+                ],
+                "usphone": "bɑks",
+                "ukphone": "bɒks"
         }
-    ]
+]

@@ -2,7 +2,7 @@
     {
         "name": "too much",
         "trans": [
-            "太多"
+            "adv. more than necessary"
         ],
         "usphone": "tuː ˈmʌtʃ",
         "ukphone": "tuː ˈmʌtʃ"
@@ -10,7 +10,7 @@
     {
         "name": "candy",
         "trans": [
-            "糖果"
+            "n. a rich sweet made of flavored sugar and often combined with fruit or nuts"
         ],
         "usphone": "ˈkændi",
         "ukphone": "ˈkændi"
@@ -18,7 +18,7 @@
     {
         "name": "go to bed",
         "trans": [
-            "去睡；就寝"
+            "v. prepare for sleep"
         ],
         "usphone": "ɡoʊ tu bɛd",
         "ukphone": "ɡəʊ tuː bɛd"
@@ -26,7 +26,8 @@
     {
         "name": "early",
         "trans": [
-            "早"
+            "adj. at or near the beginning of a period of time or course of events or before the usual or expected time; being or occurring at an early stage of development",
+            "adv. during an early stage; before the usual time or the time expected"
         ],
         "usphone": "ˈɜrli",
         "ukphone": "ˈɜːli"
@@ -34,7 +35,8 @@
     {
         "name": "exercise",
         "trans": [
-            "锻炼"
+            "n. the activity of exerting your muscles in various ways to keep fit; the act of using",
+            "v. put to use; carry out or practice; as of jobs and professions"
         ],
         "usphone": "ˈɛksərsaɪz",
         "ukphone": "ˈeksəsaɪz"
@@ -42,7 +44,7 @@
     {
         "name": "tired",
         "trans": [
-            "困倦的；疲倦的"
+            "adj. depleted of strength or energy"
         ],
         "usphone": "ˈtaɪrd",
         "ukphone": "ˈtaɪəd"
@@ -50,7 +52,8 @@
     {
         "name": "drink",
         "trans": [
-            "喝；饮"
+            "v. take in liquids; consume alcohol",
+            "n. a single serving of a beverage; the act of drinking alcoholic beverages to excess"
         ],
         "usphone": "drɪŋk",
         "ukphone": "drɪŋk"
@@ -58,7 +61,8 @@
     {
         "name": "before",
         "trans": [
-            "在……之前"
+            "prep. / conj. earlier than",
+            "prep. in front of"
         ],
         "usphone": "bɪˈfɔr",
         "ukphone": "bɪˈfɔː"
@@ -66,7 +70,7 @@
     {
         "name": "dirty",
         "trans": [
-            "肮脏的"
+            "adj. soiled or likely to soil with dirt or grime; (of behavior or especially language) characterized by obscenity or indecency"
         ],
         "usphone": "ˈdɜrti",
         "ukphone": "ˈdɜːti"
@@ -74,7 +78,7 @@
     {
         "name": "always",
         "trans": [
-            "总是"
+            "adv. at all times; all the time and on every occasion"
         ],
         "usphone": "ˈɔlweɪz",
         "ukphone": "ˈɔːlweɪz"
@@ -82,7 +86,7 @@
     {
         "name": "stomachache",
         "trans": [
-            "胃疼"
+            "n. an ache localized in the stomach or abdominal region"
         ],
         "usphone": "ˈstʌməkeɪk",
         "ukphone": "ˈstʌmək-eɪk"
@@ -90,7 +94,7 @@
     {
         "name": "headache",
         "trans": [
-            "头疼"
+            "n. something or someone that causes anxiety; a source of unhappiness"
         ],
         "usphone": "ˈhɛdeɪk",
         "ukphone": "ˈhedeɪk"
@@ -98,7 +102,7 @@
     {
         "name": "toothache",
         "trans": [
-            "牙疼"
+            "n. an ache localized in or around a tooth"
         ],
         "usphone": "ˈtuːθeɪk",
         "ukphone": "ˈtuːθeɪk"
@@ -106,7 +110,7 @@
     {
         "name": "a lot of",
         "trans": [
-            "大量；许多"
+            "phr. a large number or amount of"
         ],
         "usphone": "ə ˈlɑt əv",
         "ukphone": "ə ˈlɒt əv"
@@ -114,7 +118,7 @@
     {
         "name": "sleepy",
         "trans": [
-            "困的；欲睡的"
+            "adj. ready to fall asleep"
         ],
         "usphone": "ˈsliːpi",
         "ukphone": "ˈsliːpi"
@@ -122,7 +126,8 @@
     {
         "name": "subject",
         "trans": [
-            "学科"
+            "n. the subject matter of a conversation or discussion; something (a person or object or scene) selected by an artist or photographer for graphic representation",
+            "v. cause to experience or suffer or make liable or vulnerable to; make accountable for"
         ],
         "usphone": "ˈsʌbdʒɪkt",
         "ukphone": "ˈsʌbdʒɛkt"
@@ -130,7 +135,8 @@
     {
         "name": "mark",
         "trans": [
-            "分数"
+            "v. attach a tag or label to; designate as if by a mark",
+            "n. a number or letter indicating quality (especially of a student's performance); a distinguishing symbol"
         ],
         "usphone": "mɑrk",
         "ukphone": "mɑːk"
@@ -138,7 +144,7 @@
     {
         "name": "advice",
         "trans": [
-            "建议"
+            "n. a proposal for an appropriate course of action"
         ],
         "usphone": "ædˈvaɪs",
         "ukphone": "ədˈvaɪs"
@@ -146,7 +152,8 @@
     {
         "name": "more",
         "trans": [
-            "更多的"
+            "adv. used to form the comparative of some adjectives and adverbs; comparative of much; to a greater degree or extent",
+            "adj. (comparative of 'much' used with mass nouns) a quantifier meaning greater in size or amount or extent or degree"
         ],
         "usphone": "mɔr",
         "ukphone": "mɔː"
@@ -154,7 +161,7 @@
     {
         "name": "New Year's Day",
         "trans": [
-            "新年"
+            "n. the first day of the year"
         ],
         "usphone": "nu ˈjirz deɪ",
         "ukphone": "nju ˈjɪəz deɪ"
@@ -170,7 +177,7 @@
     {
         "name": "Mother's Day",
         "trans": [
-            "母亲节"
+            "n. second Sunday in May"
         ],
         "usphone": "ˈmʌðərz deɪ",
         "ukphone": "ˈmʌðəz deɪ"
@@ -178,7 +185,7 @@
     {
         "name": "Children's Day",
         "trans": [
-            "儿童节"
+            "n. a day celebrating children, observed on different dates in different countries"
         ],
         "usphone": "ˈtʃɪldrənz deɪ",
         "ukphone": "ˈtʃɪldrənz deɪ"
@@ -186,7 +193,7 @@
     {
         "name": "Father's Day",
         "trans": [
-            "父亲节"
+            "n. US: third Sunday in June"
         ],
         "usphone": "ˈfɑðərz deɪ",
         "ukphone": "ˈfɑːðəz deɪ"
@@ -202,7 +209,7 @@
     {
         "name": "National Day",
         "trans": [
-            "国庆节"
+            "n. a day celebrating the founding or identity of a nation"
         ],
         "usphone": "ˈnæʃənəl deɪ",
         "ukphone": "ˈnæʃənəl deɪ"
@@ -210,7 +217,7 @@
     {
         "name": "Christmas Day",
         "trans": [
-            "圣诞节"
+            "n. a Christian holiday celebrating the birth of Christ; a quarter day in England, Wales, and Ireland"
         ],
         "usphone": "ˈkrɪsməs deɪ",
         "ukphone": "ˈkrɪsməs deɪ"
@@ -218,7 +225,7 @@
     {
         "name": "birthday",
         "trans": [
-            "生日"
+            "n. an anniversary of the day on which a person was born (or the celebration of it); the date on which a person was born"
         ],
         "usphone": "ˈbɜrθdeɪ",
         "ukphone": "ˈbɜːθdeɪ"
@@ -258,7 +265,8 @@
     {
         "name": "plant",
         "trans": [
-            "种植"
+            "n. buildings for carrying on industrial labor; (botany) a living organism lacking the power of locomotion",
+            "v. put or set (seeds, seedlings, or plants) into the ground; fix or set securely or deeply"
         ],
         "usphone": "plænt",
         "ukphone": "plɑːnt"
@@ -274,7 +282,7 @@
     {
         "name": "celebrate",
         "trans": [
-            "庆祝"
+            "v. behave as expected during of holidays or rites; have a celebration"
         ],
         "usphone": "ˈsɛləˌbreɪt",
         "ukphone": "ˈsɛlɪbreɪt"
@@ -290,7 +298,7 @@
     {
         "name": "office",
         "trans": [
-            "办公室"
+            "n. place of business where professional or clerical duties are performed; an administrative unit of government"
         ],
         "usphone": "ˈɔfɪs",
         "ukphone": "ˈɒfɪs"
@@ -298,7 +306,8 @@
     {
         "name": "together",
         "trans": [
-            "在一起；共同"
+            "adv. in contact with each other or in proximity; assembled in one place",
+            "adj. mentally and emotionally stable"
         ],
         "usphone": "təˈɡɛðər",
         "ukphone": "təˈɡɛðər"
@@ -306,7 +315,8 @@
     {
         "name": "special",
         "trans": [
-            "特殊的；特别的"
+            "adj. unique or specific to a person or thing or category; for a special service or occasion",
+            "n. a special offering (usually temporary and at a reduced price) that is featured in advertising"
         ],
         "usphone": "ˈspɛʃəl",
         "ukphone": "ˈspɛʃəl"
@@ -362,7 +372,7 @@
     {
         "name": "say",
         "trans": [
-            "说；讲"
+            "v. express in words; report or maintain"
         ],
         "usphone": "seɪ",
         "ukphone": "seɪ"
@@ -378,7 +388,7 @@
     {
         "name": "everywhere",
         "trans": [
-            "各处；到处"
+            "adv. to or in any or all places; ('everyplace' is used informally for 'everywhere')"
         ],
         "usphone": "ˈɛvriwɛr",
         "ukphone": "ˈɛvrɪwɛə"
@@ -426,7 +436,7 @@
     {
         "name": "danced",
         "trans": [
-            "跳舞"
+            "v. move in a graceful and rhythmical way; move in a pattern; usually to musical accompaniment; do or perform a dance"
         ],
         "usphone": "dænst",
         "ukphone": "dɑːnst"
@@ -498,7 +508,7 @@
     {
         "name": "boring",
         "trans": [
-            "单调的；乏味的"
+            "adj. so lacking in interest as to cause mental weariness"
         ],
         "usphone": "ˈbɔrɪŋ",
         "ukphone": "ˈbɔːrɪŋ"
@@ -506,7 +516,7 @@
     {
         "name": "badminton",
         "trans": [
-            "羽毛球"
+            "n. a game played on a court with light long-handled rackets used to volley a shuttlecock over a net"
         ],
         "usphone": "ˈbædmɪntən",
         "ukphone": "ˈbædmɪntən"
@@ -514,7 +524,8 @@
     {
         "name": "won",
         "trans": [
-            "赢；获胜"
+            "n. the basic unit of money in South Korea",
+            "adj. not subject to defeat"
         ],
         "usphone": "wʌn",
         "ukphone": "wʌn"
@@ -538,7 +549,7 @@
     {
         "name": "swam",
         "trans": [
-            "swim的过去式：游泳"
+            "v. travel through water; be afloat either on or below a liquid surface and not sink to the bottom"
         ],
         "usphone": "swæm",
         "ukphone": "swæm"
@@ -586,7 +597,7 @@
     {
         "name": "slept",
         "trans": [
-            "sleep的过去式：睡觉"
+            "v. be asleep"
         ],
         "usphone": "slɛpt",
         "ukphone": "slɛpt"
@@ -594,7 +605,7 @@
     {
         "name": "delicious",
         "trans": [
-            "美味的；可口的"
+            "adj. greatly pleasing or entertaining"
         ],
         "usphone": "dɪˈlɪʃəs",
         "ukphone": "dɪˈlɪʃəs"
@@ -610,7 +621,7 @@
     {
         "name": "sad",
         "trans": [
-            "悲哀的；难过的"
+            "adj. experiencing or showing sorrow or unhappiness"
         ],
         "usphone": "sæd",
         "ukphone": "sæd"
@@ -618,7 +629,9 @@
     {
         "name": "left",
         "trans": [
-            "leave的过去式：离开"
+            "adj. being or located on or directed toward the side of the body to the west when facing north; not used up",
+            "n. location near or direction toward the left side; i.e. the side to the north when a person or object faces east",
+            "adv. toward or on the left; also used figuratively"
         ],
         "usphone": "lɛft",
         "ukphone": "lɛft"
@@ -626,7 +639,7 @@
     {
         "name": "French fries",
         "trans": [
-            "法式炸薯条"
+            "n. strips of potato fried in deep fat"
         ],
         "usphone": "frɛntʃ fraɪz",
         "ukphone": "frɛntʃ fraɪz"
@@ -634,7 +647,7 @@
     {
         "name": "were",
         "trans": [
-            "are的过去式：是"
+            "v. past tense of \"be\" used with we, you, they"
         ],
         "usphone": "wər",
         "ukphone": "wər"
@@ -730,7 +743,8 @@
     {
         "name": "all over",
         "trans": [
-            "到处；各处"
+            "adv. over the entire area; to or in any or all places; ('everyplace' is used informally for 'everywhere')",
+            "adj. having come or been brought to a conclusion"
         ],
         "usphone": "ɔːl ˈoʊvər",
         "ukphone": "ɔːl ˈəʊvə(r)"
@@ -738,7 +752,7 @@
     {
         "name": "out of",
         "trans": [
-            "离开（某处）"
+            "adv. motivated by"
         ],
         "usphone": "aʊt əv",
         "ukphone": "aʊt əv"
@@ -746,7 +760,7 @@
     {
         "name": "into",
         "trans": [
-            "进入；到……里"
+            "prep. to the inside of; so as to become"
         ],
         "usphone": "ˈɪntuː",
         "ukphone": "ˈɪntuː"
@@ -754,7 +768,7 @@
     {
         "name": "chopsticks",
         "trans": [
-            "筷子"
+            "n. one of a pair of slender sticks used as oriental tableware to eat food with"
         ],
         "usphone": "ˈtʃɑpˌstɪks",
         "ukphone": "ˈtʃɒp.stɪks"
@@ -762,7 +776,9 @@
     {
         "name": "wet",
         "trans": [
-            "湿的，潮湿的"
+            "adj. covered or soaked with a liquid such as water",
+            "v. cause to become wet",
+            "n. wetness caused by water"
         ],
         "usphone": "wɛt",
         "ukphone": "wɛt"

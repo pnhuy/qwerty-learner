@@ -1,1746 +1,2758 @@
 [
   {
     "name": "blow",
-    "trans": ["吹"]
+    "trans": [
+      "n. a powerful stroke with the fist or a weapon; an impact (as from a collision)",
+      "v. exhale hard; be blowing or storming"
+    ]
   },
   {
     "name": "burst",
-    "trans": ["爆发"]
+    "trans": [
+      "v. come open suddenly and violently, as if from internal pressure; force out or release suddenly and often violently something pent up",
+      "n. the act of exploding or bursting; rapid simultaneous discharge of firearms"
+    ]
   },
   {
     "name": "hiss",
-    "trans": ["嘶嘶声"]
+    "trans": [
+      "v. make a sharp hissing sound, as if to show disapproval"
+    ]
   },
   {
     "name": "misc",
-    "trans": ["其它"]
+    "trans": [
+      "其它"
+    ]
   },
   {
     "name": "suction",
-    "trans": ["抽吸"]
+    "trans": [
+      "n. a force over an area produced by a pressure difference"
+    ]
   },
   {
     "name": "door",
-    "trans": ["门"]
+    "trans": [
+      "n. a swinging or sliding barrier that will close the entrance to a room or building or vehicle"
+    ]
   },
   {
     "name": "helicopter",
-    "trans": ["直升机"]
+    "trans": [
+      "n. an aircraft without wings that obtains its lift from the rotation of overhead blades"
+    ]
   },
   {
     "name": "interior",
-    "trans": ["航空舱"]
+    "trans": [
+      "n. the region that is inside of something",
+      "adj. situated within or suitable for inside a building"
+    ]
   },
   {
     "name": "jet",
-    "trans": ["喷气式飞机"]
+    "trans": [
+      "n. an airplane powered by one or more jet engines; the occurrence of a sudden discharge (as of liquid)",
+      "v. issue in a jet; come out in a jet; stream or spring forth"
+    ]
   },
   {
     "name": "mechanism",
-    "trans": ["机械"]
+    "trans": [
+      "n. the atomic process that occurs during a chemical reaction; the technical aspects of doing something"
+    ]
   },
   {
     "name": "military",
-    "trans": ["军用"]
+    "trans": [
+      "adj. of or relating to the study of the principles of warfare; characteristic of or associated with soldiers or the military",
+      "n. the military forces of a nation"
+    ]
   },
   {
     "name": "prop",
-    "trans": ["螺旋桨飞机"]
+    "trans": [
+      "n. a support placed beneath or against something to keep it from shaking or falling",
+      "v. support by placing against something solid or rigid"
+    ]
   },
   {
     "name": "radio controlled",
-    "trans": ["塔台"]
+    "trans": [
+      "塔台"
+    ]
   },
   {
     "name": "rocket",
-    "trans": ["火箭"]
+    "trans": [
+      "n. any vehicle self-propelled by a rocket engine; a jet engine containing its own propellant and driven by reaction propulsion"
+    ]
   },
   {
     "name": "bell",
-    "trans": ["警铃"]
+    "trans": [
+      "n. a hollow device made of metal that makes a ringing sound when struck; a push button at an outer door that gives a ringing or buzzing signal when pushed"
+    ]
   },
   {
     "name": "buzzer",
-    "trans": ["蜂鸣器"]
+    "trans": [
+      "n. a push button at an outer door that gives a ringing or buzzing signal when pushed"
+    ]
   },
   {
     "name": "clock",
-    "trans": ["钟表"]
+    "trans": [
+      "n. a timepiece that shows the time of day",
+      "v. measure the time or duration of an event or action or the person who performs an action in a certain period of time"
+    ]
   },
   {
     "name": "electronic",
-    "trans": ["电器"]
+    "trans": [
+      "adj. of or relating to electronics; concerned with or using devices that operate on principles governing the behavior of electrons"
+    ]
   },
   {
     "name": "siren",
-    "trans": ["警报"]
+    "trans": [
+      "n. a sea nymph (part woman and part bird) supposed to lure sailors to destruction on the rocks where the nymphs lived"
+    ]
   },
   {
     "name": "air",
-    "trans": ["空气"]
+    "trans": [
+      "n. a mixture of gases (especially oxygen) required for breathing; the stuff that the wind consists of; the region above the ground",
+      "v. expose to fresh air"
+    ]
   },
   {
     "name": "alpine",
-    "trans": ["高山"]
+    "trans": [
+      "adj. relating to or characteristic of alps"
+    ]
   },
   {
     "name": "amusement",
-    "trans": ["娱乐"]
+    "trans": [
+      "n. a feeling of delight at being entertained; an activity that is diverting and that holds the attention"
+    ]
   },
   {
     "name": "birdsong",
-    "trans": ["鸟鸣"]
+    "trans": [
+      "n. the characteristic sound produced by a bird"
+    ]
   },
   {
     "name": "celebration",
-    "trans": ["庆典"]
+    "trans": [
+      "n. a joyful occasion for special festivities to mark some happy event; any joyous diversion"
+    ]
   },
   {
     "name": "construction",
-    "trans": ["施工"]
+    "trans": [
+      "n. the act of constructing something; a group of words that form a constituent of a sentence and are considered as a single unit"
+    ]
   },
   {
     "name": "desert",
-    "trans": ["沙漠"]
+    "trans": [
+      "v. leave someone who needs or counts on you; leave in the lurch; desert (a cause, a country or an army), often in order to join the opposing cause, country…",
+      "n. arid land with little or no vegetation"
+    ]
   },
   {
     "name": "designed",
-    "trans": ["设计"]
+    "trans": [
+      "adj. done or made or performed with purpose and intent"
+    ]
   },
   {
     "name": "emergency",
-    "trans": ["紧急"]
+    "trans": [
+      "n. a sudden unforeseen crisis (usually involving danger) that requires immediate action; a state in which martial law applies"
+    ]
   },
   {
     "name": "fantasy",
-    "trans": ["奇幻"]
+    "trans": [
+      "n. imagination unrestricted by reality; fiction with a large amount of imagination in it"
+    ]
   },
   {
     "name": "farm",
-    "trans": ["农场"]
+    "trans": [
+      "n. workplace consisting of farm buildings and cultivated land as a unit",
+      "v. be a farmer; work as a farmer"
+    ]
   },
   {
     "name": "forest",
-    "trans": ["森林"]
+    "trans": [
+      "n. the trees and other plants in a large densely wooded area; land that is covered with trees and shrubs"
+    ]
   },
   {
     "name": "grassland",
-    "trans": ["草地"]
+    "trans": [
+      "n. land where grass or grasslike vegetation grows and is the dominant form of plant life"
+    ]
   },
   {
     "name": "historical",
-    "trans": ["历史年代"]
+    "trans": [
+      "adj. of or relating to the study of history; having once lived or existed or taken place in the real world as distinct from being legendary"
+    ]
   },
   {
     "name": "hitech",
-    "trans": ["高科技"]
+    "trans": [
+      "高科技"
+    ]
   },
   {
     "name": "hospital",
-    "trans": ["医院"]
+    "trans": [
+      "n. a health facility where patients receive treatment"
+    ]
   },
   {
     "name": "industrial",
-    "trans": ["工业"]
+    "trans": [
+      "adj. of or relating to or resulting from industry; having highly developed industries"
+    ]
   },
   {
     "name": "insect",
-    "trans": ["昆虫"]
+    "trans": [
+      "n. small air-breathing arthropod"
+    ]
   },
   {
     "name": "lakeside",
-    "trans": ["湖岸"]
+    "trans": [
+      "n. the shore of a lake"
+    ]
   },
   {
     "name": "market",
-    "trans": ["市场"]
+    "trans": [
+      "n. the world of commercial activity where goods and services are bought and sold; the customers for a particular product or service",
+      "v. engage in the commercial promotion, sale, or distribution of"
+    ]
   },
   {
     "name": "nautical",
-    "trans": ["航海"]
+    "trans": [
+      "adj. relating to or involving ships or shipping or navigation or seamen"
+    ]
   },
   {
     "name": "office",
-    "trans": ["办公室"]
+    "trans": [
+      "n. place of business where professional or clerical duties are performed; an administrative unit of government"
+    ]
   },
   {
     "name": "park",
-    "trans": ["公园"]
+    "trans": [
+      "n. a large area of land preserved in its natural state as public property; a piece of open land for recreational use in an urban area",
+      "v. place temporarily; maneuver a vehicle into a parking space"
+    ]
   },
   {
     "name": "prison",
-    "trans": ["监狱"]
+    "trans": [
+      "n. a correctional institution where persons are confined while on trial or for punishment"
+    ]
   },
   {
     "name": "protest",
-    "trans": ["游行"]
+    "trans": [
+      "v. utter words of protest; express opposition through action or words",
+      "n. a formal and solemn declaration of objection; the act of protesting; a public (often organized) manifestation of dissent"
+    ]
   },
   {
     "name": "public place",
-    "trans": ["公共场所"]
+    "trans": [
+      "公共场所"
+    ]
   },
   {
     "name": "religious",
-    "trans": ["宗教场所"]
+    "trans": [
+      "adj. concerned with sacred matters or religion or the church; having or showing belief in and reverence for a deity"
+    ]
   },
   {
     "name": "residential",
-    "trans": ["住宅区"]
+    "trans": [
+      "adj. used or designed for residence or limited to residences; of or relating to or connected with residence"
+    ]
   },
   {
     "name": "restaurant & bar",
-    "trans": ["餐馆"]
+    "trans": [
+      "餐馆"
+    ]
   },
   {
     "name": "room tone",
-    "trans": ["房间底噪"]
+    "trans": [
+      "房间底噪"
+    ]
   },
   {
     "name": "rural",
-    "trans": ["农村"]
+    "trans": [
+      "adj. living in or characteristic of farming or country life; of or relating to the countryside as opposed to the city"
+    ]
   },
   {
     "name": "school",
-    "trans": ["校园"]
+    "trans": [
+      "n. an educational institution; a building where young people receive education",
+      "v. educate in or as if in a school"
+    ]
   },
   {
     "name": "scifi",
-    "trans": ["科幻"]
+    "trans": [
+      "科幻"
+    ]
   },
   {
     "name": "seaside",
-    "trans": ["海边"]
+    "trans": [
+      "n. the shore of a sea or ocean regarded as a resort"
+    ]
   },
   {
     "name": "sport",
-    "trans": ["运动场"]
+    "trans": [
+      "n. an active diversion requiring physical exertion and competition; the occupation of athletes who compete for pay",
+      "v. wear or display in an ostentatious or proud manner"
+    ]
   },
   {
     "name": "suburban",
-    "trans": ["郊区"]
+    "trans": [
+      "adj. relating to or characteristic of or situated in suburbs"
+    ]
   },
   {
     "name": "swamp",
-    "trans": ["沼泽地"]
+    "trans": [
+      "n. low land that is seasonally flooded; has more woody plants than a marsh and better drainage than a bog",
+      "v. drench or submerge or be drenched or submerged; fill quickly beyond capacity; as with a liquid"
+    ]
   },
   {
     "name": "town",
-    "trans": ["小镇"]
+    "trans": [
+      "n. an urban area with a fixed boundary that is smaller than a city; the people living in a municipality smaller than a city"
+    ]
   },
   {
     "name": "traffic",
-    "trans": ["交通"]
+    "trans": [
+      "n. the aggregation of things (pedestrians or vehicles) coming and going in a particular locality during a specified period of time"
+    ]
   },
   {
     "name": "transportation",
-    "trans": ["交通工具"]
+    "trans": [
+      "n. a facility consisting of the means and equipment necessary for the movement of passengers or goods; the act of moving something from one location to another"
+    ]
   },
   {
     "name": "tropical",
-    "trans": ["热带"]
+    "trans": [
+      "adj. relating to or situated in or characteristic of the tropics (the region on either side of the equator); of or relating to the tropics, or either tropic"
+    ]
   },
   {
     "name": "tundra",
-    "trans": ["冻土"]
+    "trans": [
+      "n. a vast treeless plain in the Arctic regions where the subsoil is permanently frozen"
+    ]
   },
   {
     "name": "underground",
-    "trans": ["地下"]
+    "trans": [
+      "adj. under the level of the ground"
+    ]
   },
   {
     "name": "underwater",
-    "trans": ["水下"]
+    "trans": [
+      "adj. beneath the surface of the water"
+    ]
   },
   {
     "name": "urban",
-    "trans": ["城市"]
+    "trans": [
+      "adj. relating to or concerned with a city or densely populated area; located in or characteristic of a city or city life"
+    ]
   },
   {
     "name": "warfare",
-    "trans": ["战争"]
+    "trans": [
+      "n. the waging of armed conflict against an enemy; an active struggle between competing entities"
+    ]
   },
   {
     "name": "amphibian",
-    "trans": ["两栖动物"]
+    "trans": [
+      "n. a flat-bottomed motor vehicle that can travel on land or water",
+      "adj. relating to or characteristic of animals of the class Amphibia"
+    ]
   },
   {
     "name": "aquatic",
-    "trans": ["水生动物"]
+    "trans": [
+      "n. a plant that lives in or on water",
+      "adj. relating to or consisting of or being in water"
+    ]
   },
   {
     "name": "bat",
-    "trans": ["蝙蝠"]
+    "trans": [
+      "v. strike with, or as if with a baseball bat; wink briefly",
+      "n. nocturnal mouselike mammal with forelimbs modified to form membranous wings and anatomical adaptations for echolocation by which they navigate"
+    ]
   },
   {
     "name": "cat domestic",
-    "trans": ["家猫"]
+    "trans": [
+      "家猫"
+    ]
   },
   {
     "name": "cat wild",
-    "trans": ["猫科动物"]
+    "trans": [
+      "猫科动物"
+    ]
   },
   {
     "name": "dog",
-    "trans": ["狗"]
+    "trans": [
+      "n. a member of the genus Canis (probably descended from the common wolf) that has been domesticated by man since prehistoric times; occurs in many breeds",
+      "v. go after with the intent to catch"
+    ]
   },
   {
     "name": "dog wild",
-    "trans": ["犬科动物"]
+    "trans": [
+      "犬科动物"
+    ]
   },
   {
     "name": "horse",
-    "trans": ["马"]
+    "trans": [
+      "n. solid-hoofed herbivorous quadruped domesticated since prehistoric times; a padded gymnastic apparatus on legs"
+    ]
   },
   {
     "name": "primate",
-    "trans": ["灵长类"]
+    "trans": [
+      "n. a senior clergyman and dignitary"
+    ]
   },
   {
     "name": "reptile",
-    "trans": ["爬行动物"]
+    "trans": [
+      "n. any cold-blooded vertebrate of the class Reptilia including tortoises, turtles, snakes, lizards, alligators, crocodiles, and extinct forms"
+    ]
   },
   {
     "name": "rodent",
-    "trans": ["啮齿动物"]
+    "trans": [
+      "n. relatively small placental mammals having a single pair of constantly growing incisor teeth specialized for gnawing"
+    ]
   },
   {
     "name": "wild",
-    "trans": ["野生动物"]
+    "trans": [
+      "adj. marked by extreme lack of restraint or control; in a natural state; not tamed or domesticated or cultivated",
+      "adv. in an uncontrolled and rampant manner"
+    ]
   },
   {
     "name": "adr",
-    "trans": ["ADR"]
+    "trans": [
+      "ADR"
+    ]
   },
   {
     "name": "asset",
-    "trans": ["资源"]
+    "trans": [
+      "n. a useful or valuable quality"
+    ]
   },
   {
     "name": "bounce",
-    "trans": ["导出"]
+    "trans": [
+      "v. spring back; spring away from an impact; hit something so that it bounces",
+      "n. the quality of a substance that is able to rebound; a light, self-propelled movement upwards or forwards"
+    ]
   },
   {
     "name": "impulse response",
-    "trans": ["卷积混响素材"]
+    "trans": [
+      "卷积混响素材"
+    ]
   },
   {
     "name": "loop group",
-    "trans": ["循环群组"]
+    "trans": [
+      "循环群组"
+    ]
   },
   {
     "name": "mix",
-    "trans": ["混音"]
+    "trans": [
+      "v. mix together different elements; open (a place) to members of all races and ethnic groups"
+    ]
   },
   {
     "name": "pfx",
-    "trans": ["现场音效"]
+    "trans": [
+      "现场音效"
+    ]
   },
   {
     "name": "production",
-    "trans": ["现场对白"]
+    "trans": [
+      "n. the act or process of producing something; a presentation for the stage or screen or radio or television"
+    ]
   },
   {
     "name": "raw",
-    "trans": ["原始素材"]
+    "trans": [
+      "adj. (used especially of commodities) being unprocessed or manufactured using only simple or minimal processes; having the surface exposed and painful"
+    ]
   },
   {
     "name": "reference",
-    "trans": ["参考素材"]
+    "trans": [
+      "n. a remark that calls attention to something or someone; a short note recognizing a source of information or of a quoted passage"
+    ]
   },
   {
     "name": "scene",
-    "trans": ["场景素材"]
+    "trans": [
+      "n. the place where some action occurs; an incident (real or imaginary)"
+    ]
   },
   {
     "name": "test tone",
-    "trans": ["测试音"]
+    "trans": [
+      "测试音"
+    ]
   },
   {
     "name": "trademarked",
-    "trans": ["商标音"]
+    "trans": [
+      "adj. (of goods and merchandise) labeled with proprietary (and legally registered) identification guaranteeing exclusive use"
+    ]
   },
   {
     "name": "work in progress",
-    "trans": ["过程中素材"]
+    "trans": [
+      "n. a piece of work that is not yet finished"
+    ]
   },
   {
     "name": "wtf",
-    "trans": ["未确认素材"]
+    "trans": [
+      "未确认素材"
+    ]
   },
   {
     "name": "appliance",
-    "trans": ["电器"]
+    "trans": [
+      "n. a device or control that is very useful for a particular job"
+    ]
   },
   {
     "name": "general",
-    "trans": ["通用"]
+    "trans": [
+      "adj. applying to all or most members of a category or group; not specialized or limited to one class of things",
+      "n. a general officer of the highest rank",
+      "v. command as a general"
+    ]
   },
   {
     "name": "lofi",
-    "trans": ["低保真"]
+    "trans": [
+      "低保真"
+    ]
   },
   {
     "name": "medical",
-    "trans": ["医疗器械"]
+    "trans": [
+      "adj. relating to the study or practice of medicine; requiring or amenable to treatment by medicine especially as opposed to surgery"
+    ]
   },
   {
     "name": "timer",
-    "trans": ["计时器"]
+    "trans": [
+      "n. a timepiece that measures a time interval and signals its end"
+    ]
   },
   {
     "name": "vehicle",
-    "trans": ["车辆"]
+    "trans": [
+      "n. a conveyance that transports people or objects; a medium for the expression or achievement of something"
+    ]
   },
   {
     "name": "animal",
-    "trans": ["动物"]
+    "trans": [
+      "n. a living organism characterized by voluntary movement",
+      "adj. marked by the appetites and passions of the body"
+    ]
   },
   {
     "name": "doorbell",
-    "trans": ["门铃"]
+    "trans": [
+      "n. a push button at an outer door that gives a ringing or buzzing signal when pushed"
+    ]
   },
   {
     "name": "gong",
-    "trans": ["锣"]
+    "trans": [
+      "n. a percussion instrument consisting of a metal plate that is struck with a softheaded drumstick",
+      "v. sound a gong"
+    ]
   },
   {
     "name": "handbell",
-    "trans": ["手铃"]
+    "trans": [
+      "n. a bell that is held in the hand"
+    ]
   },
   {
     "name": "large",
-    "trans": ["大钟"]
+    "trans": [
+      "adj. above average in size or number or quantity or magnitude or extent; fairly large or important in effect; influential"
+    ]
   },
   {
     "name": "bird of prey",
-    "trans": ["猛禽"]
+    "trans": [
+      "n. any of numerous carnivorous birds that hunt and kill other animals"
+    ]
   },
   {
     "name": "crow",
-    "trans": ["乌鸦"]
+    "trans": [
+      "v. dwell on with satisfaction; express pleasure verbally",
+      "n. black birds having a raucous call; the cry of a cock (or an imitation of it)"
+    ]
   },
   {
     "name": "fowl",
-    "trans": ["家禽"]
+    "trans": [
+      "n. a domesticated gallinaceous bird thought to be descended from the red jungle fowl"
+    ]
   },
   {
     "name": "sea",
-    "trans": ["海鸟"]
+    "trans": [
+      "n. a division of an ocean or a large body of salt water partially enclosed by land; anything apparently limitless in quantity or volume"
+    ]
   },
   {
     "name": "songbird",
-    "trans": ["鸣鸟"]
+    "trans": [
+      "n. any bird having a musical call"
+    ]
   },
   {
     "name": "tropical",
-    "trans": ["热带"]
+    "trans": [
+      "adj. relating to or situated in or characteristic of the tropics (the region on either side of the equator); of or relating to the tropics, or either tropic"
+    ]
   },
   {
     "name": "wading",
-    "trans": ["水鸟"]
+    "trans": [
+      "n. walking with your feet in shallow water"
+    ]
   },
   {
     "name": "air boat",
-    "trans": ["汽艇"]
+    "trans": [
+      "汽艇"
+    ]
   },
   {
     "name": "bow wash",
-    "trans": ["船浪"]
+    "trans": [
+      "船浪"
+    ]
   },
   {
     "name": "electric",
-    "trans": ["电动船"]
+    "trans": [
+      "adj. using or providing or producing or transmitting or operated by electricity"
+    ]
   },
   {
     "name": "fishing",
-    "trans": ["捕鱼"]
+    "trans": [
+      "n. the act of someone who fishes as a diversion"
+    ]
   },
   {
     "name": "horn",
-    "trans": ["船笛"]
+    "trans": [
+      "n. a noisemaker (as at parties or games) that makes a loud noise when you blow through it; one of the bony outgrowths on the heads of certain ungulates"
+    ]
   },
   {
     "name": "motorboat",
-    "trans": ["摩托艇"]
+    "trans": [
+      "n. a boat propelled by an internal-combustion engine",
+      "v. ride in a motorboat"
+    ]
   },
   {
     "name": "racing",
-    "trans": ["赛艇"]
+    "trans": [
+      "n. the sport of engaging in contests of speed"
+    ]
   },
   {
     "name": "rowboat",
-    "trans": ["划艇"]
+    "trans": [
+      "n. a small boat of shallow draft with cross thwarts for seats and rowlocks for oars with which it is propelled"
+    ]
   },
   {
     "name": "sailboat",
-    "trans": ["帆船"]
+    "trans": [
+      "n. a small sailing vessel; usually with a single mast"
+    ]
   },
   {
     "name": "ship",
-    "trans": ["大船"]
+    "trans": [
+      "n. a vessel that carries passengers or freight",
+      "v. transport commercially"
+    ]
   },
   {
     "name": "steam",
-    "trans": ["蒸汽船"]
+    "trans": [
+      "v. travel by means of steam power; emit steam"
+    ]
   },
   {
     "name": "submarine",
-    "trans": ["潜艇"]
+    "trans": [
+      "n. a submersible warship usually armed with torpedoes"
+    ]
   },
   {
     "name": "by",
-    "trans": ["飞过"]
+    "trans": [
+      "prep. beside; next to",
+      "prep. through the action or means of",
+      "prep. not later than"
+    ]
   },
   {
     "name": "impact",
-    "trans": ["击中"]
+    "trans": [
+      "n. the striking of one body against another; a forceful consequence; a strong effect"
+    ]
   },
   {
     "name": "ricochet",
-    "trans": ["弹跳"]
+    "trans": [
+      "v. spring back; spring away from an impact"
+    ]
   },
   {
     "name": "shell",
-    "trans": ["弹壳"]
+    "trans": [
+      "n. ammunition consisting of a cylindrical metal casing containing an explosive charge and a projectile; fired from a large gun",
+      "v. use explosives on"
+    ]
   },
   {
     "name": "boing",
-    "trans": ["弹簧音"]
+    "trans": [
+      "弹簧音"
+    ]
   },
   {
     "name": "clang",
-    "trans": ["咣当"]
+    "trans": [
+      "v. make a loud noise",
+      "n. a loud resonant repeating noise"
+    ]
   },
   {
     "name": "creak",
-    "trans": ["嘎吱"]
+    "trans": [
+      "v. make a high-pitched, screeching noise"
+    ]
   },
   {
     "name": "horn",
-    "trans": ["号"]
+    "trans": [
+      "n. a noisemaker (as at parties or games) that makes a loud noise when you blow through it; one of the bony outgrowths on the heads of certain ungulates"
+    ]
   },
   {
     "name": "impact",
-    "trans": ["打击"]
+    "trans": [
+      "n. the striking of one body against another; a forceful consequence; a strong effect"
+    ]
   },
   {
     "name": "machine",
-    "trans": ["机器"]
+    "trans": [
+      "n. any mechanical or electrical device that transmits or modifies energy to perform or assist in the performance of human tasks; an efficient person"
+    ]
   },
   {
     "name": "musical",
-    "trans": ["音乐性"]
+    "trans": [
+      "adj. characterized by or capable of producing music; talented in or devoted to music",
+      "n. a play or film whose action and dialogue is interspersed with singing and dancing"
+    ]
   },
   {
     "name": "pluck",
-    "trans": ["弹拨"]
+    "trans": [
+      "v. pull or pull out sharply",
+      "n. the trait of showing courage and determination in spite of possible loss or injury"
+    ]
   },
   {
     "name": "pop",
-    "trans": ["道具"]
+    "trans": [
+      "v. bulge outward; hit a pop-fly",
+      "n. an informal term for a father; probably derived from baby talk"
+    ]
   },
   {
     "name": "shake",
-    "trans": ["摇晃"]
+    "trans": [
+      "v. move or cause to move back and forth; move with or as if with a tremor"
+    ]
   },
   {
     "name": "splat",
-    "trans": ["啪嗒"]
+    "trans": [
+      "n. a single splash",
+      "v. give off the sound of a bullet flattening on impact"
+    ]
   },
   {
     "name": "squeak",
-    "trans": ["摩擦"]
+    "trans": [
+      "v. make a high-pitched, screeching noise",
+      "n. a short high-pitched noise"
+    ]
   },
   {
     "name": "stretch",
-    "trans": ["伸缩"]
+    "trans": [
+      "v. occupy a large, elongated area; extend one's limbs or muscles, or the entire body",
+      "n. a large and unbroken expanse or distance; the act of physically reaching or thrusting out"
+    ]
   },
   {
     "name": "swish",
-    "trans": ["嗖嗖"]
+    "trans": [
+      "v. move with or cause to move with a whistling or hissing sound"
+    ]
   },
   {
     "name": "twang",
-    "trans": ["弹拨声"]
+    "trans": [
+      "n. a sharp vibrating sound (as of a plucked string)",
+      "v. cause to sound with a twang"
+    ]
   },
   {
     "name": "vehicle",
-    "trans": ["载具"]
+    "trans": [
+      "n. a conveyance that transports people or objects; a medium for the expression or achievement of something"
+    ]
   },
   {
     "name": "vocal",
-    "trans": ["语音"]
+    "trans": [
+      "adj. relating to or designed for or using the singing voice; having or using the power to produce speech or sound"
+    ]
   },
   {
     "name": "warble",
-    "trans": ["颤音"]
+    "trans": [
+      "v. sing or play with trills, alternating with the half note above or below"
+    ]
   },
   {
     "name": "whistle",
-    "trans": ["哨子"]
+    "trans": [
+      "v. make whistling sounds; move with, or as with, a whistling sound"
+    ]
   },
   {
     "name": "zip",
-    "trans": ["拉链"]
+    "trans": [
+      "v. close with a zipper"
+    ]
   },
   {
     "name": "break",
-    "trans": ["打破"]
+    "trans": [
+      "v. terminate; become separated into pieces or fragments",
+      "n. some abrupt occurrence that interrupts an ongoing activity; an unexpected piece of good luck"
+    ]
   },
   {
     "name": "crash & debris",
-    "trans": ["碎片"]
+    "trans": [
+      "碎片"
+    ]
   },
   {
     "name": "friction",
-    "trans": ["挤压"]
+    "trans": [
+      "n. a state of conflict between persons"
+    ]
   },
   {
     "name": "handle",
-    "trans": ["抓取"]
+    "trans": [
+      "v. be in charge of, act on, or dispose of; interact in a certain way",
+      "n. the appendage to an object that is designed to be held in order to use or move it"
+    ]
   },
   {
     "name": "movement",
-    "trans": ["移动"]
+    "trans": [
+      "n. a change of position that does not entail a change of location; the act of changing location from one place to another"
+    ]
   },
   {
     "name": "tonal",
-    "trans": ["音乐性"]
+    "trans": [
+      "adj. employing variations in pitch to distinguish meanings of otherwise similar words"
+    ]
   },
   {
     "name": "break",
-    "trans": ["断裂"]
+    "trans": [
+      "v. terminate; become separated into pieces or fragments",
+      "n. some abrupt occurrence that interrupts an ongoing activity; an unexpected piece of good luck"
+    ]
   },
   {
     "name": "hitech",
-    "trans": ["高科技"]
+    "trans": [
+      "高科技"
+    ]
   },
   {
     "name": "acid",
-    "trans": ["腐蚀"]
+    "trans": [
+      "n. any of various water-soluble compounds having a sour taste and capable of turning litmus red and reacting with a base to form a salt",
+      "adj. harsh or corrosive in tone"
+    ]
   },
   {
     "name": "reaction",
-    "trans": ["反应"]
+    "trans": [
+      "n. (chemistry) a process in which one or more substances are changed into others; an idea evoked by some experience"
+    ]
   },
   {
     "name": "chime",
-    "trans": ["风铃"]
+    "trans": [
+      "n. a percussion instrument consisting of a set of tuned bells that are struck with a hammer; used as an orchestral instrument",
+      "v. emit a sound"
+    ]
   },
   {
     "name": "mechanics",
-    "trans": ["机械"]
+    "trans": [
+      "n. the branch of physics concerned with the motion of bodies in a frame of reference; the technical aspects of doing something"
+    ]
   },
   {
     "name": "tick",
-    "trans": ["嘀嗒"]
+    "trans": [
+      "n. a metallic tapping sound; any of two families of small parasitic arachnids with barbed proboscis; feed on blood of warm-blooded animals",
+      "v. make a clicking or ticking sound; make a sound like a clock or a timer"
+    ]
   },
   {
     "name": "flap",
-    "trans": ["抖动"]
+    "trans": [
+      "v. move in a wavy pattern or with a rising and falling motion; move noisily",
+      "n. any broad thin and limber covering attached at one edge; hangs loose or projects freely"
+    ]
   },
   {
     "name": "rip",
-    "trans": ["撕扯"]
+    "trans": [
+      "v. tear or be torn violently; move precipitously or violently"
+    ]
   },
   {
     "name": "audio visual",
-    "trans": ["影视设备"]
+    "trans": [
+      "影视设备"
+    ]
   },
   {
     "name": "camera",
-    "trans": ["照相机"]
+    "trans": [
+      "n. equipment for taking photographs (usually consisting of a lightproof box with a lens at one end and light-sensitive film at the other)"
+    ]
   },
   {
     "name": "cellphone",
-    "trans": ["手机"]
+    "trans": [
+      "n. a hand-held mobile radiotelephone for use in an area divided into small sections, each with its own short-range transmitter/receiver"
+    ]
   },
   {
     "name": "microphone",
-    "trans": ["麦克风"]
+    "trans": [
+      "n. device for converting sound waves into electrical energy"
+    ]
   },
   {
     "name": "phonograph",
-    "trans": ["留声机"]
+    "trans": [
+      "n. machine in which rotating records cause a stylus to vibrate and the vibrations are amplified acoustically or electronically"
+    ]
   },
   {
     "name": "radio",
-    "trans": ["收音机"]
+    "trans": [
+      "n. medium for communication; an electronic receiver that detects and demodulates and amplifies transmitted signals",
+      "v. transmit messages via radio waves",
+      "adj. indicating radiation or radioactivity"
+    ]
   },
   {
     "name": "static",
-    "trans": ["干扰"]
+    "trans": [
+      "adj. not in physical motion"
+    ]
   },
   {
     "name": "telemetry",
-    "trans": ["无线电"]
+    "trans": [
+      "n. automatic transmission and measurement of data from remote sources by wire or radio or other means"
+    ]
   },
   {
     "name": "telephone",
-    "trans": ["电话"]
+    "trans": [
+      "n. electronic equipment that converts sound into electrical signals that can be transmitted over distances and then converts received signals back into sounds",
+      "v. get or try to get into communication (with someone) by telephone"
+    ]
   },
   {
     "name": "television",
-    "trans": ["电视机"]
+    "trans": [
+      "n. broadcasting visual images of stationary or moving objects"
+    ]
   },
   {
     "name": "transceiver",
-    "trans": ["信号收发机"]
+    "trans": [
+      "信号收发机"
+    ]
   },
   {
     "name": "typewriter",
-    "trans": ["打字机"]
+    "trans": [
+      "n. hand-operated character printer for printing written messages one character at a time"
+    ]
   },
   {
     "name": "hard drive",
-    "trans": ["硬盘"]
+    "trans": [
+      "n. computer hardware that holds and spins a magnetic or optical disk and reads and writes information on it"
+    ]
   },
   {
     "name": "keyboard & mouse",
-    "trans": ["键鼠"]
+    "trans": [
+      "键鼠"
+    ]
   },
   {
     "name": "aquatic",
-    "trans": ["水生"]
+    "trans": [
+      "n. a plant that lives in or on water",
+      "adj. relating to or consisting of or being in water"
+    ]
   },
   {
     "name": "avian",
-    "trans": ["奇幻禽类"]
+    "trans": [
+      "adj. pertaining to or characteristic of birds"
+    ]
   },
   {
     "name": "beast",
-    "trans": ["野兽"]
+    "trans": [
+      "n. a living organism characterized by voluntary movement; a cruelly rapacious person"
+    ]
   },
   {
     "name": "blob",
-    "trans": ["黏体生物"]
+    "trans": [
+      "n. an indistinct shapeless form"
+    ]
   },
   {
     "name": "dinosaur",
-    "trans": ["恐龙"]
+    "trans": [
+      "n. any of numerous extinct terrestrial reptiles of the Mesozoic era"
+    ]
   },
   {
     "name": "dragon",
-    "trans": ["龙"]
+    "trans": [
+      "n. a creature of Teutonic mythology; usually represented as breathing fire and having a reptilian body and sometimes wings"
+    ]
   },
   {
     "name": "elemental",
-    "trans": ["精灵生物"]
+    "trans": [
+      "adj. relating to or being an element"
+    ]
   },
   {
     "name": "ethereal",
-    "trans": ["鬼魂"]
+    "trans": [
+      "adj. characterized by lightness and insubstantiality; as impalpable or intangible as air"
+    ]
   },
   {
     "name": "humanoid",
-    "trans": ["类人动物"]
+    "trans": [
+      "n. an automaton that resembles a human being"
+    ]
   },
   {
     "name": "insectoid",
-    "trans": ["巨型昆虫"]
+    "trans": [
+      "巨型昆虫"
+    ]
   },
   {
     "name": "monster",
-    "trans": ["怪兽"]
+    "trans": [
+      "n. an imaginary creature usually having various human and animal parts; someone or something that is abnormally large and powerful"
+    ]
   },
   {
     "name": "reptilian",
-    "trans": ["巨型爬行生物"]
+    "trans": [
+      "n. any cold-blooded vertebrate of the class Reptilia including tortoises, turtles, snakes, lizards, alligators, crocodiles, and extinct forms",
+      "adj. of or relating to the class Reptilia"
+    ]
   },
   {
     "name": "small",
-    "trans": ["小型神话生物"]
+    "trans": [
+      "adj. limited or below average in number or quantity or magnitude or extent; limited in size or scope",
+      "n. the slender part of the back"
+    ]
   },
   {
     "name": "source",
-    "trans": ["人声包"]
+    "trans": [
+      "n. the place where something begins, where it springs into being; a document (or organization) from which information is obtained"
+    ]
   },
   {
     "name": "angry",
-    "trans": ["愤怒"]
+    "trans": [
+      "adj. feeling or showing anger; (of the elements) as if showing violent anger"
+    ]
   },
   {
     "name": "applause",
-    "trans": ["喝彩"]
+    "trans": [
+      "n. a demonstration of approval by clapping the hands together"
+    ]
   },
   {
     "name": "battle",
-    "trans": ["打斗"]
+    "trans": [
+      "n. a hostile meeting of opposing military forces in the course of a war; an energetic attempt to achieve something",
+      "v. battle or contend against in or as if in a battle"
+    ]
   },
   {
     "name": "celebration",
-    "trans": ["庆祝"]
+    "trans": [
+      "n. a joyful occasion for special festivities to mark some happy event; any joyous diversion"
+    ]
   },
   {
     "name": "cheering",
-    "trans": ["欢呼"]
+    "trans": [
+      "n. encouragement in the form of cheers from spectators"
+    ]
   },
   {
     "name": "children",
-    "trans": ["儿童"]
+    "trans": [
+      "n. a young person of either sex; a human offspring (son or daughter) of any age"
+    ]
   },
   {
     "name": "conversation",
-    "trans": ["谈话"]
+    "trans": [
+      "n. the use of speech for informal exchange of views or ideas or information etc."
+    ]
   },
   {
     "name": "laughter",
-    "trans": ["笑"]
+    "trans": [
+      "n. the sound of laughing"
+    ]
   },
   {
     "name": "loop group",
-    "trans": ["循环群杂"]
+    "trans": [
+      "循环群杂"
+    ]
   },
   {
     "name": "panic",
-    "trans": ["恐惧"]
+    "trans": [
+      "n. an overwhelming feeling of fear and anxiety; sudden mass fear and anxiety over anticipated events",
+      "v. be overcome by a sudden fear; cause sudden fear in or fill with sudden panic"
+    ]
   },
   {
     "name": "quiet",
-    "trans": ["安静"]
+    "trans": [
+      "adj. characterized by an absence or near absence of agitation or activity; free of noise or uproar; or making little if any sound",
+      "n. a period of calm weather; an untroubled state; free from disturbances",
+      "v. become quiet or quieter; make calm or still"
+    ]
   },
   {
     "name": "reaction",
-    "trans": ["反应"]
+    "trans": [
+      "n. (chemistry) a process in which one or more substances are changed into others; an idea evoked by some experience"
+    ]
   },
   {
     "name": "singing",
-    "trans": ["歌唱"]
+    "trans": [
+      "n. the act of singing vocal music"
+    ]
   },
   {
     "name": "walla",
-    "trans": ["群杂"]
+    "trans": [
+      "群杂"
+    ]
   },
   {
     "name": "bass dive",
-    "trans": ["低频下潜"]
+    "trans": [
+      "低频下潜"
+    ]
   },
   {
     "name": "boom",
-    "trans": ["低频轰鸣"]
+    "trans": [
+      "v. make a resonant sound, like artillery; hit hard",
+      "n. a deep prolonged loud noise"
+    ]
   },
   {
     "name": "braam",
-    "trans": ["低频号角"]
+    "trans": [
+      "低频号角"
+    ]
   },
   {
     "name": "distortion",
-    "trans": ["失真"]
+    "trans": [
+      "n. a change for the worse; a shape resulting from distortion"
+    ]
   },
   {
     "name": "drone",
-    "trans": ["低音氛围"]
+    "trans": [
+      "n. stingless male bee in a colony of social bees (especially honeybees) whose sole function is to mate with the queen; an unchanging intonation"
+    ]
   },
   {
     "name": "eerie",
-    "trans": ["毛骨悚然"]
+    "trans": [
+      "adj. suggestive of the supernatural; mysterious"
+    ]
   },
   {
     "name": "ethereal",
-    "trans": ["鬼魅飘渺"]
+    "trans": [
+      "adj. characterized by lightness and insubstantiality; as impalpable or intangible as air"
+    ]
   },
   {
     "name": "granular",
-    "trans": ["粒状"]
+    "trans": [
+      "adj. composed of or covered with particles resembling meal in texture or consistency"
+    ]
   },
   {
     "name": "morph",
-    "trans": ["合成器"]
+    "trans": [
+      "v. cause to change shape in a computer animation"
+    ]
   },
   {
     "name": "riser",
-    "trans": ["渐强"]
+    "trans": [
+      "n. a person who rises (especially from bed)"
+    ]
   },
   {
     "name": "rumble",
-    "trans": ["次声波"]
+    "trans": [
+      "n. a loud low dull continuous noise",
+      "v. make a low noise; to utter or emit low dull rumbling sounds"
+    ]
   },
   {
     "name": "rhythmic",
-    "trans": ["节奏性"]
+    "trans": [
+      "adj. recurring with measured regularity"
+    ]
   },
   {
     "name": "stinger",
-    "trans": ["重音强调"]
+    "trans": [
+      "n. a cocktail made of made of creme de menthe and brandy"
+    ]
   },
   {
     "name": "synthetic",
-    "trans": ["电子合成"]
+    "trans": [
+      "adj. not of natural origin; prepared or made artificially"
+    ]
   },
   {
     "name": "vocal",
-    "trans": ["人声"]
+    "trans": [
+      "adj. relating to or designed for or using the singing voice; having or using the power to produce speech or sound"
+    ]
   },
   {
     "name": "whoosh",
-    "trans": ["呼声"]
+    "trans": [
+      "n. the noise produced by the sudden rush of a fluid (a gas or liquid)",
+      "v. move with a sibilant sound"
+    ]
   },
   {
     "name": "collapse",
-    "trans": ["倒塌"]
+    "trans": [
+      "v. break down, literally or metaphorically; collapse due to fatigue, an illness, or a sudden attack",
+      "n. an abrupt failure of function or complete physical exhaustion; a natural event caused by something suddenly falling down or caving in"
+    ]
   },
   {
     "name": "dust",
-    "trans": ["灰尘"]
+    "trans": [
+      "n. fine powdery material such as dry earth or pollen that can be blown about in the air; the remains of something that has been destroyed or broken up",
+      "v. remove the dust from; rub the dust over a surface so as to blur the outlines of a shape"
+    ]
   },
   {
     "name": "antique",
-    "trans": ["古董"]
+    "trans": [
+      "adj. made in or typical of earlier times and valued for its age; out of fashion"
+    ]
   },
   {
     "name": "cabinet",
-    "trans": ["箱柜"]
+    "trans": [
+      "n. a piece of furniture resembling a cupboard with doors and shelves and drawers; for storage or display"
+    ]
   },
   {
     "name": "composite",
-    "trans": ["特殊材料"]
+    "trans": [
+      "n. a conceptual whole made up of complicated and related parts",
+      "adj. consisting of separate interconnected parts"
+    ]
   },
   {
     "name": "dungeon",
-    "trans": ["传统大门"]
+    "trans": [
+      "n. the main tower within the walls of a medieval castle or fortress"
+    ]
   },
   {
     "name": "gate",
-    "trans": ["大门"]
+    "trans": [
+      "n. a movable barrier in a fence or wall; a computer circuit with several inputs but only one output that can be activated by particular combinations of inputs"
+    ]
   },
   {
     "name": "glass",
-    "trans": ["玻璃门"]
+    "trans": [
+      "n. a brittle transparent solid with irregular atomic structure; a container for holding liquids while drinking"
+    ]
   },
   {
     "name": "hardware",
-    "trans": ["锁具"]
+    "trans": [
+      "n. major items of military weaponry (as tanks or missile)"
+    ]
   },
   {
     "name": "hydraulic & pneumatic",
-    "trans": ["液压与气动"]
+    "trans": [
+      "液压与气动"
+    ]
   },
   {
     "name": "knock",
-    "trans": ["敲门"]
+    "trans": [
+      "v. deliver a sharp blow or push :; rap with the knuckles",
+      "n. the sound of knocking (as on a door or in an engine or bearing); negative criticism"
+    ]
   },
   {
     "name": "metal",
-    "trans": ["金属门"]
+    "trans": [
+      "n. any of several chemical elements that are usually shiny solids that conduct heat or electricity and can be formed into sheets etc.",
+      "adj. containing or made of or resembling or characteristic of a metal"
+    ]
   },
   {
     "name": "plastic",
-    "trans": ["塑料门"]
+    "trans": [
+      "n. generic name for certain synthetic or semisynthetic materials that can be molded or extruded into objects or films or filaments or used for making e.g.…",
+      "adj. capable of being molded or modeled (especially of earth or clay or other soft material)"
+    ]
   },
   {
     "name": "prison",
-    "trans": ["牢门"]
+    "trans": [
+      "n. a correctional institution where persons are confined while on trial or for punishment"
+    ]
   },
   {
     "name": "revolving",
-    "trans": ["旋转门"]
+    "trans": [
+      "v. turn on or around an axis or a center; move in an orbit"
+    ]
   },
   {
     "name": "sliding",
-    "trans": ["滑动门"]
+    "trans": [
+      "adj. being a smooth continuous motion"
+    ]
   },
   {
     "name": "stone",
-    "trans": ["石门"]
+    "trans": [
+      "n. a lump or mass of hard consolidated mineral matter; building material consisting of a piece of rock hewn in a definite shape for a special purpose",
+      "v. kill by throwing stones at"
+    ]
   },
   {
     "name": "swinging",
-    "trans": ["双开门"]
+    "trans": [
+      "n. changing location by moving back and forth",
+      "adj. characterized by a buoyant rhythm"
+    ]
   },
   {
     "name": "wood",
-    "trans": ["木门"]
+    "trans": [
+      "n. the hard fibrous lignified substance under the bark of trees; the trees and other plants in a large densely wooded area"
+    ]
   },
   {
     "name": "arc",
-    "trans": ["电弧"]
+    "trans": [
+      "n. electrical conduction through a gas in an applied electric field; a continuous portion of a circle"
+    ]
   },
   {
     "name": "buzz & hum",
-    "trans": ["电流噪声"]
+    "trans": [
+      "电流噪声"
+    ]
   },
   {
     "name": "electromagnetic",
-    "trans": ["电磁"]
+    "trans": [
+      "adj. pertaining to or exhibiting magnetism produced by electric charge in motion"
+    ]
   },
   {
     "name": "sparks",
-    "trans": ["电火花"]
+    "trans": [
+      "n. a momentary flash of light; merriment expressed by a brightness or gleam or animation of countenance",
+      "v. put in motion or move to act; emit or produce sparks"
+    ]
   },
   {
     "name": "zap",
-    "trans": ["漏电"]
+    "trans": [
+      "n. a sudden event that imparts energy or excitement, usually with a dramatic impact",
+      "v. strike suddenly and with force"
+    ]
   },
   {
     "name": "bridle & tack",
-    "trans": ["挽具"]
+    "trans": [
+      "挽具"
+    ]
   },
   {
     "name": "recreational",
-    "trans": ["户外装备"]
+    "trans": [
+      "adj. of or relating to recreation; engaged in as a pastime"
+    ]
   },
   {
     "name": "tactical",
-    "trans": ["军事装备"]
+    "trans": [
+      "adj. of or pertaining to tactic or tactics"
+    ]
   },
   {
     "name": "real",
-    "trans": ["真实"]
+    "trans": [
+      "adj. being or occurring in fact or actuality; having verified existence; not illusory; no less than what is stated; worthy of the name",
+      "adv. used as intensifiers; 'real' is sometimes used informally for 'really'; 'rattling' is informal"
+    ]
   },
   {
     "name": "bodyfall",
-    "trans": ["跌倒"]
+    "trans": [
+      "跌倒"
+    ]
   },
   {
     "name": "cloth",
-    "trans": ["衣服"]
+    "trans": [
+      "n. artifact made by weaving or felting or knitting or crocheting natural or synthetic fibers"
+    ]
   },
   {
     "name": "grab",
-    "trans": ["抓握"]
+    "trans": [
+      "v. take hold of so as to seize or restrain or stop the motion of; get hold of or seize quickly and easily"
+    ]
   },
   {
     "name": "burning",
-    "trans": ["燃烧"]
+    "trans": [
+      "n. the act of burning something"
+    ]
   },
   {
     "name": "crackle",
-    "trans": ["爆裂"]
+    "trans": [
+      "v. make a crackling sound; make a crushing noise",
+      "n. the sharp sound of snapping noises"
+    ]
   },
   {
     "name": "gas",
-    "trans": ["气体"]
+    "trans": [
+      "n. the state of matter distinguished from the solid and liquid states by: relatively low density and viscosity…",
+      "v. attack with gas; subject to gas fumes"
+    ]
   },
   {
     "name": "ignite",
-    "trans": ["点火"]
+    "trans": [
+      "v. cause to start burning; subject to fire or great heat; start to burn or burst into flames"
+    ]
   },
   {
     "name": "sizzle",
-    "trans": ["滋滋声"]
+    "trans": [
+      "v. make a sound like frying fat"
+    ]
   },
   {
     "name": "torch",
-    "trans": ["火炬"]
+    "trans": [
+      "n. a light usually carried in the hand; consists of some flammable substance"
+    ]
   },
   {
     "name": "turbulent",
-    "trans": ["汹涌火势"]
+    "trans": [
+      "adj. characterized by unrest or disorder or insubordination; (of a liquid) agitated vigorously; in a state of turbulence"
+    ]
   },
   {
     "name": "commercial",
-    "trans": ["商业表演"]
+    "trans": [
+      "adj. connected with or engaged in or sponsored by or used in commerce or commercial enterprises; of or relating to commercialism",
+      "n. a commercially sponsored ad on radio or television"
+    ]
   },
   {
     "name": "recreational",
-    "trans": ["自娱"]
+    "trans": [
+      "adj. of or relating to recreation; engaged in as a pastime"
+    ]
   },
   {
     "name": "feet",
-    "trans": ["脚步"]
+    "trans": [
+      "n. the part of the leg of a human being below the ankle joint; a linear unit of length equal to 12 inches or a third of a yard"
+    ]
   },
   {
     "name": "hands",
-    "trans": ["手"]
+    "trans": [
+      "n. (with 'in') guardianship over; in divorce cases it is the right to house and care for and discipline a child; the force of workers available"
+    ]
   },
   {
     "name": "prop",
-    "trans": ["道具"]
+    "trans": [
+      "n. a support placed beneath or against something to keep it from shaking or falling",
+      "v. support by placing against something solid or rigid"
+    ]
   },
   {
     "name": "cooking",
-    "trans": ["烹饪"]
+    "trans": [
+      "n. the act of preparing something (as food) by the application of heat"
+    ]
   },
   {
     "name": "drinking",
-    "trans": ["喝"]
+    "trans": [
+      "n. the act of consuming liquids; the act of drinking alcoholic beverages to excess"
+    ]
   },
   {
     "name": "eating",
-    "trans": ["吃东西"]
+    "trans": [
+      "n. the act of consuming food"
+    ]
   },
   {
     "name": "glassware",
-    "trans": ["玻璃器皿"]
+    "trans": [
+      "n. an article of tableware made of glass"
+    ]
   },
   {
     "name": "ingredients",
-    "trans": ["食材"]
+    "trans": [
+      "n. a component of a mixture or compound; an abstract part of something"
+    ]
   },
   {
     "name": "kitchenware",
-    "trans": ["厨具"]
+    "trans": [
+      "n. hardware utensils for use in a kitchen"
+    ]
   },
   {
     "name": "pour",
-    "trans": ["泼洒"]
+    "trans": [
+      "v. cause to run; move in large numbers"
+    ]
   },
   {
     "name": "tableware",
-    "trans": ["餐具"]
+    "trans": [
+      "n. articles for use at the table (dishes and silverware and glassware)"
+    ]
   },
   {
     "name": "creature",
-    "trans": ["怪物"]
+    "trans": [
+      "n. a living organism characterized by voluntary movement; a human being; 'wight' is an archaic term"
+    ]
   },
   {
     "name": "human",
-    "trans": ["人类"]
+    "trans": [
+      "adj. characteristic of humanity; relating to a person",
+      "n. any living or extinct member of the family Hominidae characterized by superior intelligence, articulate speech, and erect carriage"
+    ]
   },
   {
     "name": "arcade",
-    "trans": ["街机游戏"]
+    "trans": [
+      "n. a covered passageway with shops and stalls on either side"
+    ]
   },
   {
     "name": "board",
-    "trans": ["桌游"]
+    "trans": [
+      "n. a committee having supervisory powers; a stout length of sawn timber; made in a wide variety of sizes and used for many purposes",
+      "v. get on board of (trains, buses, ships, aircraft, etc.); live and take one's meals at or in"
+    ]
   },
   {
     "name": "casino",
-    "trans": ["赌场"]
+    "trans": [
+      "n. a public building for gambling and entertainment"
+    ]
   },
   {
     "name": "video",
-    "trans": ["单机"]
+    "trans": [
+      "n. the visible part of a television transmission"
+    ]
   },
   {
     "name": "fumarole",
-    "trans": ["热浆"]
+    "trans": [
+      "A hole or spot in a volcanic or other region, from which fumes issue"
+    ]
   },
   {
     "name": "geyser",
-    "trans": ["间歇泉"]
+    "trans": [
+      "v. to overflow like a geyser"
+    ]
   },
   {
     "name": "lava",
-    "trans": ["岩浆"]
+    "trans": [
+      "n. rock that in its molten form (as magma) issues from volcanos; lava is what magma is called when it reaches the surface"
+    ]
   },
   {
     "name": "mud pots",
-    "trans": ["泥浆"]
+    "trans": [
+      "泥浆"
+    ]
   },
   {
     "name": "blood",
-    "trans": ["血流"]
+    "trans": [
+      "n. the fluid (red in vertebrates) that is pumped through the body by the heart and contains plasma, blood cells, and platelets; temperament or disposition"
+    ]
   },
   {
     "name": "bone",
-    "trans": ["骨头"]
+    "trans": [
+      "n. rigid connective tissue that makes up the skeleton of vertebrates; the porous calcified substance from which bones are made"
+    ]
   },
   {
     "name": "burn",
-    "trans": ["燃烧"]
+    "trans": [
+      "v. destroy by fire; shine intensely, as if with heat",
+      "n. pain that feels hot as if it were on fire; a browning of the skin resulting from exposure to the rays of the sun"
+    ]
   },
   {
     "name": "flesh",
-    "trans": ["血肉"]
+    "trans": [
+      "n. the soft tissue of the body of a vertebrate: mainly muscle tissue and fat; alternative names for the body of a human being"
+    ]
   },
   {
     "name": "ooze",
-    "trans": ["渗血"]
+    "trans": [
+      "n. any thick, viscous matter",
+      "v. pass gradually or leak through or as if through small openings"
+    ]
   },
   {
     "name": "splat",
-    "trans": ["洒溅"]
+    "trans": [
+      "n. a single splash",
+      "v. give off the sound of a bullet flattening on impact"
+    ]
   },
   {
     "name": "squish",
-    "trans": ["血浆"]
+    "trans": [
+      "n. the noise of soft mud being walked on",
+      "v. walk through mud or mire"
+    ]
   },
   {
     "name": "stab",
-    "trans": ["捅"]
+    "trans": [
+      "v. use a knife on"
+    ]
   },
   {
     "name": "antique",
-    "trans": ["古董枪"]
+    "trans": [
+      "adj. made in or typical of earlier times and valued for its age; out of fashion"
+    ]
   },
   {
     "name": "artillery",
-    "trans": ["火炮"]
+    "trans": [
+      "n. large but transportable armament; an army unit that uses big guns"
+    ]
   },
   {
     "name": "automatic",
-    "trans": ["自动化武器"]
+    "trans": [
+      "adj. operating with minimal human intervention; independent of external control; resembling the unthinking functioning of a machine"
+    ]
   },
   {
     "name": "cannon",
-    "trans": ["加农炮"]
+    "trans": [
+      "n. a large artillery gun that is usually on wheels"
+    ]
   },
   {
     "name": "handle",
-    "trans": ["操作"]
+    "trans": [
+      "v. be in charge of, act on, or dispose of; interact in a certain way",
+      "n. the appendage to an object that is designed to be held in order to use or move it"
+    ]
   },
   {
     "name": "mechanism",
-    "trans": ["机枪"]
+    "trans": [
+      "n. the atomic process that occurs during a chemical reaction; the technical aspects of doing something"
+    ]
   },
   {
     "name": "pistol",
-    "trans": ["手枪"]
+    "trans": [
+      "n. a firearm that is held and fired with one hand"
+    ]
   },
   {
     "name": "rifle",
-    "trans": ["步枪"]
+    "trans": [
+      "n. a shoulder firearm with a long barrel and a rifled bore",
+      "v. steal goods; take as spoils"
+    ]
   },
   {
     "name": "shotgun",
-    "trans": ["霰弹枪"]
+    "trans": [
+      "n. firearm that is a double-barreled smoothbore shoulder weapon for firing shot at short ranges"
+    ]
   },
   {
     "name": "suppressed",
-    "trans": ["消音枪"]
+    "trans": [
+      "adj. kept from public knowledge by various means"
+    ]
   },
   {
     "name": "air powered",
-    "trans": ["气压式"]
+    "trans": [
+      "气压式"
+    ]
   },
   {
     "name": "traditional",
-    "trans": ["传统"]
+    "trans": [
+      "adj. consisting of or derived from tradition; pertaining to time-honored orthodox doctrines"
+    ]
   },
   {
     "name": "breath",
-    "trans": ["呼吸"]
+    "trans": [
+      "n. the process of taking in and expelling air during breathing; the air that is inhaled and exhaled in respiration"
+    ]
   },
   {
     "name": "burp",
-    "trans": ["打嗝"]
+    "trans": [
+      "n. a reflex that expels gas noisily from the stomach through the mouth",
+      "v. expel gas from the stomach"
+    ]
   },
   {
     "name": "cough",
-    "trans": ["咳嗽"]
+    "trans": [
+      "v. exhale abruptly, as when one has a chest cold or congestion"
+    ]
   },
   {
     "name": "heartbeat",
-    "trans": ["心跳"]
+    "trans": [
+      "n. the rhythmic contraction and expansion of the arteries with each beat of the heart"
+    ]
   },
   {
     "name": "kiss",
-    "trans": ["接吻"]
+    "trans": [
+      "v. touch with the lips or press the lips (against someone's mouth or other body part) as an expression of love, greeting, etc.",
+      "n. the act of caressing with the lips (or an instance thereof)"
+    ]
   },
   {
     "name": "pee",
-    "trans": ["尿"]
+    "trans": [
+      "n. liquid excretory product",
+      "v. eliminate urine"
+    ]
   },
   {
     "name": "skin",
-    "trans": ["皮肤"]
+    "trans": [
+      "n. a natural protective body covering and site of the sense of touch; an outer surface (usually thin)"
+    ]
   },
   {
     "name": "sneeze",
-    "trans": ["打喷嚏"]
+    "trans": [
+      "n. a symptom consisting of the involuntary expulsion of air from the nose",
+      "v. exhale spasmodically, as when an irritant entered one's nose"
+    ]
   },
   {
     "name": "sniff",
-    "trans": ["闻"]
+    "trans": [
+      "v. perceive by inhaling through the nose; inhale audibly through the nose"
+    ]
   },
   {
     "name": "snore",
-    "trans": ["打鼾"]
+    "trans": [
+      "v. breathe noisily during one's sleep"
+    ]
   },
   {
     "name": "spit",
-    "trans": ["吐"]
+    "trans": [
+      "v. expel or eject (saliva or phlegm or sputum) from the mouth; utter with anger or contempt"
+    ]
   },
   {
     "name": "vomit",
-    "trans": ["呕吐"]
+    "trans": [
+      "v. eject the contents of the stomach through the mouth"
+    ]
   },
   {
     "name": "beam",
-    "trans": ["光束"]
+    "trans": [
+      "n. a signal transmitted along a narrow path; guides airplane pilots in darkness or bad weather",
+      "v. smile radiantly; express joy through one's facial expression; emit light; be bright, as of the sun or a light"
+    ]
   },
   {
     "name": "gun",
-    "trans": ["武器"]
+    "trans": [
+      "n. a weapon that discharges a missile at high velocity (especially from a metal tube or barrel); large but transportable armament"
+    ]
   },
   {
     "name": "bubbles",
-    "trans": ["气泡"]
+    "trans": [
+      "n. a hollow globule of gas (e.g., air or carbon dioxide)",
+      "v. form, produce, or emit bubbles"
+    ]
   },
   {
     "name": "suction",
-    "trans": ["抽吸"]
+    "trans": [
+      "n. a force over an area produced by a pressure difference"
+    ]
   },
   {
     "name": "elevator",
-    "trans": ["电梯"]
+    "trans": [
+      "n. lifting device consisting of a platform or cage that is raised and lowered mechanically in a vertical shaft in order to move people from one floor to another…"
+    ]
   },
   {
     "name": "escalator",
-    "trans": ["自动扶梯"]
+    "trans": [
+      "n. a clause in a contract that provides for an increase or a decrease in wages or prices or benefits etc. depending on certain conditions (as a change in the cost…"
+    ]
   },
   {
     "name": "fan",
-    "trans": ["风扇"]
+    "trans": [
+      "n. a device for creating a current of air by movement of a surface or surfaces; an enthusiastic devotee of sports",
+      "v. strike out (a batter), (of a pitcher); make (an emotion) fiercer"
+    ]
   },
   {
     "name": "garden",
-    "trans": ["花园"]
+    "trans": [
+      "n. a plot of ground where plants are cultivated; the flowers or vegetables or fruits or herbs that are cultivated in a garden",
+      "v. work in the garden"
+    ]
   },
   {
     "name": "gym",
-    "trans": ["健身房"]
+    "trans": [
+      "n. athletic facility equipped for sports or physical training"
+    ]
   },
   {
     "name": "hvac",
-    "trans": ["空调"]
+    "trans": [
+      "空调"
+    ]
   },
   {
     "name": "pump",
-    "trans": ["泵"]
+    "trans": [
+      "v. operate like a pump; move up and down, like a handle or a pedal; deliver forth",
+      "n. a mechanical device that moves fluid or gas by pressure or suction"
+    ]
   },
   {
     "name": "angelic",
-    "trans": ["天使"]
+    "trans": [
+      "adj. marked by utter benignity; resembling or befitting an angel or saint"
+    ]
   },
   {
     "name": "elemental",
-    "trans": ["元素"]
+    "trans": [
+      "adj. relating to or being an element"
+    ]
   },
   {
     "name": "evil",
-    "trans": ["邪恶"]
+    "trans": [
+      "n. morally objectionable behavior; that which causes harm or destruction or misfortune",
+      "adj. morally bad or wrong; having the nature of vice"
+    ]
   },
   {
     "name": "poof",
-    "trans": ["嘭"]
+    "trans": [
+      "n. offensive term for an openly homosexual man"
+    ]
   },
   {
     "name": "shimmer",
-    "trans": ["闪耀"]
+    "trans": [
+      "n. a weak and tremulous light",
+      "v. shine with a weak or fitful light"
+    ]
   },
   {
     "name": "spell",
-    "trans": ["咒语"]
+    "trans": [
+      "n. a psychological state induced by (or as if induced by) a magical incantation; a time for working (after which you will be relieved by someone else)",
+      "v. orally recite the letters of or give the spelling of; indicate or signify"
+    ]
   },
   {
     "name": "click",
-    "trans": ["咔哒"]
+    "trans": [
+      "v. move or strike with a noise; make a clicking or ticking sound",
+      "n. a short light metallic sound"
+    ]
   },
   {
     "name": "gears",
-    "trans": ["齿轮"]
+    "trans": [
+      "v. set the level or character of",
+      "n. a toothed wheel that engages another toothed mechanism in order to change the speed or direction of transmitted motion"
+    ]
   },
   {
     "name": "latch",
-    "trans": ["插销"]
+    "trans": [
+      "v. fasten with a latch"
+    ]
   },
   {
     "name": "lever",
-    "trans": ["操纵杆"]
+    "trans": [
+      "n. a rigid bar pivoted about a fulcrum"
+    ]
   },
   {
     "name": "lock",
-    "trans": ["锁"]
+    "trans": [
+      "v. fasten with a lock; keep engaged",
+      "n. a fastener fitted to a door or drawer to keep it firmly closed; a strand or cluster of hair"
+    ]
   },
   {
     "name": "pulley",
-    "trans": ["滑轮"]
+    "trans": [
+      "n. a simple machine consisting of a wheel with a groove in which a rope can run to change the direction or point of application of a force applied to the rope"
+    ]
   },
   {
     "name": "ratchet",
-    "trans": ["棘轮"]
+    "trans": [
+      "n. mechanical device consisting of a toothed wheel or rack engaged with a pawl that permits it to move in only one direction",
+      "v. move by degrees in one direction only"
+    ]
   },
   {
     "name": "relay",
-    "trans": ["传动"]
+    "trans": [
+      "v. pass along",
+      "n. the act of passing something along from one person or group to another"
+    ]
   },
   {
     "name": "roller",
-    "trans": ["滚筒"]
+    "trans": [
+      "n. a grounder that rolls along the infield"
+    ]
   },
   {
     "name": "switch",
-    "trans": ["开关"]
+    "trans": [
+      "v. change over, change around, as to a new order or sequence; exchange or give (something) in exchange for",
+      "n. control consisting of a mechanical or electrical or electronic device for making or breaking or changing the connections in a circuit"
+    ]
   },
   {
     "name": "combustion",
-    "trans": ["内燃机"]
+    "trans": [
+      "n. a process in which a substance reacts with oxygen to give heat and light"
+    ]
   },
   {
     "name": "servo",
-    "trans": ["伺服电机"]
+    "trans": [
+      "n. control system that converts a small mechanical motion into one requiring much greater power; may include a negative feedback system",
+      "adj. of or involving servomechanisms"
+    ]
   },
   {
     "name": "turbine",
-    "trans": ["涡轮"]
+    "trans": [
+      "n. rotary engine in which the kinetic energy of a moving fluid is converted into mechanical energy by causing a bladed rotor to rotate"
+    ]
   },
   {
     "name": "activity",
-    "trans": ["活动"]
+    "trans": [
+      "n. any specific behavior; the state of being active"
+    ]
   },
   {
     "name": "presence",
-    "trans": ["状态"]
+    "trans": [
+      "n. the state of being present; current existence; the immediate proximity of someone or something"
+    ]
   },
   {
     "name": "bells",
-    "trans": ["钟铃"]
+    "trans": [
+      "n. a hollow device made of metal that makes a ringing sound when struck; a push button at an outer door that gives a ringing or buzzing signal when pushed"
+    ]
   },
   {
     "name": "brass",
-    "trans": ["铜管"]
+    "trans": [
+      "n. an alloy of copper and zinc"
+    ]
   },
   {
     "name": "chime",
-    "trans": ["排铃"]
+    "trans": [
+      "n. a percussion instrument consisting of a set of tuned bells that are struck with a hammer; used as an orchestral instrument",
+      "v. emit a sound"
+    ]
   },
   {
     "name": "choral",
-    "trans": ["合唱"]
+    "trans": [
+      "n. a stately Protestant (especially Lutheran) hymn tune",
+      "adj. related to or written for or performed by a chorus or choir"
+    ]
   },
   {
     "name": "experimental",
-    "trans": ["实验"]
+    "trans": [
+      "adj. relating to or based on experiment; relying on observation or experiment"
+    ]
   },
   {
     "name": "instrument",
-    "trans": ["器乐"]
+    "trans": [
+      "n. a device that requires skill for proper use; the means whereby some act is accomplished"
+    ]
   },
   {
     "name": "keyed",
-    "trans": ["键控"]
+    "trans": [
+      "adj. fitted with or secured by a key"
+    ]
   },
   {
     "name": "loop",
-    "trans": ["循环"]
+    "trans": [
+      "v. move in loops; make a loop in",
+      "n. fastener consisting of a metal ring for lining a small hole to permit the attachment of cords or lines"
+    ]
   },
   {
     "name": "percussion",
-    "trans": ["打击"]
+    "trans": [
+      "n. the act of playing a percussion instrument; the act of exploding a percussion cap"
+    ]
   },
   {
     "name": "percussion tuned",
-    "trans": ["打击乐"]
+    "trans": [
+      "打击乐"
+    ]
   },
   {
     "name": "performance",
-    "trans": ["表演"]
+    "trans": [
+      "n. a dramatic or musical entertainment; the act of presenting a play or a piece of music or other entertainment"
+    ]
   },
   {
     "name": "plucked",
-    "trans": ["拨弦乐"]
+    "trans": [
+      "adj. of a stringed instrument; sounded with the fingers or a plectrum"
+    ]
   },
   {
     "name": "sample",
-    "trans": ["采样"]
+    "trans": [
+      "n. a small part of something intended as representative of the whole; items selected at random from a population and used to test hypotheses about the population",
+      "v. take a sample of"
+    ]
   },
   {
     "name": "shaken",
-    "trans": ["摇动"]
+    "trans": [
+      "adj. disturbed psychologically as if by a physical jolt or shock"
+    ]
   },
   {
     "name": "song & phrase",
-    "trans": ["乐句"]
+    "trans": [
+      "乐句"
+    ]
   },
   {
     "name": "stinger",
-    "trans": ["重击音"]
+    "trans": [
+      "n. a cocktail made of made of creme de menthe and brandy"
+    ]
   },
   {
     "name": "stringed",
-    "trans": ["弦乐"]
+    "trans": [
+      "v. thread on or as if on a string; add as if on a string"
+    ]
   },
   {
     "name": "synthesized",
-    "trans": ["合成器"]
+    "trans": [
+      "v. combine so as to form a more complex, product"
+    ]
   },
   {
     "name": "toy",
-    "trans": ["玩具"]
+    "trans": [
+      "n. an artifact designed to be played with"
+    ]
   },
   {
     "name": "woodwind",
-    "trans": ["木管"]
+    "trans": [
+      "n. any wind instrument other than the brass instruments"
+    ]
   },
   {
     "name": "avalanche",
-    "trans": ["雪崩"]
+    "trans": [
+      "n. a slide of large masses of snow and ice and mud down a mountain",
+      "v. gather into a huge mass and roll down a mountain, of snow"
+    ]
   },
   {
     "name": "earthquake",
-    "trans": ["地震"]
+    "trans": [
+      "n. shaking and vibration at the surface of the earth resulting from underground movement along a fault plane of from volcanic activity"
+    ]
   },
   {
     "name": "tornado",
-    "trans": ["龙卷风"]
+    "trans": [
+      "n. a localized and violently destructive windstorm occurring over land characterized by a funnel-shaped cloud extending toward the ground"
+    ]
   },
   {
     "name": "tsunami",
-    "trans": ["热带风暴"]
+    "trans": [
+      "n. a cataclysm resulting from a destructive sea wave caused by an earthquake or volcanic eruption"
+    ]
   },
   {
     "name": "typhoon",
-    "trans": ["台风"]
+    "trans": [
+      "n. a tropical cyclone occurring in the western Pacific or Indian oceans"
+    ]
   },
   {
     "name": "volcano",
-    "trans": ["火山喷发"]
+    "trans": [
+      "n. a fissure in the earth's crust (or in the surface of some other planet) through which molten lava and gases erupt"
+    ]
   },
   {
     "name": "bag",
-    "trans": ["袋子"]
+    "trans": [
+      "n. a flexible container with a single opening; the quantity of game taken in a particular period (usually by one person)",
+      "v. capture or kill, as in hunting"
+    ]
   },
   {
     "name": "book",
-    "trans": ["书籍"]
+    "trans": [
+      "n. a written work or composition that has been published (printed on pages bound together); physical objects consisting of a number of pages bound together",
+      "v. engage for a performance; arrange for and reserve (something for someone else) in advance"
+    ]
   },
   {
     "name": "coin",
-    "trans": ["硬币"]
+    "trans": [
+      "n. a flat metal piece (usually a disc) used as money",
+      "v. make up"
+    ]
   },
   {
     "name": "container",
-    "trans": ["箱盒"]
+    "trans": [
+      "n. any object that can be used to hold things (especially a large metal boxlike object of standardized dimensions that can be loaded from one form of transport to…"
+    ]
   },
   {
     "name": "fashion",
-    "trans": ["花园"]
+    "trans": [
+      "n. how something is done or how it happens; characteristic or habitual practice",
+      "v. make out of components (often in an improvising manner)"
+    ]
   },
   {
     "name": "furniture",
-    "trans": ["健身房"]
+    "trans": [
+      "n. furnishings that make a room or other area ready for occupancy"
+    ]
   },
   {
     "name": "household",
-    "trans": ["家用品"]
+    "trans": [
+      "n. a social unit living together"
+    ]
   },
   {
     "name": "jewelry",
-    "trans": ["珠宝首饰"]
+    "trans": [
+      "n. an adornment (as a bracelet or ring or necklace) made of precious metals and set with gems (or imitation gems)"
+    ]
   },
   {
     "name": "keys",
-    "trans": ["钥匙"]
+    "trans": [
+      "n. metal device shaped in such a way that when it is inserted into the appropriate lock the lock's mechanism can be rotated; something crucial for explaining",
+      "v. identify as in botany or biology, for example"
+    ]
   },
   {
     "name": "luggage",
-    "trans": ["行李"]
+    "trans": [
+      "n. cases used to carry belongings when traveling"
+    ]
   },
   {
     "name": "packaging",
-    "trans": ["包装品"]
+    "trans": [
+      "n. the business of packing"
+    ]
   },
   {
     "name": "tape",
-    "trans": ["胶带制品"]
+    "trans": [
+      "n. a long thin piece of cloth or paper as used for binding or fastening; a recording made on magnetic tape"
+    ]
   },
   {
     "name": "umbrella",
-    "trans": ["伞"]
+    "trans": [
+      "n. a lightweight handheld collapsible canopy"
+    ]
   },
   {
     "name": "wheeled",
-    "trans": ["有轮制品"]
+    "trans": [
+      "adj. having wheels; often used in combination"
+    ]
   },
   {
     "name": "writing",
-    "trans": ["书写用品"]
+    "trans": [
+      "n. the act of creating written works"
+    ]
   },
   {
     "name": "zipper",
-    "trans": ["拉链"]
+    "trans": [
+      "n. a fastener for locking together two toothed edges by means of a sliding tab",
+      "v. close with a zipper"
+    ]
   },
   {
     "name": "flutter",
-    "trans": ["抖动"]
+    "trans": [
+      "v. move along rapidly and lightly; skim or dart; move back and forth very rapidly",
+      "n. the act of moving back and forth"
+    ]
   },
   {
     "name": "friction",
-    "trans": ["碰撞"]
+    "trans": [
+      "n. a state of conflict between persons"
+    ]
   },
   {
     "name": "handle",
-    "trans": ["手持噪音"]
+    "trans": [
+      "v. be in charge of, act on, or dispose of; interact in a certain way",
+      "n. the appendage to an object that is designed to be held in order to use or move it"
+    ]
   },
   {
     "name": "impact",
-    "trans": ["摩擦"]
+    "trans": [
+      "n. the striking of one body against another; a forceful consequence; a strong effect"
+    ]
   },
   {
     "name": "concrete",
-    "trans": ["水泥"]
+    "trans": [
+      "n. a strong hard building material composed of sand and gravel and cement and water",
+      "adj. capable of being perceived by the senses; not abstract or imaginary"
+    ]
   },
   {
     "name": "general",
-    "trans": ["通用"]
+    "trans": [
+      "adj. applying to all or most members of a category or group; not specialized or limited to one class of things",
+      "n. a general officer of the highest rank",
+      "v. command as a general"
+    ]
   },
   {
     "name": "vegetation",
-    "trans": ["植物"]
+    "trans": [
+      "n. all the plant life in a particular region or period"
+    ]
   },
   {
     "name": "water",
-    "trans": ["水"]
+    "trans": [
+      "n. binary compound that occurs at room temperature as a clear colorless odorless tasteless liquid…",
+      "v. supply with water, as with channels or ditches or streams; provide with water"
+    ]
   },
   {
     "name": "alien",
-    "trans": ["外星人"]
+    "trans": [
+      "adj. not contained in or deriving from the essential nature of something; being or from or characteristic of another place or part of the world",
+      "n. a person who comes from a foreign country; someone who does not owe allegiance to your country"
+    ]
   },
   {
     "name": "baby",
-    "trans": ["婴儿"]
+    "trans": [
+      "n. a very young child (birth to 1 year) who has not yet begun to walk or talk; the youngest member of a group (not necessarily young)"
+    ]
   },
   {
     "name": "cheer",
-    "trans": ["欢呼"]
+    "trans": [
+      "n. a cry or shout of approval",
+      "v. give encouragement to; show approval or good wishes by shouting"
+    ]
   },
   {
     "name": "child",
-    "trans": ["儿童"]
+    "trans": [
+      "n. a young person of either sex; a human offspring (son or daughter) of any age"
+    ]
   },
   {
     "name": "crying",
-    "trans": ["哭泣"]
+    "trans": [
+      "n. the process of shedding tears (usually accompanied by sobs or other inarticulate sounds)",
+      "adj. demanding attention"
+    ]
   },
   {
     "name": "efforts",
-    "trans": ["呼喝"]
+    "trans": [
+      "n. earnest and conscientious activity intended to do or accomplish something; use of physical or mental energy; hard work"
+    ]
   },
   {
     "name": "female",
-    "trans": ["女性"]
+    "trans": [
+      "n. an animal that produces gametes (ova) that can be fertilized by male gametes (spermatozoa); a person who belongs to the sex that can have babies",
+      "adj. being the sex (of plant or animal) that produces fertilizable gametes (ova) from which offspring develop; characteristic of or peculiar to a woman"
+    ]
   },
   {
     "name": "futzed",
-    "trans": ["音响化"]
+    "trans": [
+      "音响化"
+    ]
   },
   {
     "name": "historical",
-    "trans": ["历史感"]
+    "trans": [
+      "adj. of or relating to the study of history; having once lived or existed or taken place in the real world as distinct from being legendary"
+    ]
   },
   {
     "name": "laugh",
-    "trans": ["笑"]
+    "trans": [
+      "v. produce laughter",
+      "n. the sound of laughing; a facial expression characteristic of a person laughing"
+    ]
   },
   {
     "name": "male",
-    "trans": ["男性"]
+    "trans": [
+      "n. an animal that produces gametes (spermatozoa) that can fertilize female gametes (ova); a person who belongs to the sex that cannot have babies",
+      "adj. being the sex (of plant or animal) that produces gametes (spermatozoa) that perform the fertilizing function in generation"
+    ]
   },
   {
     "name": "scream",
-    "trans": ["尖叫"]
+    "trans": [
+      "v. utter a sudden loud cry; utter or declare in a very loud voice",
+      "n. sharp piercing cry; a high-pitched noise resembling a human cry"
+    ]
   },
   {
     "name": "whisper",
-    "trans": ["窃语"]
+    "trans": [
+      "v. speak softly; in a low voice",
+      "n. speaking softly without vibration of the vocal cords"
+    ]
   },
   {
     "name": "drain",
-    "trans": ["排水"]
+    "trans": [
+      "v. flow off gradually; deplete of resources",
+      "n. emptying something accomplished by allowing liquid to run out of it"
+    ]
   },
   {
     "name": "drip",
-    "trans": ["滴"]
+    "trans": [
+      "v. fall in drops"
+    ]
   },
   {
     "name": "fizz",
-    "trans": ["气泡"]
+    "trans": [
+      "n. an effervescent beverage (usually alcoholic)",
+      "v. become bubbly or frothy or foaming"
+    ]
   },
   {
     "name": "flow",
-    "trans": ["水流"]
+    "trans": [
+      "n. the motion characteristic of fluids (liquids or gases); the amount of fluid that flows in a given time",
+      "v. move or progress freely as if in a stream; move along, of liquids"
+    ]
   },
   {
     "name": "fountain",
-    "trans": ["喷泉"]
+    "trans": [
+      "n. a structure from which an artificially produced jet of water arises"
+    ]
   },
   {
     "name": "lap",
-    "trans": ["拍浪"]
+    "trans": [
+      "n. the upper side of the thighs of a seated person",
+      "v. lie partly over or alongside of something or of one another; pass the tongue over"
+    ]
   },
   {
     "name": "plumbing",
-    "trans": ["水管道"]
+    "trans": [
+      "n. utility consisting of the pipes and fixtures for the distribution of water or gas in a building and for the disposal of sewage"
+    ]
   },
   {
     "name": "spray",
-    "trans": ["水花"]
+    "trans": [
+      "n. a pesticide in suspension or solution; intended for spraying; a quantity of small objects flying through the air",
+      "v. be discharged in sprays of liquid; scatter in a mass or jet of droplets"
+    ]
   },
   {
     "name": "steam",
-    "trans": ["蒸汽"]
+    "trans": [
+      "v. travel by means of steam power; emit steam"
+    ]
   },
   {
     "name": "surf",
-    "trans": ["浪花拍岸"]
+    "trans": [
+      "n. waves breaking on the shore"
+    ]
   },
   {
     "name": "waterfall",
-    "trans": ["瀑布"]
+    "trans": [
+      "n. a steep descent of the water of a river"
+    ]
   },
   {
     "name": "wave",
-    "trans": ["波浪"]
+    "trans": [
+      "n. one of a series of ridges that moves across the surface of a liquid (especially across a large body of water)",
+      "v. signal with the hands or nod; move or swing back and forth"
+    ]
   },
   {
     "name": "armor",
-    "trans": ["护甲"]
+    "trans": [
+      "n. protective covering made of metal and used in combat"
+    ]
   },
   {
     "name": "arrow",
-    "trans": ["箭"]
+    "trans": [
+      "n. a mark to indicate a direction or relation"
+    ]
   },
   {
     "name": "axe",
-    "trans": ["斧"]
+    "trans": [
+      "n. an edge tool with a heavy bladed head mounted across a handle"
+    ]
   },
   {
     "name": "blunt",
-    "trans": ["钝器"]
+    "trans": [
+      "adj. having a broad or rounded end; used of a knife or other blade; not sharp",
+      "v. make less intense"
+    ]
   },
   {
     "name": "bow",
-    "trans": ["弓"]
+    "trans": [
+      "v. bend one's knee or body, or lower one's head; yield to another's wish or opinion",
+      "n. a knot with two loops and loose ends; used to tie shoelaces"
+    ]
   },
   {
     "name": "knife",
-    "trans": ["刀"]
+    "trans": [
+      "n. edge tool used as a cutting instrument; has a pointed blade with a sharp edge and a handle; a weapon with a handle and blade with a sharp point"
+    ]
   },
   {
     "name": "polearm",
-    "trans": ["矛"]
+    "trans": [
+      "矛"
+    ]
   },
   {
     "name": "siege",
-    "trans": ["投石机"]
+    "trans": [
+      "n. the action of an armed force that surrounds a fortified place and isolates it while continuing to attack"
+    ]
   },
   {
     "name": "sword",
-    "trans": ["剑"]
+    "trans": [
+      "n. a cutting or thrusting weapon that has a long metal blade and a hilt with a hand guard"
+    ]
   },
   {
     "name": "whip",
-    "trans": ["鞭"]
+    "trans": [
+      "v. beat severely with a whip or rod; defeat thoroughly",
+      "n. an instrument with a handle and a flexible lash that is used for whipping"
+    ]
   },
   {
     "name": "hail",
-    "trans": ["冰雹"]
+    "trans": [
+      "v. praise vociferously; be a native of",
+      "n. precipitation of ice pellets when there are strong rising air currents"
+    ]
   },
   {
     "name": "storm",
-    "trans": ["风暴"]
+    "trans": [
+      "n. a violent weather condition with winds 64-72 knots (11 on the Beaufort scale) and precipitation and thunder and lightning; a violent commotion or disturbance",
+      "v. behave violently, as if in state of a great anger; take by force"
+    ]
   },
   {
     "name": "thunder",
-    "trans": ["雷"]
+    "trans": [
+      "n. a deep prolonged loud noise; a booming or crashing noise caused by air expanding along the path of a bolt of lightning",
+      "v. move fast, noisily, and heavily; utter words loudly and forcefully"
+    ]
   },
   {
     "name": "gust",
-    "trans": ["阵风"]
+    "trans": [
+      "n. a strong current of air"
+    ]
   },
   {
     "name": "covering",
-    "trans": ["遮挡物"]
+    "trans": [
+      "n. a natural object that covers or envelops"
+    ]
   },
   {
     "name": "hardware",
-    "trans": ["窗具"]
+    "trans": [
+      "n. major items of military weaponry (as tanks or missile)"
+    ]
   },
   {
     "name": "knock",
-    "trans": ["敲窗"]
+    "trans": [
+      "v. deliver a sharp blow or push :; rap with the knuckles",
+      "n. the sound of knocking (as on a door or in an engine or bearing); negative criticism"
+    ]
   }
 ]

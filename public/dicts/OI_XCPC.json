@@ -8,13 +8,15 @@
     {
         "name": "for",
         "trans": [
-            "n. [计算机] 循环控制结构，用于多次执行代码块"
+            "prep. intended to belong to or be used by",
+            "prep. in order to help or benefit",
+            "prep. during (a period of time); in place of"
         ]
     },
     {
         "name": "return",
         "trans": [
-            "vt. [计算机] 返回，函数执行完毕后返回一个值"
+            "v. go or come back to place, condition, or activity where one has been before; give back"
         ]
     },
     {
@@ -26,55 +28,56 @@
     {
         "name": "std",
         "trans": [
-            "n. [计算机] 标准命名空间，C++ 中标准库的命名空间"
+            "n. a communicable infection transmitted by sexual intercourse or genital contact"
         ]
     },
     {
         "name": "void",
         "trans": [
-            "n. [计算机] 空类型，表示函数没有返回值"
+            "n. the state of nonexistence"
         ]
     },
     {
         "name": "cur",
         "trans": [
-            "n. [计算机] 当前，常用于指代当前元素或变量"
+            "n. an inferior dog or one of mixed breed"
         ]
     },
     {
         "name": "include",
         "trans": [
-            "n. [计算机] 头文件包含指令，用于引用外部文件"
+            "v. have as a part, be made up out of; consider as part of something"
         ]
     },
     {
         "name": "vector",
         "trans": [
-            "n. [计算机] 动态数组容器，C++ 标准库中的数据结构"
+            "n. a variable quantity that can be resolved into components"
         ]
     },
     {
         "name": "else",
         "trans": [
-            "conj. [计算机] 条件控制结构中的分支语句"
+            "adv. in addition; besides; different"
         ]
     },
     {
         "name": "size",
         "trans": [
-            "n. [计算机] 大小，常用于数组、向量等数据结构的长度或容量"
+            "n. the physical magnitude of something (how big it is); the property resulting from being one of a series of graduated measurements (as of clothing)"
         ]
     },
     {
         "name": "root",
         "trans": [
-            "n. [计算机] 树形结构的根节点"
+            "n. (botany) the usually underground organ that lacks buds or leaves or nodes; absorbs water and mineral salts; usually it anchors the plant to the ground"
         ]
     },
     {
         "name": "while",
         "trans": [
-            "n. [计算机] 循环结构，用于在条件为真时重复执行代码块"
+            "conj. during the time that; whereas",
+            "n. a period of time"
         ]
     },
     {
@@ -86,7 +89,7 @@
     {
         "name": "ans",
         "trans": [
-            "n. [计算机] 答案，通常用于表示计算结果"
+            "n. the part of the nervous system of vertebrates that controls involuntary actions of the smooth muscles and heart and glands"
         ]
     },
     {
@@ -98,31 +101,31 @@
     {
         "name": "long",
         "trans": [
-            "adj. [计算机] C++ 中的基本数据类型，用于表示长整型"
+            "adj. primarily temporal sense; being or indicating a relatively great or greater than average duration or passage of time or a duration as specified"
         ]
     },
     {
         "name": "Node",
         "trans": [
-            "n. [计算机] 节点，常用于树或链表数据结构"
+            "n. a connecting point at which several lines come together"
         ]
     },
     {
         "name": "mid",
         "trans": [
-            "n. [计算机] 中间值，常用于二分查找等算法"
+            "adj. used in combination to denote the middle"
         ]
     },
     {
         "name": "res",
         "trans": [
-            "n. [计算机] 结果，通常用于存储运算结果"
+            "n. a widely distributed system consisting of all the cells able to ingest bacteria or colloidal particles etc, except for certain white blood cells"
         ]
     },
     {
         "name": "code",
         "trans": [
-            "n. [计算机] 代码，指编写的程序或脚本"
+            "n. a set of rules or principles or laws (especially written ones); a coding system used for transmitting messages requiring brevity or secrecy"
         ]
     },
     {
@@ -146,7 +149,7 @@
     {
         "name": "docs",
         "trans": [
-            "n. [计算机] 文档，通常用于存储或描述项目信息"
+            "n. a licensed medical practitioner"
         ]
     },
     {
@@ -158,13 +161,13 @@
     {
         "name": "mod",
         "trans": [
-            "n. [计算机] 取模运算，通常用于求余数"
+            "n. a British teenager or young adult in the 1960s; noted for their clothes consciousness and opposition to the rockers"
         ]
     },
     {
         "name": "key",
         "trans": [
-            "n. [计算机] 键，常用于字典或键值对结构"
+            "n. metal device shaped in such a way that when it is inserted into the appropriate lock the lock's mechanism can be rotated; something crucial for explaining"
         ]
     },
     {
@@ -176,19 +179,19 @@
     {
         "name": "main",
         "trans": [
-            "n. [计算机] 主函数，程序的入口点"
+            "n. any very large body of (salt) water"
         ]
     },
     {
         "name": "operator",
         "trans": [
-            "n. [计算机] 操作符，用于重载 C++ 中的运算符"
+            "n. (mathematics) a symbol or function representing a mathematical operation; an agent that operates some apparatus or machine"
         ]
     },
     {
         "name": "sum",
         "trans": [
-            "n. [计算机] 和，通常用于累加结果"
+            "n. a quantity of money; a quantity obtained by the addition of a group of numbers"
         ]
     },
     {
@@ -200,25 +203,25 @@
     {
         "name": "auto",
         "trans": [
-            "n. [计算机] 自动类型推导关键字，C++11 引入的用于自动推断变量类型"
+            "n. a motor vehicle with four wheels; usually propelled by an internal combustion engine"
         ]
     },
     {
         "name": "node",
         "trans": [
-            "n. [计算机] 节点，通常用于树形结构或链表中"
+            "n. a connecting point at which several lines come together"
         ]
     },
     {
         "name": "double",
         "trans": [
-            "n. [计算机] C++ 中的浮点型数据类型，用于表示双精度浮点数"
+            "n. a base hit on which the batter stops safely at second base"
         ]
     },
     {
         "name": "push",
         "trans": [
-            "n. [计算机] 入栈操作，通常用于栈数据结构"
+            "n. the act of applying force in order to move something away; the force used in pushing"
         ]
     },
     {
@@ -236,25 +239,25 @@
     {
         "name": "break",
         "trans": [
-            "n. [计算机] 跳出循环或控制结构的语句"
+            "n. some abrupt occurrence that interrupts an ongoing activity; an unexpected piece of good luck"
         ]
     },
     {
         "name": "top",
         "trans": [
-            "n. [计算机] 栈顶元素，通常用于栈数据结构的操作"
+            "n. the upper part of anything; the highest or uppermost side of anything"
         ]
     },
     {
         "name": "true",
         "trans": [
-            "n. [计算机] 布尔值，表示逻辑真"
+            "n. proper alignment; the property possessed by something that is in correct or proper alignment"
         ]
     },
     {
         "name": "vis",
         "trans": [
-            "n. [计算机] 访问标记，通常用于图算法中表示某个节点是否被访问"
+            "n. the cardinal number that is the sum of five and one"
         ]
     },
     {
@@ -266,13 +269,13 @@
     {
         "name": "poly",
         "trans": [
-            "n. [计算机] 多项式，通常用于数学计算"
+            "n. A whitish woolly plant (Teucrium Polium) of the order Labiatæ, found throughout the Mediterranean region"
         ]
     },
     {
         "name": "false",
         "trans": [
-            "n. [计算机] 布尔值，表示逻辑假"
+            "adj. not in accordance with the fact or reality or actuality; arising from error"
         ]
     },
     {
@@ -284,61 +287,61 @@
     {
         "name": "dis",
         "trans": [
-            "n. [计算机] 距离，常用于图论算法中的最短路径计算"
+            "n. god of the underworld; counterpart of Greek Pluto"
         ]
     },
     {
         "name": "end",
         "trans": [
-            "n. [计算机] 结束符，C++ 中用于表示标准输出的结束"
+            "n. either extremity of something that has length; the point in time at which something ends"
         ]
     },
     {
         "name": "string",
         "trans": [
-            "n. [计算机] 字符串，C++ 标准库中的字符串类"
+            "n. a lightweight cord; stringed instruments that are played with a bow"
         ]
     },
     {
         "name": "push_back",
         "trans": [
-            "n. [计算机] 向量尾部插入元素的方法，C++ 标准库中的常用方法"
+            "n. the act of forcing the enemy to withdraw"
         ]
     },
     {
         "name": "first",
         "trans": [
-            "n. [计算机] 键值对的第一个元素，常用于 pair 类型"
+            "n. the first or highest in an ordering or series; the first element in a countable series"
         ]
     },
     {
         "name": "max",
         "trans": [
-            "n. [计算机] 最大值，常用于获取一组数中的最大值"
+            "n. street names for gamma hydroxybutyrate"
         ]
     },
     {
         "name": "begin",
         "trans": [
-            "n. [计算机] 容器的起始迭代器，常用于 C++ 容器类"
+            "n. Israeli statesman (born in Russia) who (as prime minister of Israel) negotiated a peace treaty with Anwar Sadat (then the president of Egypt) (1913-1992)"
         ]
     },
     {
         "name": "char",
         "trans": [
-            "n. [计算机] 字符型数据类型，表示单个字符"
+            "n. a charred substance"
         ]
     },
     {
         "name": "using",
         "trans": [
-            "n. [计算机] 声明特定命名空间的关键字"
+            "n. an act that exploits or victimizes someone (treats them unfairly)"
         ]
     },
     {
         "name": "head",
         "trans": [
-            "n. [计算机] 链表或树的头节点"
+            "n. the upper part of the human body or the front part of the body in animals; contains the face and brains; a single domestic animal"
         ]
     },
     {
@@ -350,13 +353,13 @@
     {
         "name": "data",
         "trans": [
-            "n. [计算机] 数据，常用于存储某种信息或数组的底层存储"
+            "n. a collection of facts from which conclusions may be drawn"
         ]
     },
     {
         "name": "swap",
         "trans": [
-            "n. [计算机] 交换两个变量的值"
+            "n. an equal exchange"
         ]
     },
     {
@@ -368,19 +371,19 @@
     {
         "name": "merge",
         "trans": [
-            "n. [计算机] 合并操作，常用于归并排序或合并数据结构"
+            "v. become one; mix together different elements"
         ]
     },
     {
         "name": "update",
         "trans": [
-            "n. [计算机] 更新操作，常用于修改数据或结构"
+            "n. news that updates your information"
         ]
     },
     {
         "name": "second",
         "trans": [
-            "n. [计算机] 键值对的第二个元素，常用于 pair 类型"
+            "n. 1/60 of a minute; the basic unit of time adopted under the Systeme International d'Unites; an indefinitely short time"
         ]
     },
     {
@@ -392,19 +395,19 @@
     {
         "name": "add",
         "trans": [
-            "n. [计算机] 加法运算或添加元素"
+            "n. a condition (mostly in boys) characterized by behavioral and learning disorders"
         ]
     },
     {
         "name": "class",
         "trans": [
-            "n. [计算机] 类，面向对象编程中的基本概念"
+            "n. a collection of things sharing a common attribute; a body of students who are taught together"
         ]
     },
     {
         "name": "tot",
         "trans": [
-            "n. [计算机] 总数，常用于累计某个值"
+            "n. a small amount (especially of a drink)"
         ]
     },
     {
@@ -422,7 +425,7 @@
     {
         "name": "edges",
         "trans": [
-            "n. [计算机] 图中边的集合，常用于图算法"
+            "n. the boundary of a surface; a line determining the limits of an area"
         ]
     },
     {
@@ -434,25 +437,26 @@
     {
         "name": "temp",
         "trans": [
-            "n. [计算机] 临时变量，用于存储中间结果"
+            "n. a worker (especially in an office) hired on a temporary basis"
         ]
     },
     {
         "name": "parent",
         "trans": [
-            "n. [计算机] 父节点，常用于树形结构"
+            "n. a father or mother; one who begets or one who gives birth to or nurtures and raises a child; a relative who plays the role of guardian"
         ]
     },
     {
         "name": "Key",
         "trans": [
-            "n. [计算机] 键，常用于表示键值对中的键"
+            "n. metal device shaped in such a way that when it is inserted into the appropriate lock the lock's mechanism can be rotated; something crucial for explaining"
         ]
     },
     {
         "name": "next",
         "trans": [
-            "n. [计算机] 指向下一个元素的指针，常用于链表"
+            "adj. nearest in space or position; immediately adjoining without intervening space; (of elected officers) elected but not yet serving",
+            "adv. at the time or occasion immediately following"
         ]
     },
     {
@@ -464,13 +468,13 @@
     {
         "name": "define",
         "trans": [
-            "n. [计算机] 预处理指令，用于定义宏"
+            "v. determine the essential quality of; give a definition for the meaning of a word"
         ]
     },
     {
         "name": "now",
         "trans": [
-            "n. [计算机] 当前时间或状态"
+            "n. the momentary present"
         ]
     },
     {
@@ -482,7 +486,7 @@
     {
         "name": "clear",
         "trans": [
-            "n. [计算机] 清空操作，常用于清空容器中的所有元素"
+            "n. the state of being free of suspicion"
         ]
     },
     {
@@ -500,13 +504,14 @@
     {
         "name": "this",
         "trans": [
-            "n. [计算机] 当前对象的指针"
+            "det. / pron. the person or thing near the speaker or just mentioned",
+            "adv. to this degree; so"
         ]
     },
     {
         "name": "Point",
         "trans": [
-            "n. [计算机] 点，通常用于几何算法中表示二维或三维空间的点"
+            "n. a geometric element that has position but no extension; the precise location of something; a spatially limited location"
         ]
     },
     {
@@ -518,19 +523,19 @@
     {
         "name": "resize",
         "trans": [
-            "n. [计算机] 调整容器大小，常用于动态数组或向量"
+            "v. change the size of; make the size more appropriate"
         ]
     },
     {
         "name": "find",
         "trans": [
-            "n. [计算机] 查找操作，常用于在容器中查找元素"
+            "n. a productive insight"
         ]
     },
     {
         "name": "insert",
         "trans": [
-            "n. [计算机] 插入操作，常用于在容器中插入元素"
+            "n. a folded section placed between the leaves of another publication"
         ]
     },
     {
@@ -542,7 +547,7 @@
     {
         "name": "graph",
         "trans": [
-            "n. [计算机] 图形结构，常用于表示点和边的集合"
+            "n. a visual representation of the relations between certain quantities plotted with reference to a set of axes"
         ]
     },
     {
@@ -554,73 +559,73 @@
     {
         "name": "tree",
         "trans": [
-            "n. [计算机] 树形结构，常用于层级数据表示"
+            "n. a tall perennial woody plant having a main trunk and branches forming a distinct elevated crown; includes both gymnosperms and angiosperms"
         ]
     },
     {
         "name": "pop",
         "trans": [
-            "n. [计算机] 出栈操作，常用于栈数据结构中"
+            "n. an informal term for a father; probably derived from baby talk"
         ]
     },
     {
         "name": "pos",
         "trans": [
-            "n. [计算机] 位置，常用于表示数组或字符串中的索引"
+            "n. a radioactive metallic element that is similar to tellurium and bismuth…"
         ]
     },
     {
         "name": "query",
         "trans": [
-            "n. [计算机] 查询操作，常用于检索数据"
+            "n. an instance of questioning"
         ]
     },
     {
         "name": "min",
         "trans": [
-            "n. [计算机] 最小值，常用于获取一组数中的最小值"
+            "n. a unit of time equal to 60 seconds or 1/60th of an hour; any of the forms of Chinese spoken in Fukien province"
         ]
     },
     {
         "name": "ret",
         "trans": [
-            "n. [计算机] 返回值，通常用于函数的返回结果"
+            "v. place (flax, hemp, or jute) in liquid so as to promote loosening of the fibers from the woody tissue"
         ]
     },
     {
         "name": "son",
         "trans": [
-            "n. [计算机] 子节点，常用于树形结构中"
+            "n. a male human offspring; the divine word of God; the second person in the Trinity (incarnate in Jesus)"
         ]
     },
     {
         "name": "splay",
         "trans": [
-            "n. [计算机] 伸展树，一种自平衡二叉搜索树"
+            "n. an outward bevel around a door or window that makes it seem larger"
         ]
     },
     {
         "name": "empty",
         "trans": [
-            "n. [计算机] 检查容器是否为空的操作"
+            "n. a container that has been emptied"
         ]
     },
     {
         "name": "template",
         "trans": [
-            "n. [计算机] 模板，C++ 中的泛型编程工具"
+            "n. a model or standard for making comparisons"
         ]
     },
     {
         "name": "state",
         "trans": [
-            "n. [计算机] 状态，常用于表示程序或系统的运行状态"
+            "n. the territory occupied by one of the constituent administrative districts of a nation; the way something is with respect to its main attributes"
         ]
     },
     {
         "name": "maintain",
         "trans": [
-            "n. [计算机] 维护，常用于维持数据结构的性质"
+            "v. keep in a certain state, position, or activity; e.g.,; keep in safety and protect from harm, decay, loss, or destruction"
         ]
     },
     {
@@ -632,7 +637,7 @@
     {
         "name": "continue",
         "trans": [
-            "n. [计算机] 控制结构中的语句，跳过当前循环的剩余部分"
+            "v. continue a certain state, condition, or activity; continue talking; he continued,"
         ]
     },
     {
@@ -644,37 +649,38 @@
     {
         "name": "read",
         "trans": [
-            "n. [计算机] 读取操作，常用于从文件或输入流中读取数据"
+            "n. something that is read"
         ]
     },
     {
         "name": "flow",
         "trans": [
-            "n. [计算机] 流量，常用于图算法中的网络流问题"
+            "n. the motion characteristic of fluids (liquids or gases); the amount of fluid that flows in a given time"
         ]
     },
     {
         "name": "Set",
         "trans": [
-            "n. [计算机] 集合，C++ 标准库中的集合容器"
+            "n. a group of things of the same kind that belong together and are so used; (mathematics) an abstract collection of numbers or symbols"
         ]
     },
     {
         "name": "case",
         "trans": [
-            "n. [计算机] 条件语句中的分支，用于 switch 语句中"
+            "n. an occurrence of something; a special set of circumstances"
         ]
     },
     {
         "name": "Big",
         "trans": [
-            "n. [计算机] 大数，常用于处理超出基本类型范围的大整数"
+            "adj. above average in size or number or quantity or magnitude or extent; significant",
+            "adv. extremely well; in a boastful manner"
         ]
     },
     {
         "name": "split",
         "trans": [
-            "n. [计算机] 分割操作，常用于字符串或数组的拆分"
+            "n. extending the legs at right angles to the trunk (one in front and the other in back)"
         ]
     },
     {
@@ -686,13 +692,13 @@
     {
         "name": "left",
         "trans": [
-            "n. [计算机] 左子节点，常用于树结构中"
+            "n. location near or direction toward the left side; i.e. the side to the north when a person or object faces east"
         ]
     },
     {
         "name": "low",
         "trans": [
-            "n. [计算机] 低位，常用于表示二进制数据的低位部分"
+            "n. an air mass of lower pressure; often brings precipitation"
         ]
     },
     {
@@ -722,13 +728,13 @@
     {
         "name": "Edge",
         "trans": [
-            "n. [计算机] 边，常用于图结构中表示顶点之间的连接"
+            "n. the boundary of a surface; a line determining the limits of an area"
         ]
     },
     {
         "name": "last",
         "trans": [
-            "n. [计算机] 最后一个元素，常用于链表或数组操作"
+            "n. the temporal end; the concluding time; the last or lowest in an ordering or series"
         ]
     },
     {
@@ -746,7 +752,7 @@
     {
         "name": "static",
         "trans": [
-            "n. [计算机] 静态变量，常用于存储全局唯一的数据"
+            "n. a crackling or hissing noise caused by electrical interference"
         ]
     },
     {
@@ -758,7 +764,7 @@
     {
         "name": "level",
         "trans": [
-            "n. [计算机] 层级，常用于树形结构或图结构的深度表示"
+            "n. a position on a scale of intensity or amount or quality; a relative position or degree of value in a graded group"
         ]
     },
     {
@@ -770,7 +776,7 @@
     {
         "name": "pans",
         "trans": [
-            "n. [计算机] 上一次的答案，常用于多次查询中的结果缓存"
+            "n. cooking utensil consisting of a wide metal vessel"
         ]
     },
     {
@@ -782,7 +788,7 @@
     {
         "name": "print",
         "trans": [
-            "n. [计算机] 打印输出，常用于显示数据"
+            "n. the text appearing in a book, newspaper, or other printed publication; a picture or design printed from an engraving"
         ]
     },
     {
@@ -794,43 +800,43 @@
     {
         "name": "mat",
         "trans": [
-            "n. [计算机] 矩阵，常用于图形学或数学计算"
+            "n. a thick flat pad used as a floor covering; mounting consisting of a border or background for a picture"
         ]
     },
     {
         "name": "from",
         "trans": [
-            "n. [计算机] 起始点，常用于表示数据的来源"
+            "prep. indicating the starting point, source or origin"
         ]
     },
     {
         "name": "jans",
         "trans": [
-            "n. [计算机] 记录当前答案的变量"
+            "n. the first month of the year; begins 10 days after the winter solstice"
         ]
     },
     {
         "name": "sort",
         "trans": [
-            "n. [计算机] 排序函数，常用于对数组或容器进行排序"
+            "n. a category of things distinguished by some common characteristic or quality; an approximate definition or example"
         ]
     },
     {
         "name": "queue",
         "trans": [
-            "n. [计算机] 队列，一种先进先出的数据结构"
+            "n. a line of people or vehicles waiting for something"
         ]
     },
     {
         "name": "pair",
         "trans": [
-            "n. [计算机] 键值对，常用于存储两个相关联的数据"
+            "n. a set of two similar things considered as a unit; two items of the same kind"
         ]
     },
     {
         "name": "algorithm",
         "trans": [
-            "n. [计算机] 算法，指某个特定问题的解决步骤"
+            "n. a precise rule (or set of rules) specifying how to solve some problem"
         ]
     },
     {
@@ -842,37 +848,38 @@
     {
         "name": "new",
         "trans": [
-            "n. [计算机] 动态分配内存的操作"
+            "adj. not of long duration; having just (or relatively recently) come into being or been made or acquired or discovered; original and of a kind not seen before",
+            "adv. very recently"
         ]
     },
     {
         "name": "front",
         "trans": [
-            "n. [计算机] 队列的前端元素"
+            "n. the side that is forward or prominent; the line along which opposing armies face each other"
         ]
     },
     {
         "name": "path",
         "trans": [
-            "n. [计算机] 路径，常用于图中的最短路径问题"
+            "n. a course of conduct; a way especially designed for a particular use"
         ]
     },
     {
         "name": "weight",
         "trans": [
-            "n. [计算机] 权重，常用于加权图中的边"
+            "n. the vertical force exerted by a mass as a result of gravity"
         ]
     },
     {
         "name": "cursor",
         "trans": [
-            "n. [计算机] 游标，常用于数据库中的记录指针"
+            "n. (computer science) indicator consisting of a movable spot of light (an icon) on a visual display…"
         ]
     },
     {
         "name": "color",
         "trans": [
-            "n. [计算机] 颜色，常用于图形学中的像素或节点标记"
+            "n. a visual attribute of things that results from the light they emit or transmit or reflect; interest and variety and intensity"
         ]
     },
     {
@@ -884,7 +891,7 @@
     {
         "name": "count",
         "trans": [
-            "n. [计算机] 计数器，用于记录某一操作的次数"
+            "n. the total number counted; the act of counting; reciting numbers in ascending order"
         ]
     },
     {
@@ -896,7 +903,7 @@
     {
         "name": "link",
         "trans": [
-            "n. [计算机] 链接，常用于链表或其他数据结构的连接"
+            "n. the means of connection between things linked in series; a fastener that serves to join or connect"
         ]
     },
     {
@@ -914,7 +921,7 @@
     {
         "name": "Vector",
         "trans": [
-            "n. [计算机] 向量，C++ STL 中的动态数组"
+            "n. a variable quantity that can be resolved into components"
         ]
     },
     {
@@ -926,61 +933,61 @@
     {
         "name": "rev",
         "trans": [
-            "n. [计算机] 反转，常用于数组或字符串的反向操作"
+            "n. rate of revolution of a motor"
         ]
     },
     {
         "name": "sibling",
         "trans": [
-            "n. [计算机] 兄弟节点，常用于树形结构"
+            "n. a person's brother or sister"
         ]
     },
     {
         "name": "seg",
         "trans": [
-            "n. [计算机] 线段树，一种高效的区间查询数据结构"
+            "n. A castrated bull"
         ]
     },
     {
         "name": "solve",
         "trans": [
-            "n. [计算机] 求解函数，通常用于解决某个算法问题"
+            "v. find the solution to (a problem or question) or understand the meaning of; find the solution"
         ]
     },
     {
         "name": "build",
         "trans": [
-            "n. [计算机] 构建操作，常用于构建树或其他数据结构"
+            "n. constitution of the human body"
         ]
     },
     {
         "name": "delete",
         "trans": [
-            "n. [计算机] 删除操作，常用于释放动态分配的内存"
+            "v. remove or make invisible"
         ]
     },
     {
         "name": "forward",
         "trans": [
-            "n. [计算机] 前向声明，常用于提前声明类型"
+            "n. the person who plays the position of forward in certain games, such as basketball, soccer, or hockey"
         ]
     },
     {
         "name": "cap",
         "trans": [
-            "n. [计算机] 容量，常用于存储数据结构的容量表示"
+            "n. a tight-fitting headdress; a top (as for a bottle)"
         ]
     },
     {
         "name": "stack",
         "trans": [
-            "n. [计算机] 栈，后进先出的数据结构"
+            "n. an orderly pile"
         ]
     },
     {
         "name": "FILE",
         "trans": [
-            "n. [计算机] 文件类型，表示文件流"
+            "n. a set of related records (either written or electronic) kept together; a line of persons or things ranged one behind the other"
         ]
     },
     {
@@ -998,37 +1005,37 @@
     {
         "name": "father",
         "trans": [
-            "n. [计算机] 父节点，常用于树形结构中"
+            "n. a male parent (also used as a term of address to your father); the founder of a family"
         ]
     },
     {
         "name": "maxs",
         "trans": [
-            "n. [计算机] 最大值，常用于保存数组或区间的最大值"
+            "n. street names for gamma hydroxybutyrate"
         ]
     },
     {
         "name": "start",
         "trans": [
-            "n. [计算机] 起始点，常用于表示操作的起点"
+            "n. the beginning of anything; the time at which something is supposed to begin"
         ]
     },
     {
         "name": "erase",
         "trans": [
-            "n. [计算机] 擦除操作，常用于容器中的元素删除"
+            "v. remove from memory or existence"
         ]
     },
     {
         "name": "tag",
         "trans": [
-            "n. [计算机] 标记，常用于标记数据或节点的状态"
+            "n. a label written or printed on paper, cardboard, or plastic that is attached to something to indicate its owner, nature, price, etc."
         ]
     },
     {
         "name": "layer",
         "trans": [
-            "n. [计算机] 层，常用于表示图或网络中的层次结构"
+            "n. single thickness of usually some homogeneous substance; a relatively thin sheetlike expanse or region lying over or under another"
         ]
     },
     {
@@ -1040,7 +1047,7 @@
     {
         "name": "index",
         "trans": [
-            "n. [计算机] 索引，常用于查找数组或表中的元素"
+            "n. a numerical scale used to compare variables with one another or with some reference number"
         ]
     },
     {
@@ -1052,7 +1059,7 @@
     {
         "name": "rotate",
         "trans": [
-            "n. [计算机] 旋转操作，常用于自平衡树的平衡调整"
+            "v. turn on or around an axis or a center; exchange on a regular basis"
         ]
     },
     {
@@ -1064,19 +1071,19 @@
     {
         "name": "child",
         "trans": [
-            "n. [计算机] 子节点，常用于树形结构"
+            "n. a young person of either sex; a human offspring (son or daughter) of any age"
         ]
     },
     {
         "name": "unsigned",
         "trans": [
-            "n. [计算机] 无符号整数类型"
+            "adj. lacking a signature"
         ]
     },
     {
         "name": "prime",
         "trans": [
-            "n. [计算机] 素数，常用于素数判定或筛选算法"
+            "n. a number that has no factor but itself and 1"
         ]
     },
     {
@@ -1088,19 +1095,19 @@
     {
         "name": "flag",
         "trans": [
-            "n. [计算机] 标志位，常用于标记某种状态或条件"
+            "n. emblem usually consisting of a rectangular piece of cloth of distinctive design"
         ]
     },
     {
         "name": "right",
         "trans": [
-            "n. [计算机] 右子树，常用于二叉树结构中"
+            "n. an abstract idea of that which is due to a person or governmental body by law or tradition or nature"
         ]
     },
     {
         "name": "out",
         "trans": [
-            "n. [计算机] 输出流，常用于打印数据或写入文件"
+            "n. (baseball) a failure by a batter or runner to reach a base safely in baseball"
         ]
     },
     {
@@ -1124,7 +1131,7 @@
     {
         "name": "lld",
         "trans": [
-            "n. [计算机] 长整型数据类型"
+            "n. an honorary law degree"
         ]
     },
     {
@@ -1142,13 +1149,13 @@
     {
         "name": "abs",
         "trans": [
-            "n. [计算机] 绝对值函数"
+            "n. any of a class of composite plastics used to make car bodies and cases for computers and other appliances"
         ]
     },
     {
         "name": "access",
         "trans": [
-            "n. [计算机] 访问权限或操作"
+            "n. the right to enter; the right to obtain or make use of or take advantage of something (as services or membership)"
         ]
     },
     {

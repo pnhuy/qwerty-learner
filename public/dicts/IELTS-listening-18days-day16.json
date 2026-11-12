@@ -1,310 +1,486 @@
 [
     {
         "name": "real",
-        "trans": ["真实的"]
+        "trans": [
+            "adj. being or occurring in fact or actuality; having verified existence; not illusory; no less than what is stated; worthy of the name",
+            "adv. used as intensifiers; 'real' is sometimes used informally for 'really'; 'rattling' is informal"
+        ]
     },
     {
         "name": "activity",
-        "trans": ["活动"]
+        "trans": [
+            "n. any specific behavior; the state of being active"
+        ]
     },
     {
         "name": "impact",
-        "trans": ["影响"]
+        "trans": [
+            "n. the striking of one body against another; a forceful consequence; a strong effect"
+        ]
     },
     {
         "name": "sociable",
-        "trans": ["社交的"]
+        "trans": [
+            "n. a party of people assembled to promote sociability and communal activity",
+            "adj. inclined to or conducive to companionship with others"
+        ]
     },
     {
         "name": "focus on",
-        "trans": ["聚焦于"]
+        "trans": [
+            "v. center upon"
+        ]
     },
     {
         "name": "realistic",
-        "trans": ["现实的"]
+        "trans": [
+            "adj. aware or expressing awareness of things as they really are; representing what is real; not abstract or ideal"
+        ]
     },
     {
         "name": "bungalow",
-        "trans": ["平房"]
+        "trans": [
+            "n. a small house with a single story"
+        ]
     },
     {
         "name": "pest",
-        "trans": ["害虫"]
+        "trans": [
+            "n. a serious (sometimes fatal) infection of rodents caused by Yersinia pestis and accidentally transmitted to humans by the bite of a flea that has bitten an…"
+        ]
     },
     {
         "name": "polish",
-        "trans": ["打磨"]
+        "trans": [
+            "v. make (a surface) shine; improve or perfect by pruning or polishing",
+            "n. the property of being smooth and shiny; a highly developed state of perfection; having a flawless or impeccable quality",
+            "adj. of or relating to Poland or its people or culture"
+        ]
     },
     {
         "name": "paddle",
-        "trans": ["划桨"]
+        "trans": [
+            "v. propel with a paddle"
+        ]
     },
     {
         "name": "speed",
-        "trans": ["速度"]
+        "trans": [
+            "n. distance travelled per unit time; a rate (usually rapid) at which something happens",
+            "v. move fast; move faster"
+        ]
     },
     {
         "name": "resistant",
-        "trans": ["反抗的"]
+        "trans": [
+            "adj. relating to or conferring immunity (to disease or infection)"
+        ]
     },
     {
         "name": "contest",
-        "trans": ["争辩"]
+        "trans": [
+            "n. an occasion on which a winner is selected from among two or more contestants; a struggle between rivals",
+            "v. to make the subject of dispute, contention, or litigation"
+        ]
     },
     {
         "name": "survive",
-        "trans": ["幸存"]
+        "trans": [
+            "v. continue to live through hardship or adversity; continue in existence after (an adversity, etc.)"
+        ]
     },
     {
         "name": "sailor",
-        "trans": ["水手"]
+        "trans": [
+            "n. any member of a ship's crew; a serviceman in the navy"
+        ]
     },
     {
         "name": "rival",
-        "trans": ["对手"]
+        "trans": [
+            "v. be equal to in quality or ability",
+            "n. the contestant you hope to defeat"
+        ]
     },
     {
         "name": "humidity",
-        "trans": ["湿度"]
+        "trans": [
+            "n. wetness in the atmosphere"
+        ]
     },
     {
         "name": "acid rainfall",
-        "trans": ["酸雨"]
+        "trans": [
+            "酸雨"
+        ]
     },
     {
         "name": "movement",
-        "trans": ["活动"]
+        "trans": [
+            "n. a change of position that does not entail a change of location; the act of changing location from one place to another"
+        ]
     },
     {
         "name": "appearance",
-        "trans": ["外观"]
+        "trans": [
+            "n. outward or visible aspect of a person or thing; the event of coming into sight"
+        ]
     },
     {
         "name": "herbivorous",
-        "trans": ["食草的"]
+        "trans": [
+            "adj. feeding only on plants"
+        ]
     },
     {
         "name": "organ",
-        "trans": ["器官"]
+        "trans": [
+            "n. a fully differentiated structural and functional unit in an animal that is specialized for some particular function"
+        ]
     },
     {
         "name": "tongue",
-        "trans": ["舌头"]
+        "trans": [
+            "n. a mobile mass of muscular tissue covered with mucous membrane and located in the oral cavity"
+        ]
     },
     {
         "name": "self defence",
-        "trans": ["自我防御"]
+        "trans": [
+            "自我防御"
+        ]
     },
     {
         "name": "varied",
-        "trans": ["多变的"]
+        "trans": [
+            "adj. characterized by variety"
+        ]
     },
     {
         "name": "physical",
-        "trans": ["身体的"]
+        "trans": [
+            "adj. involving the body as distinguished from the mind or spirit; relating to the sciences dealing with matter and energy; especially physics"
+        ]
     },
     {
         "name": "destruction",
-        "trans": ["破坏"]
+        "trans": [
+            "n. the termination of something by causing so much damage to it that it cannot be repaired or no longer exists"
+        ]
     },
     {
         "name": "subsidy",
-        "trans": ["津贴"]
+        "trans": [
+            "n. a grant paid by a government to an enterprise that benefits the public"
+        ]
     },
     {
         "name": "income",
-        "trans": ["收入"]
+        "trans": [
+            "n. the financial gain (earned or unearned) accruing over a given period of time"
+        ]
     },
     {
         "name": "charge",
-        "trans": ["要价"]
+        "trans": [
+            "v. to make a rush at or sudden attack upon, as in battle; blame for, make a claim of wrongdoing or misbehavior against",
+            "n. an impetuous rush toward someone or something; (criminal law) a pleading describing some wrong or offense"
+        ]
     },
     {
         "name": "calculator",
-        "trans": ["计算器"]
+        "trans": [
+            "n. an expert at calculation (or at operating calculating machines)"
+        ]
     },
     {
         "name": "caterpillar",
-        "trans": ["毛虫"]
+        "trans": [
+            "n. a wormlike and often brightly colored and hairy or spiny larva of a butterfly or moth"
+        ]
     },
     {
         "name": "antifreeze",
-        "trans": ["防冻剂"]
+        "trans": [
+            "n. a liquid added to the water in a cooling system to lower its freezing point"
+        ]
     },
     {
         "name": "concentration",
-        "trans": ["专心"]
+        "trans": [
+            "n. the strength of a solution; number of molecules of a substance in a given volume; the spatial property of being crowded together"
+        ]
     },
     {
         "name": "pepper",
-        "trans": ["胡椒"]
+        "trans": [
+            "v. add pepper to; attack and bombard with or as if with missiles"
+        ]
     },
     {
         "name": "mood",
-        "trans": ["心情"]
+        "trans": [
+            "n. a characteristic (habitual or relatively temporary) state of feeling; the prevailing psychological state"
+        ]
     },
     {
         "name": "domestic",
-        "trans": ["国内的"]
+        "trans": [
+            "adj. of concern to or concerning the internal affairs of a nation; of or relating to the home"
+        ]
     },
     {
         "name": "nursery",
-        "trans": ["幼儿园"]
+        "trans": [
+            "n. a child's room for a baby"
+        ]
     },
     {
         "name": "melt",
-        "trans": ["熔化"]
+        "trans": [
+            "v. reduce or cause to be reduced from a solid to a liquid state, usually by heating; become or cause to become soft or liquid"
+        ]
     },
     {
         "name": "quantity",
-        "trans": ["数量"]
+        "trans": [
+            "n. how much there is or how many there are of something that you can quantify; an adequate or large amount"
+        ]
     },
     {
         "name": "pause",
-        "trans": ["暂停"]
+        "trans": [
+            "v. interrupt temporarily an activity before continuing; cease an action temporarily",
+            "n. a time interval during which there is a temporary cessation of something; temporary inactivity"
+        ]
     },
     {
         "name": "happiness",
-        "trans": ["幸福"]
+        "trans": [
+            "n. state of well-being characterized by emotions ranging from contentment to intense joy; emotions experienced when in a state of well-being"
+        ]
     },
     {
         "name": "negative",
-        "trans": ["消极的"]
+        "trans": [
+            "adj. characterized by or displaying negation or denial or opposition or resistance; having no positive features",
+            "n. a reply of denial"
+        ]
     },
     {
         "name": "human",
-        "trans": ["人类"]
+        "trans": [
+            "adj. characteristic of humanity; relating to a person",
+            "n. any living or extinct member of the family Hominidae characterized by superior intelligence, articulate speech, and erect carriage"
+        ]
     },
     {
         "name": "goal",
-        "trans": ["目标"]
+        "trans": [
+            "n. the state of affairs that a plan is intended to achieve and that (when achieved) terminates behavior intended to achieve it"
+        ]
     },
     {
         "name": "suppressing",
-        "trans": ["压制的"]
+        "trans": [
+            "v. to put down by force or authority; come down on or keep down by unjust use of one's authority"
+        ]
     },
     {
         "name": "wax",
-        "trans": ["蜡"]
+        "trans": [
+            "n. any of various substances of either mineral origin or plant or animal origin; they are solid at normal temperatures and insoluble in water",
+            "v. cover with wax; go up or advance"
+        ]
     },
     {
         "name": "dragonfly",
-        "trans": ["蜻蜓"]
+        "trans": [
+            "n. slender-bodied non-stinging insect having iridescent wings that are outspread at rest; adults and nymphs feed on mosquitoes etc."
+        ]
     },
     {
         "name": "malaria",
-        "trans": ["疟疾"]
+        "trans": [
+            "n. an infective disease caused by sporozoan parasites that are transmitted through the bite of an infected Anopheles mosquito…"
+        ]
     },
     {
         "name": "weakness",
-        "trans": ["弱点"]
+        "trans": [
+            "n. a flaw or weak point; powerlessness revealed by an inability to act"
+        ]
     },
     {
         "name": "contaminate",
-        "trans": ["污染"]
+        "trans": [
+            "v. make impure; make radioactive by adding radioactive material"
+        ]
     },
     {
         "name": "reinforce",
-        "trans": ["加强"]
+        "trans": [
+            "v. make stronger; strengthen and support with rewards"
+        ]
     },
     {
         "name": "distance",
-        "trans": ["距离"]
+        "trans": [
+            "n. the property created by the space between two objects or points; a distant region"
+        ]
     },
     {
         "name": "pump",
-        "trans": ["抽水"]
+        "trans": [
+            "v. operate like a pump; move up and down, like a handle or a pedal; deliver forth",
+            "n. a mechanical device that moves fluid or gas by pressure or suction"
+        ]
     },
     {
         "name": "competitor",
-        "trans": ["竞争者"]
+        "trans": [
+            "n. the contestant you hope to defeat"
+        ]
     },
     {
         "name": "skyscraper",
-        "trans": ["摩天大楼"]
+        "trans": [
+            "n. a very tall building with many stories"
+        ]
     },
     {
         "name": "construction",
-        "trans": ["建设"]
+        "trans": [
+            "n. the act of constructing something; a group of words that form a constituent of a sentence and are considered as a single unit"
+        ]
     },
     {
         "name": "guideline",
-        "trans": ["指导方针"]
+        "trans": [
+            "n. a light line that is used in lettering to help align the letters"
+        ]
     },
     {
         "name": "carnivorous",
-        "trans": ["食肉的"]
+        "trans": [
+            "adj. relating to or characteristic of carnivores"
+        ]
     },
     {
         "name": "prey",
-        "trans": ["捕食者"]
+        "trans": [
+            "n. a person who is the aim of an attack (especially a victim of ridicule or exploitation) by some hostile person or influence; animal hunted or caught for food",
+            "v. profit from in an exploitatory manner"
+        ]
     },
     {
         "name": "evolve",
-        "trans": ["进化"]
+        "trans": [
+            "v. work out; undergo development or evolution"
+        ]
     },
     {
         "name": "sting",
-        "trans": ["刺"]
+        "trans": [
+            "v. cause a sharp or stinging pain or discomfort; deliver a sting to",
+            "n. a kind of pain; something as sudden and painful as being stung"
+        ]
     },
     {
         "name": "scent",
-        "trans": ["气味"]
+        "trans": [
+            "n. a distinctive odor that is pleasant; an odor left in passing by which a person or animal can be traced"
+        ]
     },
     {
         "name": "cure",
-        "trans": ["治愈"]
+        "trans": [
+            "v. provide a cure for, make healthy again; prepare by drying, salting, or chemical processing in order to preserve",
+            "n. a medicine or therapy that cures disease or relieve pain"
+        ]
     },
     {
         "name": "particular",
-        "trans": ["特别的"]
+        "trans": [
+            "adj. unique or specific to a person or thing or category; separate and distinct from others of the same group or category",
+            "n. a fact about some part (as opposed to general)"
+        ]
     },
     {
         "name": "planet",
-        "trans": ["行星"]
+        "trans": [
+            "n. (astronomy) any of the nine large celestial bodies in the solar system that revolve around the sun and shine by reflected light; Mercury, Venus, Earth, Mars…"
+        ]
     },
     {
         "name": "supplement",
-        "trans": ["补充"]
+        "trans": [
+            "n. textual matter that is added onto a publication; usually at the end; a quantity added (e.g. to make up for a deficiency)",
+            "v. add as a supplement to what seems insufficient"
+        ]
     },
     {
         "name": "dentist",
-        "trans": ["牙医"]
+        "trans": [
+            "n. a person qualified to practice dentistry"
+        ]
     },
     {
         "name": "personality",
-        "trans": ["品格"]
+        "trans": [
+            "n. the complex of all the attributes--behavioral, temperamental, emotional and mental--that characterize a unique individual; a person of considerable prominence"
+        ]
     },
     {
         "name": "hibernate",
-        "trans": ["冬眠"]
+        "trans": [
+            "v. sleep during winter"
+        ]
     },
     {
         "name": "substance",
-        "trans": ["物质"]
+        "trans": [
+            "n. the real physical matter of which a person or thing consists; the choicest or most essential or most vital part of some idea or experience"
+        ]
     },
     {
         "name": "bark",
-        "trans": ["树皮"]
+        "trans": [
+            "n. tough protective covering of the woody stems and roots of trees and other woody plants; a noise resembling the bark of a dog",
+            "v. speak in an unfriendly tone"
+        ]
     },
     {
         "name": "surface",
-        "trans": ["表面"]
+        "trans": [
+            "n. the outer boundary of an artifact or a material layer constituting or resembling such a boundary",
+            "adj. on the surface",
+            "v. come to the surface"
+        ]
     },
     {
         "name": "wealth",
-        "trans": ["财富"]
+        "trans": [
+            "n. the state of being rich and affluent; having a plentiful supply of material goods and money; the quality of profuse abundance"
+        ]
     },
     {
         "name": "exploration",
-        "trans": ["探测"]
+        "trans": [
+            "n. to travel for the purpose of discovery; a careful systematic search"
+        ]
     },
     {
         "name": "boost",
-        "trans": ["促进"]
+        "trans": [
+            "v. increase; give a boost to; be beneficial to",
+            "n. the act of giving hope or support to someone; an increase in cost"
+        ]
     },
     {
         "name": "immigration",
-        "trans": ["移居"]
+        "trans": [
+            "n. migration into a place (especially migration to a country of which you are not a native in order to settle there)"
+        ]
     }
 ]

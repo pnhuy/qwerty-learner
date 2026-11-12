@@ -2,9 +2,8 @@
     {
         "name": "use",
         "trans": [
-            "n. 使用；用途；发挥",
-            "vt. 利用；耗费",
-            "vi. 使用，运用"
+            "n. the act of using; what something is used for",
+            "v. put into service; make work or employ for a particular purpose or for its inherent or natural purpose; take or consume (regularly or habitually)"
         ],
         "usphone": "[juːz]",
         "ukphone": "[juːz]"
@@ -12,7 +11,7 @@
     {
         "name": "chopsticks",
         "trans": [
-            "n. 筷子"
+            "n. one of a pair of slender sticks used as oriental tableware to eat food with"
         ],
         "usphone": "[ˈtʃɑːpstɪks]",
         "ukphone": "[ˈtʃɒpstɪks]"
@@ -20,9 +19,8 @@
     {
         "name": "want",
         "trans": [
-            "n. 需要；缺乏；贫困；必需品",
-            "vt. 需要；希望；应该；缺少",
-            "vi. 需要；缺少"
+            "n. a state of extreme poverty; the state of needing something that is absent or unavailable",
+            "v. feel or have a desire for; want strongly; have need of"
         ],
         "usphone": "[wɑːnt]",
         "ukphone": "[wɒnt]"
@@ -30,7 +28,7 @@
     {
         "name": "hungry",
         "trans": [
-            "adj. 饥饿的；渴望的；荒年的；不毛的"
+            "adj. feeling hunger; feeling a need or desire to eat food; (usually followed by 'for') extremely desirous"
         ],
         "usphone": "[ˈhʌŋɡri]",
         "ukphone": "[ˈhʌŋɡri]"
@@ -38,9 +36,8 @@
     {
         "name": "mess",
         "trans": [
-            "n. 混乱；食堂，伙食团；困境；脏乱的东西",
-            "vt. 弄乱，弄脏；毁坏；使就餐",
-            "vi. 把事情弄糟；制造脏乱；玩弄"
+            "n. a state of confusion and disorderliness; informal terms for a difficult situation",
+            "v. eat in a mess hall"
         ],
         "usphone": "[mes]",
         "ukphone": "[mes]"
@@ -48,8 +45,8 @@
     {
         "name": "hard",
         "trans": [
-            "adj. 努力的；硬的；困难的；辛苦的；确实的；严厉的；猛烈的；冷酷无情的",
-            "adv. 努力地；困难地；辛苦地；接近地；猛烈地；牢固地"
+            "adj. not easy; requiring great physical or mental effort to accomplish or comprehend or endure; dispassionate",
+            "adv. with effort or force or vigor; with firmness"
         ],
         "usphone": "[hɑːrd]",
         "ukphone": "[hɑːd]"
@@ -57,9 +54,8 @@
     {
         "name": "knife",
         "trans": [
-            "n. 刀；匕首",
-            "vt. 用刀切；（口）伤害",
-            "vi. 劈开；划过"
+            "n. edge tool used as a cutting instrument; has a pointed blade with a sharp edge and a handle; a weapon with a handle and blade with a sharp point",
+            "v. use a knife on"
         ],
         "usphone": "[naɪf]",
         "ukphone": "[naɪf]"
@@ -67,9 +63,8 @@
     {
         "name": "fork",
         "trans": [
-            "n. 叉；餐叉；耙",
-            "vt. 叉起；使成叉状",
-            "vi. 分叉；分歧"
+            "n. cutlery used for serving and eating food; the act of branching out or dividing into branches",
+            "v. lift with a pitchfork"
         ],
         "usphone": "[fɔːrk]",
         "ukphone": "[fɔːk]"
@@ -83,10 +78,8 @@
     {
         "name": "easy",
         "trans": [
-            "adj. 容易的；舒适的",
-            "vt. 发出停划命令",
-            "adv. 不费力地，从容地",
-            "vi. 停止划桨"
+            "adj. posing no difficulty; requiring little effort; not hurried or forced",
+            "adv. with ease ('easy' is sometimes used informally for 'easily')"
         ],
         "usphone": "[ˈiːzi]",
         "ukphone": "[ˈiːzi]"
@@ -94,7 +87,7 @@
     {
         "name": "hamburger",
         "trans": [
-            "n. 汉堡包，火腿汉堡；牛肉饼，肉饼；碎牛肉"
+            "n. a sandwich consisting of a fried cake of minced beef served on a bun, often with other ingredients"
         ],
         "usphone": "[ˈhæmbɜːrɡər]",
         "ukphone": "[ˈhæmbɜːɡə(r)]"
@@ -102,7 +95,7 @@
     {
         "name": "chips",
         "trans": [
-            "n. [食品] 炸土豆条；小木片；（作赌注用的）圆形筹码；缺口（chip的复数形式）"
+            "n. strips of potato fried in deep fat"
         ],
         "usphone": "[tʃɪps]",
         "ukphone": "[tʃɪps]"
@@ -110,9 +103,8 @@
     {
         "name": "grass",
         "trans": [
-            "n. 草；草地，草坪",
-            "vt. 放牧；使……长满草；使……吃草",
-            "vi. 长草"
+            "n. narrow-leaved green herbage: grown as lawns; used as pasture for grazing animals; cut and dried as hay",
+            "v. shoot down, of birds"
         ],
         "usphone": "[ɡræs]",
         "ukphone": "[ɡrɑːs]"
@@ -120,7 +112,7 @@
     {
         "name": "food",
         "trans": [
-            "n. 食物；养料"
+            "n. any substance that can be metabolized by an animal to give energy and build tissue"
         ],
         "usphone": "[fuːd]",
         "ukphone": "[fuːd]"
@@ -128,15 +120,14 @@
     {
         "name": "fast food",
         "trans": [
-            "n. 快餐；速食"
+            "n. inexpensive food (hamburgers or chicken or milkshakes) prepared and served quickly"
         ]
     },
     {
         "name": "make",
         "trans": [
-            "vt. 使得；进行；布置，准备，整理；制造；认为；获得；形成；安排；引起；构成",
-            "vi. 开始；前进；增大；被制造",
-            "n. 制造；构造；性情"
+            "v. engage in; give certain properties to something",
+            "n. a recognizable kind"
         ],
         "usphone": "[meɪk]",
         "ukphone": "[meɪk]"
@@ -144,9 +135,8 @@
     {
         "name": "cake",
         "trans": [
-            "n. 蛋糕；块状物；利益总额",
-            "vt. 使结块",
-            "vi. 结成块状"
+            "n. a block of solid substance (such as soap or wax)",
+            "v. form a coat over"
         ],
         "usphone": "[keɪk]",
         "ukphone": "[keɪk]"
@@ -154,10 +144,8 @@
     {
         "name": "mum",
         "trans": [
-            "adj. 沉默的",
-            "n. 妈妈（口语）；沉默；菊花",
-            "vi. 演哑剧",
-            "int. 别说话"
+            "adj. failing to speak or communicate etc when expected to",
+            "n. of China"
         ],
         "usphone": "[mʌm]",
         "ukphone": "[mʌm]"
@@ -165,7 +153,7 @@
     {
         "name": "dad",
         "trans": [
-            "n. 爸爸；爹爹"
+            "n. an informal term for a father; probably derived from baby talk"
         ],
         "usphone": "[dæd]",
         "ukphone": "[dæd]"
@@ -173,10 +161,9 @@
     {
         "name": "quiet",
         "trans": [
-            "n. 安静；和平",
-            "adj. 安静的；安定的；不动的；温顺的",
-            "vt. 使平息；安慰",
-            "vi. 平静下来"
+            "n. a period of calm weather; an untroubled state; free from disturbances",
+            "adj. characterized by an absence or near absence of agitation or activity; free of noise or uproar; or making little if any sound",
+            "v. become quiet or quieter; make calm or still"
         ],
         "usphone": "[ˈkwaɪət]",
         "ukphone": "[ˈkwaɪət]"
@@ -184,9 +171,8 @@
     {
         "name": "water",
         "trans": [
-            "n. 水；海水；雨水；海域，大片的水",
-            "vt. 使湿；供以水；给…浇水",
-            "vi. 加水；流泪；流口水"
+            "n. binary compound that occurs at room temperature as a clear colorless odorless tasteless liquid…",
+            "v. supply with water, as with channels or ditches or streams; provide with water"
         ],
         "usphone": "[ˈwɔːtər]",
         "ukphone": "[ˈwɔːtə(r)]"
@@ -194,8 +180,8 @@
     {
         "name": "lovely",
         "trans": [
-            "adj. 可爱的；令人愉快的；爱恋的；秀丽的，优美的",
-            "n. 美女；可爱的东西"
+            "adj. appealing to the emotions as well as the eye; lovable especially in a childlike or naive way",
+            "n. a very pretty girl who works as a photographer's model"
         ],
         "usphone": "[ˈlʌvli]",
         "ukphone": "[ˈlʌvli]"
@@ -203,7 +189,7 @@
     {
         "name": "naughty",
         "trans": [
-            "adj. 顽皮的，淘气的；不听话的；没规矩的；不适当的；下流的"
+            "adj. suggestive of sexual impropriety"
         ],
         "usphone": "[ˈnɔːti]",
         "ukphone": "[ˈnɔːti]"
@@ -211,10 +197,8 @@
     {
         "name": "paper",
         "trans": [
-            "n. 纸；论文；文件；报纸",
-            "adj. 纸做的",
-            "vt. 用纸糊；用纸包装",
-            "vi. 贴糊墙纸；发交通违章传票"
+            "n. a material made of cellulose pulp derived mainly from wood or rags or certain grasses; an essay (especially one written as an assignment)",
+            "v. cover with paper"
         ],
         "usphone": "[ˈpeɪpər]",
         "ukphone": "[ˈpeɪpə(r)]"
@@ -222,8 +206,8 @@
     {
         "name": "boat",
         "trans": [
-            "n. 小船；轮船",
-            "vi. 划船"
+            "n. a small vessel for travel on water",
+            "v. ride in a boat on water"
         ],
         "usphone": "[boʊt]",
         "ukphone": "[bəʊt]"
@@ -237,8 +221,8 @@
     {
         "name": "people",
         "trans": [
-            "n. 人；人类；民族；公民",
-            "vt. 居住于；使住满人"
+            "n. (plural) any group of human beings (men or women or children) collectively; the body of citizens of a state or country",
+            "v. fill with people"
         ],
         "usphone": "[ˈpiːpl]",
         "ukphone": "[ˈpiːp(ə)l]"
@@ -246,9 +230,8 @@
     {
         "name": "row",
         "trans": [
-            "n. 行，排；划船；街道；吵闹",
-            "vt. 划船；使……成排",
-            "vi. 划船；争吵"
+            "n. an arrangement of objects or people side by side in a line; an angry dispute",
+            "v. propel with oars"
         ],
         "usphone": "[roʊ; raʊ]",
         "ukphone": "[rəʊ; raʊ]"
@@ -256,9 +239,7 @@
     {
         "name": "lake",
         "trans": [
-            "n. 湖；深红色颜料；胭脂红",
-            "vt. （使）血球溶解",
-            "vi. （使）血球溶解"
+            "n. a body of (usually fresh) water surrounded by land"
         ],
         "usphone": "[leɪk]",
         "ukphone": "[leɪk]"
@@ -266,9 +247,8 @@
     {
         "name": "feed",
         "trans": [
-            "n. 饲料；饲养；（动物或婴儿的）一餐",
-            "vt. 喂养；供给；放牧；抚养（家庭等）；靠…为生",
-            "vi. 吃东西；流入"
+            "n. food for domestic livestock",
+            "v. provide as food; give food to"
         ],
         "usphone": "[fiːd]",
         "ukphone": "[fiːd]"
@@ -276,8 +256,8 @@
     {
         "name": "bread",
         "trans": [
-            "n. 面包；生计",
-            "vt. 在…上洒面包屑"
+            "n. food made from dough of flour or meal and usually raised with yeast or baking powder and then baked",
+            "v. cover with bread crumbs"
         ],
         "usphone": "[bred]",
         "ukphone": "[bred]"
@@ -285,7 +265,7 @@
     {
         "name": "get out",
         "trans": [
-            "na. 摆脱；走出；〔命令语气〕出去!"
+            "v. move out of or depart from; take out of a container or enclosed space"
         ],
         "usphone": "[ɡet aʊt]",
         "ukphone": "[ˈɡet aʊt]"
@@ -293,9 +273,9 @@
     {
         "name": "far",
         "trans": [
-            "n. 远方",
-            "adj. 远的；久远的",
-            "adv. 很；遥远地；久远地；到很远的距离；到很深的程度"
+            "n. a terrorist organization that seeks to overthrow the government dominated by Tutsi and to institute Hutu control again",
+            "adj. located at a great distance in time or space or degree; being of a considerable distance or length",
+            "adv. to a considerable degree; very much; at or to or from a great distance in space"
         ],
         "usphone": "[fɑːr]",
         "ukphone": "[fɑː(r)]"
@@ -303,10 +283,9 @@
     {
         "name": "fast",
         "trans": [
-            "n. 斋戒；绝食",
-            "adj. 快速的，迅速的；紧的，稳固的",
-            "adv. 迅速地；紧紧地；彻底地",
-            "vi. 禁食，斋戒"
+            "n. abstaining from food",
+            "adj. acting or moving or capable of acting or moving quickly",
+            "adv. quickly or rapidly (often used as a combining form); firmly or closely"
         ],
         "usphone": "[fæst]",
         "ukphone": "[fɑːst]"
@@ -314,7 +293,7 @@
     {
         "name": "winner",
         "trans": [
-            "n. 胜利者"
+            "n. the contestant who wins the contest"
         ],
         "usphone": "[ˈwɪnər]",
         "ukphone": "[ˈwɪnə(r)]"
@@ -322,13 +301,13 @@
     {
         "name": "can't",
         "trans": [
-            "abbr. 不能（can not）"
+            "aux. short for \"cannot\""
         ]
     },
     {
         "name": "cannot",
         "trans": [
-            "v. 不能；无法"
+            "aux. can not; to be unable to"
         ],
         "usphone": "[ˈkænɑːt]",
         "ukphone": "[ˈkænɒt]"
@@ -336,10 +315,9 @@
     {
         "name": "slow",
         "trans": [
-            "adj. 慢的；减速的；迟钝的",
-            "vt. 放慢；阻碍",
-            "vi. 变慢；变萧条",
-            "adv. 慢慢地；迟缓地"
+            "adj. not moving quickly; taking a comparatively long time; at a slow tempo",
+            "v. lose velocity; move more slowly; become slow or slower",
+            "adv. without speed ('slow' is sometimes used informally for 'slowly')"
         ],
         "usphone": "[sloʊ]",
         "ukphone": "[sləʊ]"
@@ -347,10 +325,9 @@
     {
         "name": "fly",
         "trans": [
-            "n. 飞行；苍蝇；两翼昆虫",
-            "adj. 敏捷的",
-            "vi. 飞；驾驶飞机；飘扬",
-            "vt. 飞行；飞越；使飘扬"
+            "n. two-winged insects characterized by active flight; flap consisting of a piece of canvas that can be drawn back to provide entrance to a tent",
+            "adj. (British informal) not to be deceived or hoodwinked",
+            "v. travel through the air; be airborne; move quickly or suddenly"
         ],
         "usphone": "[flaɪ]",
         "ukphone": "[flaɪ]"
@@ -358,7 +335,7 @@
     {
         "name": "koala",
         "trans": [
-            "n. 树袋熊，无尾熊（产于澳大利亚，又名考拉）"
+            "n. sluggish tailless Australian arboreal marsupial with grey furry ears and coat; feeds on eucalyptus leaves and bark"
         ],
         "usphone": "[koʊˈɑːlə]",
         "ukphone": "[kəʊˈɑːlə]"
@@ -366,9 +343,8 @@
     {
         "name": "climb",
         "trans": [
-            "n. 爬；攀登",
-            "vi. 爬；攀登；上升",
-            "vt. 爬；攀登；上升"
+            "n. an upward slope or grade (as in a road)",
+            "v. go upward with gradual or continuous progress; move with difficulty, by grasping"
         ],
         "usphone": "[klaɪm]",
         "ukphone": "[klaɪm]"
@@ -376,9 +352,8 @@
     {
         "name": "cry",
         "trans": [
-            "n. 叫喊；叫声；口号；呼叫",
-            "vi. 哭；叫；喊",
-            "vt. 叫喊；哭出；大声说"
+            "n. a loud utterance; often in protest or opposition; a loud utterance of emotion (especially when inarticulate)",
+            "v. utter a sudden loud cry; shed tears because of sadness, rage, or pain"
         ],
         "usphone": "[kraɪ]",
         "ukphone": "[kraɪ]"
@@ -386,9 +361,8 @@
     {
         "name": "drink",
         "trans": [
-            "n. 酒，饮料；喝酒",
-            "vt. 喝，饮；吸收；举杯庆贺",
-            "vi. 喝酒；饮水；干杯"
+            "n. a single serving of a beverage; the act of drinking alcoholic beverages to excess",
+            "v. take in liquids; consume alcohol"
         ],
         "usphone": "[drɪŋk]",
         "ukphone": "[drɪŋk]"
@@ -396,9 +370,8 @@
     {
         "name": "shop",
         "trans": [
-            "n. 商店；店铺",
-            "vt. 购物",
-            "vi. 购物；买东西"
+            "n. a mercantile establishment for the retail sale of goods or services; small workplace where handcrafts or manufacturing are done",
+            "v. do one's shopping; do one's shopping at; do business with; be a customer or client of"
         ],
         "usphone": "[ʃɑːp]",
         "ukphone": "[ʃɒp]"
@@ -406,14 +379,13 @@
     {
         "name": "go out",
         "trans": [
-            "na. 出去；灭；辞职；下台"
+            "v. move out of or depart from; leave the house to go somewhere"
         ]
     },
     {
         "name": "thanks",
         "trans": [
-            "n. 谢谢（只用复数）",
-            "int. 谢谢"
+            "n. an acknowledgment of appreciation; with the help of or owing to"
         ],
         "usphone": "[θæŋks]",
         "ukphone": "[θæŋks]"
@@ -421,7 +393,7 @@
     {
         "name": "library",
         "trans": [
-            "n. 图书馆，藏书室；文库"
+            "n. a room where books are kept; a collection of literary documents or records kept for reference or borrowing"
         ],
         "usphone": "[ˈlaɪbreri]",
         "ukphone": "[ˈlaɪbrəri; ˈlaɪbri]"
@@ -429,9 +401,8 @@
     {
         "name": "worry",
         "trans": [
-            "n. 担心；烦恼；撕咬",
-            "vi. 担心；烦恼；撕咬",
-            "vt. 担心；发愁；折磨"
+            "n. something or someone that causes anxiety; a source of unhappiness; a strong feeling of anxiety",
+            "v. be worried, concerned, anxious, troubled, or uneasy; be concerned with"
         ],
         "usphone": "[ˈwɜːri]",
         "ukphone": "[ˈwʌri]"
@@ -439,13 +410,13 @@
     {
         "name": "have got",
         "trans": [
-            " 有；拥有；的第三人称单数形式"
+            "v. have or possess, either in a concrete or an abstract sense"
         ]
     },
     {
         "name": "careful",
         "trans": [
-            "adj. 仔细的，小心的"
+            "adj. exercising caution or showing care or attention; cautiously attentive"
         ],
         "usphone": "[ˈkerfl]",
         "ukphone": "[ˈkeəf(ə)l]"
@@ -453,9 +424,8 @@
     {
         "name": "wash",
         "trans": [
-            "n. 洗涤；洗的衣服；化妆水；冲积物",
-            "vt. 洗涤；洗刷；冲走；拍打",
-            "vi. 洗澡；被冲蚀"
+            "n. a thin coat of water-base paint; the work of cleansing (usually with soap and water)",
+            "v. clean with some chemical process; cleanse (one's body) with soap and water"
         ],
         "usphone": "[wɑːʃ]",
         "ukphone": "[wɒʃ]"
@@ -469,7 +439,7 @@
     {
         "name": "pear",
         "trans": [
-            "n. [园艺] 梨树；梨子"
+            "n. sweet juicy gritty-textured fruit available in many varieties"
         ],
         "usphone": "[per]",
         "ukphone": "[peə(r)]"
@@ -477,10 +447,8 @@
     {
         "name": "peach",
         "trans": [
-            "n. 桃子；桃树；桃红色；受人喜欢的人（或物）",
-            "adj. 桃色的；用桃子制成的",
-            "vt. 告发",
-            "vi. 告密"
+            "n. cultivated in temperate regions",
+            "v. divulge confidential information or secrets"
         ],
         "usphone": "[piːtʃ]",
         "ukphone": "[piːtʃ]"
@@ -488,7 +456,7 @@
     {
         "name": "headache",
         "trans": [
-            "n. 头痛；麻烦；令人头痛之事"
+            "n. something or someone that causes anxiety; a source of unhappiness"
         ],
         "usphone": "[ˈhedeɪk]",
         "ukphone": "[ˈhedeɪk]"
@@ -496,7 +464,7 @@
     {
         "name": "stomach ache",
         "trans": [
-            "n. 胃痛；腹痛"
+            "n. an ache localized in the stomach or abdominal region"
         ],
         "usphone": "[ˈstʌmək eɪk]",
         "ukphone": "[ˈstʌmək eɪk]"
@@ -504,9 +472,8 @@
     {
         "name": "test",
         "trans": [
-            "n. 试验；检验",
-            "vt. 试验；测试",
-            "vi. 试验；测试"
+            "n. trying something to find out about it; any standardized procedure for measuring sensitivity or memory or intelligence or aptitude or personality etc",
+            "v. put to the test, as for its quality, or give experimental use to; test or examine for the presence of disease or infection"
         ],
         "usphone": "[test]",
         "ukphone": "[test]"
@@ -514,7 +481,7 @@
     {
         "name": "Friday",
         "trans": [
-            "n. 星期五"
+            "n. the sixth day of the week; the fifth working day"
         ],
         "usphone": "[ˈfraɪdeɪ]",
         "ukphone": "[ˈfraɪdeɪ]"
@@ -522,8 +489,7 @@
     {
         "name": "clever",
         "trans": [
-            "adj. 聪明的；机灵的；熟练的",
-            "[ 比较级cleverer 最高级 cleverest ]"
+            "adj. showing self-interest and shrewdness in dealing with others; mentally quick and resourceful"
         ],
         "usphone": "[ˈklevər]",
         "ukphone": "[ˈklevə(r)]"
@@ -531,9 +497,8 @@
     {
         "name": "cold",
         "trans": [
-            "n. 寒冷；感冒",
-            "adj. 寒冷的；冷淡的，不热情的；失去知觉的",
-            "adv. 完全地"
+            "n. a mild viral infection involving the nose and respiratory passages (but not the lungs); the absence of heat",
+            "adj. having a low or inadequate temperature or feeling a sensation of coldness or having been made cold by e.g. ice or refrigeration"
         ],
         "usphone": "[kəʊld]",
         "ukphone": "[kəʊld]"
@@ -541,10 +506,8 @@
     {
         "name": "class",
         "trans": [
-            "n. 阶级；班级；种类；班；等级",
-            "adj. 极好的；很好的，优秀的，出色的",
-            "vt. 分类；把…分等级；把…归入某等级，把…看作（或分类、归类）；把…编入某一班级",
-            "vi. 属于…类（或等级），被列为某类（或某级）"
+            "n. a collection of things sharing a common attribute; a body of students who are taught together",
+            "v. arrange or order by classes or categories"
         ],
         "usphone": "[klæs]",
         "ukphone": "[klɑːs]"
@@ -552,8 +515,7 @@
     {
         "name": "begin",
         "trans": [
-            "vi. 开始；首先",
-            "vt. 开始"
+            "v. take the first step or steps in carrying out an action; have a beginning, in a temporal, spatial, or evaluative sense"
         ],
         "usphone": "[bɪˈɡɪn]",
         "ukphone": "[bɪˈɡɪn]"
@@ -561,9 +523,8 @@
     {
         "name": "cough",
         "trans": [
-            "n. 咳嗽，咳嗽声；咳嗽病",
-            "vt. 咳出",
-            "vi. 咳嗽"
+            "n. a sudden noisy expulsion of air from the lungs that clears the air passages…",
+            "v. exhale abruptly, as when one has a chest cold or congestion"
         ],
         "usphone": "[kɔːf]",
         "ukphone": "[kɒf]"
@@ -571,7 +532,7 @@
     {
         "name": "bring",
         "trans": [
-            "vt. 带来；促使；引起；使某人处于某种情况或境地"
+            "v. take something or somebody with oneself somewhere; cause to come into a particular state or condition"
         ],
         "usphone": "[brɪŋ]",
         "ukphone": "[brɪŋ]"
@@ -579,7 +540,7 @@
     {
         "name": "umbrella",
         "trans": [
-            "n. 雨伞；保护伞；庇护；伞形结构"
+            "n. a lightweight handheld collapsible canopy"
         ],
         "usphone": "[ʌmˈbrelə]",
         "ukphone": "[ʌmˈbrelə]"
@@ -587,9 +548,8 @@
     {
         "name": "get",
         "trans": [
-            "n. 生殖；幼兽",
-            "vi. 成为；变得；到达",
-            "vt. 使得；获得；受到；变成"
+            "n. a return on a shot that seemed impossible to reach and would normally have resulted in a point for the opponent",
+            "v. come into the possession of something concrete or abstract; enter or assume a certain state or condition"
         ],
         "usphone": "[ɡet]",
         "ukphone": "[ɡet]"
@@ -597,8 +557,8 @@
     {
         "name": "which",
         "trans": [
-            "adj. 哪一个；哪一些",
-            "pron. 哪/那一个；哪/那一些"
+            "pron. / det. asking for a choice from a definite set",
+            "pron. introducing a clause that describes a thing"
         ],
         "usphone": "[wɪtʃ]",
         "ukphone": "[wɪtʃ]"
@@ -606,8 +566,7 @@
     {
         "name": "broken",
         "trans": [
-            "v. 折断；打碎；损坏（break的过去分词）",
-            "adj. 破碎的；坏掉的"
+            "adj. physically and forcibly separated into pieces or cracked or split; not continuous in space, time, or sequence or varying abruptly"
         ],
         "usphone": "[ˈbroʊkən]",
         "ukphone": "[ˈbrəʊkən]"
@@ -615,13 +574,13 @@
     {
         "name": "long jump",
         "trans": [
-            "n. 跳远"
+            "n. a competition that involves jumping as far as possible from a running start"
         ]
     },
     {
         "name": "make friends",
         "trans": [
-            " 交朋友；交友；结交朋友"
+            "phr. to form friendships"
         ]
     },
     {
@@ -633,9 +592,9 @@
     {
         "name": "high",
         "trans": [
-            "n. 高水平；天空；由麻醉品引起的快感；高压地带",
-            "adj. 高的；高级的；崇高的；高音调的",
-            "adv. 高；奢侈地"
+            "n. a lofty level or position or degree",
+            "adj. greater than normal in degree or intensity or amount",
+            "adv. at a great altitude; in or to a high position, amount, or degree"
         ],
         "usphone": "[haɪ]",
         "ukphone": "[haɪ]"
@@ -643,15 +602,14 @@
     {
         "name": "high jump",
         "trans": [
-            "n. 跳高"
+            "n. a competition that involves jumping as high as possible over a horizontal bar"
         ]
     },
     {
         "name": "race",
         "trans": [
-            "n. 属，种；种族，人种；家庭，门第",
-            "vt. 使参加比赛；和…竞赛；使急走，使全速行进",
-            "vi. 比速度，参加竞赛；全速行进"
+            "n. any competition; a contest of speed",
+            "v. move fast; compete in a race"
         ],
         "usphone": "[reɪs]",
         "ukphone": "[reɪs]"
@@ -665,10 +623,9 @@
     {
         "name": "star",
         "trans": [
-            "n. 星，恒星；明星；星形物",
-            "adj. 明星的，主角的；星形的",
-            "vt. 用星号标于；由…主演，由…担任主角",
-            "vi. 担任主角"
+            "n. (astronomy) a celestial body of hot gases that radiates energy derived from thermonuclear reactions in the interior",
+            "adj. indicating the most important performer or role",
+            "v. feature as the star"
         ],
         "usphone": "[stɑːr]",
         "ukphone": "[stɑː(r)]"
@@ -676,7 +633,7 @@
     {
         "name": "uncle",
         "trans": [
-            "n. 叔叔；伯父；伯伯；舅父；姨丈；姑父"
+            "n. the brother of your father or mother; the husband of your aunt; a source of help and advice and encouragement"
         ],
         "usphone": "[ˈʌŋkl]",
         "ukphone": "[ˈʌŋk(ə)l]"
@@ -684,7 +641,7 @@
     {
         "name": "airport",
         "trans": [
-            "n. 机场；航空站"
+            "n. an airfield equipped with control tower and hangars as well as accommodations for passengers and cargo"
         ],
         "usphone": "[ˈerpɔːrt]",
         "ukphone": "[ˈeəpɔːt]"
@@ -692,7 +649,7 @@
     {
         "name": "sea",
         "trans": [
-            "n. 海；海洋；许多；大量"
+            "n. a division of an ocean or a large body of salt water partially enclosed by land; anything apparently limitless in quantity or volume"
         ],
         "usphone": "[siː]",
         "ukphone": "[siː]"
@@ -700,9 +657,8 @@
     {
         "name": "visit",
         "trans": [
-            "n. 访问；参观；逗留",
-            "vt. 访问；参观；视察",
-            "vi. 访问；暂住；闲谈"
+            "n. the act of going to see some person or place or thing for a short time",
+            "v. go to see a place, as for entertainment; go to certain places as for sightseeing"
         ],
         "usphone": "[ˈvɪzɪt]",
         "ukphone": "[ˈvɪzɪt]"
@@ -710,7 +666,7 @@
     {
         "name": "Saturday",
         "trans": [
-            "n. 星期六"
+            "n. the seventh and last day of the week; observed as the Sabbath by Jews and some Christians"
         ],
         "usphone": "[ˈsætərdeɪ]",
         "ukphone": "[ˈsætədeɪ]"
@@ -718,9 +674,8 @@
     {
         "name": "film",
         "trans": [
-            "n. 电影；薄膜；胶卷；轻烟",
-            "vt. 在…上覆以薄膜；把…拍成电影",
-            "vi. 摄制电影；生薄膜；变得朦胧"
+            "n. a form of entertainment that enacts a story by sound and a sequence of images giving the illusion of continuous movement",
+            "v. make a film or photograph of something"
         ],
         "usphone": "[fɪlm]",
         "ukphone": "[fɪlm]"

@@ -1,310 +1,484 @@
 [
     {
         "name": "intelligence",
-        "trans": ["智力"]
+        "trans": [
+            "n. the ability to comprehend; to understand and profit from experience; a unit responsible for gathering and interpreting information about an enemy"
+        ]
     },
     {
         "name": "gene",
-        "trans": ["[遗]基因"]
+        "trans": [
+            "n. (genetics) a segment of DNA that is involved in producing a polypeptide chain…"
+        ]
     },
     {
         "name": "seasonal",
-        "trans": ["季节的"]
+        "trans": [
+            "adj. occurring at or dependent on a particular season"
+        ]
     },
     {
         "name": "science",
-        "trans": ["科学", "技术"]
+        "trans": [
+            "n. a particular branch of scientific knowledge; ability to produce solutions in some problem domain"
+        ]
     },
     {
         "name": "crocodile",
-        "trans": ["鳄鱼"]
+        "trans": [
+            "n. large voracious aquatic reptile having a long snout with massive jaws and sharp teeth and a body covered with bony plates; of sluggish tropical waters"
+        ]
     },
     {
         "name": "wetland",
-        "trans": ["湿地", "沼泽地"]
+        "trans": [
+            "n. a low area where the land is saturated with water"
+        ]
     },
     {
         "name": "population",
-        "trans": ["人口"]
+        "trans": [
+            "n. the people who inhabit a territory or state; a group of organisms of the same species inhabiting a given area"
+        ]
     },
     {
         "name": "depth",
-        "trans": ["深度", "深奥"]
+        "trans": [
+            "n. the extent downward or backward or inward; degree of psychological or intellectual profundity"
+        ]
     },
     {
         "name": "cultivation",
-        "trans": ["培养", "耕作"]
+        "trans": [
+            "n. socialization through training and education to develop one's mind or manners"
+        ]
     },
     {
         "name": "relationship",
-        "trans": ["关系", "关联"]
+        "trans": [
+            "n. a relation between people; ('relationship' is often used where 'relation' would serve, as in 'the relationship between inflation and unemployment'…"
+        ]
     },
     {
         "name": "ingredients",
-        "trans": ["材料", "作料"]
+        "trans": [
+            "n. a component of a mixture or compound; an abstract part of something"
+        ]
     },
     {
         "name": "motivation",
-        "trans": ["动机"]
+        "trans": [
+            "n. the psychological feature that arouses an organism to action toward a desired goal; the reason for the action…"
+        ]
     },
     {
         "name": "organic",
-        "trans": ["有机的"]
+        "trans": [
+            "adj. relating or belonging to the class of chemical compounds having a carbon basis"
+        ]
     },
     {
         "name": "business",
-        "trans": ["商人"]
+        "trans": [
+            "n. a commercial or industrial enterprise and the people who constitute it"
+        ]
     },
     {
         "name": "preparation",
-        "trans": ["准备"]
+        "trans": [
+            "n. the activity of putting or setting in order in advance of some act or purpose; a substance prepared according to a formula"
+        ]
     },
     {
         "name": "senior",
-        "trans": ["资深的"]
+        "trans": [
+            "adj. older; higher in rank; longer in length of tenure or service; used of the fourth and final year in United States high school or college",
+            "n. an undergraduate student during the year preceding graduation"
+        ]
     },
     {
         "name": "outdoor",
-        "trans": ["户外的"]
+        "trans": [
+            "adj. located, suited for, or taking place in the open air; pertaining to or concerning the outdoors or outdoor activities"
+        ]
     },
     {
         "name": "display",
-        "trans": ["展示"]
+        "trans": [
+            "v. to show, make visible or apparent",
+            "n. something intended to communicate a particular impression; something shown to the public"
+        ]
     },
     {
         "name": "merchandiser",
-        "trans": ["商人"]
+        "trans": [
+            "n. a businessperson engaged in retail trade"
+        ]
     },
     {
         "name": "lateral",
-        "trans": ["侧面的"]
+        "trans": [
+            "n. a pass to a receiver upfield from the passer",
+            "adj. situated at or extending to the side"
+        ]
     },
     {
         "name": "rope",
-        "trans": ["绳子"]
+        "trans": [
+            "n. a strong line"
+        ]
     },
     {
         "name": "lack",
-        "trans": ["缺少"]
+        "trans": [
+            "n. the state of needing something that is absent or unavailable",
+            "v. be without"
+        ]
     },
     {
         "name": "danger",
-        "trans": ["危险"]
+        "trans": [
+            "n. the condition of being susceptible to harm or injury; a venture undertaken without regard to possible loss or injury"
+        ]
     },
     {
         "name": "sensitive",
-        "trans": ["敏感的"]
+        "trans": [
+            "adj. responsive to physical stimuli; being susceptible to the attitudes, feelings, or circumstances of others"
+        ]
     },
     {
         "name": "history",
-        "trans": ["历史"]
+        "trans": [
+            "n. the aggregate of past events; a record or narrative description of past events"
+        ]
     },
     {
         "name": "lifestyle",
-        "trans": ["生活方式"]
+        "trans": [
+            "n. a manner of living that reflects the person's values and attitudes"
+        ]
     },
     {
         "name": "create",
-        "trans": ["创造"]
+        "trans": [
+            "v. make or cause to be or to become; bring into existence"
+        ]
     },
     {
         "name": "social class",
-        "trans": ["社会地位"]
+        "trans": [
+            "n. people having the same social, economic, or educational status"
+        ]
     },
     {
         "name": "reason",
-        "trans": ["原因"]
+        "trans": [
+            "n. a rational motive for a belief or action; an explanation of the cause of some phenomenon",
+            "v. decide by reasoning; draw or come to a conclusion; present reasons and arguments"
+        ]
     },
     {
         "name": "training",
-        "trans": ["训练"]
+        "trans": [
+            "n. activity leading to skilled behavior"
+        ]
     },
     {
         "name": "fear",
-        "trans": ["害怕"]
+        "trans": [
+            "n. an emotion experienced in anticipation of some specific pain or danger (usually accompanied by a desire to flee or fight); an anxious feeling",
+            "v. be afraid or feel anxious or apprehensive about a possible or probable situation or event; be afraid or scared of; be frightened of"
+        ]
     },
     {
         "name": "instead of",
-        "trans": ["代替"]
+        "trans": [
+            "prep. in place of; rather than"
+        ]
     },
     {
         "name": "competition",
-        "trans": ["竞争"]
+        "trans": [
+            "n. a business relation in which two parties compete to gain customers; an occasion on which a winner is selected from among two or more contestants"
+        ]
     },
     {
         "name": "conflict",
-        "trans": ["冲突"]
+        "trans": [
+            "n. an open clash between two opposing groups (or individuals); opposition between two simultaneous but incompatible feelings",
+            "v. be in conflict; go against, as of rules and laws"
+        ]
     },
     {
         "name": "a sense of community",
-        "trans": ["集体归属感"]
+        "trans": [
+            "集体归属感"
+        ]
     },
     {
         "name": "inefficient",
-        "trans": ["无效率的"]
+        "trans": [
+            "adj. not producing desired results; wasteful"
+        ]
     },
     {
         "name": "rate",
-        "trans": ["率"]
+        "trans": [
+            "n. a magnitude or frequency relative to a time unit; amount of a charge or payment relative to some basis",
+            "v. assign a rank or rating to; be worthy of or have a certain rating"
+        ]
     },
     {
         "name": "attitude",
-        "trans": ["态度"]
+        "trans": [
+            "n. a complex mental state involving beliefs and feelings and values and dispositions to act in certain ways; the arrangement of the body and its limbs"
+        ]
     },
     {
         "name": "completion",
-        "trans": ["完成"]
+        "trans": [
+            "n. (American football) a successful forward pass in football; a concluding action"
+        ]
     },
     {
         "name": "psychology",
-        "trans": ["心理学"]
+        "trans": [
+            "n. the science of mental life"
+        ]
     },
     {
         "name": "desert",
-        "trans": ["遗弃"]
+        "trans": [
+            "v. leave someone who needs or counts on you; leave in the lurch; desert (a cause, a country or an army), often in order to join the opposing cause, country…",
+            "n. arid land with little or no vegetation"
+        ]
     },
     {
         "name": "olive oil",
-        "trans": ["橄榄油"]
+        "trans": [
+            "n. oil from olives"
+        ]
     },
     {
         "name": "vegetation",
-        "trans": ["植被", "植物"]
+        "trans": [
+            "n. all the plant life in a particular region or period"
+        ]
     },
     {
         "name": "underground",
-        "trans": ["地下的", "秘密的"]
+        "trans": [
+            "adj. under the level of the ground"
+        ]
     },
     {
         "name": "desert",
-        "trans": ["遗弃", "沙漠"]
+        "trans": [
+            "v. leave someone who needs or counts on you; leave in the lurch; desert (a cause, a country or an army), often in order to join the opposing cause, country…",
+            "n. arid land with little or no vegetation"
+        ]
     },
     {
         "name": "migration",
-        "trans": ["迁移", "移民"]
+        "trans": [
+            "n. the movement of persons from one country or locality to another"
+        ]
     },
     {
         "name": "shrimp",
-        "trans": ["虾", "小虾"]
+        "trans": [
+            "n. disparaging terms for small people",
+            "v. fish for shrimp"
+        ]
     },
     {
         "name": "worm",
-        "trans": ["虫", "蠕虫"]
+        "trans": [
+            "n. any of numerous relatively small elongated soft-bodied animals especially of the phyla Annelida and Chaetognatha and Nematoda and Nemertea and Platyhelminthes…"
+        ]
     },
     {
         "name": "nutrition",
-        "trans": ["营养"]
+        "trans": [
+            "n. (physiology) the organic process of nourishing or being nourished; the processes by which an organism assimilates food and uses it for growth and maintenance"
+        ]
     },
     {
         "name": "temperature",
-        "trans": ["温度"]
+        "trans": [
+            "n. the degree of hotness or coldness of a body or environment (corresponding to its molecular activity); the somatic sensation of cold or heat"
+        ]
     },
     {
         "name": "entertainment",
-        "trans": ["娱乐", "消遣"]
+        "trans": [
+            "n. an activity that is diverting and that holds the attention"
+        ]
     },
     {
         "name": "journalism",
-        "trans": ["新闻业"]
+        "trans": [
+            "n. newspapers and magazines collectively"
+        ]
     },
     {
         "name": "symbolism",
-        "trans": ["象征"]
+        "trans": [
+            "n. a system of symbols and symbolic representations; the practice of investing things with symbolic meaning"
+        ]
     },
     {
         "name": "castle",
-        "trans": ["城堡"]
+        "trans": [
+            "n. a large and stately mansion; a large building formerly occupied by a ruler and fortified against attack"
+        ]
     },
     {
         "name": "method",
-        "trans": ["方式"]
+        "trans": [
+            "n. a way of doing something, especially a systematic way; implies an orderly logical arrangement (usually in steps)"
+        ]
     },
     {
         "name": "portrait",
-        "trans": ["肖像"]
+        "trans": [
+            "n. a word picture of a person's appearance and character; any likeness of a person, in any medium"
+        ]
     },
     {
         "name": "poet",
-        "trans": ["诗人"]
+        "trans": [
+            "n. a writer of poems (the term is usually reserved for writers of good poetry)"
+        ]
     },
     {
         "name": "male",
-        "trans": ["男性"]
+        "trans": [
+            "n. an animal that produces gametes (spermatozoa) that can fertilize female gametes (ova); a person who belongs to the sex that cannot have babies",
+            "adj. being the sex (of plant or animal) that produces gametes (spermatozoa) that perform the fertilizing function in generation"
+        ]
     },
     {
         "name": "female",
-        "trans": ["女性"]
+        "trans": [
+            "n. an animal that produces gametes (ova) that can be fertilized by male gametes (spermatozoa); a person who belongs to the sex that can have babies",
+            "adj. being the sex (of plant or animal) that produces fertilizable gametes (ova) from which offspring develop; characteristic of or peculiar to a woman"
+        ]
     },
     {
         "name": "elephant",
-        "trans": ["大象"]
+        "trans": [
+            "n. five-toed pachyderm"
+        ]
     },
     {
         "name": "weight",
-        "trans": ["重量"]
+        "trans": [
+            "n. the vertical force exerted by a mass as a result of gravity",
+            "v. weight down with a load; present with a bias"
+        ]
     },
     {
         "name": "wild",
-        "trans": ["荒野"]
+        "trans": [
+            "adj. marked by extreme lack of restraint or control; in a natural state; not tamed or domesticated or cultivated",
+            "adv. in an uncontrolled and rampant manner"
+        ]
     },
     {
         "name": "ancient",
-        "trans": ["古代的"]
+        "trans": [
+            "adj. belonging to times long past especially of the historical period before the fall of the Western Roman Empire; very old"
+        ]
     },
     {
         "name": "extreme sport",
-        "trans": ["极限运动"]
+        "trans": [
+            "极限运动"
+        ]
     },
     {
         "name": "equipment",
-        "trans": ["设备"]
+        "trans": [
+            "n. an instrumentality needed for an undertaking or to perform a service"
+        ]
     },
     {
         "name": "golf",
-        "trans": ["高尔夫球"]
+        "trans": [
+            "n. a game played on a large open course with 9 or 18 holes; the object is use as few strokes as possible in playing all the holes"
+        ]
     },
     {
         "name": "regulation",
-        "trans": ["规则"]
+        "trans": [
+            "n. an authoritative rule; a principle or condition that customarily governs behavior",
+            "adj. prescribed by or according to regulation"
+        ]
     },
     {
         "name": "restricted",
-        "trans": ["有受限制的"]
+        "trans": [
+            "adj. subject to restriction or subjected to restriction; restricted in meaning; (as e.g. 'man' in 'a tall man')"
+        ]
     },
     {
         "name": "confront",
-        "trans": ["面对"]
+        "trans": [
+            "v. oppose, as in hostility or a competition; deal with (something unpleasant) head on"
+        ]
     },
     {
         "name": "entertainment",
-        "trans": ["娱乐节目"]
+        "trans": [
+            "n. an activity that is diverting and that holds the attention"
+        ]
     },
     {
         "name": "individual",
-        "trans": ["个人的"]
+        "trans": [
+            "n. a human being; a single organism",
+            "adj. being or characteristic of a single thing or person; separate and distinct from others of the same kind"
+        ]
     },
     {
         "name": "tend to",
-        "trans": ["倾向于"]
+        "trans": [
+            "phr. to be likely to; to usually do"
+        ]
     },
     {
         "name": "authority",
-        "trans": ["权威"]
+        "trans": [
+            "n. the power or right to give orders or make decisions; (usually plural) persons who exercise (administrative) control over others"
+        ]
     },
     {
         "name": "lecture",
-        "trans": ["讲座"]
+        "trans": [
+            "n. a speech that is open to the public",
+            "v. deliver a lecture or talk; censure severely or angrily"
+        ]
     },
     {
         "name": "absent",
-        "trans": ["缺席的"]
+        "trans": [
+            "adj. not being in a specified place",
+            "v. go away or leave"
+        ]
     },
     {
         "name": "recall",
-        "trans": ["召回", "回忆起"]
+        "trans": [
+            "v. recall knowledge from memory; have a recollection; go back to something earlier"
+        ]
     },
     {
         "name": "sentence",
-        "trans": ["句子"]
+        "trans": [
+            "n. a string of words satisfying the grammatical rules of a language…",
+            "v. pronounce a sentence on (somebody) in a court of law"
+        ]
     }
 ]

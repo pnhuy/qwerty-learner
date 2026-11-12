@@ -4,20 +4,20 @@ import type { Word } from '@/typings'
 export interface IWordRecord {
   word: string
   timeStamp: number
-  // 正常章节为 dictKey, 其他功能则为对应的类型
+  // dictKey for normal chapters, otherwise the corresponding feature type
   dict: string
-  // 用户可能是在 错题/其他类似组件中 进行的练习则为 null, start from 0
+  // null when practicing from the mistake book or similar features, start from 0
   chapter: number | null
-  // 正确次数中输入每个字母的时间差，可以据此计算出总时间
+  // time gaps between letters of the correct attempt; total time can be derived from it
   timing: number[]
-  // 出错的次数
+  // number of mistakes
   wrongCount: number
-  // 每个字母被错误输入成什么, index 为字母的索引, 数组内为错误的 e.key
+  // what each letter was mistyped as: index is the letter index, the array holds the wrong e.key values
   mistakes: LetterMistakes
 }
 
 export interface LetterMistakes {
-  // 每个字母被错误输入成什么, index 为字母的索引, 数组内为错误的 e.key
+  // what each letter was mistyped as: index is the letter index, the array holds the wrong e.key values
   [index: number]: string[]
 }
 
@@ -46,24 +46,24 @@ export class WordRecord implements IWordRecord {
 }
 
 export interface IChapterRecord {
-  // 正常章节为 dictKey, 其他功能则为对应的类型
+  // dictKey for normal chapters, otherwise the corresponding feature type
   dict: string
-  // 在错题场景中为 -1
+  // -1 when practicing mistakes
   chapter: number | null
   timeStamp: number
-  // 单位为 s，章节的记录没必要到毫秒级
+  // in seconds; chapter records do not need millisecond precision
   time: number
-  // 正确按键次数，输对一个字母即记录
+  // number of correct key presses, counted per correct letter
   correctCount: number
-  // 错误的按键次数。 出错会清空整个输入，但只记录一次错误
+  // number of wrong key presses; a mistake clears the whole input but counts once
   wrongCount: number
-  // 用户输入的单词总数，可能会使用循环等功能使输入总数大于 20
+  // total words typed; may exceed 20 when features like looping are used
   wordCount: number
-  // 一次打对未犯错的单词列表, 可以和 wordNumber 对比得出出错的单词 indexes
+  // words typed correctly on the first try; compare with wordNumber to get the mistaken word indexes
   correctWordIndexes: number[]
-  // 章节总单词数
+  // total words in the chapter
   wordNumber: number
-  // 单词 record 的 id 列表
+  // ids of the word records
   wordRecordIds: number[]
 }
 
@@ -118,13 +118,13 @@ export class ChapterRecord implements IChapterRecord {
 export interface IReviewRecord {
   id?: number
   dict: string
-  // 当前练习进度
+  // current practice progress
   index: number
-  // 创建时间
+  // creation time
   createTime: number
-  // 是否已经完成
+  // whether it is finished
   isFinished: boolean
-  // 单词列表, 根据复习算法生成和修改，可能会有重复值
+  // word list, generated and updated by the review algorithm; may contain duplicates
   words: Word[]
 }
 

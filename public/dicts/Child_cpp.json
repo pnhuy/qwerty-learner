@@ -2,7 +2,7 @@
     {
         "name": "include",
         "trans": [
-            "包含"
+            "v. have as a part, be made up out of; consider as part of something"
         ]
     },
     {
@@ -14,7 +14,7 @@
     {
         "name": "using",
         "trans": [
-            "使用"
+            "n. an act that exploits or victimizes someone (treats them unfairly)"
         ]
     },
     {
@@ -26,13 +26,13 @@
     {
         "name": "std",
         "trans": [
-            "标准的缩写"
+            "n. a communicable infection transmitted by sexual intercourse or genital contact"
         ]
     },
     {
         "name": "main",
         "trans": [
-            "主函数"
+            "adj. most important element"
         ]
     },
     {
@@ -44,43 +44,50 @@
     {
         "name": "char",
         "trans": [
-            "声明字符型变量或函数"
+            "n. a charred substance",
+            "v. burn to charcoal"
         ]
     },
     {
         "name": "double",
         "trans": [
-            "声明双精度变量或函数"
+            "v. increase twofold; hit a two-base hit",
+            "adj. having more than one decidedly dissimilar aspects or qualities; consisting of or involving two parts or components usually in pairs",
+            "n. a base hit on which the batter stops safely at second base"
         ]
     },
     {
         "name": "float",
         "trans": [
-            "声明浮点型变量或函数"
+            "v. be in motion due to some air or water current; be afloat either on or below a liquid surface and not sink to the bottom"
         ]
     },
     {
         "name": "long",
         "trans": [
-            "声明长整型变量或函数"
+            "adj. primarily temporal sense; being or indicating a relatively great or greater than average duration or passage of time or a duration as specified",
+            "adv. for an extended time or at a distant time",
+            "v. desire strongly or persistently"
         ]
     },
     {
         "name": "short",
         "trans": [
-            "声明短整型变量或函数"
+            "adj. primarily temporal sense; indicating or being or seeming to be limited in duration; (primarily spatial sense) having little length or lacking in length",
+            "n. the location on a baseball field where the shortstop is stationed",
+            "adv. quickly and without warning"
         ]
     },
     {
         "name": "signed",
         "trans": [
-            "声明有符号类型变量或函数"
+            "adj. having a handwritten signature"
         ]
     },
     {
         "name": "unsigned",
         "trans": [
-            "声明无符号类型变量或函数"
+            "adj. lacking a signature"
         ]
     },
     {
@@ -98,7 +105,8 @@
     {
         "name": "union",
         "trans": [
-            "声明共用体（联合）数据类型"
+            "n. an organization of employees formed to bargain with the employer; the United States (especially the northern states during the American Civil War)",
+            "adj. being of or having to do with the northern United States and those loyal to the Union during the American Civil War"
         ]
     },
     {
@@ -134,49 +142,55 @@
     {
         "name": "void",
         "trans": [
-            "声明函数无返回值或无参数，声明无类型指针"
+            "adj. lacking any legal or binding force"
         ]
     },
     {
         "name": "for",
         "trans": [
-            "一种循环语句"
+            "prep. intended to belong to or be used by",
+            "prep. in order to help or benefit",
+            "prep. during (a period of time); in place of"
         ]
     },
     {
         "name": "do",
         "trans": [
-            "循环语句的循环体"
+            "v. to perform or carry out (an action or task)",
+            "aux. used to form questions and negatives and for emphasis"
         ]
     },
     {
         "name": "while",
         "trans": [
-            "循环语句的循环条件"
+            "conj. during the time that; whereas",
+            "n. a period of time"
         ]
     },
     {
         "name": "break",
         "trans": [
-            "跳出当前循环"
+            "v. terminate; become separated into pieces or fragments",
+            "n. some abrupt occurrence that interrupts an ongoing activity; an unexpected piece of good luck"
         ]
     },
     {
         "name": "continue",
         "trans": [
-            "结束当前循环，开始下一轮循环"
+            "v. continue a certain state, condition, or activity; continue talking; he continued,"
         ]
     },
     {
         "name": "if",
         "trans": [
-            "条件语句"
+            "conj. on the condition that; in the event that",
+            "conj. whether"
         ]
     },
     {
         "name": "else",
         "trans": [
-            "条件语句否定分支（与 if 连用）"
+            "adv. in addition; besides; different"
         ]
     },
     {
@@ -188,31 +202,35 @@
     {
         "name": "switch",
         "trans": [
-            "用于开关语句"
+            "v. change over, change around, as to a new order or sequence; exchange or give (something) in exchange for",
+            "n. control consisting of a mechanical or electrical or electronic device for making or breaking or changing the connections in a circuit"
         ]
     },
     {
         "name": "case",
         "trans": [
-            "开关语句分支"
+            "n. an occurrence of something; a special set of circumstances",
+            "v. look over, usually with the intention to rob"
         ]
     },
     {
         "name": "default",
         "trans": [
-            "开关语句中的“其他”分支"
+            "n. loss due to not showing up",
+            "v. fail to pay up"
         ]
     },
     {
         "name": "return",
         "trans": [
-            "子程序返回语句（可以带参数，也看不带参数）"
+            "v. go or come back to place, condition, or activity where one has been before; give back",
+            "n. document giving the tax collector information about the taxpayer's tax liability; a coming to or returning home"
         ]
     },
     {
         "name": "static",
         "trans": [
-            "声明静态变量"
+            "adj. not in physical motion"
         ]
     },
     {

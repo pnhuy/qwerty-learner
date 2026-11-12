@@ -1,306 +1,478 @@
 [
     {
         "name": "stop watch",
-        "trans": ["秒表"]
+        "trans": [
+            "n. a timepiece that can be started or stopped for exact timing (as of a race)"
+        ]
     },
     {
         "name": "ban",
-        "trans": ["禁止"]
+        "trans": [
+            "v. forbid the public distribution of ( a movie or a newspaper); prohibit especially by legal means or social pressure",
+            "n. a decree that prohibits something"
+        ]
     },
     {
         "name": "filter",
-        "trans": ["过滤器"]
+        "trans": [
+            "v. remove by passing through a filter; pass through",
+            "n. device that removes something from whatever passes through it; an electrical device that alters the frequency spectrum of signals passing through it"
+        ]
     },
     {
         "name": "standard",
-        "trans": ["标准"]
+        "trans": [
+            "n. a basis for comparison; a reference point against which other things can be evaluated; the ideal in terms of which something can be judged",
+            "adj. conforming to or constituting a standard of measurement or value; or of the usual or regularized or accepted kind; commonly used or supplied"
+        ]
     },
     {
         "name": "operate",
-        "trans": ["操作"]
+        "trans": [
+            "v. direct or control; projects, businesses, etc.; perform as expected when applied"
+        ]
     },
     {
         "name": "feedback",
-        "trans": ["反馈"]
+        "trans": [
+            "n. the process in which part of the output of a system is returned to its input in order to regulate its further output; response to an inquiry or experiment"
+        ]
     },
     {
         "name": "brush",
-        "trans": ["刷子"]
+        "trans": [
+            "v. rub with a brush, or as if with a brush; touch lightly and briefly",
+            "n. a dense growth of bushes; an implement that has hairs or bristles firmly set into a handle"
+        ]
     },
     {
         "name": "captain",
-        "trans": ["队长"]
+        "trans": [
+            "n. an officer holding a rank below a major but above a lieutenant; the naval officer in command of a military ship"
+        ]
     },
     {
         "name": "display",
-        "trans": ["显示"]
+        "trans": [
+            "v. to show, make visible or apparent",
+            "n. something intended to communicate a particular impression; something shown to the public"
+        ]
     },
     {
         "name": "TV surveillance",
-        "trans": ["TV监视"]
+        "trans": [
+            "TV监视"
+        ]
     },
     {
         "name": "button",
-        "trans": ["按钮"]
+        "trans": [
+            "n. a round fastener sewn to shirts and coats etc to fit through buttonholes; an electrical switch operated by pressing"
+        ]
     },
     {
         "name": "blinded",
-        "trans": ["瞎的"]
+        "trans": [
+            "adj. deprived of sight"
+        ]
     },
     {
         "name": "characteristic",
-        "trans": ["特色"]
+        "trans": [
+            "n. a prominent attribute or aspect of something; a distinguishing quality",
+            "adj. typical or distinctive"
+        ]
     },
     {
         "name": "fixed",
-        "trans": ["固定的"]
+        "trans": [
+            "adj. (of a number) having a fixed and unchanging value; fixed and unmoving"
+        ]
     },
     {
         "name": "mathematics",
-        "trans": ["数学"]
+        "trans": [
+            "n. a science (or group of related sciences) dealing with the logic of quantity and shape and arrangement"
+        ]
     },
     {
         "name": "academic",
-        "trans": ["学术的"]
+        "trans": [
+            "adj. associated with academia or an academy; hypothetical or theoretical and not expected to produce an immediate or practical result",
+            "n. an educator who works at a college or university"
+        ]
     },
     {
         "name": "scoring",
-        "trans": ["得分"]
+        "trans": [
+            "n. evaluation of performance by assigning a grade or score"
+        ]
     },
     {
         "name": "heroine",
-        "trans": ["女主角"]
+        "trans": [
+            "n. the main good female character in a work of fiction"
+        ]
     },
     {
         "name": "Town Hall",
-        "trans": ["市政厅"]
+        "trans": [
+            "n. a government building that houses administrative offices of a town government"
+        ]
     },
     {
         "name": "spare",
-        "trans": ["节约"]
+        "trans": [
+            "v. refrain from harming; save or relieve from an experience or action",
+            "adj. thin and fit; more than is needed, desired, or required"
+        ]
     },
     {
         "name": "altitude",
-        "trans": ["海拔"]
+        "trans": [
+            "n. elevation especially above sea level or above the earth's surface"
+        ]
     },
     {
         "name": "scenery",
-        "trans": ["景色"]
+        "trans": [
+            "n. the painted structures of a stage set that are intended to suggest a particular locale; the appearance of a place"
+        ]
     },
     {
         "name": "fishery",
-        "trans": ["渔业"]
+        "trans": [
+            "n. a workplace where fish are caught and processed and sold"
+        ]
     },
     {
         "name": "certificate",
-        "trans": ["证书"]
+        "trans": [
+            "n. a document attesting to the truth of certain stated facts"
+        ]
     },
     {
         "name": "injure",
-        "trans": ["受伤"]
+        "trans": [
+            "v. cause injuries or bodily harm to"
+        ]
     },
     {
         "name": "strike",
-        "trans": ["撞击"]
+        "trans": [
+            "v. deliver a sharp blow, as with the hand, fist, or weapon; have an emotional or cognitive impact upon",
+            "n. a group's refusal to work in protest against low pay or bad work conditions; an attack that is intended to seize or inflict damage on or destroy an objective"
+        ]
     },
     {
         "name": "luggage",
-        "trans": ["行李"]
+        "trans": [
+            "n. cases used to carry belongings when traveling"
+        ]
     },
     {
         "name": "fringe",
-        "trans": ["边缘"]
+        "trans": [
+            "n. the outside boundary or surface of something; a part of the city far removed from the center"
+        ]
     },
     {
         "name": "badge",
-        "trans": ["徽章"]
+        "trans": [
+            "n. an emblem (a small piece of plastic or cloth or metal) that signifies your status (rank or membership or affiliation etc.)"
+        ]
     },
     {
         "name": "cooperative",
-        "trans": ["合作的"]
+        "trans": [
+            "adj. involving the joint activity of two or more; done with or working with others for a common purpose or benefit",
+            "n. a jointly owned commercial enterprise (usually organized by farmers or consumers) that produces and distributes goods and services and is run for the benefit…"
+        ]
     },
     {
         "name": "donkey",
-        "trans": ["驴"]
+        "trans": [
+            "n. the symbol of the Democratic Party; introduced in cartoons by Thomas Nast in 1874"
+        ]
     },
     {
         "name": "riverside",
-        "trans": ["河边"]
+        "trans": [
+            "n. the bank of a river"
+        ]
     },
     {
         "name": "humid",
-        "trans": ["湿润的"]
+        "trans": [
+            "adj. containing or characterized by a great deal of water vapor"
+        ]
     },
     {
         "name": "escape",
-        "trans": ["逃脱"]
+        "trans": [
+            "v. run away from confinement; fail to experience",
+            "n. the act of escaping physically; an inclination to retreat from unpleasant realities through diversion or fantasy"
+        ]
     },
     {
         "name": "seek",
-        "trans": ["寻找"]
+        "trans": [
+            "v. try to get or reach; try to locate or discover, or try to establish the existence of"
+        ]
     },
     {
         "name": "accompany",
-        "trans": ["陪伴"]
+        "trans": [
+            "v. be present or associated with an event or entity; go or travel along with"
+        ]
     },
     {
         "name": "limb",
-        "trans": ["四肢"]
+        "trans": [
+            "n. one of the jointed appendages of an animal used for locomotion or grasping: arm; leg; wing; flipper"
+        ]
     },
     {
         "name": "quiz",
-        "trans": ["小型考试"]
+        "trans": [
+            "n. an examination consisting of a few short questions"
+        ]
     },
     {
         "name": "multimedia",
-        "trans": ["多媒体"]
+        "trans": [
+            "n. transmission that combine media of communication (text and graphics and sound etc.)"
+        ]
     },
     {
         "name": "championship",
-        "trans": ["冠军地位"]
+        "trans": [
+            "n. the status of being a champion"
+        ]
     },
     {
         "name": "influential",
-        "trans": ["有影响力的"]
+        "trans": [
+            "adj. having or exercising influence or power"
+        ]
     },
     {
         "name": "regulation",
-        "trans": ["规则"]
+        "trans": [
+            "n. an authoritative rule; a principle or condition that customarily governs behavior",
+            "adj. prescribed by or according to regulation"
+        ]
     },
     {
         "name": "certificate",
-        "trans": ["证明…"]
+        "trans": [
+            "n. a document attesting to the truth of certain stated facts"
+        ]
     },
     {
         "name": "statement",
-        "trans": ["声明"]
+        "trans": [
+            "n. a message that is stated or declared; a communication (oral or written) setting forth particulars or facts etc"
+        ]
     },
     {
         "name": "calculate",
-        "trans": ["计算"]
+        "trans": [
+            "v. make a mathematical calculation or computation; judge to be probable"
+        ]
     },
     {
         "name": "assume",
-        "trans": ["假定"]
+        "trans": [
+            "v. take to be the case or to be true; accept without verification or proof; take on titles, offices, duties, responsibilities"
+        ]
     },
     {
         "name": "emergency",
-        "trans": ["紧急事件"]
+        "trans": [
+            "n. a sudden unforeseen crisis (usually involving danger) that requires immediate action; a state in which martial law applies"
+        ]
     },
     {
         "name": "sign",
-        "trans": ["记号"]
+        "trans": [
+            "v. mark with one's signature; write one's name (on); approve and express assent, responsibility, or obligation",
+            "n. a perceptible indication of something not immediately apparent (as a visible clue that something has happened); a public display of a message"
+        ]
     },
     {
         "name": "disabled",
-        "trans": ["残疾的"]
+        "trans": [
+            "adj. incapable of functioning as a consequence of injury or illness",
+            "n. people collectively who are crippled or otherwise physically handicapped"
+        ]
     },
     {
         "name": "chain",
-        "trans": ["链"]
+        "trans": [
+            "n. a series of things depending on each other as if linked together; (chemistry) a series of linked atoms (generally in an organic molecule)"
+        ]
     },
     {
         "name": "cafeteria",
-        "trans": ["自助餐厅"]
+        "trans": [
+            "n. a restaurant where you serve yourself and pay a cashier"
+        ]
     },
     {
         "name": "chess",
-        "trans": ["国际象棋"]
+        "trans": [
+            "n. weedy annual native to Europe but widely distributed as a weed especially in wheat"
+        ]
     },
     {
         "name": "president",
-        "trans": ["总统"]
+        "trans": [
+            "n. an executive officer of a firm or corporation; the person who holds the office of head of state of the United States government"
+        ]
     },
     {
         "name": "transport",
-        "trans": ["运输"]
+        "trans": [
+            "v. move something or somebody around; usually over long distances; move while supporting, either in a vehicle or in one's hands or on one's body",
+            "n. something that serves as a means of transportation"
+        ]
     },
     {
         "name": "senior",
-        "trans": ["高级的"]
+        "trans": [
+            "adj. older; higher in rank; longer in length of tenure or service; used of the fourth and final year in United States high school or college",
+            "n. an undergraduate student during the year preceding graduation"
+        ]
     },
     {
         "name": "direction",
-        "trans": ["方向"]
+        "trans": [
+            "n. a line leading to a place or point; the spatial relation between something and the course along which it points or moves"
+        ]
     },
     {
         "name": "political",
-        "trans": ["政治的"]
+        "trans": [
+            "adj. involving or characteristic of politics or parties or politicians; of or relating to your views about social relationships involving authority or power"
+        ]
     },
     {
         "name": "landmark",
-        "trans": ["地标性建筑"]
+        "trans": [
+            "n. the position of a prominent or well-known object in a particular landscape"
+        ]
     },
     {
         "name": "submit",
-        "trans": ["上交"]
+        "trans": [
+            "v. refer for judgment or consideration; put before"
+        ]
     },
     {
         "name": "specific",
-        "trans": ["具体的", "特定的"]
+        "trans": [
+            "adj. (sometimes followed by 'to') applying to or characterized by or distinguishing something particular or special or unique; stated explicitly or in detail"
+        ]
     },
     {
         "name": "assess",
-        "trans": ["评估"]
+        "trans": [
+            "v. evaluate or estimate the nature, quality, ability, extent, or significance of"
+        ]
     },
     {
         "name": "junction",
-        "trans": ["交叉路口"]
+        "trans": [
+            "n. the place where two or more things come together"
+        ]
     },
     {
         "name": "assistance",
-        "trans": ["帮助"]
+        "trans": [
+            "n. the activity of contributing to the fulfillment of a need or furtherance of an effort or purpose; a resource"
+        ]
     },
     {
         "name": "ambulance",
-        "trans": ["救护车"]
+        "trans": [
+            "n. a vehicle that takes people to and from hospitals"
+        ]
     },
     {
         "name": "harbour",
-        "trans": ["港湾"]
+        "trans": [
+            "n. a sheltered port where ships can take on or discharge cargo",
+            "v. secretly shelter (as of fugitives or criminals)"
+        ]
     },
     {
         "name": "category",
-        "trans": ["类别"]
+        "trans": [
+            "n. a collection of things sharing a common attribute; a general concept that marks divisions or coordinations in a conceptual scheme"
+        ]
     },
     {
         "name": "sufficient",
-        "trans": ["足够的"]
+        "trans": [
+            "adj. of a quantity that can fulfill a need or requirement but without being abundant"
+        ]
     },
     {
         "name": "orchard",
-        "trans": ["果园"]
+        "trans": [
+            "n. garden consisting of a small cultivated wood without undergrowth"
+        ]
     },
     {
         "name": "adjust",
-        "trans": ["适应"]
+        "trans": [
+            "v. alter or regulate so as to achieve accuracy or conform to a standard; place in a line or arrange so as to be parallel or straight"
+        ]
     },
     {
         "name": "climate",
-        "trans": ["天气"]
+        "trans": [
+            "n. the weather in some location averaged over some long period of time; the prevailing psychological state"
+        ]
     },
     {
         "name": "previous",
-        "trans": ["之前的"]
+        "trans": [
+            "adj. (used especially of persons) of the immediate past"
+        ]
     },
     {
         "name": "routine",
-        "trans": ["日常的"]
+        "trans": [
+            "n. an unvarying or habitual method or procedure; a short theatrical performance that is part of a longer program",
+            "adj. found in the ordinary course of events"
+        ]
     },
     {
         "name": "illustration",
-        "trans": ["说明", "图解"]
+        "trans": [
+            "n. artwork that helps make something clear or attractive; showing by example"
+        ]
     },
     {
         "name": "carer",
-        "trans": ["护工"]
+        "trans": [
+            "护工"
+        ]
     },
     {
         "name": "stretch",
-        "trans": ["伸展"]
+        "trans": [
+            "v. occupy a large, elongated area; extend one's limbs or muscles, or the entire body",
+            "n. a large and unbroken expanse or distance; the act of physically reaching or thrusting out"
+        ]
     },
     {
         "name": "career",
-        "trans": ["生涯", "职业"]
+        "trans": [
+            "n. the particular occupation for which you are trained; the general progression of your working or professional life",
+            "v. move headlong at high speed"
+        ]
     }
 ]

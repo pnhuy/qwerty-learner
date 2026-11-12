@@ -2,13 +2,13 @@
     {
         "name": "emperor",
         "trans": [
-            "n. 皇帝"
+            "n. the male ruler of an empire"
         ]
     },
     {
         "name": "colonist",
         "trans": [
-            "n. 殖民者"
+            "n. a person who settles in a new colony or moves into new country"
         ]
     },
     {
@@ -20,7 +20,7 @@
     {
         "name": "royal",
         "trans": [
-            "adj. 王室的"
+            "adj. of or relating to or indicative of or issued or performed by a king or queen or other monarch; established or chartered or authorized by royalty"
         ]
     },
     {
@@ -32,73 +32,73 @@
     {
         "name": "peasant",
         "trans": [
-            "n. 贫农"
+            "n. a country person; one of a (chiefly European) class of agricultural laborers"
         ]
     },
     {
         "name": "farmer",
         "trans": [
-            "n. 农民，农场主"
+            "n. a person who operates a farm"
         ]
     },
     {
         "name": "slave",
         "trans": [
-            "n. 奴隶"
+            "n. a person who is owned by someone; someone who works as hard as a slave"
         ]
     },
     {
         "name": "plantation",
         "trans": [
-            "n. 种植园"
+            "n. an estate where cash crops are grown on a large scale (especially in tropical areas)"
         ]
     },
     {
         "name": "settlement",
         "trans": [
-            "n. 定居处"
+            "n. a body of people who settle far from home but maintain ties with their homeland…"
         ]
     },
     {
         "name": "site",
         "trans": [
-            "n. 地址，现场"
+            "n. the piece of land on which something is located (or is to be located); physical position in relation to the surroundings"
         ]
     },
     {
         "name": "remains",
         "trans": [
-            "n. 遗址、遗迹、遗骸"
+            "n. any object that is left unused or still extant"
         ]
     },
     {
         "name": "monument",
         "trans": [
-            "n. 纪念碑、纪念馆"
+            "n. a structure erected to commemorate persons or events"
         ]
     },
     {
         "name": "wreck",
         "trans": [
-            "n. 严重损坏的交通工具(汽车或飞机等)"
+            "n. something or someone that has suffered ruin or dilapidation"
         ]
     },
     {
         "name": "aboriginal",
         "trans": [
-            "adj. 土著的、原始的"
+            "adj. of or pertaining to members of the indigenous people of Australia"
         ]
     },
     {
         "name": "custom",
         "trans": [
-            "n. 风俗、惯例"
+            "n. accepted or habitual practice; a specific practice of long standing"
         ]
     },
     {
         "name": "ritual",
         "trans": [
-            "n. 仪式、老规矩"
+            "n. any customary observance or practice; the prescribed procedure for conducting religious ceremonies"
         ]
     },
     {
@@ -116,109 +116,109 @@
     {
         "name": "engraving",
         "trans": [
-            "n. 雕刻"
+            "n. a print made from an engraving"
         ]
     },
     {
         "name": "pattern",
         "trans": [
-            "n. 图案"
+            "n. a perceptual structure; a customary way of operation or behavior"
         ]
     },
     {
         "name": "image",
         "trans": [
-            "n. 图像"
+            "n. an iconic mental representation; (Jungian psychology) a personal facade that one presents to the world"
         ]
     },
     {
         "name": "figure",
         "trans": [
-            "n. 人像、数字、身材"
+            "n. a diagram or picture illustrating textual material; alternative names for the body of a human being"
         ]
     },
     {
         "name": "population",
         "trans": [
-            "n. 人口"
+            "n. the people who inhabit a territory or state; a group of organisms of the same species inhabiting a given area"
         ]
     },
     {
         "name": "trade",
         "trans": [
-            "n. 贸易"
+            "n. the commercial exchange (buying and selling on domestic or international markets) of goods and services; the skilled practice of a practical occupation"
         ]
     },
     {
         "name": "goods",
         "trans": [
-            "n. 货物"
+            "n. benefit; moral excellence or admirableness"
         ]
     },
     {
         "name": "crops",
         "trans": [
-            "n. 农作物"
+            "n. the yield from plants in a single growing season"
         ]
     },
     {
         "name": "livestock",
         "trans": [
-            "n. 牲口、牲畜"
+            "n. any animals kept for use or profit"
         ]
     },
     {
         "name": "archaeology",
         "trans": [
-            "n. 考古学"
+            "n. the branch of anthropology that studies prehistoric people and their cultures"
         ]
     },
     {
         "name": "excavation",
         "trans": [
-            "n. 挖掘"
+            "n. the act of digging"
         ]
     },
     {
         "name": "technology",
         "trans": [
-            "n. 技术"
+            "n. the practical application of science to commerce or industry"
         ]
     },
     {
         "name": "compass",
         "trans": [
-            "n. 指南针"
+            "n. navigational instrument for finding directions; an area in which something acts or operates or has power or control:"
         ]
     },
     {
         "name": "map",
         "trans": [
-            "n. 地图"
+            "n. a diagrammatic representation of the earth's surface (or part of it)"
         ]
     },
     {
         "name": "satellite",
         "trans": [
-            "n. 人造卫星"
+            "n. man-made equipment that orbits around the earth or the moon"
         ]
     },
     {
         "name": "sensor",
         "trans": [
-            "n. 传感器"
+            "n. any device that receives a signal or stimulus (as heat or pressure or light or motion etc.) and responds to it in a distinctive manner"
         ]
     },
     {
         "name": "sonar",
         "trans": [
-            "n. 声呐"
+            "n. a measuring instrument that sends out an acoustic pulse in water and measures distances in terms of the time for the echo of the pulse to return"
         ]
     },
     {
         "name": "radar",
         "trans": [
-            "n. 雷达"
+            "n. measuring instrument in which the echo of a pulse of microwave radiation is used to detect and locate distant objects"
         ]
     }
 ]

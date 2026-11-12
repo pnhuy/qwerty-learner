@@ -33,4 +33,4 @@ stats.html
 /test-results/
 /blob-report/
 /playwright/.cache/
-playwright-report
+playwright-report__pycache__/

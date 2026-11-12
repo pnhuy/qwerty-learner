@@ -1,294 +1,440 @@
 [
     {
         "name": "trousers",
-        "trans": ["n. 裤子"]
+        "trans": [
+            "n. (usually in the plural) a garment extending from the waist to the knee or ankle, covering each leg separately"
+        ]
     },
     {
         "name": "service",
-        "trans": ["n. 服务"]
+        "trans": [
+            "n. work done by one person or group that benefits another; an act of help or assistance"
+        ]
     },
     {
         "name": "viewpoint",
-        "trans": ["n. 观点"]
+        "trans": [
+            "n. a mental position from which things are viewed"
+        ]
     },
     {
         "name": "freezer",
-        "trans": ["n. 制冷"]
+        "trans": [
+            "n. electric refrigerator (trade name Deepfreeze) in which food is frozen and stored for long periods of time"
+        ]
     },
     {
         "name": "zoom",
-        "trans": ["n. 急速上升"]
+        "trans": [
+            "n. a rapid rise"
+        ]
     },
     {
         "name": "financial",
-        "trans": ["adj. 金融的"]
+        "trans": [
+            "adj. involving financial matters"
+        ]
     },
     {
         "name": "buffet",
-        "trans": ["n. 自助餐"]
+        "trans": [
+            "n. a piece of furniture that stands at the side of a dining room; has shelves and drawers"
+        ]
     },
     {
         "name": "manager",
-        "trans": ["n. 经理"]
+        "trans": [
+            "n. someone who controls resources and expenditures; (sports) someone in charge of training an athlete or a team"
+        ]
     },
     {
         "name": "expense",
-        "trans": ["n. 开支"]
+        "trans": [
+            "n. amounts paid for goods and services that may be currently tax deductible (as opposed to capital expenditures); a detriment or sacrifice"
+        ]
     },
     {
         "name": "college",
-        "trans": ["n. 大学"]
+        "trans": [
+            "n. the body of faculty and students of a college"
+        ]
     },
     {
         "name": "opposite",
-        "trans": ["adj. 相反的"]
+        "trans": [
+            "adj. being directly across from each other; facing; of leaves etc; growing in pairs on either side of a stem"
+        ]
     },
     {
         "name": "cheque",
-        "trans": ["n. 支票"]
+        "trans": [
+            "n. a written order directing a bank to pay money"
+        ]
     },
     {
         "name": "supervisor",
-        "trans": ["n. 监督人"]
+        "trans": [
+            "n. one who supervises or has charge and direction of"
+        ]
     },
     {
         "name": "refrigerator",
-        "trans": ["n. 冰箱"]
+        "trans": [
+            "n. white goods in which food can be stored at low temperatures"
+        ]
     },
     {
         "name": "science",
-        "trans": ["n. 科学"]
+        "trans": [
+            "n. a particular branch of scientific knowledge; ability to produce solutions in some problem domain"
+        ]
     },
     {
         "name": "collection",
-        "trans": ["n. 采集"]
+        "trans": [
+            "n. several things grouped together or considered as a whole; a publication containing a variety of works"
+        ]
     },
     {
         "name": "collect",
-        "trans": ["v. 收集"]
+        "trans": [
+            "v. get or gather together; call for and obtain payment of"
+        ]
     },
     {
         "name": "literature",
-        "trans": ["n. 文学"]
+        "trans": [
+            "n. creative writing of recognized artistic value; the humanistic study of a body of literature"
+        ]
     },
     {
         "name": "bank",
-        "trans": ["n. 银行"]
+        "trans": [
+            "n. sloping land (especially the slope beside a body of water); a financial institution that accepts deposits and channels the money into lending activities"
+        ]
     },
     {
         "name": "state",
-        "trans": ["n. 情形"]
+        "trans": [
+            "n. the territory occupied by one of the constituent administrative districts of a nation; the way something is with respect to its main attributes"
+        ]
     },
     {
         "name": "item",
-        "trans": ["n. 项目"]
+        "trans": [
+            "n. a distinct part that can be specified separately in a group of things that could be enumerated on a list"
+        ]
     },
     {
         "name": "snake",
-        "trans": ["n. 蛇"]
+        "trans": [
+            "n. limbless scaly elongate reptile; some are venomous"
+        ]
     },
     {
         "name": "phone bill",
-        "trans": ["n. 电话账单"]
+        "trans": [
+            "n. statement of charges for telephone service"
+        ]
     },
     {
         "name": "wildlife",
-        "trans": ["n. 野生动植物"]
+        "trans": [
+            "n. all living things (except people) that are undomesticated"
+        ]
     },
     {
         "name": "photocopy",
-        "trans": ["n. 复印件"]
+        "trans": [
+            "n. a photographic copy of written or printed or graphic work"
+        ]
     },
     {
         "name": "camera",
-        "trans": ["n. 照相机"]
+        "trans": [
+            "n. equipment for taking photographs (usually consisting of a lightproof box with a lens at one end and light-sensitive film at the other)"
+        ]
     },
     {
         "name": "reservation",
-        "trans": ["n. 预约"]
+        "trans": [
+            "n. a district that is reserved for particular purpose; a statement that limits or restricts some claim"
+        ]
     },
     {
         "name": "hold",
-        "trans": ["v. 持有"]
+        "trans": [
+            "v. keep in a certain state, position, or activity; e.g.,; have or hold in one's hands or grip"
+        ]
     },
     {
         "name": "catalogue",
-        "trans": ["n. 目录"]
+        "trans": [
+            "n. a complete list of things; usually arranged systematically"
+        ]
     },
     {
         "name": "book",
-        "trans": ["v. 预订"]
+        "trans": [
+            "v. engage for a performance; arrange for and reserve (something for someone else) in advance"
+        ]
     },
     {
         "name": "noisy",
-        "trans": ["adj. 吵闹的"]
+        "trans": [
+            "adj. full of or characterized by loud and nonmusical sounds"
+        ]
     },
     {
         "name": "deposit",
-        "trans": ["n. 押金"]
+        "trans": [
+            "n. the phenomenon of sediment or gravel accumulating; matter that has been deposited by some natural process"
+        ]
     },
     {
         "name": "transfer",
-        "trans": ["v. 转让"]
+        "trans": [
+            "v. transfer somebody to a different position or location of work; move from one place to another"
+        ]
     },
     {
         "name": "uniform",
-        "trans": ["n. 制服"]
+        "trans": [
+            "n. clothing of distinctive design worn by members of a particular group as a means of identification"
+        ]
     },
     {
         "name": "tropical",
-        "trans": ["adj. 热带的"]
+        "trans": [
+            "adj. relating to or situated in or characteristic of the tropics (the region on either side of the equator); of or relating to the tropics, or either tropic"
+        ]
     },
     {
         "name": "preferred",
-        "trans": ["adj. 优先的"]
+        "trans": [
+            "adj. more desirable than another"
+        ]
     },
     {
         "name": "firework",
-        "trans": ["n. 烟花"]
+        "trans": [
+            "n. (usually plural) a device with an explosive that burns at a low rate and with colored flames; can be used to illuminate areas or send signals etc."
+        ]
     },
     {
         "name": "loan",
-        "trans": ["n. 贷款"]
+        "trans": [
+            "n. the temporary provision of money (usually at interest)"
+        ]
     },
     {
         "name": "coach",
-        "trans": ["n. 教练"]
+        "trans": [
+            "n. (sports) someone in charge of training an athlete or a team"
+        ]
     },
     {
         "name": "identification",
-        "trans": ["n. 身份证明"]
+        "trans": [
+            "n. the act of designating or identifying something; evidence of identity; something that identifies a person or thing"
+        ]
     },
     {
         "name": "beach",
-        "trans": ["n. 海滩"]
+        "trans": [
+            "n. an area of sand sloping down to the water of a sea or lake"
+        ]
     },
     {
         "name": "statement",
-        "trans": ["n. 清单"]
+        "trans": [
+            "n. a message that is stated or declared; a communication (oral or written) setting forth particulars or facts etc"
+        ]
     },
     {
         "name": "expire",
-        "trans": ["v. 期满"]
+        "trans": [
+            "v. lose validity; pass from physical life and lose all bodily attributes and functions necessary to sustain life"
+        ]
     },
     {
         "name": "librarian",
-        "trans": ["n. 图书管理员"]
+        "trans": [
+            "n. a professional person trained in library science and engaged in library services"
+        ]
     },
     {
         "name": "nationality",
-        "trans": ["n. 国籍"]
+        "trans": [
+            "n. people having common origins or traditions and often comprising a nation"
+        ]
     },
     {
         "name": "guidance",
-        "trans": ["n. 指导"]
+        "trans": [
+            "n. something that provides direction or advice as to a decision or course of action; the act of guiding or showing the way"
+        ]
     },
     {
         "name": "gift",
-        "trans": ["n. 礼物"]
+        "trans": [
+            "n. something acquired without compensation; natural abilities or qualities"
+        ]
     },
     {
         "name": "rule",
-        "trans": ["n. 规则"]
+        "trans": [
+            "n. a principle or condition that customarily governs behavior; something regarded as a normative example"
+        ]
     },
     {
         "name": "side door",
-        "trans": ["n. 侧门"]
+        "trans": [
+            "n. an exterior door at one side of a building"
+        ]
     },
     {
         "name": "fix",
-        "trans": ["v. 修理"]
+        "trans": [
+            "v. restore by replacing a part or putting together what is torn or broken; cause to be firmly attached"
+        ]
     },
     {
         "name": "theme",
-        "trans": ["n. 主题"]
+        "trans": [
+            "n. the subject matter of a conversation or discussion; a unifying idea that is a recurrent element in literary or artistic work"
+        ]
     },
     {
         "name": "normal",
-        "trans": ["adj. 正常的"]
+        "trans": [
+            "adj. conforming with or constituting a norm or standard or level or type or social norm; not abnormal; in accordance with scientific laws"
+        ]
     },
     {
         "name": "benefit",
-        "trans": ["n. 好处"]
+        "trans": [
+            "n. financial assistance in time of need; something that aids or promotes well-being"
+        ]
     },
     {
         "name": "tennis",
-        "trans": ["n. 网球"]
+        "trans": [
+            "n. a game played with rackets by two or four players who hit a ball back and forth over a net that divides the court"
+        ]
     },
     {
         "name": "interest rate",
-        "trans": ["n. 利率"]
+        "trans": [
+            "n. the percentage of a sum of money charged for its use"
+        ]
     },
     {
         "name": "cable car",
-        "trans": ["n. 缆车"]
+        "trans": [
+            "n. a conveyance for passengers or freight on a cable railway"
+        ]
     },
     {
         "name": "online",
-        "trans": ["adj. 在线的"]
+        "trans": [
+            "adj. on a regular route of a railroad or bus or airline system"
+        ]
     },
     {
         "name": "source",
-        "trans": ["n. 来源"]
+        "trans": [
+            "n. the place where something begins, where it springs into being; a document (or organization) from which information is obtained"
+        ]
     },
     {
         "name": "branch",
-        "trans": ["n. 分支"]
+        "trans": [
+            "n. a division of some larger or more complex organization; a division of a stem, or secondary stem arising from the main stem of a plant"
+        ]
     },
     {
         "name": "Canadian",
-        "trans": ["n. 加拿大人"]
+        "trans": [
+            "n. a native or inhabitant of Canada"
+        ]
     },
     {
         "name": "reference number",
-        "trans": ["n. 参考号"]
+        "trans": [
+            "n. 参考号"
+        ]
     },
     {
         "name": "amount",
-        "trans": ["n. 数量"]
+        "trans": [
+            "n. a quantity of money; the relative magnitude of something with reference to a criterion"
+        ]
     },
     {
         "name": "automatically",
-        "trans": ["adv. 自动地"]
+        "trans": [
+            "adv. in a reflex manner"
+        ]
     },
     {
         "name": "basement",
-        "trans": ["n. 地下室"]
+        "trans": [
+            "n. the lowermost portion of a structure partly or wholly below ground level; often used for storage"
+        ]
     },
     {
         "name": "wet",
-        "trans": ["adj. 潮湿的"]
+        "trans": [
+            "adj. covered or soaked with a liquid such as water"
+        ]
     },
     {
         "name": "action movie",
-        "trans": ["n. 动作片"]
+        "trans": [
+            "n. 动作片"
+        ]
     },
     {
         "name": "engineer",
-        "trans": ["n. 工程师"]
+        "trans": [
+            "n. a person who uses scientific knowledge to solve practical problems"
+        ]
     },
     {
         "name": "signature",
-        "trans": ["n. 署名"]
+        "trans": [
+            "n. your name written in your own handwriting; a distinguishing style"
+        ]
     },
     {
         "name": "payment",
-        "trans": ["n. 支付"]
+        "trans": [
+            "n. a sum of money paid or a claim discharged; the act of paying money"
+        ]
     },
     {
         "name": "minimum",
-        "trans": ["n. 最小值"]
+        "trans": [
+            "n. the smallest possible quantity"
+        ]
     },
     {
         "name": "relaxation",
-        "trans": ["n. 放松"]
+        "trans": [
+            "n. (physiology) the gradual lengthening of inactive muscle or muscle fibers"
+        ]
     },
     {
         "name": "scheme",
-        "trans": ["n. 计划：体系"]
+        "trans": [
+            "n. an elaborate and systematic plan of action; a statement that evades the question by cleverness or trickery"
+        ]
     },
     {
         "name": "racket",
-        "trans": ["n. 球拍"]
+        "trans": [
+            "n. a loud and disturbing noise; an illegal enterprise (such as extortion or fraud or drug peddling or prostitution) carried on for profit"
+        ]
     }
 ]

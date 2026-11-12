@@ -1,314 +1,479 @@
 [
     {
         "name": "referee",
-        "trans": ["证明人"]
+        "trans": [
+            "n. (sports) the chief official (as in boxing or American football) who is expected to ensure fair play"
+        ]
     },
     {
         "name": "puzzling",
-        "trans": ["莫名其妙的"]
+        "trans": [
+            "adj. not clear to the understanding; lacking clarity of meaning; causing confusion or perplexity"
+        ]
     },
     {
         "name": "perspective",
-        "trans": ["观点"]
+        "trans": [
+            "n. a way of regarding situations or topics etc.; the appearance of things relative to one another as determined by their distance from the viewer"
+        ]
     },
     {
         "name": "path",
-        "trans": ["小路"]
+        "trans": [
+            "n. a course of conduct; a way especially designed for a particular use"
+        ]
     },
     {
         "name": "representative",
-        "trans": ["有代表性的"]
+        "trans": [
+            "n. a person who represents others; an advocate who represents someone else's policy or purpose",
+            "adj. serving to represent or typify; standing for something else"
+        ]
     },
     {
         "name": "discontinue",
-        "trans": ["终止"]
+        "trans": [
+            "v. put an end to a state or an activity; come to or be at an end"
+        ]
     },
     {
         "name": "accounting",
-        "trans": ["会记学"]
+        "trans": [
+            "n. a convincing explanation that reveals basic causes; a system that provides quantitative information about finances"
+        ]
     },
     {
         "name": "satellite",
-        "trans": ["卫星"]
+        "trans": [
+            "n. man-made equipment that orbits around the earth or the moon"
+        ]
     },
     {
         "name": "permission",
-        "trans": ["允许"]
+        "trans": [
+            "n. approval to do something; the act of giving a formal (usually written) authorization"
+        ]
     },
     {
         "name": "variation",
-        "trans": ["变化"]
+        "trans": [
+            "n. an instance of change; the rate or magnitude of change; an activity that varies from a norm or standard"
+        ]
     },
     {
         "name": "innovation",
-        "trans": ["创新"]
+        "trans": [
+            "n. a creation (a new device or process) resulting from study and experimentation; the creation of something in the mind"
+        ]
     },
     {
         "name": "divide",
-        "trans": ["划分"]
+        "trans": [
+            "v. separate into parts or portions; perform a division"
+        ]
     },
     {
         "name": "diet",
-        "trans": ["饮食"]
+        "trans": [
+            "n. a prescribed selection of foods"
+        ]
     },
     {
         "name": "partly",
-        "trans": ["部分地"]
+        "trans": [
+            "adv. in part; in some degree; not wholly"
+        ]
     },
     {
         "name": "stimulating",
-        "trans": ["刺激的"]
+        "trans": [
+            "adj. rousing or quickening activity or the senses"
+        ]
     },
     {
         "name": "master",
-        "trans": ["硕士"]
+        "trans": [
+            "n. an artist of consummate skill; a person who has general authority over others",
+            "v. be or become completely proficient or skilled in; get on top of; deal with successfully"
+        ]
     },
     {
         "name": "microbiology",
-        "trans": ["微生物学"]
+        "trans": [
+            "n. the branch of biology that studies microorganisms and their effects on humans"
+        ]
     },
     {
         "name": "essay",
-        "trans": ["论文"]
+        "trans": [
+            "n. an analytic or interpretive literary composition; a tentative attempt",
+            "v. make an effort or attempt"
+        ]
     },
     {
         "name": "strategy",
-        "trans": ["战略"]
+        "trans": [
+            "n. an elaborate and systematic plan of action"
+        ]
     },
     {
         "name": "cosmetics",
-        "trans": ["化妆品"]
+        "trans": [
+            "n. a toiletry designed to beautify the body"
+        ]
     },
     {
         "name": "extension",
-        "trans": ["延期"]
+        "trans": [
+            "n. a mutually agreed delay in the date set for the completion of a job or payment of a debt; act of expanding in scope; making more widely available"
+        ]
     },
     {
         "name": "record",
-        "trans": ["记录"]
+        "trans": [
+            "n. anything (such as a document or a phonograph record or a photograph) providing permanent evidence of or information about past events",
+            "v. make a record of; set down in permanent form; register electronically"
+        ]
     },
     {
         "name": "bibliography",
-        "trans": ["参考书目"]
+        "trans": [
+            "n. a list of writings with time and place of publication (such as the writings of a single author or the works referred to in preparing a document etc.)"
+        ]
     },
     {
         "name": "incorrect",
-        "trans": ["错误的"]
+        "trans": [
+            "adj. not correct; not in conformity with fact or truth"
+        ]
     },
     {
         "name": "thorough",
-        "trans": ["彻底的"]
+        "trans": [
+            "adj. painstakingly careful and accurate; performed comprehensively and completely"
+        ]
     },
     {
         "name": "definition",
-        "trans": ["定义"]
+        "trans": [
+            "n. a concise explanation of the meaning of a word or phrase or symbol; clarity of outline"
+        ]
     },
     {
         "name": "connective",
-        "trans": ["连接词"]
+        "trans": [
+            "adj. connecting or tending to connect"
+        ]
     },
     {
         "name": "solution",
-        "trans": ["解决方案"]
+        "trans": [
+            "n. a homogeneous mixture of two or more substances; frequently (but not necessarily) a liquid solution"
+        ]
     },
     {
         "name": "leisure",
-        "trans": ["闲暇"]
+        "trans": [
+            "n. time available for ease and relaxation; freedom to choose a pastime or enjoyable activity"
+        ]
     },
     {
         "name": "decisive",
-        "trans": ["果断的"]
+        "trans": [
+            "adj. determining or having the power to determine an outcome; unmistakable"
+        ]
     },
     {
         "name": "ambitious",
-        "trans": ["野心勃勃的"]
+        "trans": [
+            "adj. having a strong desire for success or achievement; requiring full use of your abilities or resources"
+        ]
     },
     {
         "name": "specialised",
-        "trans": ["专业的"]
+        "trans": [
+            "adj. developed or designed for a special activity or function"
+        ]
     },
     {
         "name": "observe",
-        "trans": ["观察"]
+        "trans": [
+            "v. discover or determine the existence, presence, or fact of; make mention of"
+        ]
     },
     {
         "name": "dominance",
-        "trans": ["支配"]
+        "trans": [
+            "n. superior development of one side of the body; the state that exists when one person or group has power over another"
+        ]
     },
     {
         "name": "stick",
-        "trans": ["刺"]
+        "trans": [
+            "n. an implement consisting of a length of wood; a small thin branch of a tree",
+            "v. put, fix, force, or implant; stay put (in a certain place)"
+        ]
     },
     {
         "name": "imaginable",
-        "trans": ["可想象的"]
+        "trans": [
+            "adj. capable of being imagined"
+        ]
     },
     {
         "name": "worthy",
-        "trans": ["值得的"]
+        "trans": [
+            "adj. having worth or merit or value; being honorable or admirable; worthy of being chosen especially as a spouse"
+        ]
     },
     {
         "name": "interpersonal",
-        "trans": ["人际的"]
+        "trans": [
+            "adj. occurring among or involving several people"
+        ]
     },
     {
         "name": "accessible",
-        "trans": ["可接近的"]
+        "trans": [
+            "adj. capable of being reached"
+        ]
     },
     {
         "name": "regrettable",
-        "trans": ["令人遗憾的"]
+        "trans": [
+            "adj. deserving regret"
+        ]
     },
     {
         "name": "wind",
-        "trans": ["风"]
+        "trans": [
+            "n. air moving (sometimes with considerable force) from an area of high pressure to an area of low pressure; a tendency or force that influences events",
+            "v. to move or cause to move in a sinuous, spiral, or circular course; extend in curves and turns"
+        ]
     },
     {
         "name": "economics",
-        "trans": ["经济学"]
+        "trans": [
+            "n. the branch of social science that deals with the production and distribution and consumption of goods and services and their management"
+        ]
     },
     {
         "name": "postgraduate",
-        "trans": ["研究生"]
+        "trans": [
+            "n. a student who continues studies after graduation",
+            "adj. of or relating to studies beyond a bachelor's degree"
+        ]
     },
     {
         "name": "management",
-        "trans": ["管理"]
+        "trans": [
+            "n. the act of managing something; those in charge of running a business"
+        ]
     },
     {
         "name": "adviser",
-        "trans": ["顾问"]
+        "trans": [
+            "n. an expert who gives advice"
+        ]
     },
     {
         "name": "folder",
-        "trans": ["文件夹"]
+        "trans": [
+            "n. a small book usually having a paper cover"
+        ]
     },
     {
         "name": "identify",
-        "trans": ["辨认出"]
+        "trans": [
+            "v. recognize as being; establish the identity of someone or something"
+        ]
     },
     {
         "name": "worksheet",
-        "trans": ["练习册"]
+        "trans": [
+            "n. a sheet of paper with multiple columns; used by an accountant to assemble figures for financial statements"
+        ]
     },
     {
         "name": "access",
-        "trans": ["接近"]
+        "trans": [
+            "n. the right to enter; the right to obtain or make use of or take advantage of something (as services or membership)"
+        ]
     },
     {
         "name": "profit",
-        "trans": ["利益"]
+        "trans": [
+            "n. the excess of revenues over outlays in a given period of time (including depreciation and other non-cash expenses); the advantageous quality of being beneficial",
+            "v. derive a benefit from; make a profit; gain money or materially"
+        ]
     },
     {
         "name": "cultivate",
-        "trans": ["培养"]
+        "trans": [
+            "v. foster the growth of; prepare for crops"
+        ]
     },
     {
         "name": "highlight",
-        "trans": ["精彩部分"]
+        "trans": [
+            "v. move into the foreground to make more visible or prominent"
+        ]
     },
     {
         "name": "diploma",
-        "trans": ["文凭"]
+        "trans": [
+            "n. a document certifying the successful completion of a course of study"
+        ]
     },
     {
         "name": "tutorial",
-        "trans": ["指导"]
+        "trans": [
+            "n. a session of intensive tuition given by a tutor to an individual or to a small number of students"
+        ]
     },
     {
         "name": "assessment",
-        "trans": ["评定"]
+        "trans": [
+            "n. the classification of someone or something with respect to its worth"
+        ]
     },
     {
         "name": "brand",
-        "trans": ["牌子"]
+        "trans": [
+            "n. a name given to a product or service; a recognizable kind",
+            "v. burn with a branding iron to indicate ownership; of animals"
+        ]
     },
     {
         "name": "image",
-        "trans": ["图像"]
+        "trans": [
+            "n. an iconic mental representation; (Jungian psychology) a personal facade that one presents to the world"
+        ]
     },
     {
         "name": "residential",
-        "trans": ["住宅的"]
+        "trans": [
+            "adj. used or designed for residence or limited to residences; of or relating to or connected with residence"
+        ]
     },
     {
         "name": "intimacy",
-        "trans": ["亲密行为"]
+        "trans": [
+            "n. close or warm friendship"
+        ]
     },
     {
         "name": "inappropriate",
-        "trans": ["不合适的"]
+        "trans": [
+            "adj. not suitable for a particular occasion etc"
+        ]
     },
     {
         "name": "underline",
-        "trans": ["强调"]
+        "trans": [
+            "v. give extra weight to (a communication)"
+        ]
     },
     {
         "name": "analyse",
-        "trans": ["分析"]
+        "trans": [
+            "v. consider in detail and subject to an analysis in order to discover essential features or meaning"
+        ]
     },
     {
         "name": "quote",
-        "trans": ["引述"]
+        "trans": [
+            "v. repeat a passage from"
+        ]
     },
     {
         "name": "sub-topic",
-        "trans": ["小标题"]
+        "trans": [
+            "小标题"
+        ]
     },
     {
         "name": "frustrated",
-        "trans": ["挫败的"]
+        "trans": [
+            "adj. disappointingly unsuccessful"
+        ]
     },
     {
         "name": "premise",
-        "trans": ["前提"]
+        "trans": [
+            "n. a statement that is assumed to be true and from which a conclusion can be drawn"
+        ]
     },
     {
         "name": "intelligent",
-        "trans": ["聪明的"]
+        "trans": [
+            "adj. having the capacity for thought and reason especially to a high degree; possessing sound knowledge"
+        ]
     },
     {
         "name": "sector",
-        "trans": ["部门"]
+        "trans": [
+            "n. a plane figure bounded by two radii and the included arc of a circle; a social group that forms part of the society or the economy"
+        ]
     },
     {
         "name": "transcription",
-        "trans": ["抄写"]
+        "trans": [
+            "n. something written, especially copied from one medium to another, as a typewritten version of dictation"
+        ]
     },
     {
         "name": "chimpanzee",
-        "trans": ["黑猩猩"]
+        "trans": [
+            "n. intelligent somewhat arboreal ape of equatorial African forests"
+        ]
     },
     {
         "name": "imitate",
-        "trans": ["模仿"]
+        "trans": [
+            "v. reproduce someone's behavior or looks; appear like, as in behavior or appearance"
+        ]
     },
     {
         "name": "nutshell",
-        "trans": ["坚果的外壳"]
+        "trans": [
+            "n. the shell around the kernel of a nut"
+        ]
     },
     {
         "name": "invalid",
-        "trans": ["无效的"]
+        "trans": [
+            "n. someone who is incapacitated by a chronic illness or injury"
+        ]
     },
     {
         "name": "ability",
-        "trans": ["能力"]
+        "trans": [
+            "n. the quality of being able to perform; a quality that permits or facilitates achievement or accomplishment"
+        ]
     },
     {
         "name": "leadership",
-        "trans": ["领导能力"]
+        "trans": [
+            "n. the activity of leading; the body of people who lead a group"
+        ]
     },
     {
         "name": "majority",
-        "trans": ["多数"]
+        "trans": [
+            "n. the property resulting from being or relating to the greater in number of two parts; the main part; (elections) more than half of the votes"
+        ]
     },
     {
         "name": "seat belt",
-        "trans": ["安全带"]
+        "trans": [
+            "n. a safety belt used in a car or plane to hold you in your seat in case of an accident"
+        ]
     },
     {
         "name": "theory",
-        "trans": ["理论"]
+        "trans": [
+            "n. a well-substantiated explanation of some aspect of the natural world…"
+        ]
     }
 ]

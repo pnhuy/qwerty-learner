@@ -1,446 +1,461 @@
 [
-{
-    "name": "play football",
-    "trans": [
-        "踢足球"
-    ],
-    "usphone": "pleɪ ˈfʊtˌbɔːl",
-    "ukphone": "pleɪ ˈfʊtˌbɔːl"
-},
-{
-    "name": "fly a kite",
-    "trans": [
-        "放风筝"
-    ],
-    "usphone": "flaɪ ə kaɪt",
-    "ukphone": "flaɪ ə kaɪt"
-},
-{
-    "name": "ride a bike",
-    "trans": [
-        "骑自行车"
-    ],
-    "usphone": "raɪd ə baɪk",
-    "ukphone": "raɪd ə baɪk"
-},
-{
-    "name": "make a model plane",
-    "trans": [
-        "做飞机模型"
-    ],
-    "usphone": "meɪk ə ˈmɑːdl pleɪn",
-    "ukphone": "meɪk ə ˈmɒdl pleɪn"
-},
-{
-    "name": "swim",
-    "trans": [
-        "游泳"
-    ],
-    "usphone": "swɪm",
-    "ukphone": "swɪm"
-},
-{
-    "name": "make a snowman",
-    "trans": [
-        "堆雪人"
-    ],
-    "usphone": "meɪk ə ˈsnoʊˌmæn",
-    "ukphone": "meɪk ə ˈsnəʊˌmæn"
-},
-{
-    "name": "can't",
-    "trans": [
-        "不能",
-        "不会"
-    ],
-    "usphone": "kænt",
-    "ukphone": "kɑːnt"
-},
-{
-    "name": "rainy",
-    "trans": [
-        "下雨的"
-    ],
-    "usphone": "ˈreɪni",
-    "ukphone": "ˈreɪni"
-},
-{
-    "name": "cloudy",
-    "trans": [
-        "多云的"
-    ],
-    "usphone": "ˈklaʊdi",
-    "ukphone": "ˈklaʊdi"
-},
-{
-    "name": "snowy",
-    "trans": [
-        "下雪的"
-    ],
-    "usphone": "ˈsnoʊi",
-    "ukphone": "ˈsnəʊi"
-},
-{
-    "name": "windy",
-    "trans": [
-        "刮风的"
-    ],
-    "usphone": "ˈwɪndi",
-    "ukphone": "ˈwɪndi"
-},
-{
-    "name": "sunny",
-    "trans": [
-        "晴朗的"
-    ],
-    "usphone": "ˈsʌni",
-    "ukphone": "ˈsʌni"
-},
-{
-    "name": "umbrella",
-    "trans": [
-        "雨伞"
-    ],
-    "usphone": "ʌmˈbrɛlə",
-    "ukphone": "ʌmˈbrɛlə"
-},
-{
-    "name": "weather",
-    "trans": [
-        "天气"
-    ],
-    "usphone": "ˈwɛðər",
-    "ukphone": "ˈwɛðər"
-},
-{
-    "name": "wow",
-    "trans": [
-        "哇"
-    ],
-    "usphone": "waʊ",
-    "ukphone": "waʊ"
-},
-{
-    "name": "let's",
-    "trans": [
-        "让我们……"
-    ],
-    "usphone": "lɛts",
-    "ukphone": "lɛts"
-},
-{
-    "name": "spring",
-    "trans": [
-        "春天"
-    ],
-    "usphone": "sprɪŋ",
-    "ukphone": "sprɪŋ"
-},
-{
-    "name": "summer",
-    "trans": [
-        "夏天"
-    ],
-    "usphone": "ˈsʌmər",
-    "ukphone": "ˈsʌmər"
-},
-{
-    "name": "autumn",
-    "trans": [
-        "秋天"
-    ],
-    "usphone": "ˈɔːtəm",
-    "ukphone": "ˈɔːtəm"
-},
-{
-    "name": "winter",
-    "trans": [
-        "冬天"
-    ],
-    "usphone": "ˈwɪntər",
-    "ukphone": "ˈwɪntər"
-},
-{
-    "name": "hot",
-    "trans": [
-        "炎热的"
-    ],
-    "usphone": "hɑt",
-    "ukphone": "hɒt"
-},
-{
-    "name": "warm",
-    "trans": [
-        "温暖的"
-    ],
-    "usphone": "wɔrm",
-    "ukphone": "wɔːm"
-},
-{
-    "name": "cool",
-    "trans": [
-        "凉爽的"
-    ],
-    "usphone": "kul",
-    "ukphone": "kuːl"
-},
-{
-    "name": "cold",
-    "trans": [
-        "寒冷的"
-    ],
-    "usphone": "koʊld",
-    "ukphone": "kəʊld"
-},
-{
-    "name": "favourite",
-    "trans": [
-        "最喜欢的"
-    ],
-    "usphone": "ˈfeɪvərɪt",
-    "ukphone": "ˈfeɪvərɪt"
-},
-{
-    "name": "season",
-    "trans": [
-        "季节"
-    ],
-    "usphone": "ˈsiːzən",
-    "ukphone": "ˈsiːzən"
-},
-{
-    "name": "eleven",
-    "trans": [
-        "十一"
-    ],
-    "usphone": "ɪˈlɛvən",
-    "ukphone": "ɪˈlɛvən"
-},
-{
-    "name": "twelve",
-    "trans": [
-        "十二"
-    ],
-    "usphone": "twɛlv",
-    "ukphone": "twɛlv"
-},
-{
-    "name": "twenty",
-    "trans": [
-        "二十"
-    ],
-    "usphone": "ˈtwɛnti",
-    "ukphone": "ˈtwɛnti"
-},
-{
-    "name": "thirty",
-    "trans": [
-        "三十"
-    ],
-    "usphone": "ˈθɜːrti",
-    "ukphone": "ˈθɜːti"
-},
-{
-    "name": "forty",
-    "trans": [
-        "四十"
-    ],
-    "usphone": "ˈfɔːrti",
-    "ukphone": "ˈfɔːrti"
-},
-{
-    "name": "fifty",
-    "trans": [
-        "五十"
-    ],
-    "usphone": "ˈfɪfti",
-    "ukphone": "ˈfɪfti"
-},
-{
-    "name": "thirteen",
-    "trans": [
-        "十三"
-    ],
-    "usphone": "ˈθɜːrˌtin",
-    "ukphone": "ˈθɜːrˌtin"
-},
-{
-    "name": "fourteen",
-    "trans": [
-        "十四"
-    ],
-    "usphone": "ˈfɔrtˌtin",
-    "ukphone": "ˈfɔːˌtin"
-},
-{
-    "name": "fifteen",
-    "trans": [
-        "十五"
-    ],
-    "usphone": "ˌfɪfˈtin",
-    "ukphone": "ˌfɪfˈtin"
-},
-{
-    "name": "time",
-    "trans": [
-        "时间"
-    ],
-    "usphone": "taɪm",
-    "ukphone": "taɪm"
-},
-{
-    "name": "playtime",
-    "trans": [
-        "游戏时间",
-        "课间休息时间"
-    ],
-    "usphone": "pleɪtaɪm",
-    "ukphone": "pleɪtaɪm"
-},
-{
-    "name": "get up",
-    "trans": [
-        "起床"
-    ],
-    "usphone": "ɡɛt ʌp",
-    "ukphone": "ɡɛt ʌp"
-},
-{
-    "name": "eat breakfast",
-    "trans": [
-        "吃早饭"
-    ],
-    "usphone": "it ˈbrɛkˌfəst",
-    "ukphone": "iːt ˈbrɛkfəst"
-},
-{
-    "name": "go to school",
-    "trans": [
-        "上学"
-    ],
-    "usphone": "ɡoʊ tu skul",
-    "ukphone": "ɡəʊ tuː skuːl"
-},
-{
-    "name": "eat lunch",
-    "trans": [
-        "吃午饭"
-    ],
-    "usphone": "it lʌntʃ",
-    "ukphone": "iːt lʌntʃ"
-},
-{
-    "name": "go home",
-    "trans": [
-        "回家"
-    ],
-    "usphone": "ɡoʊ hoʊm",
-    "ukphone": "ɡəʊ həʊm"
-},
-{
-    "name": "eat dinner",
-    "trans": [
-        "吃晚饭"
-    ],
-    "usphone": "it ˈdɪnər",
-    "ukphone": "iːt ˈdɪnər"
-},
-{
-    "name": "go to bed",
-    "trans": [
-        "上床",
-        "睡觉"
-    ],
-    "usphone": "ɡoʊ tu bɛd",
-    "ukphone": "ɡəʊ tu bɛd"
-},
-{
-    "name": "when",
-    "trans": [
-        "什么时候",
-        "何时"
-    ],
-    "usphone": "wɛn",
-    "ukphone": "wɛn"
-},
-{
-    "name": "every day",
-    "trans": [
-        "每天"
-    ],
-    "usphone": "ˈɛvri deɪ",
-    "ukphone": "ˈɛvri deɪ"
-},
-{
-    "name": "at",
-    "trans": [
-        "在……点钟"
-    ],
-    "usphone": "æt",
-    "ukphone": "æt"
-},
-{
-    "name": "Sunday",
-    "trans": [
-        "星期天"
-    ],
-    "usphone": "ˈsʌndeɪ",
-    "ukphone": "ˈsʌndeɪ"
-},
-{
-    "name": "Monday",
-    "trans": [
-        "星期一"
-    ],
-    "usphone": "ˈmʌndeɪ",
-    "ukphone": "ˈmʌndeɪ"
-},
-{
-    "name": "Tuesday",
-    "trans": [
-        "星期二"
-    ],
-    "usphone": "ˈtuzdeɪ",
-    "ukphone": "ˈtjuːzdeɪ"
-},
-{
-    "name": "Wednesday",
-    "trans": [
-        "星期三"
-    ],
-    "usphone": "ˈwɛnzdeɪ",
-    "ukphone": "ˈwɛnzdeɪ"
-},
-{
-    "name": "Thursday",
-    "trans": [
-        "星期四"
-    ],
-    "usphone": "ˈθɜrzdeɪ",
-    "ukphone": "ˈθɜːrzdeɪ"
-},
-{
-    "name": "Friday",
-    "trans": [
-        "星期五"
-    ],
-    "usphone": "ˈfraɪdeɪ",
-    "ukphone": "ˈfraɪdeɪ"
-},
-{
-    "name": "Saturday",
-    "trans": [
-        "星期六"
-    ],
-    "usphone": "ˈsætərdeɪ",
-    "ukphone": "ˈsætərdeɪ"
-},
-{
-    "name": "today",
-    "trans": [
-        "今天"
-    ],
-    "usphone": "təˈdeɪ",
-    "ukphone": "təˈdeɪ"
-}
+    {
+        "name": "play football",
+        "trans": [
+            "phr. to take part in a game of football"
+        ],
+        "usphone": "pleɪ ˈfʊtˌbɔːl",
+        "ukphone": "pleɪ ˈfʊtˌbɔːl"
+    },
+    {
+        "name": "fly a kite",
+        "trans": [
+            "放风筝"
+        ],
+        "usphone": "flaɪ ə kaɪt",
+        "ukphone": "flaɪ ə kaɪt"
+    },
+    {
+        "name": "ride a bike",
+        "trans": [
+            "骑自行车"
+        ],
+        "usphone": "raɪd ə baɪk",
+        "ukphone": "raɪd ə baɪk"
+    },
+    {
+        "name": "make a model plane",
+        "trans": [
+            "做飞机模型"
+        ],
+        "usphone": "meɪk ə ˈmɑːdl pleɪn",
+        "ukphone": "meɪk ə ˈmɒdl pleɪn"
+    },
+    {
+        "name": "swim",
+        "trans": [
+            "v. travel through water; be afloat either on or below a liquid surface and not sink to the bottom"
+        ],
+        "usphone": "swɪm",
+        "ukphone": "swɪm"
+    },
+    {
+        "name": "make a snowman",
+        "trans": [
+            "堆雪人"
+        ],
+        "usphone": "meɪk ə ˈsnoʊˌmæn",
+        "ukphone": "meɪk ə ˈsnəʊˌmæn"
+    },
+    {
+        "name": "can't",
+        "trans": [
+            "aux. short for \"cannot\""
+        ],
+        "usphone": "kænt",
+        "ukphone": "kɑːnt"
+    },
+    {
+        "name": "rainy",
+        "trans": [
+            "adj. (of weather) wet by periods of rain"
+        ],
+        "usphone": "ˈreɪni",
+        "ukphone": "ˈreɪni"
+    },
+    {
+        "name": "cloudy",
+        "trans": [
+            "adj. lacking definite form or limits"
+        ],
+        "usphone": "ˈklaʊdi",
+        "ukphone": "ˈklaʊdi"
+    },
+    {
+        "name": "snowy",
+        "trans": [
+            "adj. marked by the presence of snow"
+        ],
+        "usphone": "ˈsnoʊi",
+        "ukphone": "ˈsnəʊi"
+    },
+    {
+        "name": "windy",
+        "trans": [
+            "adj. abounding in or exposed to the wind or breezes"
+        ],
+        "usphone": "ˈwɪndi",
+        "ukphone": "ˈwɪndi"
+    },
+    {
+        "name": "sunny",
+        "trans": [
+            "adj. bright and pleasant; promoting a feeling of cheer"
+        ],
+        "usphone": "ˈsʌni",
+        "ukphone": "ˈsʌni"
+    },
+    {
+        "name": "umbrella",
+        "trans": [
+            "n. a lightweight handheld collapsible canopy"
+        ],
+        "usphone": "ʌmˈbrɛlə",
+        "ukphone": "ʌmˈbrɛlə"
+    },
+    {
+        "name": "weather",
+        "trans": [
+            "n. the atmospheric conditions that comprise the state of the atmosphere in terms of temperature and wind and clouds and precipitation",
+            "adj. towards the side exposed to wind"
+        ],
+        "usphone": "ˈwɛðər",
+        "ukphone": "ˈwɛðər"
+    },
+    {
+        "name": "wow",
+        "trans": [
+            "n. a joke that seems extremely funny",
+            "v. impress greatly"
+        ],
+        "usphone": "waʊ",
+        "ukphone": "waʊ"
+    },
+    {
+        "name": "let's",
+        "trans": [
+            "phr. short for \"let us\"; used to make a suggestion"
+        ],
+        "usphone": "lɛts",
+        "ukphone": "lɛts"
+    },
+    {
+        "name": "spring",
+        "trans": [
+            "n. the season of growth; a metal elastic device that returns to its shape or position when pushed or pulled or pressed",
+            "v. move forward by leaps and bounds; develop into a distinctive entity"
+        ],
+        "usphone": "sprɪŋ",
+        "ukphone": "sprɪŋ"
+    },
+    {
+        "name": "summer",
+        "trans": [
+            "n. the warmest season of the year; in the northern hemisphere it extends from the summer solstice to the autumnal equinox"
+        ],
+        "usphone": "ˈsʌmər",
+        "ukphone": "ˈsʌmər"
+    },
+    {
+        "name": "autumn",
+        "trans": [
+            "n. the season when the leaves fall from the trees"
+        ],
+        "usphone": "ˈɔːtəm",
+        "ukphone": "ˈɔːtəm"
+    },
+    {
+        "name": "winter",
+        "trans": [
+            "n. the coldest season of the year; in the northern hemisphere it extends from the winter solstice to the vernal equinox",
+            "v. spend the winter"
+        ],
+        "usphone": "ˈwɪntər",
+        "ukphone": "ˈwɪntər"
+    },
+    {
+        "name": "hot",
+        "trans": [
+            "adj. used of physical heat; having a high or higher than desirable temperature or giving off heat or feeling or causing a sensation of heat or burning"
+        ],
+        "usphone": "hɑt",
+        "ukphone": "hɒt"
+    },
+    {
+        "name": "warm",
+        "trans": [
+            "adj. having or producing a comfortable and agreeable degree of heat or imparting or maintaining heat; psychologically warm; friendly and responsive",
+            "v. get warm or warmer; make warm or warmer"
+        ],
+        "usphone": "wɔrm",
+        "ukphone": "wɔːm"
+    },
+    {
+        "name": "cool",
+        "trans": [
+            "adj. neither warm nor very cold; giving relief from heat; marked by calm self-control (especially in trying circumstances); unemotional",
+            "v. make cool or cooler; loose heat"
+        ],
+        "usphone": "kul",
+        "ukphone": "kuːl"
+    },
+    {
+        "name": "cold",
+        "trans": [
+            "adj. having a low or inadequate temperature or feeling a sensation of coldness or having been made cold by e.g. ice or refrigeration",
+            "n. a mild viral infection involving the nose and respiratory passages (but not the lungs); the absence of heat"
+        ],
+        "usphone": "koʊld",
+        "ukphone": "kəʊld"
+    },
+    {
+        "name": "favourite",
+        "trans": [
+            "n. a competitor thought likely to win",
+            "adj. appealing to the general public"
+        ],
+        "usphone": "ˈfeɪvərɪt",
+        "ukphone": "ˈfeɪvərɪt"
+    },
+    {
+        "name": "season",
+        "trans": [
+            "n. a period of the year marked by special events or activities in some field"
+        ],
+        "usphone": "ˈsiːzən",
+        "ukphone": "ˈsiːzən"
+    },
+    {
+        "name": "eleven",
+        "trans": [
+            "adj. being one more than ten"
+        ],
+        "usphone": "ɪˈlɛvən",
+        "ukphone": "ɪˈlɛvən"
+    },
+    {
+        "name": "twelve",
+        "trans": [
+            "adj. denoting a quantity consisting of 12 items or units",
+            "n. the cardinal number that is the sum of eleven and one"
+        ],
+        "usphone": "twɛlv",
+        "ukphone": "twɛlv"
+    },
+    {
+        "name": "twenty",
+        "trans": [
+            "adj. denoting a quantity consisting of 20 items or units",
+            "n. the cardinal number that is the sum of nineteen and one"
+        ],
+        "usphone": "ˈtwɛnti",
+        "ukphone": "ˈtwɛnti"
+    },
+    {
+        "name": "thirty",
+        "trans": [
+            "adj. being ten more than twenty",
+            "n. the cardinal number that is the product of ten and three"
+        ],
+        "usphone": "ˈθɜːrti",
+        "ukphone": "ˈθɜːti"
+    },
+    {
+        "name": "forty",
+        "trans": [
+            "adj. being ten more than thirty"
+        ],
+        "usphone": "ˈfɔːrti",
+        "ukphone": "ˈfɔːrti"
+    },
+    {
+        "name": "fifty",
+        "trans": [
+            "adj. being ten more than forty",
+            "n. the cardinal number that is the product of ten and five"
+        ],
+        "usphone": "ˈfɪfti",
+        "ukphone": "ˈfɪfti"
+    },
+    {
+        "name": "thirteen",
+        "trans": [
+            "adj. being one more than twelve",
+            "n. the cardinal number that is the sum of twelve and one"
+        ],
+        "usphone": "ˈθɜːrˌtin",
+        "ukphone": "ˈθɜːrˌtin"
+    },
+    {
+        "name": "fourteen",
+        "trans": [
+            "adj. being one more than thirteen",
+            "n. the cardinal number that is the sum of thirteen and one"
+        ],
+        "usphone": "ˈfɔrtˌtin",
+        "ukphone": "ˈfɔːˌtin"
+    },
+    {
+        "name": "fifteen",
+        "trans": [
+            "adj. being one more than fourteen",
+            "n. the cardinal number that is the sum of fourteen and one"
+        ],
+        "usphone": "ˌfɪfˈtin",
+        "ukphone": "ˌfɪfˈtin"
+    },
+    {
+        "name": "time",
+        "trans": [
+            "n. an instance or single occasion for some event; a period of time considered as a resource under your control and sufficient to accomplish something",
+            "v. measure the time or duration of an event or action or the person who performs an action in a certain period of time; assign a time for an activity or event"
+        ],
+        "usphone": "taɪm",
+        "ukphone": "taɪm"
+    },
+    {
+        "name": "playtime",
+        "trans": [
+            "n. time for play or diversion"
+        ],
+        "usphone": "pleɪtaɪm",
+        "ukphone": "pleɪtaɪm"
+    },
+    {
+        "name": "get up",
+        "trans": [
+            "v. rise to one's feet; get up and out of bed"
+        ],
+        "usphone": "ɡɛt ʌp",
+        "ukphone": "ɡɛt ʌp"
+    },
+    {
+        "name": "eat breakfast",
+        "trans": [
+            "吃早饭"
+        ],
+        "usphone": "it ˈbrɛkˌfəst",
+        "ukphone": "iːt ˈbrɛkfəst"
+    },
+    {
+        "name": "go to school",
+        "trans": [
+            "phr. to attend school"
+        ],
+        "usphone": "ɡoʊ tu skul",
+        "ukphone": "ɡəʊ tuː skuːl"
+    },
+    {
+        "name": "eat lunch",
+        "trans": [
+            "吃午饭"
+        ],
+        "usphone": "it lʌntʃ",
+        "ukphone": "iːt lʌntʃ"
+    },
+    {
+        "name": "go home",
+        "trans": [
+            "v. return home"
+        ],
+        "usphone": "ɡoʊ hoʊm",
+        "ukphone": "ɡəʊ həʊm"
+    },
+    {
+        "name": "eat dinner",
+        "trans": [
+            "吃晚饭"
+        ],
+        "usphone": "it ˈdɪnər",
+        "ukphone": "iːt ˈdɪnər"
+    },
+    {
+        "name": "go to bed",
+        "trans": [
+            "v. prepare for sleep"
+        ],
+        "usphone": "ɡoʊ tu bɛd",
+        "ukphone": "ɡəʊ tu bɛd"
+    },
+    {
+        "name": "when",
+        "trans": [
+            "adv. at what time",
+            "conj. at the time that; whenever"
+        ],
+        "usphone": "wɛn",
+        "ukphone": "wɛn"
+    },
+    {
+        "name": "every day",
+        "trans": [
+            "每天"
+        ],
+        "usphone": "ˈɛvri deɪ",
+        "ukphone": "ˈɛvri deɪ"
+    },
+    {
+        "name": "at",
+        "trans": [
+            "prep. indicating a point in space or time",
+            "prep. indicating a direction or target"
+        ],
+        "usphone": "æt",
+        "ukphone": "æt"
+    },
+    {
+        "name": "Sunday",
+        "trans": [
+            "n. first day of the week; observed as a day of rest and worship by most Christians"
+        ],
+        "usphone": "ˈsʌndeɪ",
+        "ukphone": "ˈsʌndeɪ"
+    },
+    {
+        "name": "Monday",
+        "trans": [
+            "n. the second day of the week; the first working day"
+        ],
+        "usphone": "ˈmʌndeɪ",
+        "ukphone": "ˈmʌndeɪ"
+    },
+    {
+        "name": "Tuesday",
+        "trans": [
+            "n. the third day of the week; the second working day"
+        ],
+        "usphone": "ˈtuzdeɪ",
+        "ukphone": "ˈtjuːzdeɪ"
+    },
+    {
+        "name": "Wednesday",
+        "trans": [
+            "n. the fourth day of the week; the third working day"
+        ],
+        "usphone": "ˈwɛnzdeɪ",
+        "ukphone": "ˈwɛnzdeɪ"
+    },
+    {
+        "name": "Thursday",
+        "trans": [
+            "n. the fifth day of the week; the fourth working day"
+        ],
+        "usphone": "ˈθɜrzdeɪ",
+        "ukphone": "ˈθɜːrzdeɪ"
+    },
+    {
+        "name": "Friday",
+        "trans": [
+            "n. the sixth day of the week; the fifth working day"
+        ],
+        "usphone": "ˈfraɪdeɪ",
+        "ukphone": "ˈfraɪdeɪ"
+    },
+    {
+        "name": "Saturday",
+        "trans": [
+            "n. the seventh and last day of the week; observed as the Sabbath by Jews and some Christians"
+        ],
+        "usphone": "ˈsætərdeɪ",
+        "ukphone": "ˈsætərdeɪ"
+    },
+    {
+        "name": "today",
+        "trans": [
+            "n. the present time or age; the day that includes the present moment (as opposed to yesterday or tomorrow)",
+            "adv. in these times; on this day as distinct from yesterday or tomorrow"
+        ],
+        "usphone": "təˈdeɪ",
+        "ukphone": "təˈdeɪ"
+    }
 ]

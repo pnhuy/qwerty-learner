@@ -122,8 +122,8 @@ export function getUTCUnixTimestamp() {
 export function timeStamp2String(timestamp: number) {
   const date = new Date(timestamp * 1000)
 
-  const dateString = date.toLocaleDateString('zh-CN', { month: '2-digit', day: '2-digit' })
-  const timeString = date.toLocaleTimeString('zh-CN', { hour: '2-digit', minute: '2-digit', hour12: false })
+  const dateString = date.toLocaleDateString('en-US', { month: '2-digit', day: '2-digit' })
+  const timeString = date.toLocaleTimeString('en-US', { hour: '2-digit', minute: '2-digit', hour12: false })
 
   return `${dateString} ${timeString}`
 }

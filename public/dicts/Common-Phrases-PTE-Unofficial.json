@@ -398,325 +398,349 @@
     {
         "name": "admit doing sth.",
         "trans": [
-            "phrase. 承认做某事"
+            "v. declare to be true or admit the existence or reality or truth of; allow to enter; grant entry to"
         ]
     },
     {
         "name": "advise doing sth.",
         "trans": [
-            "phrase. 建议做某事"
+            "v. give advice to; inform (somebody) of something"
         ]
     },
     {
         "name": "allow doing sth.",
         "trans": [
-            "phrase. 允许做某事"
+            "v. make it possible through a specific action or lack of action for something to happen; consent to, give permission"
         ]
     },
     {
         "name": "appreciate doing sth.",
         "trans": [
-            "phrase. 感激做某事"
+            "v. recognize with gratitude; be grateful for; be fully aware of; realize fully"
         ]
     },
     {
         "name": "avoid doing sth.",
         "trans": [
-            "phrase. 避免做某事"
+            "v. stay clear from; keep away from; keep out of the way of someone or something; prevent the occurrence of; prevent from happening"
         ]
     },
     {
         "name": "consider doing sth.",
         "trans": [
-            "phrase. 考虑做某事"
+            "v. deem to be; give careful consideration to"
         ]
     },
     {
         "name": "delay doing sth.",
         "trans": [
-            "phrase. 推迟做某事"
+            "v. cause to be slowed down or delayed; act later than planned, scheduled, or required",
+            "n. time during which some action is awaited; the act of delaying; inactivity resulting in something being put off until a later time"
         ]
     },
     {
         "name": "deny doing sth.",
         "trans": [
-            "phrase. 否认做某事"
+            "v. declare untrue; contradict; refuse to accept or believe"
         ]
     },
     {
         "name": "discuss doing sth.",
         "trans": [
-            "phrase. 讨论做某事"
+            "v. to consider or examine in speech or writing; speak with others about (something); talk (something) over in detail; have a discussion"
         ]
     },
     {
         "name": "dislike doing sth.",
         "trans": [
-            "phrase. 不喜欢做某事"
+            "v. have or feel a dislike or distaste for",
+            "n. an inclination to withhold approval from some person or group; a feeling of aversion or antipathy"
         ]
     },
     {
         "name": "enjoy doing sth.",
         "trans": [
-            "phrase. 喜爱做某事"
+            "v. derive or receive pleasure from; get enjoyment from; take pleasure in; have benefit from"
         ]
     },
     {
         "name": "escape doing sth.",
         "trans": [
-            "phrase. 逃脱做某事"
+            "v. run away from confinement; fail to experience",
+            "n. the act of escaping physically; an inclination to retreat from unpleasant realities through diversion or fantasy"
         ]
     },
     {
         "name": "excuse doing sth.",
         "trans": [
-            "phrase. 原谅做某事"
+            "n. a defense of some offensive behavior or some failure to keep a promise etc.",
+            "v. accept an excuse for; grant exemption or release to"
         ]
     },
     {
         "name": "fancy doing sth.",
         "trans": [
-            "phrase. 设想做某事"
+            "v. imagine; conceive of; see in one's mind; have a fancy or particular liking or desire for",
+            "adj. not plain; decorative or ornamented",
+            "n. something many people believe that is false; a kind of imagination that was held by Coleridge to be more casual and superficial than true imagination"
         ]
     },
     {
         "name": "finish doing sth.",
         "trans": [
-            "phrase. 完成做某事"
+            "v. come or bring to a finish or an end; finally be or do something",
+            "n. a decorative texture or appearance of a surface (or the substance that gives it that appearance)"
         ]
     },
     {
         "name": "forbid doing sth.",
         "trans": [
-            "phrase. 禁止做某事"
+            "v. command against; keep from happening or arising; make impossible"
         ]
     },
     {
         "name": "forgive doing sth.",
         "trans": [
-            "phrase. 原谅做某事"
+            "v. stop blaming or grant forgiveness; absolve from payment"
         ]
     },
     {
         "name": "give up doing sth.",
         "trans": [
-            "phrase. 放弃做某事"
+            "v. lose (s.th.) or lose the right to (s.th.) by some error, offense, or crime; give up with the intent of never claiming again"
         ]
     },
     {
         "name": "imagine doing sth.",
         "trans": [
-            "phrase. 想象做某事"
+            "v. form a mental image of something that is not present or that is not the case; expect, believe, or suppose"
         ]
     },
     {
         "name": "keep doing sth.",
         "trans": [
-            "phrase. 保持做某事"
+            "v. keep in a certain state, position, or activity; e.g.,; continue a certain state, condition, or activity"
         ]
     },
     {
         "name": "mention doing sth.",
         "trans": [
-            "phrase. 提及做某事"
+            "v. make reference to; make mention of",
+            "n. a remark that calls attention to something or someone; a short note recognizing a source of information or of a quoted passage"
         ]
     },
     {
         "name": "mind doing sth.",
         "trans": [
-            "phrase. 介意做某事"
+            "n. that which is responsible for one's thoughts and feelings; the seat of the faculty of reason; recall or remembrance",
+            "v. be offended or bothered by; take offense with, be bothered by; be concerned with or about something or somebody"
         ]
     },
     {
         "name": "miss doing sth.",
         "trans": [
-            "phrase. 错过做某事"
+            "v. fail to perceive or to catch with the senses or the mind; feel or suffer from the lack of",
+            "n. a young woman; a failure to hit (or meet or find etc)"
         ]
     },
     {
         "name": "pardon doing sth.",
         "trans": [
-            "phrase. 原谅做某事"
+            "v. accept an excuse for; grant a pardon to",
+            "n. the act of excusing a mistake or offense"
         ]
     },
     {
         "name": "permit doing sth.",
         "trans": [
-            "phrase. 允许做某事"
+            "v. consent to, give permission; make it possible through a specific action or lack of action for something to happen",
+            "n. a legal document giving official permission to do something; the act of giving a formal (usually written) authorization"
         ]
     },
     {
         "name": "practice doing sth.",
         "trans": [
-            "phrase. 练习做某事"
+            "n. a customary way of operation or behavior; systematic training by multiple repetitions",
+            "v. carry out or practice; as of jobs and professions; learn by repetition"
         ]
     },
     {
         "name": "prevent doing sth.",
         "trans": [
-            "phrase. 阻止做某事"
+            "v. keep from happening or arising; make impossible; stop (someone or something) from doing something or being in a certain state"
         ]
     },
     {
         "name": "prohibit doing sth.",
         "trans": [
-            "phrase. 禁止做某事"
+            "v. command against"
         ]
     },
     {
         "name": "put off doing sth.",
         "trans": [
-            "phrase. 推迟做某事"
+            "v. hold back to a later time; cause to feel intense dislike or distaste"
         ]
     },
     {
         "name": "report doing sth.",
         "trans": [
-            "phrase. 报告做某事"
+            "v. to give an account or representation of in words; announce as the result of an investigation or experience or finding",
+            "n. a written document describing the findings of some individual or group; the act of informing by verbal report"
         ]
     },
     {
         "name": "risk doing sth.",
         "trans": [
-            "phrase. 冒险做某事"
+            "v. expose to a chance of loss or damage; take a risk in the hope of a favorable outcome",
+            "n. a source of danger; a possibility of incurring loss or misfortune; a venture undertaken without regard to possible loss or injury"
         ]
     },
     {
         "name": "stop doing sth.",
         "trans": [
-            "phrase. 停止做某事"
+            "v. come to a halt, stop moving; put an end to a state or an activity",
+            "n. the event of something ending; the act of stopping something"
         ]
     },
     {
         "name": "suggest doing sth.",
         "trans": [
-            "phrase. 建议做某事"
+            "v. make a proposal, declare a plan for something; drop a hint; intimate by a hint"
         ]
     },
     {
         "name": "understand doing sth.",
         "trans": [
-            "phrase. 理解做某事"
+            "v. know and comprehend the nature or meaning of; perceive (an idea or situation) mentally"
         ]
     },
     {
         "name": "bring sb. doing sth.",
         "trans": [
-            "phrase. 引起某人做某事"
+            "v. take something or somebody with oneself somewhere; cause to come into a particular state or condition"
         ]
     },
     {
         "name": "catch sb. doing sth.",
         "trans": [
-            "phrase. 碰上（撞上）某人做某事"
+            "v. discover or come upon accidentally, suddenly, or unexpectedly; catch somebody doing something or in a certain state",
+            "n. a drawback or difficulty that is not readily evident"
         ]
     },
     {
         "name": "discover sb. doing sth.",
         "trans": [
-            "phrase. 发现某人做某事"
+            "v. discover or determine the existence, presence, or fact of; get to know or become aware of, usually accidentally"
         ]
     },
     {
         "name": "feel sb. doing sth.",
         "trans": [
-            "phrase. 感觉某人做某事"
+            "v. undergo an emotional sensation or be in a particular state of mind; come to believe on the basis of emotion, intuitions, or indefinite grounds",
+            "n. an intuitive awareness; the general atmosphere of a place or situation and the effect that it has on people"
         ]
     },
     {
         "name": "find sb. doing sth.",
         "trans": [
-            "phrase. 碰上（撞上）某人做某事"
+            "v. come upon, as if by accident; meet with; discover or determine the existence, presence, or fact of"
         ]
     },
     {
         "name": "get sb. doing sth.",
         "trans": [
-            "phrase. 使某人做某事"
+            "v. come into the possession of something concrete or abstract; enter or assume a certain state or condition"
         ]
     },
     {
         "name": "have sb. doing sth.",
         "trans": [
-            "phrase. 使某人做某事"
+            "v. have or possess, either in a concrete or an abstract sense; have as a feature"
         ]
     },
     {
         "name": "hear sb. doing sth.",
         "trans": [
-            "phrase. 听见某人做某事"
+            "v. perceive (sound) via the auditory sense; get to know or become aware of, usually accidentally"
         ]
     },
     {
         "name": "keep sb. doing sth.",
         "trans": [
-            "phrase. 使某人不停地做某事"
+            "v. keep in a certain state, position, or activity; e.g.,; continue a certain state, condition, or activity"
         ]
     },
     {
         "name": "listen to sb. doing sth.",
         "trans": [
-            "phrase. 听某人做某事"
+            "phr. to give attention to a sound or speaker"
         ]
     },
     {
         "name": "look at sb. doing sth.",
         "trans": [
-            "phrase. 看着某人做某事"
+            "v. take into consideration for exemplifying purposes; look at carefully; study mentally"
         ]
     },
     {
         "name": "notice sb. doing sth.",
         "trans": [
-            "phrase. 注意到某人做某事"
+            "v. discover or determine the existence, presence, or fact of; notice or perceive",
+            "n. an announcement containing information about an event; \"a notice of sale; the act of noticing or paying attention"
         ]
     },
     {
         "name": "observe sb. doing sth.",
         "trans": [
-            "phrase. 观察某人做某事"
+            "v. discover or determine the existence, presence, or fact of; make mention of"
         ]
     },
     {
         "name": "prevent sb. doing sth.",
         "trans": [
-            "phrase. 阻止某人做某事"
+            "v. keep from happening or arising; make impossible; stop (someone or something) from doing something or being in a certain state"
         ]
     },
     {
         "name": "see sb. doing sth.",
         "trans": [
-            "phrase. 看见某人做某事"
+            "v. perceive by sight or have the power to perceive by sight; perceive (an idea or situation) mentally"
         ]
     },
     {
         "name": "send sb. doing sth.",
         "trans": [
-            "phrase. 使某人（突然）做某事"
+            "v. cause to go somewhere; to cause or order to be taken, directed, or transmitted to another place"
         ]
     },
     {
         "name": "set sb. doing sth.",
         "trans": [
-            "phrase. 使（引起）某人做某事"
+            "v. put into a certain place or abstract location; fix conclusively or authoritatively",
+            "n. a group of things of the same kind that belong together and are so used; (mathematics) an abstract collection of numbers or symbols",
+            "adj. (usually followed by 'to' or 'for') on the point of or strongly disposed; fixed and unmoving"
         ]
     },
     {
         "name": "start sb. doing sth.",
         "trans": [
-            "phrase. 使某人开始做某事"
+            "v. take the first step or steps in carrying out an action; set in motion, cause to start",
+            "n. the beginning of anything; the time at which something is supposed to begin"
         ]
     },
     {
         "name": "stop sb. doing sth.",
         "trans": [
-            "phrase. 阻止某人做某事"
+            "v. come to a halt, stop moving; put an end to a state or an activity",
+            "n. the event of something ending; the act of stopping something"
         ]
     },
     {
         "name": "watch sb. doing sth.",
         "trans": [
-            "phrase. 观察某人做某事"
+            "v. look attentively; follow with the eyes or the mind",
+            "n. a small portable timepiece; a period of time (4 or 2 hours) during which some of a ship's crew are on duty"
         ]
     },
     {
@@ -758,7 +782,7 @@
     {
         "name": "make sb. do sth.",
         "trans": [
-            "phrase. 使某人做某事"
+            "v. come to terms with"
         ]
     },
     {
@@ -818,7 +842,7 @@
     {
         "name": "rid sb. of sth.",
         "trans": [
-            "phrase. 使某人摆脱某物"
+            "v. do away with"
         ]
     },
     {
@@ -914,7 +938,7 @@
     {
         "name": "talk sb. into doing sth.",
         "trans": [
-            "phrase. 说服某人做某事"
+            "v. persuade somebody to do something"
         ]
     },
     {
@@ -1070,7 +1094,7 @@
     {
         "name": "be good at",
         "trans": [
-            "phrase. 善于……"
+            "phr. to be skilful at"
         ]
     },
     {
@@ -1136,7 +1160,7 @@
     {
         "name": "be famous for",
         "trans": [
-            "phrase. 因……闻名"
+            "phr. to be well known because of"
         ]
     },
     {
@@ -1220,7 +1244,7 @@
     {
         "name": "be far from",
         "trans": [
-            "phrase. 离……远，远远不"
+            "phr. to be not at all"
         ]
     },
     {
@@ -1286,7 +1310,7 @@
     {
         "name": "be interested in",
         "trans": [
-            "phrase. 对……感兴趣"
+            "phr. to want to know or learn about something"
         ]
     },
     {
@@ -1322,7 +1346,7 @@
     {
         "name": "be afraid of",
         "trans": [
-            "phrase. 害怕"
+            "phr. to feel fear of"
         ]
     },
     {
@@ -1334,13 +1358,13 @@
     {
         "name": "be aware of",
         "trans": [
-            "phrase. 意识到，知道"
+            "phr. to know or realize something"
         ]
     },
     {
         "name": "be capable of",
         "trans": [
-            "phrase. 能够，可以"
+            "phr. to have the ability to do something"
         ]
     },
     {
@@ -1358,7 +1382,7 @@
     {
         "name": "be fond of",
         "trans": [
-            "phrase. 喜欢"
+            "phr. to like very much"
         ]
     },
     {
@@ -1388,7 +1412,7 @@
     {
         "name": "be proud of",
         "trans": [
-            "phrase. 为……自豪"
+            "adj. feeling pleasurable satisfaction over something by which you measures your self-worth"
         ]
     },
     {
@@ -1406,7 +1430,7 @@
     {
         "name": "be sick of",
         "trans": [
-            "phrase. 对……厌倦"
+            "adj. having a strong distaste from surfeit"
         ]
     },
     {
@@ -1418,7 +1442,7 @@
     {
         "name": "be tired of",
         "trans": [
-            "phrase. 对……厌烦"
+            "adj. having a strong distaste from surfeit"
         ]
     },
     {
@@ -1478,7 +1502,7 @@
     {
         "name": "be familiar with",
         "trans": [
-            "phrase. 熟悉，精通"
+            "phr. to know something well"
         ]
     },
     {
@@ -1508,13 +1532,13 @@
     {
         "name": "be popular with",
         "trans": [
-            "phrase. 受……欢迎"
+            "phr. to be liked by many people of a group"
         ]
     },
     {
         "name": "be satisfied with",
         "trans": [
-            "phrase. 对……满意"
+            "phr. to be pleased with; to feel that something is good enough"
         ]
     },
     {
@@ -1538,7 +1562,7 @@
     {
         "name": "be close to",
         "trans": [
-            "phrase. 靠近，接近"
+            "adv. (of quantities) imprecise but fairly close to correct"
         ]
     },
     {
@@ -1556,7 +1580,7 @@
     {
         "name": "be equal to",
         "trans": [
-            "phrase. 等于，能胜任"
+            "adj. having the requisite qualities for"
         ]
     },
     {
@@ -1586,7 +1610,7 @@
     {
         "name": "be opposed to",
         "trans": [
-            "phrase. 反对，不赞成"
+            "phr. to disagree with; to be against"
         ]
     },
     {
@@ -1604,7 +1628,7 @@
     {
         "name": "be related to",
         "trans": [
-            "phrase. 与……有关（是亲戚）"
+            "adj. being connected either logically or causally or by shared characteristics"
         ]
     },
     {
@@ -1628,13 +1652,13 @@
     {
         "name": "be true to",
         "trans": [
-            "phrase. 忠实于，信守"
+            "adj. sexually faithful"
         ]
     },
     {
         "name": "be used to",
         "trans": [
-            "phrase. 习惯于"
+            "phr. to be accustomed to"
         ]
     },
     {

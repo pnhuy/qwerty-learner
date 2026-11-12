@@ -2,7 +2,7 @@
     {
         "name": "straight",
         "trans": [
-            "adv.直地；直线地"
+            "adv. without deviation; in a forthright manner; candidly or frankly"
         ]
     },
     {
@@ -14,43 +14,45 @@
     {
         "name": "left",
         "trans": [
-            "adv.左边；向左；左边的"
+            "adv. toward or on the left; also used figuratively"
         ]
     },
     {
         "name": "right",
         "trans": [
-            "adv.右边；向右；右边的"
+            "adv. precisely, exactly; immediately"
         ]
     },
     {
         "name": "lost",
         "trans": [
-            "adv.迷路的"
+            "adj. no longer in your possession or control; unable to be found or recovered; having lost your bearings; confused as to time or place or personal identity",
+            "n. people who are destined to die soon"
         ]
     },
     {
         "name": "live",
         "trans": [
-            "adv.居住"
+            "adv. not recorded"
         ]
     },
     {
         "name": "No.",
         "trans": [
-            "adv.（number的缩写）第......号"
+            "det. not any",
+            "adv. used to give a negative answer"
         ]
     },
     {
         "name": "street",
         "trans": [
-            "adv.大街，街道"
+            "n. a thoroughfare (usually including sidewalks) that is lined with buildings"
         ]
     },
     {
         "name": "excuse me",
         "trans": [
-            "adv.对不起，打扰一下"
+            "phr. a polite expression used to get attention or apologize"
         ]
     },
     {
@@ -68,25 +70,25 @@
     {
         "name": "next to",
         "trans": [
-            "adv.紧靠......旁边，贴近"
+            "prep. beside; very close to"
         ]
     },
     {
         "name": "supermarket",
         "trans": [
-            "adv.超市"
+            "n. a large self-service grocery store selling groceries and dairy products and household goods"
         ]
     },
     {
         "name": "beside",
         "trans": [
-            "adv.在......旁边，在......附近"
+            "prep. at the side of; next to"
         ]
     },
     {
         "name": "cinema",
         "trans": [
-            "adv.电影院"
+            "n. a medium that disseminates moving pictures"
         ]
     },
     {
@@ -104,7 +106,8 @@
     {
         "name": "station",
         "trans": [
-            "adv.车站"
+            "n. a facility equipped with special equipment and personnel for a particular purpose",
+            "v. assign to a station"
         ]
     },
     {
@@ -116,49 +119,53 @@
     {
         "name": "hill",
         "trans": [
-            "adv.小山"
+            "n. a local and well-defined elevation of the land; structure consisting of an artificial heap or bank usually of earth or stones"
         ]
     },
     {
         "name": "near",
         "trans": [
-            "adv.接近，临近"
+            "prep. / adv. at or to a short distance from",
+            "adj. close in space or time"
         ]
     },
     {
         "name": "house",
         "trans": [
-            "adv.房屋"
+            "n. a dwelling that serves as living quarters for one or more families; the members of a business organization that owns or operates one or more establishments",
+            "v. contain or cover; provide housing for"
         ]
     },
     {
         "name": "read",
         "trans": [
-            "adv.读，阅读"
+            "v. interpret something that is written or printed; have or contain a certain wording or form"
         ]
     },
     {
         "name": "running",
         "trans": [
-            "adv.跑步"
+            "n. (American football) a play in which a player attempts to carry the ball through or past the opposing team; the act of running; traveling on foot at a fast pace",
+            "adj. (of fluids) moving or issuing in a stream; continually repeated over a period of time"
         ]
     },
     {
         "name": "these",
         "trans": [
-            "adv.这些"
+            "det. / pron. plural of \"this\"; the people or things near the speaker"
         ]
     },
     {
         "name": "picture",
         "trans": [
-            "adv.照片"
+            "n. a visual representation (of an object or scene or person or abstraction) produced on a surface",
+            "v. imagine; conceive of; see in one's mind; show in, or as in, a picture"
         ]
     },
     {
         "name": "take",
         "trans": [
-            "adv.拍摄"
+            "v. carry out; require (time or space)"
         ]
     },
     {
@@ -170,25 +177,26 @@
     {
         "name": "children",
         "trans": [
-            "adv.（child的复数形式）孩子们"
+            "n. a young person of either sex; a human offspring (son or daughter) of any age"
         ]
     },
     {
         "name": "listen",
         "trans": [
-            "adv.听"
+            "v. hear with intention; listen and pay attention"
         ]
     },
     {
         "name": "listen to",
         "trans": [
-            "adv.听"
+            "phr. to give attention to a sound or speaker"
         ]
     },
     {
         "name": "talk",
         "trans": [
-            "adv.说话，交谈"
+            "v. exchange thoughts; talk with; express in speech",
+            "n. an exchange of ideas via conversation; discussion; ('talk about' is a less formal alternative for 'discussion of')"
         ]
     },
     {
@@ -200,37 +208,39 @@
     {
         "name": "china",
         "trans": [
-            "adv.中国"
+            "n. a communist nation that covers a vast territory in eastern Asia; the most populous country in the world; high quality porcelain originally made only in China"
         ]
     },
     {
         "name": "kid",
         "trans": [
-            "adv.小孩"
+            "n. a young person of either sex",
+            "v. tell false information to for fun; be silly or tease one another"
         ]
     },
     {
         "name": "get on",
         "trans": [
-            "adv.上（车）"
+            "v. have smooth relations; get on board of (trains, buses, ships, aircraft, etc.)"
         ]
     },
     {
         "name": "can",
         "trans": [
-            "adv.能够，会"
+            "aux. to be able to; to be allowed to",
+            "n. a metal container for food or drink"
         ]
     },
     {
         "name": "see",
         "trans": [
-            "adv.看到"
+            "v. perceive by sight or have the power to perceive by sight; perceive (an idea or situation) mentally"
         ]
     },
     {
         "name": "lots of",
         "trans": [
-            "adv.许多"
+            "phr. a large number or amount of"
         ]
     },
     {
@@ -242,19 +252,21 @@
     {
         "name": "thing",
         "trans": [
-            "adv.东西，物品，事情"
+            "n. a special situation; an action"
         ]
     },
     {
         "name": "people",
         "trans": [
-            "adv.人，人们"
+            "n. (plural) any group of human beings (men or women or children) collectively; the body of citizens of a state or country",
+            "v. fill with people"
         ]
     },
     {
         "name": "row",
         "trans": [
-            "adv.话（船）"
+            "n. an arrangement of objects or people side by side in a line; an angry dispute",
+            "v. propel with oars"
         ]
     },
     {
@@ -266,25 +278,25 @@
     {
         "name": "boat",
         "trans": [
-            "adv.船"
+            "n. a small vessel for travel on water"
         ]
     },
     {
         "name": "men",
         "trans": [
-            "adv.（man的复数形式）男人"
+            "n. the force of workers available"
         ]
     },
     {
         "name": "between",
         "trans": [
-            "adv.在......之间，在中间"
+            "prep. in the space or time separating two things"
         ]
     },
     {
         "name": "chess",
         "trans": [
-            "adv.国际象棋"
+            "n. weedy annual native to Europe but widely distributed as a weed especially in wheat"
         ]
     },
     {
@@ -296,25 +308,27 @@
     {
         "name": "drink",
         "trans": [
-            "adv.喝，饮"
+            "v. take in liquids; consume alcohol",
+            "n. a single serving of a beverage; the act of drinking alcoholic beverages to excess"
         ]
     },
     {
         "name": "soya milk",
         "trans": [
-            "adv.豆浆"
+            "n. a milk substitute containing soybean flour and water; used in some infant formulas and in making tofu"
         ]
     },
     {
         "name": "clock",
         "trans": [
-            "adv.钟"
+            "n. a timepiece that shows the time of day",
+            "v. measure the time or duration of an event or action or the person who performs an action in a certain period of time"
         ]
     },
     {
         "name": "hungry",
         "trans": [
-            "adv.饥饿的"
+            "adj. feeling hunger; feeling a need or desire to eat food; (usually followed by 'for') extremely desirous"
         ]
     },
     {
@@ -326,223 +340,233 @@
     {
         "name": "draw",
         "trans": [
-            "adv.画"
+            "v. cause to move by pulling; get or derive",
+            "n. a gully that is shallower than a ravine"
         ]
     },
     {
         "name": "jump",
         "trans": [
-            "adv.跳"
+            "v. move forward by leaps and bounds; move or jump suddenly, as if in surprise or alarm"
         ]
     },
     {
         "name": "sing",
         "trans": [
-            "adv.唱歌"
+            "v. deliver by singing; produce tones with the voice"
         ]
     },
     {
         "name": "dance",
         "trans": [
-            "adv.跳舞"
+            "v. move in a graceful and rhythmical way; move in a pattern; usually to musical accompaniment; do or perform a dance",
+            "n. an artistic form of nonverbal communication; a party of people assembled for dancing"
         ]
     },
     {
         "name": "want",
         "trans": [
-            "adv.想要"
+            "v. feel or have a desire for; want strongly; have need of",
+            "n. a state of extreme poverty; the state of needing something that is absent or unavailable"
         ]
     },
     {
         "name": "some",
         "trans": [
-            "adv.一些"
+            "adv. (of quantities) imprecise but fairly close to correct"
         ]
     },
     {
         "name": "juice",
         "trans": [
-            "adv.果汁"
+            "n. the liquid part that can be extracted from plant or animal tissue by squeezing or cooking"
         ]
     },
     {
         "name": "ice",
         "trans": [
-            "adv.冰，冰块"
+            "n. water frozen in the solid state; the frozen part of a body of water"
         ]
     },
     {
         "name": "also",
         "trans": [
-            "adv.也，还"
+            "adv. in addition"
         ]
     },
     {
         "name": "food",
         "trans": [
-            "adv.食物"
+            "n. any substance that can be metabolized by an animal to give energy and build tissue"
         ]
     },
     {
         "name": "fast food",
         "trans": [
-            "adv.快餐"
+            "n. inexpensive food (hamburgers or chicken or milkshakes) prepared and served quickly"
         ]
     },
     {
         "name": "make",
         "trans": [
-            "adv.制作"
+            "v. engage in; give certain properties to something",
+            "n. a recognizable kind"
         ]
     },
     {
         "name": "tomato",
         "trans": [
-            "adv.番茄，西红柿"
+            "n. mildly acid red or yellow pulpy fruit eaten as a vegetable"
         ]
     },
     {
         "name": "egg",
         "trans": [
-            "adv.鸡蛋"
+            "n. animal reproductive body consisting of an ovum or embryo together with nutritive and protective envelopes…"
         ]
     },
     {
         "name": "potato",
         "trans": [
-            "adv.马铃薯"
+            "n. an edible tuber native to South America; a staple food of Ireland"
         ]
     },
     {
         "name": "How much...?",
         "trans": [
-            "adv.......多少钱？"
+            "phr. used to ask about a quantity or a price"
         ]
     },
     {
         "name": "flower",
         "trans": [
-            "adv.华"
+            "n. a plant cultivated for its blooms or blossoms; reproductive organ of angiosperm plants especially one having showy or colorful parts",
+            "v. produce or yield flowers"
         ]
     },
     {
         "name": "dumpling",
         "trans": [
-            "adv.水饺"
+            "n. small balls or strips of boiled or steamed dough"
         ]
     },
     {
         "name": "help",
         "trans": [
-            "adv.帮助，帮忙"
+            "v. give help or assistance; be of service; improve the condition of",
+            "n. the activity of contributing to the fulfillment of a need or furtherance of an effort or purpose"
         ]
     },
     {
         "name": "buy",
         "trans": [
-            "adv买"
+            "v. obtain by purchase; acquire by means of a financial transaction; make illegal payments to in exchange for favors or influence"
         ]
     },
     {
         "name": "run",
         "trans": [
-            "adv.跑，奔跑"
+            "v. move fast by using one's feet, with one foot off the ground at any given time; flee; take to one's heels; cut and run",
+            "n. a score in baseball made by a runner touching all four bases safely; the act of testing something"
         ]
     },
     {
         "name": "fast",
         "trans": [
-            "adv.快，快速地"
+            "adv. quickly or rapidly (often used as a combining form); firmly or closely"
         ]
     },
     {
         "name": "sky",
         "trans": [
-            "adv.天，天空"
+            "n. the atmosphere and outer space as viewed from the earth"
         ]
     },
     {
         "name": "high",
         "trans": [
-            "adv.高高地"
+            "adv. at a great altitude; in or to a high position, amount, or degree"
         ]
     },
     {
         "name": "winner",
         "trans": [
-            "adv.获胜者"
+            "n. the contestant who wins the contest"
         ]
     },
     {
         "name": "far",
         "trans": [
-            "adv.远"
+            "adv. to a considerable degree; very much; at or to or from a great distance in space"
         ]
     },
     {
         "name": "afraid",
         "trans": [
-            "adv.恐怕"
+            "adj. filled with fear or apprehension; filled with regret or concern; used often to soften an unpleasant statement"
         ]
     },
     {
         "name": "strong",
         "trans": [
-            "adv.健壮的"
+            "adj. having strength or power greater than average or expected; not faint or feeble"
         ]
     },
     {
         "name": "star",
         "trans": [
-            "adv.明星"
+            "n. (astronomy) a celestial body of hot gases that radiates energy derived from thermonuclear reactions in the interior",
+            "v. feature as the star",
+            "adj. indicating the most important performer or role"
         ]
     },
     {
         "name": "sweets",
         "trans": [
-            "adv.（常复）糖果"
+            "n. English phonetician; one of the founders of modern phonetics (1845-1912)"
         ]
     },
     {
         "name": "soup",
         "trans": [
-            "adv.汤"
+            "n. liquid food especially of meat or fish or vegetable stock often containing pieces of solid food"
         ]
     },
     {
         "name": "sorry",
         "trans": [
-            "adv.抱歉，对不起"
+            "adj. feeling or expressing regret or sorrow or a sense of loss over something done or undone; bad; unfortunate"
         ]
     },
     {
         "name": "bread",
         "trans": [
-            "adv.面包"
+            "n. food made from dough of flour or meal and usually raised with yeast or baking powder and then baked"
         ]
     },
     {
         "name": "dark",
         "trans": [
-            "adv.黑暗的"
+            "adj. devoid of or deficient in light or brightness; shadowed or black; (used of color) having a dark hue",
+            "n. absence of light or illumination; absence of moral or spiritual values"
         ]
     },
     {
         "name": "well",
         "trans": [
-            "adv.（语气词）噢"
+            "adv. (often used as a combining form) in a good or proper or satisfactory manner or to a high standard ('good' is a nonstandard dialectal variant for 'well')"
         ]
     },
     {
         "name": "turn on",
         "trans": [
-            "adv.打开"
+            "v. cause to operate by flipping a switch; be contingent on"
         ]
     },
     {
         "name": "light",
         "trans": [
-            "adv.灯"
+            "adv. with few burdens"
         ]
     },
     {
@@ -554,19 +578,19 @@
     {
         "name": "moon",
         "trans": [
-            "adv.月亮，月球"
+            "n. the natural satellite of the Earth; any object resembling a moon"
         ]
     },
     {
         "name": "moon cake ",
         "trans": [
-            "adv.月饼"
+            "n. a round Chinese pastry eaten during the Mid-Autumn Festival"
         ]
     },
     {
         "name": "of course",
         "trans": [
-            "adv.当然"
+            "adv. as might be expected"
         ]
     },
     {
@@ -578,7 +602,7 @@
     {
         "name": "horse",
         "trans": [
-            "adv.马"
+            "n. solid-hoofed herbivorous quadruped domesticated since prehistoric times; a padded gymnastic apparatus on legs"
         ]
     },
     {
@@ -590,121 +614,128 @@
     {
         "name": "have a look",
         "trans": [
-            "adv.看一看"
+            "v. look at with attention"
         ]
     },
     {
         "name": "sheep",
         "trans": [
-            "adv.羊，绵羊"
+            "n. woolly usually horned ruminant mammal related to the goat; a timid defenseless simpleton who is readily preyed upon"
         ]
     },
     {
         "name": "vegetable",
         "trans": [
-            "adv.蔬菜"
+            "n. edible seeds or roots or stems or leaves or bulbs or tubers or nonsweet fruits of any of numerous herbaceous plant"
         ]
     },
     {
         "name": "climb",
         "trans": [
-            "adv.爬，攀爬"
+            "v. go upward with gradual or continuous progress; move with difficulty, by grasping"
         ]
     },
     {
         "name": "face",
         "trans": [
-            "adv.脸，面孔"
+            "n. the front of the human head from the forehead to the chin and ear to ear; the feelings expressed on a person's face",
+            "v. deal with (something unpleasant) head on; oppose, as in hostility or a competition"
         ]
     },
     {
         "name": "fruit",
         "trans": [
-            "adv.水果"
+            "n. the ripened reproductive body of a seed plant; an amount of a product"
         ]
     },
     {
         "name": "chicken",
         "trans": [
-            "adv.鸡"
+            "n. the flesh of a chicken used for food; a domestic fowl bred for flesh or eggs; believed to have been developed from the red jungle fowl"
         ]
     },
     {
         "name": "bear",
         "trans": [
-            "adv.熊"
+            "v. have; cause to be born",
+            "n. massive plantigrade carnivorous or omnivorous mammals with long shaggy coats and strong claws"
         ]
     },
     {
         "name": "pig",
         "trans": [
-            "adv.猪"
+            "n. domestic swine"
         ]
     },
     {
         "name": "visit",
         "trans": [
-            "adv.参观；拜访"
+            "v. go to see a place, as for entertainment; go to certain places as for sightseeing",
+            "n. the act of going to see some person or place or thing for a short time"
         ]
     },
     {
         "name": "tomorrow",
         "trans": [
-            "adv.明天"
+            "adv. the next day, the day after, following the present day"
         ]
     },
     {
         "name": "plane",
         "trans": [
-            "adv.飞机"
+            "n. an aircraft that has a fixed wing and is powered by propellers or jets; (mathematics) an unbounded two-dimensional shape",
+            "v. cut or remove with or as if with a plane",
+            "adj. having a surface without slope, tilt in which no part is higher or lower than another"
         ]
     },
     {
         "name": "get up",
         "trans": [
-            "adv.起床"
+            "v. rise to one's feet; get up and out of bed"
         ]
     },
     {
         "name": "o'clock",
         "trans": [
-            "adv.......点钟"
+            "adv. according to the clock"
         ]
     },
     {
         "name": "from",
         "trans": [
-            "adv.从......来，来自"
+            "prep. indicating the starting point, source or origin"
         ]
     },
     {
         "name": "sea",
         "trans": [
-            "adv.大海"
+            "n. a division of an ocean or a large body of salt water partially enclosed by land; anything apparently limitless in quantity or volume"
         ]
     },
     {
         "name": "swimsuit",
         "trans": [
-            "adv.游泳衣"
+            "n. tight fitting garment worn for swimming"
         ]
     },
     {
         "name": "sock",
         "trans": [
-            "adv.短袜"
+            "n. hosiery consisting of a cloth covering for the foot; worn inside the shoe; reaches to between the ankle and the knee",
+            "v. hit hard"
         ]
     },
     {
         "name": "fish",
         "trans": [
-            "adv.钓鱼"
+            "n. any of various mostly cold-blooded aquatic vertebrates usually having scales and breathing through gills; the flesh of fish used as food",
+            "v. seek indirectly; catch or try to catch fish or shellfish"
         ]
     },
     {
         "name": "hooray",
         "trans": [
-            "adv.（表示激动与高兴的呼喊声）好，好哇"
+            "n. a victory cheer"
         ]
     },
     {
@@ -716,67 +747,69 @@
     {
         "name": "win",
         "trans": [
-            "adv.胜利，取胜"
+            "v. be the winner in a contest or competition; be victorious; win something through one's efforts",
+            "n. a victory (as in a race or other competition)"
         ]
     },
     {
         "name": "month",
         "trans": [
-            "adv.月"
+            "n. one of the twelve divisions of the calendar year; a time unit of approximately 30 days"
         ]
     },
     {
         "name": "hundred",
         "trans": [
-            "adv.一百（100）"
+            "adj. being ten more than ninety",
+            "n. ten 10s"
         ]
     },
     {
         "name": "metre",
         "trans": [
-            "adv.米（长度单位）"
+            "n. the basic unit of length adopted under the Systeme International d'Unites (approximately 1.094 yards)"
         ]
     },
     {
         "name": "every",
         "trans": [
-            "adv.每个，每一"
+            "adj. (used of count nouns) each and all of the members of a group considered singly and without exception"
         ]
     },
     {
         "name": "day",
         "trans": [
-            "adv.一天，一日"
+            "n. time for Earth to make a complete rotation on its axis; some point or period in time"
         ]
     },
     {
         "name": "luck",
         "trans": [
-            "adv.运气"
+            "n. your overall circumstances or condition in life (including everything that happens to you)"
         ]
     },
     {
         "name": "good luck",
         "trans": [
-            "adv.祝你好运"
+            "n. an auspicious state resulting from favorable outcomes"
         ]
     },
     {
         "name": "come on",
         "trans": [
-            "adv.加油"
+            "v. appear or become visible; make a showing; move towards"
         ]
     },
     {
         "name": "high jump",
         "trans": [
-            "adv.跳高"
+            "n. a competition that involves jumping as high as possible over a horizontal bar"
         ]
     },
     {
         "name": "long jump",
         "trans": [
-            "adv.跳远"
+            "n. a competition that involves jumping as far as possible from a running start"
         ]
     },
     {
@@ -788,43 +821,45 @@
     {
         "name": "subject",
         "trans": [
-            "adv.学科，科目"
+            "n. the subject matter of a conversation or discussion; something (a person or object or scene) selected by an artist or photographer for graphic representation",
+            "v. cause to experience or suffer or make liable or vulnerable to; make accountable for"
         ]
     },
     {
         "name": "family",
         "trans": [
-            "adv.家，家庭"
+            "n. a social unit living together; primary social group; parents and children"
         ]
     },
     {
         "name": "dinner",
         "trans": [
-            "adv.晚餐，正餐"
+            "n. the main meal of the day served in the evening or at midday; a party of people assembled to have dinner together"
         ]
     },
     {
         "name": "year",
         "trans": [
-            "adv.年份"
+            "n. a period of time containing 365 (or 366) days; a period of time occupying a regular part of a calendar year that is used for some particular activity"
         ]
     },
     {
         "name": "New Year",
         "trans": [
-            "adv.新年"
+            "n. the calendar year just begun"
         ]
     },
     {
         "name": "chinese",
         "trans": [
-            "adv.中国的"
+            "adj. of or pertaining to China or its peoples or cultures",
+            "n. any of the Sino-Tibetan languages spoken in China…"
         ]
     },
     {
         "name": "festival",
         "trans": [
-            "adv.节日"
+            "n. a day or period of time set aside for feasting and celebration"
         ]
     },
     {
@@ -842,19 +877,20 @@
     {
         "name": "peanut",
         "trans": [
-            "adv.花生"
+            "n. underground pod of the peanut vine",
+            "adj. of little importance or influence or power; of minor status"
         ]
     },
     {
         "name": "merry",
         "trans": [
-            "adv.愉快的"
+            "adj. full of or showing high-spirited merriment; offering fun and gaiety"
         ]
     },
     {
         "name": "Christmas",
         "trans": [
-            "adv.圣诞节"
+            "n. period extending from Dec. 24 to Jan. 6; a Christian holiday celebrating the birth of Christ; a quarter day in England, Wales, and Ireland"
         ]
     },
     {

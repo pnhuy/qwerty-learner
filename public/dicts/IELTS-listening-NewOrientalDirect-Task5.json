@@ -14,61 +14,61 @@
     {
         "name": "clinic",
         "trans": [
-            "n. 诊所"
+            "n. a medical establishment run by a group of medical specialists"
         ]
     },
     {
         "name": "infirmary",
         "trans": [
-            "n. 医务室"
+            "n. a health facility where patients receive treatment"
         ]
     },
     {
         "name": "emergency",
         "trans": [
-            "n. 紧急情况"
+            "n. a sudden unforeseen crisis (usually involving danger) that requires immediate action; a state in which martial law applies"
         ]
     },
     {
         "name": "outpatient",
         "trans": [
-            "n. 门诊；门诊病人"
+            "n. a patient who does not reside in the hospital where he is being treated"
         ]
     },
     {
         "name": "practitioner",
         "trans": [
-            "n. （医学界或法律界的）从业人员"
+            "n. someone who practices a learned profession"
         ]
     },
     {
         "name": "dentist",
         "trans": [
-            "n. 牙医"
+            "n. a person qualified to practice dentistry"
         ]
     },
     {
         "name": "veterinarian",
         "trans": [
-            "n. 兽医"
+            "n. a doctor who practices veterinary medicine"
         ]
     },
     {
         "name": "surgeon",
         "trans": [
-            "n. 外科医生"
+            "n. a physician who specializes in surgery"
         ]
     },
     {
         "name": "physician",
         "trans": [
-            "n. 内科医生"
+            "n. a licensed medical practitioner"
         ]
     },
     {
         "name": "physicist",
         "trans": [
-            "n. 物理学家"
+            "n. a scientist trained in physics"
         ]
     },
     {
@@ -86,31 +86,33 @@
     {
         "name": "infectious",
         "trans": [
-            "adj. 传染的"
+            "adj. caused by infection or capable of causing infection; easily spread"
         ]
     },
     {
         "name": "fever",
         "trans": [
-            "n. 发烧；v. 发烧"
+            "n. a rise in the temperature of the body; frequently a symptom of infection; intense nervous anticipation"
         ]
     },
     {
         "name": "headache",
         "trans": [
-            "n. 头疼"
+            "n. something or someone that causes anxiety; a source of unhappiness"
         ]
     },
     {
         "name": "cough",
         "trans": [
-            "n. 咳嗽；v. 咳嗽"
+            "n. a sudden noisy expulsion of air from the lungs that clears the air passages…",
+            "v. exhale abruptly, as when one has a chest cold or congestion"
         ]
     },
     {
         "name": "sneeze",
         "trans": [
-            "n. 喷嚏；v. 打喷嚏"
+            "n. a symptom consisting of the involuntary expulsion of air from the nose",
+            "v. exhale spasmodically, as when an irritant entered one's nose"
         ]
     },
     {
@@ -146,55 +148,55 @@
     {
         "name": "shoulder",
         "trans": [
-            "n. 肩膀"
+            "n. the part of the body between the neck and the upper arm"
         ]
     },
     {
         "name": "back",
         "trans": [
-            "n. 背"
+            "n. the posterior part of a human (or animal) body from the neck to the end of the spine; the side that goes last or is not normally seen"
         ]
     },
     {
         "name": "wrist",
         "trans": [
-            "n. 手腕"
+            "n. a joint between the distal end of the radius and the proximal row of carpal bones"
         ]
     },
     {
         "name": "elbow",
         "trans": [
-            "n. 手肘"
+            "n. hinge joint between the forearm and upper arm and the corresponding joint in the forelimb of a quadruped; a sharp bend in a road or river"
         ]
     },
     {
         "name": "knee",
         "trans": [
-            "n. 膝盖"
+            "n. hinge joint in the human leg connecting the tibia and fibula with the femur and protected in front by the patella"
         ]
     },
     {
         "name": "toe",
         "trans": [
-            "n. 脚趾"
+            "n. one of the digits of the foot; the part of footwear that provides a covering for the toes"
         ]
     },
     {
         "name": "waist",
         "trans": [
-            "n. 腰"
+            "n. the narrowing of the body between the ribs and hips"
         ]
     },
     {
         "name": "finger",
         "trans": [
-            "n. 手指"
+            "n. any of the terminal members of the hand (sometimes excepting the thumb)"
         ]
     },
     {
         "name": "ankle",
         "trans": [
-            "n. 脚踝"
+            "n. a gliding joint between the distal ends of the tibia and fibula and the proximal end of the talus"
         ]
     },
     {
@@ -206,25 +208,27 @@
     {
         "name": "sprain",
         "trans": [
-            "n. 扭伤；v. 扭伤"
+            "n. a painful injury to a joint caused by a sudden wrenching of its ligaments",
+            "v. twist suddenly so as to sprain"
         ]
     },
     {
         "name": "insomnia",
         "trans": [
-            "n. 失眠"
+            "n. an inability to sleep; chronic sleeplessness"
         ]
     },
     {
         "name": "vomit",
         "trans": [
-            "n. 呕吐；v. 呕吐"
+            "n. the matter ejected in vomiting",
+            "v. eject the contents of the stomach through the mouth"
         ]
     },
     {
         "name": "allergy",
         "trans": [
-            "n. 过敏"
+            "n. hypersensitivity reaction to a particular allergen; symptoms can vary greatly in intensity"
         ]
     }
 ]

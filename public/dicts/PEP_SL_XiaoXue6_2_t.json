@@ -2,8 +2,8 @@
     {
         "name": "live",
         "trans": [
-            "居住",
-            "生活"
+            "v. inhabit or live in; be an inhabitant of; lead a certain kind of life; live in a certain style",
+            "adj. actually being performed at the time of hearing or viewing"
         ],
         "usphone": "lɪv",
         "ukphone": "lɪv"
@@ -11,8 +11,7 @@
     {
         "name": "quite",
         "trans": [
-            "很",
-            "相当"
+            "adv. to a degree (not used with a negative); to the greatest extent; completely"
         ],
         "usphone": "kwaɪt",
         "ukphone": "kwaɪt"
@@ -20,7 +19,7 @@
     {
         "name": "scarf",
         "trans": [
-            "围巾"
+            "n. a garment worn around the head or neck or shoulders for warmth or decoration"
         ],
         "usphone": "skɑːrf",
         "ukphone": "skɑːrf"
@@ -28,7 +27,7 @@
     {
         "name": "airport",
         "trans": [
-            "机场"
+            "n. an airfield equipped with control tower and hangars as well as accommodations for passengers and cargo"
         ],
         "usphone": "ˈɛr.pɔːrt",
         "ukphone": "ˈeə.pɔːt"
@@ -36,7 +35,7 @@
     {
         "name": "pupil",
         "trans": [
-            "小学生"
+            "n. a learner who is enrolled in an educational institution; the contractile aperture in the center of the iris of the eye; resembles a large black dot"
         ],
         "usphone": "ˈpjʊ.əl",
         "ukphone": "ˈpjuː.pɪl"
@@ -44,7 +43,7 @@
     {
         "name": "arrive",
         "trans": [
-            "到达"
+            "v. reach a destination; arrive by movement or progress"
         ],
         "usphone": "əˈraɪv",
         "ukphone": "əˈraɪv"
@@ -52,9 +51,8 @@
     {
         "name": "meet",
         "trans": [
-            "迎接",
-            "遇见",
-            "会面"
+            "v. come together; get together socially or for a specific purpose",
+            "n. a meeting at which a number of athletic contests are held"
         ],
         "usphone": "mit",
         "ukphone": "miːt"
@@ -62,7 +60,7 @@
     {
         "name": "wardrobe",
         "trans": [
-            "衣柜"
+            "n. a tall piece of furniture that provides storage space for clothes; has a door and rails or hooks for hanging clothes"
         ],
         "usphone": "ˈwɔr.droʊb",
         "ukphone": "ˈwɔː.droʊb"
@@ -86,8 +84,7 @@
     {
         "name": "art gallery",
         "trans": [
-            "画廊",
-            "艺术馆"
+            "n. a room or series of rooms where works of art are exhibited"
         ],
         "usphone": "ɑːrt ˈɡæləri",
         "ukphone": "ɑːt ˈɡæləri"
@@ -95,7 +92,7 @@
     {
         "name": "public library",
         "trans": [
-            "公共图书馆"
+            "n. a nonprofit library maintained for public use"
         ],
         "usphone": "ˈpʌblɪk ˈlaɪbrəri",
         "ukphone": "ˈpʌblɪk ˈlaɪbrəri"
@@ -103,7 +100,8 @@
     {
         "name": "downtown",
         "trans": [
-            "闹市区；市中心"
+            "adj. of or located in the lower part of a town, or in the business center",
+            "n. the central area or commercial center of a town or city"
         ],
         "usphone": "ˈdaʊnˌtaʊn",
         "ukphone": "ˈdaʊntaʊn"
@@ -111,7 +109,7 @@
     {
         "name": "Lake Ontario",
         "trans": [
-            "安大略湖"
+            "n. the smallest of the Great Lakes"
         ],
         "usphone": "leɪk ɒnˈtɛərioʊ",
         "ukphone": "leɪk ɒnˈtɛərioʊ"
@@ -119,7 +117,7 @@
     {
         "name": "stadium",
         "trans": [
-            "（露天）体育场"
+            "n. a large structure for open-air sports or entertainments"
         ],
         "usphone": "ˈsteɪ.di.əm",
         "ukphone": "ˈsteɪ.di.əm"
@@ -127,7 +125,8 @@
     {
         "name": "volunteer",
         "trans": [
-            "志愿者"
+            "v. tell voluntarily; agree freely",
+            "n. (military) a person who freely enlists for service; a person who performs voluntary work"
         ],
         "usphone": "ˌvɑːlənˈtɪr",
         "ukphone": "ˌvɒlənˈtɪə"
@@ -135,7 +134,7 @@
     {
         "name": "sandwich",
         "trans": [
-            "三明治"
+            "n. two (or more) slices of bread with a filling between them"
         ],
         "usphone": "ˈsæn.wɪtʃ",
         "ukphone": "ˈsæn.wɪtʃ"
@@ -143,8 +142,9 @@
     {
         "name": "top",
         "trans": [
-            "上边",
-            "上面"
+            "n. the upper part of anything; the highest or uppermost side of anything",
+            "adj. situated at the top or highest position",
+            "v. be superior or better than some standard; pass by, over, or under without making contact"
         ],
         "usphone": "tɑːp",
         "ukphone": "tɒp"
@@ -152,7 +152,7 @@
     {
         "name": "habit",
         "trans": [
-            "习惯"
+            "n. an established custom"
         ],
         "usphone": "ˈhæb.ɪt",
         "ukphone": "ˈhæb.ɪt"
@@ -160,9 +160,7 @@
     {
         "name": "idea",
         "trans": [
-            "主意",
-            "想法",
-            "意见"
+            "n. the content of cognition; the main thing you are thinking about; your intention; what you intend to do"
         ],
         "usphone": "aɪˈdiə",
         "ukphone": "aɪˈdɪə"
@@ -170,7 +168,8 @@
     {
         "name": "less",
         "trans": [
-            "更少"
+            "adv. used to form the comparative of some adjectives and adverbs; comparative of little",
+            "adj. (comparative of 'little' usually used with mass nouns) a quantifier meaning not as great in amount or degree"
         ],
         "usphone": "lɛs",
         "ukphone": "lɛs"
@@ -178,7 +177,7 @@
     {
         "name": "at least",
         "trans": [
-            "至少"
+            "adv. if nothing else ('leastwise' is informal and 'leastways' is colloquial); not less than"
         ],
         "usphone": "ət list",
         "ukphone": "ət li:st"
@@ -186,7 +185,7 @@
     {
         "name": "talk about",
         "trans": [
-            "谈论"
+            "v. to consider or examine in speech or writing; discuss or mention"
         ],
         "usphone": "tɔːk əˈʊt",
         "ukphone": "tɔːk əˈbaʊt"
@@ -194,8 +193,7 @@
     {
         "name": "hockey",
         "trans": [
-            "曲棍球",
-            "冰上曲棍球"
+            "n. a game resembling ice hockey that is played on an open field; two opposing teams use curved sticks try to drive a ball into the opponents' net"
         ],
         "usphone": "ˈhoʊk.i",
         "ukphone": "ˈhəʊki"
@@ -203,7 +201,8 @@
     {
         "name": "together",
         "trans": [
-            "一起"
+            "adv. in contact with each other or in proximity; assembled in one place",
+            "adj. mentally and emotionally stable"
         ],
         "usphone": "təˈɡeðər",
         "ukphone": "təˈɡeðər"
@@ -211,8 +210,8 @@
     {
         "name": "special",
         "trans": [
-            "特殊",
-            "特别"
+            "adj. unique or specific to a person or thing or category; for a special service or occasion",
+            "n. a special offering (usually temporary and at a reduced price) that is featured in advertising"
         ],
         "usphone": "ˈspɛʃ.əl",
         "ukphone": "ˈspɛʃ.əl"
@@ -220,7 +219,8 @@
     {
         "name": "beaver",
         "trans": [
-            "海（河）狸"
+            "n. the soft brown fur of the beaver",
+            "v. work hard on something"
         ],
         "usphone": "ˈbiːvər",
         "ukphone": "ˈbiːvə"
@@ -228,7 +228,7 @@
     {
         "name": "raccoon",
         "trans": [
-            "浣熊"
+            "n. the fur of the North American racoon"
         ],
         "usphone": "ˈræk.əʊn",
         "ukphone": "ˈræk.əʊn"
@@ -236,7 +236,7 @@
     {
         "name": "moose",
         "trans": [
-            "北美麋；驼鹿"
+            "n. large northern deer with enormous flattened antlers in the male; called 'elk' in Europe and 'moose' in North America"
         ],
         "usphone": "muːs",
         "ukphone": "muːs"
@@ -244,8 +244,7 @@
     {
         "name": "countryside",
         "trans": [
-            "农村",
-            "乡下"
+            "n. rural regions"
         ],
         "usphone": "ˈkʌn.tri.saɪd",
         "ukphone": "ˈkʌn.tri.saɪd"
@@ -253,7 +252,7 @@
     {
         "name": "Thanksgiving",
         "trans": [
-            "感恩节"
+            "n. fourth Thursday in November in the United States; second Monday in October in Canada; commemorates a feast held in 1621 by the Pilgrims and the Wampanoag"
         ],
         "usphone": "ˌθæŋksˈɡɪv.ɪŋ",
         "ukphone": "θæŋksˈɡɪv.ɪŋ"
@@ -269,7 +268,7 @@
     {
         "name": "squirrel",
         "trans": [
-            "松鼠"
+            "n. a kind of arboreal rodent having a long bushy tail"
         ],
         "usphone": "ˈskwɜːr.əl",
         "ukphone": "ˈskwɪr.əl"
@@ -277,7 +276,8 @@
     {
         "name": "swan",
         "trans": [
-            "天鹅"
+            "n. stately heavy-bodied aquatic bird with very long neck and usually white plumage as adult",
+            "v. to declare or affirm solemnly and formally as true"
         ],
         "usphone": "swɑːn",
         "ukphone": "swɒn"
@@ -293,7 +293,7 @@
     {
         "name": "frog",
         "trans": [
-            "青蛙"
+            "n. any of various tailless stout-bodied amphibians with long hind limbs for leaping; semiaquatic and terrestrial species"
         ],
         "usphone": "frɔːɡ",
         "ukphone": "frɒɡ"
@@ -309,7 +309,7 @@
     {
         "name": "shopping centre",
         "trans": [
-            "购物中心"
+            "n. mercantile establishment consisting of a carefully landscaped complex of shops representing leading merchandisers…"
         ],
         "usphone": "ˈʃɑː.pɪŋ ˌsɛn.tər",
         "ukphone": "ˈʃɒp.ɪŋ ˌsɛn.tə"
@@ -317,7 +317,7 @@
     {
         "name": "shopping mall",
         "trans": [
-            "大型综合商业中心"
+            "n. mercantile establishment consisting of a carefully landscaped complex of shops representing leading merchandisers…"
         ],
         "usphone": "ˈʃɑː.pɪŋ mɔːl",
         "ukphone": "ˈʃɒp.ɪŋ mɔːl"
@@ -325,8 +325,7 @@
     {
         "name": "amazing",
         "trans": [
-            "惊人的",
-            "神奇的"
+            "adj. surprising greatly; inspiring awe or admiration or wonder"
         ],
         "usphone": "əˈmeɪ.zɪŋ",
         "ukphone": "əˈmeɪ.zɪŋ"
@@ -334,7 +333,7 @@
     {
         "name": "hot pot",
         "trans": [
-            "火锅"
+            "n. a stew of meat and potatoes cooked in a tightly covered pot"
         ],
         "usphone": "hɑːt pɑːt",
         "ukphone": "hɒt pɒt"

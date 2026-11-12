@@ -8,145 +8,149 @@
     {
         "name": "agent",
         "trans": [
-            "n. 代理人，中介人"
+            "n. an active and efficient cause; capable of producing a certain effect; a representative who acts on behalf of other persons or organizations"
         ]
     },
     {
         "name": "recruit",
         "trans": [
-            "v. 招聘，征募"
+            "v. register formally as a participant or member; seek to employ"
         ]
     },
     {
         "name": "available",
         "trans": [
-            "adj. 可提供的，可获得的"
+            "adj. obtainable or accessible and ready for use or service"
         ]
     },
     {
         "name": "vacant",
         "trans": [
-            "adj. 空缺的"
+            "adj. void of thought or knowledge; without an occupant or incumbent"
         ]
     },
     {
         "name": "applicant",
         "trans": [
-            "n. 申请人，求职者"
+            "n. a person who requests or seeks something such as assistance or employment or admission"
         ]
     },
     {
         "name": "personnel",
         "trans": [
-            "n. 人事部门，人员"
+            "n. group of people willing to obey orders"
         ]
     },
     {
         "name": "job description",
         "trans": [
-            "n. 职位描述"
+            "n. description of the responsibilities associated with a given job"
         ]
     },
     {
         "name": "vouch",
         "trans": [
-            "v. 担保，证明"
+            "v. give personal assurance; guarantee"
         ]
     },
     {
         "name": "referee",
         "trans": [
-            "n. 介绍人；v. 裁判"
+            "n. (sports) the chief official (as in boxing or American football) who is expected to ensure fair play",
+            "v. be a referee or umpire in a sports competition"
         ]
     },
     {
         "name": "shift",
         "trans": [
-            "n. 轮班；v. 转换"
+            "n. an event in which something is displaced without rotation; a qualitative change",
+            "v. make a shift in or exchange of; change place or direction"
         ]
     },
     {
         "name": "commute",
         "trans": [
-            "n. 通勤；v. 通勤"
+            "n. a regular journey of some distance to and from your place of work",
+            "v. exchange positions without a change in value; travel back and forth regularly, as between one's place of work and home"
         ]
     },
     {
         "name": "CV",
         "trans": [
-            "n. 简历"
+            "n. a summary of your academic and work history"
         ]
     },
     {
         "name": "résumé",
         "trans": [
-            "n. 简历"
+            "n. short descriptive summary (of events)"
         ]
     },
     {
         "name": "interview",
         "trans": [
-            "n. 面试"
+            "n. the questioning of a person (or a conversation in which information is elicited); often conducted by journalists; a conference (usually with someone important)"
         ]
     },
     {
         "name": "candidate",
         "trans": [
-            "n. 候选人"
+            "n. a politician who is running for public office; someone who is considered for something (for an office or prize or honor etc.)"
         ]
     },
     {
         "name": "offer",
         "trans": [
-            "n. 录用通知；v. 提供"
+            "n. the verbal act of offering; something offered (as a proposal or bid)",
+            "v. make available or accessible, provide or furnish; present for acceptance or rejection"
         ]
     },
     {
         "name": "employer",
         "trans": [
-            "n. 雇主"
+            "n. a person or firm that employs workers"
         ]
     },
     {
         "name": "employee",
         "trans": [
-            "n. 雇员"
+            "n. a worker who is hired to perform a job"
         ]
     },
     {
         "name": "certificate",
         "trans": [
-            "n. 证书"
+            "n. a document attesting to the truth of certain stated facts"
         ]
     },
     {
         "name": "licence",
         "trans": [
-            "n. 执照"
+            "n. excessive freedom; lack of due restraint"
         ]
     },
     {
         "name": "work permit",
         "trans": [
-            "n. 工作许可证"
+            "n. a legal document giving information required for employment of certain people in certain countries"
         ]
     },
     {
         "name": "experience",
         "trans": [
-            "n. 经验"
+            "n. the accumulation of knowledge or skill that results from direct participation in events or activities"
         ]
     },
     {
         "name": "quality",
         "trans": [
-            "n. 品质"
+            "n. an essential and distinguishing attribute of something or someone; a degree or grade of excellence or worth"
         ]
     },
     {
         "name": "personality",
         "trans": [
-            "n. 个性，人格特质"
+            "n. the complex of all the attributes--behavioral, temperamental, emotional and mental--that characterize a unique individual; a person of considerable prominence"
         ]
     },
     {
@@ -158,79 +162,80 @@
     {
         "name": "degree",
         "trans": [
-            "n. 学位"
+            "n. a position on a scale of intensity or amount or quality; a specific identifiable position in a continuum or series or especially in a process"
         ]
     },
     {
         "name": "major",
         "trans": [
-            "n. 主修科目"
+            "n. a commissioned military officer in the United States Army or Air Force or Marines; below lieutenant colonel and above captain"
         ]
     },
     {
         "name": "bachelor",
         "trans": [
-            "n. 学士"
+            "n. a man who has never been married"
         ]
     },
     {
         "name": "master",
         "trans": [
-            "n. 硕士"
+            "n. an artist of consummate skill; a person who has general authority over others"
         ]
     },
     {
         "name": "suit",
         "trans": [
-            "n. 套装"
+            "n. a set of garments (usually including a jacket and trousers or skirt) for outerwear all of the same fabric and color"
         ]
     },
     {
         "name": "uniform",
         "trans": [
-            "n. 制服"
+            "n. clothing of distinctive design worn by members of a particular group as a means of identification"
         ]
     },
     {
         "name": "smart",
         "trans": [
-            "adj. 讲究时髦的"
+            "adj. showing mental alertness and calculation and resourcefulness; elegant and stylish"
         ]
     },
     {
         "name": "casual",
         "trans": [
-            "adj. 休闲的"
+            "adj. marked by blithe unconcern; without or seeming to be without plan or method; offhand"
         ]
     },
     {
         "name": "salary",
         "trans": [
-            "n. 薪水"
+            "n. something that remunerates"
         ]
     },
     {
         "name": "tip",
         "trans": [
-            "n. 小费；n. 建议；v. 给小费"
+            "n. the extreme end of something; especially something pointed; a relatively small amount of money given for services rendered (as by a waiter)",
+            "v. cause to tilt; mark with a tip"
         ]
     },
     {
         "name": "pension",
         "trans": [
-            "n. 退休金，津贴"
+            "n. a regular payment to a person that is intended to allow them to subsist without working"
         ]
     },
     {
         "name": "welfare",
         "trans": [
-            "n. 福利"
+            "n. governmental provision of economic assistance to persons in need; something that aids or promotes well-being"
         ]
     },
     {
         "name": "insurance",
         "trans": [
-            "n. 保险"
+            "n. promise of reimbursement in the case of loss; paid to people or companies so concerned about hazards that they have made prepayments to an insurance company"
         ]
     }
 ]

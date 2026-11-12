@@ -1,362 +1,385 @@
 [
-{
-    "name": "chair",
-    "trans": [
-        "椅子"
-    ],
-    "usphone": "tʃɛr",
-    "ukphone": "tʃɛə"
-},
-{
-    "name": "desk",
-    "trans": [
-        "书桌，写字台"
-    ],
-    "usphone": "dɛsk",
-    "ukphone": "dɛsk"
-},
-{
-    "name": "blackboard",
-    "trans": [
-        "黑板"
-    ],
-    "usphone": "ˈblækˌbɔrd",
-    "ukphone": "ˈblakˌbɔːd"
-},
-{
-    "name": "on",
-    "trans": [
-        "在⋯⋯上"
-    ],
-    "usphone": "ɑn",
-    "ukphone": "ɒn"
-},
-{
-    "name": "under",
-    "trans": [
-        "在⋯⋯下面 ；在⋯⋯下方"
-    ],
-    "usphone": "ˈʌndər",
-    "ukphone": "ˈʌndə"
-},
-{
-    "name": "in",
-    "trans": [
-        "在⋯⋯里面"
-    ],
-    "usphone": "ɪn",
-    "ukphone": "ɪn"
-},
-{
-    "name": "where",
-    "trans": [
-        "在哪里"
-    ],
-    "usphone": "wɛr",
-    "ukphone": "wɛə"
-},
-{
-    "name": "the",
-    "trans": [
-        "放在名词前，特指人、事或物"
-    ],
-    "usphone": "ðə",
-    "ukphone": "ðiː"
-},
-{
-    "name": "light",
-    "trans": [
-        "灯"
-    ],
-    "usphone": "laɪt",
-    "ukphone": "laɪt"
-},
-{
-    "name": "bed",
-    "trans": [
-        "床"
-    ],
-    "usphone": "bɛd",
-    "ukphone": "bɛd"
-},
-{
-    "name": "door",
-    "trans": [
-        "门 ；出入口"
-    ],
-    "usphone": "dɔr",
-    "ukphone": "dɔː"
-},
-{
-    "name": "box",
-    "trans": [
-        "箱子 ；盒子"
-    ],
-    "usphone": "bɑks",
-    "ukphone": "bɒks"
-},
-{
-    "name": "near",
-    "trans": [
-        "靠近，接近"
-    ],
-    "usphone": "nɪr",
-    "ukphone": "nɪə"
-},
-{
-    "name": "behind",
-    "trans": [
-        "在⋯⋯背后"
-    ],
-    "usphone": "bɪˈhaɪnd",
-    "ukphone": "bɪˈhaɪnd"
-},
-{
-    "name": "plane",
-    "trans": [
-        "飞机"
-    ],
-    "usphone": "pleɪn",
-    "ukphone": "pleɪn"
-},
-{
-    "name": "ball",
-    "trans": [
-        "球"
-    ],
-    "usphone": "bɔl",
-    "ukphone": "bɔːl"
-},
-{
-    "name": "doll",
-    "trans": [
-        "玩偶，玩具娃娃"
-    ],
-    "usphone": "dɑl",
-    "ukphone": "dɒl"
-},
-{
-    "name": "train",
-    "trans": [
-        "列车，火车"
-    ],
-    "usphone": "treɪn",
-    "ukphone": "treɪn"
-},
-{
-    "name": "car",
-    "trans": [
-        "小汽车，轿车"
-    ],
-    "usphone": "kɑr",
-    "ukphone": "kɑːr"
-},
-{
-    "name": "bear",
-    "trans": [
-        "玩具熊 ；熊"
-    ],
-    "usphone": "bɛr",
-    "ukphone": "bɛə"
-},
-{
-    "name": "can",
-    "trans": [
-        "可以 ；能够"
-    ],
-    "usphone": "kæn",
-    "ukphone": "kæn"
-},
-{
-    "name": "sure",
-    "trans": [
-        "当然"
-    ],
-    "usphone": "ʃʊr",
-    "ukphone": "ʃɔːr"
-},
-{
-    "name": "sorry",
-    "trans": [
-        "对不起，抱歉"
-    ],
-    "usphone": "ˈsɔri",
-    "ukphone": "ˈsɒri"
-},
-{
-    "name": "rice",
-    "trans": [
-        "米饭 ；米"
-    ],
-    "usphone": "raɪs",
-    "ukphone": "raɪs"
-},
-{
-    "name": "noodles",
-    "trans": [
-        "面条"
-    ],
-    "usphone": "ˈnudəlz",
-    "ukphone": "ˈnuːdlz"
-},
-{
-    "name": "vegetable",
-    "trans": [
-        "蔬菜"
-    ],
-    "usphone": "ˈvɛdʒtəbəl",
-    "ukphone": "ˈvɛdʒtəbl"
-},
-{
-    "name": "fish",
-    "trans": [
-        "鱼肉 ；鱼"
-    ],
-    "usphone": "fɪʃ",
-    "ukphone": "fɪʃ"
-},
-{
-    "name": "chicken",
-    "trans": [
-        "鸡肉 ；鸡"
-    ],
-    "usphone": "ˈtʃɪkən",
-    "ukphone": "ˈtʃɪkɪn"
-},
-{
-    "name": "egg",
-    "trans": [
-        "鸡蛋"
-    ],
-    "usphone": "ɛɡ",
-    "ukphone": "ɛɡ"
-},
-{
-    "name": "hungry",
-    "trans": [
-        "饥饿的"
-    ],
-    "usphone": "ˈhʌŋɡri",
-    "ukphone": "ˈhʌŋɡri"
-},
-{
-    "name": "want",
-    "trans": [
-        "要 ；想要"
-    ],
-    "usphone": "wɑnt",
-    "ukphone": "wɒnt"
-},
-{
-    "name": "and",
-    "trans": [
-        "和"
-    ],
-    "usphone": "ænd",
-    "ukphone": "ənd"
-},
-{
-    "name": "juice",
-    "trans": [
-        "果汁 ；蔬菜汁"
-    ],
-    "usphone": "dʒus",
-    "ukphone": "dʒuːs"
-},
-{
-    "name": "tea",
-    "trans": [
-        "茶 ；茶叶"
-    ],
-    "usphone": "ti",
-    "ukphone": "tiː"
-},
-{
-    "name": "milk",
-    "trans": [
-        "奶 ；牛奶"
-    ],
-    "usphone": "mɪlk",
-    "ukphone": "mɪlk"
-},
-{
-    "name": "water",
-    "trans": [
-        "水"
-    ],
-    "usphone": "ˈwɔtər",
-    "ukphone": "ˈwɔːtə"
-},
-{
-    "name": "thirsty",
-    "trans": [
-        "口渴的"
-    ],
-    "usphone": "ˈθɜrsti",
-    "ukphone": "ˈθɜːsti"
-},
-{
-    "name": "thanks",
-    "trans": [
-        "感谢"
-    ],
-    "usphone": "θæŋks",
-    "ukphone": "θæŋks"
-},
-{
-    "name": "shirt",
-    "trans": [
-        "衬衫"
-    ],
-    "usphone": "ʃɜrt",
-    "ukphone": "ʃɜːt"
-},
-{
-    "name": "T-shirt",
-    "trans": [
-        "T 恤衫；短袖圆领汗衫"
-    ],
-    "usphone": "ˈtiˌʃɜrt",
-    "ukphone": "ˈtiːˌʃɜːt"
-},
-{
-    "name": "skirt",
-    "trans": [
-        "裙子"
-    ],
-    "usphone": "skɜrt",
-    "ukphone": "skɜːt"
-},
-{
-    "name": "dress",
-    "trans": [
-        "连衣裙 ；套裙"
-    ],
-    "usphone": "drɛs",
-    "ukphone": "drɛs"
-},
-{
-    "name": "socks",
-    "trans": [
-        "短袜"
-    ],
-    "usphone": "sɑks",
-    "ukphone": "sɒks"
-},
-{
-    "name": "shorts",
-    "trans": [
-        "短裤"
-    ],
-    "usphone": "ʃɔrts",
-    "ukphone": "ʃɔːts"
-},
-{
-    "name": "your",
-    "trans": [
-        "你的 ；你们的"
-    ],
-    "usphone": "jʊr",
-    "ukphone": "jɔːr"
-}
+    {
+        "name": "chair",
+        "trans": [
+            "n. a seat for one person, with a support for the back; the position of professor"
+        ],
+        "usphone": "tʃɛr",
+        "ukphone": "tʃɛə"
+    },
+    {
+        "name": "desk",
+        "trans": [
+            "n. a piece of furniture with a writing surface and usually drawers or other compartments"
+        ],
+        "usphone": "dɛsk",
+        "ukphone": "dɛsk"
+    },
+    {
+        "name": "blackboard",
+        "trans": [
+            "n. sheet of slate; for writing with chalk"
+        ],
+        "usphone": "ˈblækˌbɔrd",
+        "ukphone": "ˈblakˌbɔːd"
+    },
+    {
+        "name": "on",
+        "trans": [
+            "prep. touching and supported by the top surface of",
+            "prep. about; concerning; on a particular day",
+            "adv. continuing; in operation"
+        ],
+        "usphone": "ɑn",
+        "ukphone": "ɒn"
+    },
+    {
+        "name": "under",
+        "trans": [
+            "prep. beneath; below; less than"
+        ],
+        "usphone": "ˈʌndər",
+        "ukphone": "ˈʌndə"
+    },
+    {
+        "name": "in",
+        "trans": [
+            "prep. inside; contained by; during",
+            "adv. into a place; at home"
+        ],
+        "usphone": "ɪn",
+        "ukphone": "ɪn"
+    },
+    {
+        "name": "where",
+        "trans": [
+            "adv. in or to what place",
+            "conj. at, in or to the place in which"
+        ],
+        "usphone": "wɛr",
+        "ukphone": "wɛə"
+    },
+    {
+        "name": "the",
+        "trans": [
+            "art. used before a noun to refer to a particular, known or unique person or thing"
+        ],
+        "usphone": "ðə",
+        "ukphone": "ðiː"
+    },
+    {
+        "name": "light",
+        "trans": [
+            "n. (physics) electromagnetic radiation that can produce a visual sensation; any device serving as a source of illumination",
+            "adj. of comparatively little physical weight or density; (used of color) having a relatively small amount of coloring agent",
+            "v. make lighter or brighter; begin to smoke"
+        ],
+        "usphone": "laɪt",
+        "ukphone": "laɪt"
+    },
+    {
+        "name": "bed",
+        "trans": [
+            "n. a piece of furniture that provides a place to sleep; a plot of ground in which plants are growing"
+        ],
+        "usphone": "bɛd",
+        "ukphone": "bɛd"
+    },
+    {
+        "name": "door",
+        "trans": [
+            "n. a swinging or sliding barrier that will close the entrance to a room or building or vehicle"
+        ],
+        "usphone": "dɔr",
+        "ukphone": "dɔː"
+    },
+    {
+        "name": "box",
+        "trans": [
+            "n. a (usually rectangular) container; may have a lid; private area in a theater or grandstand where a small group can watch the performance",
+            "v. put into a box"
+        ],
+        "usphone": "bɑks",
+        "ukphone": "bɒks"
+    },
+    {
+        "name": "near",
+        "trans": [
+            "prep. / adv. at or to a short distance from",
+            "adj. close in space or time"
+        ],
+        "usphone": "nɪr",
+        "ukphone": "nɪə"
+    },
+    {
+        "name": "behind",
+        "trans": [
+            "prep. / adv. at or towards the back of"
+        ],
+        "usphone": "bɪˈhaɪnd",
+        "ukphone": "bɪˈhaɪnd"
+    },
+    {
+        "name": "plane",
+        "trans": [
+            "n. an aircraft that has a fixed wing and is powered by propellers or jets; (mathematics) an unbounded two-dimensional shape",
+            "v. cut or remove with or as if with a plane",
+            "adj. having a surface without slope, tilt in which no part is higher or lower than another"
+        ],
+        "usphone": "pleɪn",
+        "ukphone": "pleɪn"
+    },
+    {
+        "name": "ball",
+        "trans": [
+            "n. round object that is hit or thrown or kicked in games; a solid projectile that is shot by a musket",
+            "v. form into a ball by winding or rolling"
+        ],
+        "usphone": "bɔl",
+        "ukphone": "bɔːl"
+    },
+    {
+        "name": "doll",
+        "trans": [
+            "n. a small replica of a person; used as a toy"
+        ],
+        "usphone": "dɑl",
+        "ukphone": "dɒl"
+    },
+    {
+        "name": "train",
+        "trans": [
+            "v. create by training and teaching; undergo training or instruction in preparation for a particular role, function, or profession",
+            "n. public transport provided by a line of railway cars coupled together and drawn by a locomotive"
+        ],
+        "usphone": "treɪn",
+        "ukphone": "treɪn"
+    },
+    {
+        "name": "car",
+        "trans": [
+            "n. a motor vehicle with four wheels; usually propelled by an internal combustion engine; a wheeled vehicle adapted to the rails of railroad"
+        ],
+        "usphone": "kɑr",
+        "ukphone": "kɑːr"
+    },
+    {
+        "name": "bear",
+        "trans": [
+            "v. have; cause to be born",
+            "n. massive plantigrade carnivorous or omnivorous mammals with long shaggy coats and strong claws"
+        ],
+        "usphone": "bɛr",
+        "ukphone": "bɛə"
+    },
+    {
+        "name": "can",
+        "trans": [
+            "aux. to be able to; to be allowed to",
+            "n. a metal container for food or drink"
+        ],
+        "usphone": "kæn",
+        "ukphone": "kæn"
+    },
+    {
+        "name": "sure",
+        "trans": [
+            "adj. having or feeling no doubt or uncertainty; confident and assured; exercising or taking care great enough to bring assurance",
+            "adv. definitely or positively ('sure' is sometimes used informally for 'surely')"
+        ],
+        "usphone": "ʃʊr",
+        "ukphone": "ʃɔːr"
+    },
+    {
+        "name": "sorry",
+        "trans": [
+            "adj. feeling or expressing regret or sorrow or a sense of loss over something done or undone; bad; unfortunate"
+        ],
+        "usphone": "ˈsɔri",
+        "ukphone": "ˈsɒri"
+    },
+    {
+        "name": "rice",
+        "trans": [
+            "n. grains used as food either unpolished or more often polished; annual or perennial rhizomatous marsh grasses; seed used for food; straw used for paper"
+        ],
+        "usphone": "raɪs",
+        "ukphone": "raɪs"
+    },
+    {
+        "name": "noodles",
+        "trans": [
+            "n. a ribbonlike strip of pasta"
+        ],
+        "usphone": "ˈnudəlz",
+        "ukphone": "ˈnuːdlz"
+    },
+    {
+        "name": "vegetable",
+        "trans": [
+            "n. edible seeds or roots or stems or leaves or bulbs or tubers or nonsweet fruits of any of numerous herbaceous plant"
+        ],
+        "usphone": "ˈvɛdʒtəbəl",
+        "ukphone": "ˈvɛdʒtəbl"
+    },
+    {
+        "name": "fish",
+        "trans": [
+            "n. any of various mostly cold-blooded aquatic vertebrates usually having scales and breathing through gills; the flesh of fish used as food",
+            "v. seek indirectly; catch or try to catch fish or shellfish"
+        ],
+        "usphone": "fɪʃ",
+        "ukphone": "fɪʃ"
+    },
+    {
+        "name": "chicken",
+        "trans": [
+            "n. the flesh of a chicken used for food; a domestic fowl bred for flesh or eggs; believed to have been developed from the red jungle fowl"
+        ],
+        "usphone": "ˈtʃɪkən",
+        "ukphone": "ˈtʃɪkɪn"
+    },
+    {
+        "name": "egg",
+        "trans": [
+            "n. animal reproductive body consisting of an ovum or embryo together with nutritive and protective envelopes…"
+        ],
+        "usphone": "ɛɡ",
+        "ukphone": "ɛɡ"
+    },
+    {
+        "name": "hungry",
+        "trans": [
+            "adj. feeling hunger; feeling a need or desire to eat food; (usually followed by 'for') extremely desirous"
+        ],
+        "usphone": "ˈhʌŋɡri",
+        "ukphone": "ˈhʌŋɡri"
+    },
+    {
+        "name": "want",
+        "trans": [
+            "v. feel or have a desire for; want strongly; have need of",
+            "n. a state of extreme poverty; the state of needing something that is absent or unavailable"
+        ],
+        "usphone": "wɑnt",
+        "ukphone": "wɒnt"
+    },
+    {
+        "name": "and",
+        "trans": [
+            "conj. used to connect words, phrases or clauses; in addition to"
+        ],
+        "usphone": "ænd",
+        "ukphone": "ənd"
+    },
+    {
+        "name": "juice",
+        "trans": [
+            "n. the liquid part that can be extracted from plant or animal tissue by squeezing or cooking"
+        ],
+        "usphone": "dʒus",
+        "ukphone": "dʒuːs"
+    },
+    {
+        "name": "tea",
+        "trans": [
+            "n. a beverage made by steeping tea leaves in water; a light midafternoon meal of tea and sandwiches or cakes"
+        ],
+        "usphone": "ti",
+        "ukphone": "tiː"
+    },
+    {
+        "name": "milk",
+        "trans": [
+            "n. a white nutritious liquid secreted by mammals and used as food by human beings; produced by mammary glands of female mammals for feeding their young",
+            "v. take milk from female mammals; exploit as much as possible"
+        ],
+        "usphone": "mɪlk",
+        "ukphone": "mɪlk"
+    },
+    {
+        "name": "water",
+        "trans": [
+            "n. binary compound that occurs at room temperature as a clear colorless odorless tasteless liquid…",
+            "v. supply with water, as with channels or ditches or streams; provide with water"
+        ],
+        "usphone": "ˈwɔtər",
+        "ukphone": "ˈwɔːtə"
+    },
+    {
+        "name": "thirsty",
+        "trans": [
+            "adj. needing moisture"
+        ],
+        "usphone": "ˈθɜrsti",
+        "ukphone": "ˈθɜːsti"
+    },
+    {
+        "name": "thanks",
+        "trans": [
+            "n. an acknowledgment of appreciation; with the help of or owing to"
+        ],
+        "usphone": "θæŋks",
+        "ukphone": "θæŋks"
+    },
+    {
+        "name": "shirt",
+        "trans": [
+            "n. a garment worn on the upper half of the body",
+            "v. put a shirt on"
+        ],
+        "usphone": "ʃɜrt",
+        "ukphone": "ʃɜːt"
+    },
+    {
+        "name": "T-shirt",
+        "trans": [
+            "n. a close-fitting pullover shirt"
+        ],
+        "usphone": "ˈtiˌʃɜrt",
+        "ukphone": "ˈtiːˌʃɜːt"
+    },
+    {
+        "name": "skirt",
+        "trans": [
+            "n. cloth covering that forms the part of a garment below the waist; a garment hanging from the waist; worn mainly by girls and women",
+            "v. avoid or try to avoid fulfilling, answering, or performing (duties, questions, or issues); pass around or about; move along the border"
+        ],
+        "usphone": "skɜrt",
+        "ukphone": "skɜːt"
+    },
+    {
+        "name": "dress",
+        "trans": [
+            "v. put on clothes; provide with clothes or put clothes on",
+            "n. a one-piece garment for a woman; has skirt and bodice; clothing of a distinctive style or for a particular occasion"
+        ],
+        "usphone": "drɛs",
+        "ukphone": "drɛs"
+    },
+    {
+        "name": "socks",
+        "trans": [
+            "n. hosiery consisting of a cloth covering for the foot; worn inside the shoe; reaches to between the ankle and the knee",
+            "v. hit hard"
+        ],
+        "usphone": "sɑks",
+        "ukphone": "sɒks"
+    },
+    {
+        "name": "shorts",
+        "trans": [
+            "n. trousers that end at or above the knee"
+        ],
+        "usphone": "ʃɔrts",
+        "ukphone": "ʃɔːts"
+    },
+    {
+        "name": "your",
+        "trans": [
+            "det. belonging to or associated with the person or people being addressed"
+        ],
+        "usphone": "jʊr",
+        "ukphone": "jɔːr"
+    }
 ]

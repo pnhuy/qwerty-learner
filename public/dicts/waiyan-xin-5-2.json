@@ -2,109 +2,117 @@
   {
     "name": "still",
     "trans": [
-      "adv.还，ren然"
+      "adv. with reference to action or condition; without change, interruption, or cessation; despite anything to the contrary (usually following a concession)"
     ]
   },
   {
     "name": "programme",
     "trans": [
-      "adv.（电视或广播）节目"
+      "n. an announcement of the events that will occur as part of a theatrical or sporting event",
+      "v. write a computer program"
     ]
   },
   {
     "name": "lady",
     "trans": [
-      "adv.女士，夫人"
+      "n. a polite name for any woman; a woman of refinement"
     ]
   },
   {
     "name": "life",
     "trans": [
-      "adv.生活"
+      "n. a characteristic state or mode of living; the experience of being alive; the course of human events and activities"
     ]
   },
   {
     "name": "different",
     "trans": [
-      "adv.不同的"
+      "adj. unlike in nature or quality or form or degree; distinctly separate from the first"
     ]
   },
   {
     "name": "ago",
     "trans": [
-      "adv.以前"
+      "adv. in the past"
     ]
   },
   {
     "name": "interviewer",
     "trans": [
-      "adv.采访者"
+      "n. a person who conducts an interview"
     ]
   },
   {
     "name": "enough",
     "trans": [
-      "adv.足够的"
+      "adv. as much as necessary; ('plenty' is nonstandard)"
     ]
   },
   {
     "name": "television",
     "trans": [
-      "adv.电视机"
+      "n. broadcasting visual images of stationary or moving objects"
     ]
   },
   {
     "name": "grandchildren",
     "trans": [
-      "adv.外孙子，外孙女"
+      "n. a child of your son or daughter"
     ]
   },
   {
     "name": "change",
     "trans": [
-      "adv.改变，变化"
+      "v. cause to change; make different; cause a transformation; undergo a change; become different in essence; losing one's or its original nature",
+      "n. an event that occurs when something passes from one state or phase to another"
     ]
   },
   {
     "name": "night",
     "trans": [
-      "adv.夜晚，夜间"
+      "n. the time after sunset and before sunrise while it is dark outside; a period of ignorance or backwardness or gloom"
     ]
   },
   {
     "name": "work",
     "trans": [
-      "adv.工作，劳动，干活"
+      "v. exert oneself by doing mental or physical work for a purpose or out of necessity; be employed",
+      "n. activity directed toward making or doing something; a product produced or accomplished through the effort or activity or agency of a person or thing"
     ]
   },
   {
     "name": "field",
     "trans": [
-      "adv.田地"
+      "n. a piece of land cleared of trees and usually enclosed; a region where a battle is being (or has been) fought",
+      "v. catch or pick up (balls) in baseball or cricket; play as a fielder"
     ]
   },
   {
     "name": "fire",
     "trans": [
-      "adv.火，炉火"
+      "n. the event of something burning (often destructive); the act of firing weapons or artillery at an enemy",
+      "v. start firing a weapon; cause to go off"
     ]
   },
   {
     "name": "or",
     "trans": [
-      "adv.（用于否定句中，也不，也没"
+      "conj. used to link alternatives"
     ]
   },
   {
     "name": "radio",
     "trans": [
-      "adv.收音机"
+      "n. medium for communication; an electronic receiver that detects and demodulates and amplifies transmitted signals",
+      "v. transmit messages via radio waves",
+      "adj. indicating radiation or radioactivity"
     ]
   },
   {
     "name": "telephone",
     "trans": [
-      "adv.电话"
+      "n. electronic equipment that converts sound into electrical signals that can be transmitted over distances and then converts received signals back into sounds",
+      "v. get or try to get into communication (with someone) by telephone"
     ]
   },
   {
@@ -116,217 +124,223 @@
   {
     "name": "write",
     "trans": [
-      "adv.写"
+      "v. produce a literary work; communicate or express by writing"
     ]
   },
   {
     "name": "hope",
     "trans": [
-      "adv.希望"
+      "v. expect and wish; be optimistic; be full of hope; have hopes",
+      "n. a specific instance of feeling hopeful; the general feeling that some desire will be fulfilled"
     ]
   },
   {
     "name": "learnt",
     "trans": [
-      "adv.（learn的过去式）学习"
+      "v. gain knowledge or skills; get to know or become aware of, usually accidentally"
     ]
   },
   {
     "name": "taught",
     "trans": [
-      "adv.（teach）的过去式教，讲授"
+      "v. impart skills or knowledge to; accustom gradually to some action or attitude"
     ]
   },
   {
     "name": "language",
     "trans": [
-      "adv.语言"
+      "n. a systematic means of communicating by the use of sounds or conventional symbols; (language) communication by word of mouth"
     ]
   },
   {
     "name": "wrote",
     "trans": [
-      "adv.（write的过去式）写"
+      "v. produce a literary work; communicate or express by writing"
     ]
   },
   {
     "name": "dancer",
     "trans": [
-      "adv.舞蹈演员"
+      "n. a performer who dances professionally"
     ]
   },
   {
     "name": "foreign",
     "trans": [
-      "adv.外国的"
+      "adj. of concern to or concerning the affairs of other nations (other than your own)"
     ]
   },
   {
     "name": "studied",
     "trans": [
-      "adv.（study的过去式）学习"
+      "adj. produced or marked by conscious design or premeditation"
     ]
   },
   {
     "name": "hard",
     "trans": [
-      "adv.努力的"
+      "adv. with effort or force or vigor; with firmness"
     ]
   },
   {
     "name": "hamburger",
     "trans": [
-      "adv.汉堡包"
+      "n. a sandwich consisting of a fried cake of minced beef served on a bun, often with other ingredients"
     ]
   },
   {
     "name": "English",
     "trans": [
-      "adv.英国（式）的"
+      "adj. of or relating to or characteristic of England or its culture or people",
+      "n. an Indo-European language belonging to the West Germanic branch; the official language of Britain and the United States and most of the commonwealth countries"
     ]
   },
   {
     "name": "breakfast",
     "trans": [
-      "adv.早餐，早饭"
+      "n. the first meal of the day (usually in the morning)",
+      "v. eat an early morning meal"
     ]
   },
   {
     "name": "lunch",
     "trans": [
-      "adv.午餐，午饭"
+      "n. a midday meal",
+      "v. take the midday meal"
     ]
   },
   {
     "name": "sandwich",
     "trans": [
-      "adv.三明治"
+      "n. two (or more) slices of bread with a filling between them"
     ]
   },
   {
     "name": "fish and chips",
     "trans": [
-      "adv.炸鱼加炸薯条"
+      "n. fried fish and french-fried potatoes"
     ]
   },
   {
     "name": "traditional",
     "trans": [
-      "adv.传统的"
+      "adj. consisting of or derived from tradition; pertaining to time-honored orthodox doctrines"
     ]
   },
   {
     "name": "dish",
     "trans": [
-      "adv.食品，菜肴"
+      "n. a piece of dishware normally used as a container for holding or serving food; a particular item of prepared food"
     ]
   },
   {
     "name": "very much",
     "trans": [
-      "adv.很，非常"
+      "adv. to a very great degree or extent"
     ]
   },
   {
     "name": "gave",
     "trans": [
-      "adv.（give的过去式）给"
+      "v. cause to have, in the abstract sense or physical sense; be the cause or source of"
     ]
   },
   {
     "name": "tonight",
     "trans": [
-      "adv.今夜，今晚"
+      "adv. during the night of the present day"
     ]
   },
   {
     "name": "library",
     "trans": [
-      "adv.图书馆"
+      "n. a room where books are kept; a collection of literary documents or records kept for reference or borrowing"
     ]
   },
   {
     "name": "student",
     "trans": [
-      "adv.学生"
+      "n. a learner who is enrolled in an educational institution"
     ]
   },
   {
     "name": "sent",
     "trans": [
-      "adv.（send的过去式）发送，寄"
+      "n. 100 senti equal 1 kroon in Estonia",
+      "adj. caused or enabled to go or be conveyed or transmitted"
     ]
   },
   {
     "name": "CD",
     "trans": [
-      "adv.激光唱片，光盘"
+      "n. a soft bluish-white ductile malleable toxic bivalent metallic element; occurs in association with zinc ores",
+      "adj. being one hundred more than three hundred"
     ]
   },
   {
     "name": "idea",
     "trans": [
-      "adv.主意，想法"
+      "n. the content of cognition; the main thing you are thinking about; your intention; what you intend to do"
     ]
   },
   {
     "name": "put",
     "trans": [
-      "adv.放，安放"
+      "v. put into a certain place or abstract location; cause to be in a certain state; cause to be in a certain relation"
     ]
   },
   {
     "name": "shelf",
     "trans": [
-      "adv.架子"
+      "n. a support that consists of a horizontal surface for holding objects"
     ]
   },
   {
     "name": "heavy",
     "trans": [
-      "adv.重的，沉的"
+      "adv. slowly as if burdened by much weight"
     ]
   },
   {
     "name": "dictionary",
     "trans": [
-      "adv.词典，字典"
+      "n. a reference book containing an alphabetical list of words with information about them"
     ]
   },
   {
     "name": "card",
     "trans": [
-      "adv.卡片"
+      "n. one of a set of small pieces of stiff paper marked in various ways and used for playing games or for telling fortunes"
     ]
   },
   {
     "name": "library card",
     "trans": [
-      "adv.图书卡，借书证"
+      "n. a card certifying the bearer's right to use the library"
     ]
   },
   {
     "name": "ask",
     "trans": [
-      "adv.邀请"
+      "v. inquire about; make a request or demand for something to somebody"
     ]
   },
   {
     "name": "wrong",
     "trans": [
-      "adv.错误的"
+      "adv. in an inaccurate manner"
     ]
   },
   {
     "name": "dear",
     "trans": [
-      "adv.哎呀"
+      "adv. with affection"
     ]
   },
   {
     "name": "information",
     "trans": [
-      "adv.信息"
+      "n. a message received and understood; knowledge acquired through study or experience or instruction"
     ]
   },
   {
@@ -338,79 +352,85 @@
   {
     "name": "project",
     "trans": [
-      "adv.项目"
+      "n. any piece of work that is undertaken or attempted; a planned undertaking",
+      "v. communicate vividly; extend out or project in space"
     ]
   },
   {
     "name": "guide",
     "trans": [
-      "adv.介绍，指南，手册"
+      "v. direct the course; determine the direction of travelling; take somebody somewhere",
+      "n. someone employed to conduct others; someone who shows the way by leading or advising"
     ]
   },
   {
     "name": "film",
     "trans": [
-      "adv.电影"
+      "n. a form of entertainment that enacts a story by sound and a sequence of images giving the illusion of continuous movement",
+      "v. make a film or photograph of something"
     ]
   },
   {
     "name": "as well",
     "trans": [
-      "adv.又，还，也"
+      "adv. in addition"
     ]
   },
   {
     "name": "way",
     "trans": [
-      "adv.方法，方式"
+      "adv. to a great degree or by a great distance; very much ('right smart' is regional in the United States)"
     ]
   },
   {
     "name": "on",
     "trans": [
-      "adv.关于"
+      "prep. touching and supported by the top surface of",
+      "prep. about; concerning; on a particular day",
+      "adv. continuing; in operation"
     ]
   },
   {
     "name": "topic",
     "trans": [
-      "adv.话题"
+      "n. the subject matter of a conversation or discussion; some situation or event that is thought about"
     ]
   },
   {
     "name": "light",
     "trans": [
-      "adv.轻的"
+      "adv. with few burdens"
     ]
   },
   {
     "name": "hard",
     "trans": [
-      "adv.困难，费力的"
+      "adv. with effort or force or vigor; with firmness"
     ]
   },
   {
     "name": "broken",
     "trans": [
-      "adv.坏的，破的"
+      "adj. physically and forcibly separated into pieces or cracked or split; not continuous in space, time, or sequence or varying abruptly"
     ]
   },
   {
     "name": "department store",
     "trans": [
-      "adv.百货商店"
+      "n. a large retail store organized into departments offering a variety of merchandise; commonly part of a retail chain"
     ]
   },
   {
     "name": "pocket",
     "trans": [
-      "adv.口袋，兜"
+      "n. a small pouch inside a garment for carrying small articles; an enclosed space",
+      "v. put in one's pocket"
     ]
   },
   {
     "name": "umbrella",
     "trans": [
-      "adv.雨伞"
+      "n. a lightweight handheld collapsible canopy"
     ]
   },
   {
@@ -422,109 +442,113 @@
   {
     "name": "wheel",
     "trans": [
-      "adv.轮子"
+      "n. a simple machine consisting of a circular frame with spokes (or a solid disc) that can rotate on a shaft or axle (as in vehicles or other machines)",
+      "v. change directions as if revolving on a pivot; wheel somebody or something"
     ]
   },
   {
     "name": "easy",
     "trans": [
-      "adv.容易的，不费力的"
+      "adv. with ease ('easy' is sometimes used informally for 'easily')"
     ]
   },
   {
     "name": "take",
     "trans": [
-      "adv.选择要，选择购买"
+      "v. carry out; require (time or space)"
     ]
   },
   {
     "name": "too",
     "trans": [
-      "adv.太，过于"
+      "adv. to a degree exceeding normal or proper limits; in addition"
     ]
   },
   {
     "name": "try",
     "trans": [
-      "adv.试，尝试"
+      "v. make an effort or attempt; put to the test, as for its quality, or give experimental use to",
+      "n. earnest and conscientious activity intended to do or accomplish something"
     ]
   },
   {
     "name": "lovely",
     "trans": [
-      "adv.美丽的，可爱的，令人愉快的"
+      "adj. appealing to the emotions as well as the eye; lovable especially in a childlike or naive way"
     ]
   },
   {
     "name": "get",
     "trans": [
-      "adv.到达"
+      "v. come into the possession of something concrete or abstract; enter or assume a certain state or condition"
     ]
   },
   {
     "name": "west",
     "trans": [
-      "adv.西，西部，西方，向西方"
+      "adv. to, toward, or in the west"
     ]
   },
   {
     "name": "parent",
     "trans": [
-      "adv.母亲，父亲，家长"
+      "n. a father or mother; one who begets or one who gives birth to or nurtures and raises a child; a relative who plays the role of guardian"
     ]
   },
   {
     "name": "stay",
     "trans": [
-      "adv.停留"
+      "v. stay the same; remain in a certain state; stay put (in a certain place)",
+      "n. continuing or remaining in a place or state"
     ]
   },
   {
     "name": "july",
     "trans": [
-      "adv.七月"
+      "n. the month following June and preceding August"
     ]
   },
   {
     "name": "south",
     "trans": [
-      "adv.南，南部，南方，向南方"
+      "adv. in a southern direction"
     ]
   },
   {
     "name": "remember",
     "trans": [
-      "adv.记得"
+      "v. recall knowledge from memory; have a recollection; keep in mind for attention or consideration"
     ]
   },
   {
     "name": "june",
     "trans": [
-      "adv.六月"
+      "n. the month following May and preceding July"
     ]
   },
   {
     "name": "east",
     "trans": [
-      "adv.东，东部，东方，向东方"
+      "adv. to, toward, or in the east"
     ]
   },
   {
     "name": "best",
     "trans": [
-      "adv.最好的"
+      "adv. in a most excellent way or manner; it would be sensible"
     ]
   },
   {
     "name": "north",
     "trans": [
-      "adv.北，北部，北方，向北方"
+      "adv. in a northern direction"
     ]
   },
   {
     "name": "rest",
     "trans": [
-      "adv.休息"
+      "n. something left after other parts have been taken away; freedom from activity (work or strain or responsibility)",
+      "v. not move; be in a resting position; take a short break from one's activities in order to relax"
     ]
   },
   {
@@ -536,349 +560,375 @@
   {
     "name": "rode",
     "trans": [
-      "adv.（ride的过去式）骑"
+      "v. sit and travel on the back of animal, usually while controlling its motions; be carried or travel on or in a vehicle"
     ]
   },
   {
     "name": "evening",
     "trans": [
-      "adv.傍晚，晚上"
+      "n. the latter part of the day (the period of decreasing daylight from late afternoon until nightfall)"
     ]
   },
   {
     "name": "late",
     "trans": [
-      "adv.近日暮的；近深夜的；时间不早的"
+      "adv. later than usual or than expected; to an advanced time"
     ]
   },
   {
     "name": "worker",
     "trans": [
-      "adv.工人"
+      "n. a person who works at a specific occupation; a member of the working class (not necessarily employed)"
     ]
   },
   {
     "name": "factory",
     "trans": [
-      "adv.制造厂，工厂"
+      "n. a plant consisting of one or more buildings with facilities for manufacturing"
     ]
   },
   {
     "name": "early",
     "trans": [
-      "adv.早的"
+      "adv. during an early stage; before the usual time or the time expected"
     ]
   },
   {
     "name": "taxi",
     "trans": [
-      "adv.出租车，计程车"
+      "n. a car driven by a person whose job is to take passengers where they want to go in exchange for money",
+      "v. travel slowly"
     ]
   },
   {
     "name": "quarter",
     "trans": [
-      "adv.一刻钟"
+      "n. one of four equal parts; a district of a city having some distinguishing character"
     ]
   },
   {
     "name": "to",
     "trans": [
-      "adv.（距整点）差"
+      "prep. in the direction of; towards",
+      "prep. used before a verb to form the infinitive"
     ]
   },
   {
     "name": "worry",
     "trans": [
-      "adv.焦虑，担心"
+      "v. be worried, concerned, anxious, troubled, or uneasy; be concerned with",
+      "n. something or someone that causes anxiety; a source of unhappiness; a strong feeling of anxiety"
     ]
   },
   {
     "name": "paper",
     "trans": [
-      "adv.纸"
+      "n. a material made of cellulose pulp derived mainly from wood or rags or certain grasses; an essay (especially one written as an assignment)"
     ]
   },
   {
     "name": "Chinese",
     "trans": [
-      "adv.中国人的"
+      "adj. of or pertaining to China or its peoples or cultures",
+      "n. any of the Sino-Tibetan languages spoken in China…"
     ]
   },
   {
     "name": "so",
     "trans": [
-      "adv.如此，这样"
+      "adv. to such a great extent; very",
+      "conj. and for this reason; therefore"
     ]
   },
   {
     "name": "word",
     "trans": [
-      "adv.词，字"
+      "n. a unit of language that native speakers can identify; a brief statement",
+      "v. put into words or an expression"
     ]
   },
   {
     "name": "drew",
     "trans": [
-      "adv.（drew的过去式）画"
+      "n. United States actor (born in Ireland); father of Georgiana Emma Barrymore (1827-1862)"
     ]
   },
   {
     "name": "cut",
     "trans": [
-      "adv.（cut的过去式）剪，切，割"
+      "v. separate with or as if with an instrument; cut down on; make a reduction in",
+      "adj. separated into parts or laid open or penetrated with a sharp edge or instrument; fashioned or shaped by cutting",
+      "n. a share of the profits; (film) an immediate transition from one shot to the next"
     ]
   },
   {
     "name": "piece",
     "trans": [
-      "adv.张，片，块"
+      "n. a separate part of a whole; an item that is an instance of some type",
+      "v. to join or unite the pieces of"
     ]
   },
   {
     "name": "paint",
     "trans": [
-      "adv.（用颜料）绘画，着色"
+      "v. make a painting; apply paint to; coat with paint",
+      "n. a substance used as a coating to protect or decorate a surface (especially a mixture of pigment suspended in a liquid); dries to form a hard coating"
     ]
   },
   {
     "name": "put",
     "trans": [
-      "adv.（put的过去式）放，安放"
+      "v. put into a certain place or abstract location; cause to be in a certain state; cause to be in a certain relation"
     ]
   },
   {
     "name": "stick",
     "trans": [
-      "adv.小木棍，小木条"
+      "n. an implement consisting of a length of wood; a small thin branch of a tree",
+      "v. put, fix, force, or implant; stay put (in a certain place)"
     ]
   },
   {
     "name": "tied",
     "trans": [
-      "adv.（tie的过去式）扎上，系上"
+      "adj. bound or secured closely; bound together by or as if by a strong rope; especially as by a bond of affection"
     ]
   },
   {
     "name": "string",
     "trans": [
-      "adv.线，"
+      "n. a lightweight cord; stringed instruments that are played with a bow",
+      "v. thread on or as if on a string; add as if on a string"
     ]
   },
   {
     "name": "laugh",
     "trans": [
-      "adv.笑"
+      "v. produce laughter",
+      "n. the sound of laughing; a facial expression characteristic of a person laughing"
     ]
   },
   {
     "name": "wore",
     "trans": [
-      "adv.（wear的过去式）穿"
+      "v. be dressed in; have on one's person"
     ]
   },
   {
     "name": "letter",
     "trans": [
-      "adv.信，书信"
+      "n. a written message addressed to a person or organization; the conventional characters of the alphabet used to represent speech",
+      "v. win an athletic letter"
     ]
   },
   {
     "name": "theatre",
     "trans": [
-      "adv.剧院"
+      "n. a building where theatrical performances or motion-picture shows can be presented; the art of writing and producing plays"
     ]
   },
   {
     "name": "women",
     "trans": [
-      "adv.（woman的复数形式）女性，妇女"
+      "n. an adult female person (as opposed to a man); a female person who plays a significant role (wife or mistress or girlfriend) in the life of a particular man"
     ]
   },
   {
     "name": "actor",
     "trans": [
-      "adv.演员"
+      "n. a theatrical performer"
     ]
   },
   {
     "name": "joke",
     "trans": [
-      "adv.笑话"
+      "n. a humorous anecdote or remark intended to provoke laughter; activity characterized by good humor",
+      "v. tell a joke; speak humorously; act in a funny or teasing way"
     ]
   },
   {
     "name": "after",
     "trans": [
-      "adv.在......后"
+      "prep. / conj. later than; following",
+      "prep. behind; in pursuit of"
     ]
   },
   {
     "name": "show",
     "trans": [
-      "adv.（尤指剧院的）演出，表演"
+      "v. give an exhibition of to an interested audience; establish the validity of something, as by an example, explanation or experiment",
+      "n. the act of publicly exhibiting or entertaining; something intended to communicate a particular impression"
     ]
   },
   {
     "name": "restaurant",
     "trans": [
-      "adv.饭店，餐馆"
+      "n. a building where people go to eat"
     ]
   },
   {
     "name": "ready",
     "trans": [
-      "adv.准备好的"
+      "adj. completely prepared or in condition for immediate action or use or progress; (of especially money) immediately available",
+      "n. poised for action",
+      "v. prepare for eating by applying heat; make ready or suitable or equip in advance for a particular purpose or for some use, event, etc"
     ]
   },
   {
     "name": "borrow",
     "trans": [
-      "adv.借入，借来"
+      "v. get temporarily; take up and practice as one's own"
     ]
   },
   {
     "name": "read",
     "trans": [
-      "adv.（read的过去式）读"
+      "v. interpret something that is written or printed; have or contain a certain wording or form"
     ]
   },
   {
     "name": "at all",
     "trans": [
-      "adv.一点都"
+      "adv. in the slightest degree or in any respect"
     ]
   },
   {
     "name": "in",
     "trans": [
-      "adv.在（将来一段时间）之后"
+      "prep. inside; contained by; during",
+      "adv. into a place; at home"
     ]
   },
   {
     "name": "another",
     "trans": [
-      "adv.另一个"
+      "adj. any of various alternatives; some other"
     ]
   },
   {
     "name": "history",
     "trans": [
-      "adv.历史"
+      "n. the aggregate of past events; a record or narrative description of past events"
     ]
   },
   {
     "name": "ask",
     "trans": [
-      "adv.文，询问"
+      "v. inquire about; make a request or demand for something to somebody"
     ]
   },
   {
     "name": "question",
     "trans": [
-      "adv.问题"
+      "n. an instance of questioning; the subject matter at issue",
+      "v. challenge the accuracy, probity, or propriety of; pose a series of questions to"
     ]
   },
   {
     "name": "forget",
     "trans": [
-      "adv.忘，忘记"
+      "v. dismiss from the mind; stop remembering; be unable to remember"
     ]
   },
   {
     "name": "bring",
     "trans": [
-      "adv.带来，拿来"
+      "v. take something or somebody with oneself somewhere; cause to come into a particular state or condition"
     ]
   },
   {
     "name": "soon",
     "trans": [
-      "adv.不久，很快"
+      "adv. in the near future"
     ]
   },
   {
     "name": "when",
     "trans": [
-      "adv.在什么时候"
+      "adv. at what time",
+      "conj. at the time that; whenever"
     ]
   },
   {
     "name": "end",
     "trans": [
-      "adv.结束，终止"
+      "n. either extremity of something that has length; the point in time at which something ends",
+      "v. have an end, in a temporal, spatial, or quantitative sense; either spatial or metaphorical; bring to an end or halt"
     ]
   },
   {
     "name": "nervous",
     "trans": [
-      "adv.紧张的，情绪不安的"
+      "adj. easily agitated; causing or fraught with or showing anxiety"
     ]
   },
   {
     "name": "all right",
     "trans": [
-      "adv.没事，没问题"
+      "adv. an expression of agreement normally occurring at the beginning of a sentence; without doubt (used to reinforce an assertion)"
     ]
   },
   {
     "name": "airport",
     "trans": [
-      "adv.机场"
+      "n. an airfield equipped with control tower and hangars as well as accommodations for passengers and cargo"
     ]
   },
   {
     "name": "ticket",
     "trans": [
-      "adv.票"
+      "n. a commercial document showing that the holder is entitled to something (as to ride on public transportation or to enter a public entertainment)"
     ]
   },
   {
     "name": "passport",
     "trans": [
-      "adv.护照"
+      "n. any authorization to pass or go somewhere"
     ]
   },
   {
     "name": "safe",
     "trans": [
-      "adv.安全，平安的"
+      "adj. free from danger or the risk of harm; (of an undertaking) secure from risk",
+      "n. strongbox where valuables can be safely kept"
     ]
   },
   {
     "name": "pet",
     "trans": [
-      "adv.宠物"
+      "n. a domesticated animal kept for companionship or amusement",
+      "v. stroke or caress gently"
     ]
   },
   {
     "name": "speak",
     "trans": [
-      "adv.说，讲"
+      "v. express in speech; exchange thoughts; talk with"
     ]
   },
   {
     "name": "building",
     "trans": [
-      "adv.建筑物"
+      "n. a structure that has a roof and walls and stands more or less permanently in one place; the act of constructing something"
     ]
   },
   {
     "name": "American",
     "trans": [
-      "adv.美国的，美国人的，美国人"
+      "adj. of or relating to the United States of America or its people or language or culture",
+      "n. a native or inhabitant of the United States; the English language as used in the United States"
     ]
   },
   {
     "name": "find out",
     "trans": [
-      "adv.发现，弄清"
+      "v. establish after a calculation, investigation, experiment, survey, or study; get to know or become aware of, usually accidentally"
     ]
   },
   {
     "name": "more",
     "trans": [
-      "adv.更多的（量），较多的（量）"
+      "adv. used to form the comparative of some adjectives and adverbs; comparative of much; to a greater degree or extent"
     ]
   }
 ]

@@ -2,19 +2,19 @@
     {
         "name": "ferry",
         "trans": [
-            "n. （尤指定期的）渡船，轮渡"
+            "n. a boat that transports people or vehicles across a body of water and operates on a regular schedule"
         ]
     },
     {
         "name": "boat",
         "trans": [
-            "n. 艇；小船"
+            "n. a small vessel for travel on water"
         ]
     },
     {
         "name": "ship",
         "trans": [
-            "n. （尤指航海的）大船，海轮，轮船，舰"
+            "n. a vessel that carries passengers or freight"
         ]
     },
     {
@@ -26,55 +26,55 @@
     {
         "name": "harbor",
         "trans": [
-            "n. 港口，港湾"
+            "n. a sheltered port where ships can take on or discharge cargo"
         ]
     },
     {
         "name": "fly",
         "trans": [
-            "v. （鸟、昆虫或飞机）飞，飞行"
+            "v. travel through the air; be airborne; move quickly or suddenly"
         ]
     },
     {
         "name": "airport",
         "trans": [
-            "n. 航空站，航空港，机场"
+            "n. an airfield equipped with control tower and hangars as well as accommodations for passengers and cargo"
         ]
     },
     {
         "name": "terminal",
         "trans": [
-            "n. 航空站，终点站"
+            "n. station where transport vehicles load or unload passengers or goods"
         ]
     },
     {
         "name": "train",
         "trans": [
-            "n. 火车，列车"
+            "n. public transport provided by a line of railway cars coupled together and drawn by a locomotive"
         ]
     },
     {
         "name": "tram",
         "trans": [
-            "n. （通常在市内运营的）有轨电车"
+            "n. a conveyance that transports passengers or freight in carriers suspended from cables and supported by a series of towers"
         ]
     },
     {
         "name": "coach",
         "trans": [
-            "n. 教练；辅导老师；私人教师；家庭教师"
+            "n. (sports) someone in charge of training an athlete or a team"
         ]
     },
     {
         "name": "minibus",
         "trans": [
-            "n. 小型公共汽车；中巴车"
+            "n. a light bus (4 to 10 passengers)"
         ]
     },
     {
         "name": "attraction",
         "trans": [
-            "n. 吸引（力）；有吸引力的事物"
+            "n. the force by which one object attracts another; an entertainment that is offered to the public"
         ]
     },
     {
@@ -86,49 +86,49 @@
     {
         "name": "theme park",
         "trans": [
-            "n. 主题公园"
+            "n. an amusement park that is organized around some theme (as the world of tomorrow)"
         ]
     },
     {
         "name": "campsite",
         "trans": [
-            "n. 度假营地；野营地，宿营地"
+            "n. a site where people on holiday can pitch a tent"
         ]
     },
     {
         "name": "castle",
         "trans": [
-            "n. 城堡；堡垒"
+            "n. a large and stately mansion; a large building formerly occupied by a ruler and fortified against attack"
         ]
     },
     {
         "name": "desert",
         "trans": [
-            "n. 沙漠，荒漠"
+            "n. arid land with little or no vegetation"
         ]
     },
     {
         "name": "mountain",
         "trans": [
-            "n. （高）山，山岳"
+            "n. a land mass that projects well above its surroundings; higher than a hill"
         ]
     },
     {
         "name": "forest",
         "trans": [
-            "n. 森林；林区"
+            "n. the trees and other plants in a large densely wooded area; land that is covered with trees and shrubs"
         ]
     },
     {
         "name": "lake",
         "trans": [
-            "n. 湖，湖泊"
+            "n. a body of (usually fresh) water surrounded by land"
         ]
     },
     {
         "name": "waterfall",
         "trans": [
-            "n. 瀑布"
+            "n. a steep descent of the water of a river"
         ]
     },
     {
@@ -140,25 +140,25 @@
     {
         "name": "sea",
         "trans": [
-            "n. 海，海洋"
+            "n. a division of an ocean or a large body of salt water partially enclosed by land; anything apparently limitless in quantity or volume"
         ]
     },
     {
         "name": "ocean",
         "trans": [
-            "n. 海洋，大洋；大海"
+            "n. a large body of water constituting a principal part of the hydrosphere"
         ]
     },
     {
         "name": "coast",
         "trans": [
-            "n. 海岸；沿海地区"
+            "n. the shore of a sea or ocean"
         ]
     },
     {
         "name": "beach",
         "trans": [
-            "n. 海滨，湖滨；海滩，沙滩"
+            "n. an area of sand sloping down to the water of a sea or lake"
         ]
     },
     {
@@ -170,19 +170,19 @@
     {
         "name": "museum",
         "trans": [
-            "n. 博物馆，博物院"
+            "n. a depository for collecting and displaying objects having scientific or historical or artistic value"
         ]
     },
     {
         "name": "gallery",
         "trans": [
-            "n. （艺术作品）陈列馆；美术馆；画廊"
+            "n. spectators at a golf or tennis match"
         ]
     },
     {
         "name": "sculpture",
         "trans": [
-            "n. 雕塑，雕刻；塑像，雕塑品，雕刻品"
+            "n. a three-dimensional work of plastic art; creating figures or designs in three dimensions"
         ]
     },
     {
@@ -200,7 +200,7 @@
     {
         "name": "circus",
         "trans": [
-            "n. 马戏团；马戏演员；马戏表演"
+            "n. a travelling company of entertainers; including trained animals; a performance given by a traveling company of acrobats, clowns, and trained animals"
         ]
     },
     {
@@ -218,19 +218,19 @@
     {
         "name": "trekking",
         "trans": [
-            "n. 以长距离步行作为消遣的活动"
+            "v. journey on foot, especially in the mountains"
         ]
     },
     {
         "name": "hiking",
         "trans": [
-            "n. （在乡村的）长途徒步旅行，远足，健行"
+            "n. a long walk usually for exercise or pleasure"
         ]
     },
     {
         "name": "fishing",
         "trans": [
-            "n. 钓鱼；捕鱼"
+            "n. the act of someone who fishes as a diversion"
         ]
     },
     {
@@ -242,37 +242,37 @@
     {
         "name": "surfing",
         "trans": [
-            "n. 冲浪运动"
+            "n. the sport of riding a surfboard toward the shore on the crest of a wave"
         ]
     },
     {
         "name": "water skiing",
         "trans": [
-            "n. 滑水"
+            "v. ride water skis"
         ]
     },
     {
         "name": "scuba diving",
         "trans": [
-            "n. 潜水"
+            "n. skin diving with scuba apparatus"
         ]
     },
     {
         "name": "sunbathe",
         "trans": [
-            "v. （为使皮肤变黑而）晒太阳，沐日光浴"
+            "v. expose one's body to the sun"
         ]
     },
     {
         "name": "skiing",
         "trans": [
-            "n. 滑雪；滑雪运动"
+            "n. a sport in which participants must travel on skis"
         ]
     },
     {
         "name": "recreation",
         "trans": [
-            "n. 娱乐；消遣（方式）"
+            "n. an activity that diverts or amuses or stimulates"
         ]
     }
 ]

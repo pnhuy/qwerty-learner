@@ -2,7 +2,7 @@
     {
         "name": "anyone",
         "trans": [
-            "任何人"
+            "pron. any person or people"
         ],
         "usphone": "'ɛnɪ'wʌn",
         "ukphone": "'enɪwʌn"
@@ -10,8 +10,7 @@
     {
         "name": "anywhere",
         "trans": [
-            "任何地方",
-            "任何(一个)地方"
+            "adv. at or in or to any place; ('anyplace' is used informally for 'anywhere')"
         ],
         "usphone": "'ɛnɪwɛr",
         "ukphone": "'enɪweə"
@@ -19,7 +18,7 @@
     {
         "name": "wonderful",
         "trans": [
-            "精彩的；极好的"
+            "adj. extraordinarily good or great; used especially as intensifiers"
         ],
         "usphone": "ˈwʌndɚfəl",
         "ukphone": "ˈwʌndə(r)fl"
@@ -27,8 +26,7 @@
     {
         "name": "few",
         "trans": [
-            "很少的；",
-            "少量"
+            "adj. a quantifier that can be used with count nouns and is often preceded by 'a'; a small but indefinite number"
         ],
         "usphone": "fju",
         "ukphone": "fjuː"
@@ -44,7 +42,8 @@
     {
         "name": "most",
         "trans": [
-            "最多的；大多数的"
+            "adv. used to form the superlative; very",
+            "adj. (superlative of 'many' used with count nouns and often preceded by 'the') quantifier meaning the greatest in number"
         ],
         "usphone": "most",
         "ukphone": "məʊst"
@@ -52,7 +51,7 @@
     {
         "name": "something",
         "trans": [
-            "某事物"
+            "pron. a thing that is unknown or not specified"
         ],
         "usphone": "'sʌmθɪŋ",
         "ukphone": "'sʌmθɪŋ"
@@ -60,8 +59,7 @@
     {
         "name": "nothing",
         "trans": [
-            "没有什么",
-            "没有"
+            "pron. not anything; no single thing"
         ],
         "usphone": "'nʌθɪŋ",
         "ukphone": "'nʌθɪŋ"
@@ -69,7 +67,7 @@
     {
         "name": "everyone",
         "trans": [
-            "每人；人人"
+            "pron. every person; all people"
         ],
         "usphone": "'ɛvrɪwʌn",
         "ukphone": "'evrɪwʌn"
@@ -77,7 +75,7 @@
     {
         "name": "of course",
         "trans": [
-            "当然"
+            "adv. as might be expected"
         ],
         "usphone": "",
         "ukphone": ""
@@ -85,7 +83,7 @@
     {
         "name": "myself",
         "trans": [
-            "我自己"
+            "pron. reflexive or emphatic form of \"I\" / \"me\""
         ],
         "usphone": "maɪ'sɛlf",
         "ukphone": "maɪ'self"
@@ -93,7 +91,7 @@
     {
         "name": "yourself",
         "trans": [
-            "你自己；你亲自"
+            "pron. reflexive or emphatic form of \"you\" (one person)"
         ],
         "usphone": "jɔr'sɛlf",
         "ukphone": "jɔː'self; jʊə-; jə-"
@@ -101,7 +99,7 @@
     {
         "name": "hen",
         "trans": [
-            "母鸡；雌禽"
+            "n. adult female chicken; adult female bird"
         ],
         "usphone": "hɛn",
         "ukphone": "hen"
@@ -109,7 +107,7 @@
     {
         "name": "pig",
         "trans": [
-            "猪"
+            "n. domestic swine"
         ],
         "usphone": "pɪɡ",
         "ukphone": "pɪg"
@@ -117,7 +115,7 @@
     {
         "name": "seem",
         "trans": [
-            "似乎；好像"
+            "v. give a certain impression or have a certain outward aspect; seem to be true, probable, or apparent"
         ],
         "usphone": "sim",
         "ukphone": "siːm"
@@ -125,7 +123,7 @@
     {
         "name": "bored",
         "trans": [
-            "无聊的；厌烦的；郁闷的"
+            "adj. tired of the world; uninterested because of frequent exposure or indulgence"
         ],
         "usphone": "bɔrd",
         "ukphone": "bɔːd"
@@ -133,7 +131,7 @@
     {
         "name": "someone",
         "trans": [
-            "某人；有人"
+            "pron. an unknown or unspecified person"
         ],
         "usphone": "'sʌmwʌn",
         "ukphone": "'sʌmwʌn"
@@ -141,7 +139,7 @@
     {
         "name": "diary",
         "trans": [
-            "日记；日记簿"
+            "n. a daily written record of (usually personal) experiences and observations"
         ],
         "usphone": "'daɪəri",
         "ukphone": "'daɪərɪ"
@@ -149,7 +147,7 @@
     {
         "name": "activity",
         "trans": [
-            "活动；活跃"
+            "n. any specific behavior; the state of being active"
         ],
         "usphone": "ækˈtɪvətɪ",
         "ukphone": "ækˈtɪvətɪ"
@@ -157,7 +155,7 @@
     {
         "name": "decide",
         "trans": [
-            "决定；选定(decide to do sth)"
+            "v. reach, make, or come to a decision about something; bring to an end; settle conclusively"
         ],
         "usphone": "dɪ'saɪd",
         "ukphone": "dɪ'saɪd"
@@ -165,7 +163,8 @@
     {
         "name": "try",
         "trans": [
-            "尝试；设法；努力  (try to do sth /try doing sth)"
+            "v. make an effort or attempt; put to the test, as for its quality, or give experimental use to",
+            "n. earnest and conscientious activity intended to do or accomplish something"
         ],
         "usphone": "traɪ",
         "ukphone": "traɪ"
@@ -173,7 +172,7 @@
     {
         "name": "paragliding",
         "trans": [
-            "空中滑翔跳伞"
+            "n. gliding in a parasail"
         ],
         "usphone": "",
         "ukphone": ""
@@ -189,7 +188,7 @@
     {
         "name": "bird",
         "trans": [
-            "鸟；禽"
+            "n. warm-blooded egg-laying vertebrates characterized by feathers and forelimbs modified as wings; the flesh of a bird or fowl (wild or domestic) used as food"
         ],
         "usphone": "bɝd",
         "ukphone": "bɜːd"
@@ -197,7 +196,7 @@
     {
         "name": "bicycle",
         "trans": [
-            "自行车"
+            "n. a wheeled vehicle that has two wheels and is moved by foot pedals"
         ],
         "usphone": "'baɪsɪkl",
         "ukphone": "'baɪsɪkl"
@@ -205,7 +204,7 @@
     {
         "name": "building",
         "trans": [
-            "建筑物"
+            "n. a structure that has a roof and walls and stands more or less permanently in one place; the act of constructing something"
         ],
         "usphone": "'bɪldɪŋ",
         "ukphone": "'bɪldɪŋ"
@@ -213,7 +212,7 @@
     {
         "name": "trader",
         "trans": [
-            "商人"
+            "n. someone who purchases and maintains an inventory of goods to be sold"
         ],
         "usphone": "'tredɚ",
         "ukphone": "'treɪdə"
@@ -221,7 +220,8 @@
     {
         "name": "wonder",
         "trans": [
-            "想知道；惊奇；怀疑"
+            "v. have a wish or desire to know something; place in doubt or express doubtful speculation",
+            "n. the feeling aroused by something strange and surprising; something that causes feelings of wonder"
         ],
         "usphone": "'wʌndɚ",
         "ukphone": "'wʌndə"
@@ -229,7 +229,7 @@
     {
         "name": "difference",
         "trans": [
-            "差异；不同"
+            "n. the quality of being unlike or dissimilar; a variation that deviates from the standard or norm"
         ],
         "usphone": "'dɪfrəns",
         "ukphone": "'dɪf(ə)r(ə)ns"
@@ -237,7 +237,9 @@
     {
         "name": "top",
         "trans": [
-            "顶部；顶"
+            "n. the upper part of anything; the highest or uppermost side of anything",
+            "adj. situated at the top or highest position",
+            "v. be superior or better than some standard; pass by, over, or under without making contact"
         ],
         "usphone": "tɑp",
         "ukphone": "tɒp"
@@ -245,7 +247,8 @@
     {
         "name": "wait",
         "trans": [
-            "等；等待(wait for)"
+            "v. stay in one place and anticipate or expect something; wait before acting",
+            "n. time during which some action is awaited; the act of waiting (remaining inactive in one place while expecting something)"
         ],
         "usphone": "wet",
         "ukphone": "weɪt"
@@ -253,7 +256,7 @@
     {
         "name": "umbrella",
         "trans": [
-            "伞；雨伞"
+            "n. a lightweight handheld collapsible canopy"
         ],
         "usphone": "ʌm'brɛlə",
         "ukphone": "ʌm'brelə"
@@ -261,7 +264,9 @@
     {
         "name": "wet",
         "trans": [
-            "湿的；雨天的；雨天的"
+            "adj. covered or soaked with a liquid such as water",
+            "v. cause to become wet",
+            "n. wetness caused by water"
         ],
         "usphone": "wɛt",
         "ukphone": "wet"
@@ -269,7 +274,7 @@
     {
         "name": "because of",
         "trans": [
-            "因为；由于"
+            "prep. by reason of; on account of"
         ],
         "usphone": "",
         "ukphone": ""
@@ -277,8 +282,7 @@
     {
         "name": "below",
         "trans": [
-            "低于；在...下面",
-            "在...下面"
+            "prep. / adv. at a lower level than; under"
         ],
         "usphone": "bɪ'lo",
         "ukphone": "bɪ'ləʊ"
@@ -286,8 +290,9 @@
     {
         "name": "enough",
         "trans": [
-            "足够的",
-            "足够地；充分地"
+            "adv. as much as necessary; ('plenty' is nonstandard)",
+            "adj. sufficient for the purpose",
+            "n. an adequate quantity; a quantity that is large enough to achieve a purpose"
         ],
         "usphone": "ɪ'nʌf",
         "ukphone": "ɪ'nʌf"
@@ -295,7 +300,7 @@
     {
         "name": "hungry",
         "trans": [
-            "(反full)饥饿的；渴望的"
+            "adj. feeling hunger; feeling a need or desire to eat food; (usually followed by 'for') extremely desirous"
         ],
         "usphone": "ˈhʌŋgrɪ",
         "ukphone": "'hʌŋgrɪ"
@@ -303,7 +308,9 @@
     {
         "name": "as",
         "trans": [
-            "如同；像一样"
+            "conj. while; when; because",
+            "prep. in the role or function of",
+            "adv. to the same degree (as … as)"
         ],
         "usphone": "æz; əz",
         "ukphone": "æz; əz"
@@ -311,7 +318,7 @@
     {
         "name": "hill",
         "trans": [
-            "小山；丘陵；山冈；斜坡"
+            "n. a local and well-defined elevation of the land; structure consisting of an artificial heap or bank usually of earth or stones"
         ],
         "usphone": "hɪl",
         "ukphone": "hɪl"
@@ -319,7 +326,8 @@
     {
         "name": "duck",
         "trans": [
-            "鸭；鸭肉"
+            "v. to move (the head or body) quickly downwards or away; submerge or plunge suddenly",
+            "n. small wild or domesticated web-footed broad-billed swimming bird usually having a depressed body and short legs"
         ],
         "usphone": "dʌk",
         "ukphone": "dʌk"
@@ -327,8 +335,8 @@
     {
         "name": "dislike",
         "trans": [
-            "不喜欢；厌恶",
-            "不喜爱；厌恶；反感"
+            "v. have or feel a dislike or distaste for",
+            "n. an inclination to withhold approval from some person or group; a feeling of aversion or antipathy"
         ],
         "usphone": "dɪs'laɪk",
         "ukphone": "dɪs'laɪk"
@@ -336,7 +344,7 @@
     {
         "name": "have a good time",
         "trans": [
-            "等于enjoy oneself/have fun(doing sth)玩得痛快"
+            "v. enjoy oneself greatly"
         ],
         "usphone": "",
         "ukphone": ""
@@ -344,7 +352,7 @@
     {
         "name": "Central Park",
         "trans": [
-            "中央公园"
+            "n. a large park in Manhattan"
         ],
         "usphone": "",
         "ukphone": ""
@@ -360,7 +368,7 @@
     {
         "name": "Hong Kong",
         "trans": [
-            "香港"
+            "n. formerly a Crown Colony on the coast of southern China in Guangdong province; leased by China to Britain in 1842 and returned in 1997…"
         ],
         "usphone": "",
         "ukphone": ""
@@ -368,7 +376,7 @@
     {
         "name": "Malaysia",
         "trans": [
-            "马来西亚"
+            "n. a constitutional monarchy in southeastern Asia on Borneo and the Malay Peninsula; achieved independence from the United Kingdom in 1957"
         ],
         "usphone": "mə'leʒə",
         "ukphone": "məˈleɪʒə"
@@ -376,7 +384,7 @@
     {
         "name": "Georgetown",
         "trans": [
-            "乔治城（圭亚那首都）"
+            "n. a section of northwestern Washington, D.C."
         ],
         "usphone": "'dʒɔdʒtaun",
         "ukphone": "'dʒɔdʒtaun"
@@ -416,7 +424,7 @@
     {
         "name": "housework",
         "trans": [
-            "家务劳动"
+            "n. the work of cleaning and running a house"
         ],
         "usphone": "'haʊs'wɝk",
         "ukphone": "'haʊswɜːk"
@@ -424,7 +432,7 @@
     {
         "name": "hardly",
         "trans": [
-            "几乎不；简直不；刚刚"
+            "adv. only a very short time before; almost not"
         ],
         "usphone": "'hɑrdli",
         "ukphone": "'hɑːdlɪ"
@@ -432,7 +440,7 @@
     {
         "name": "ever",
         "trans": [
-            "在任何时候"
+            "adv. at any time; at all times; all the time and on every occasion"
         ],
         "usphone": "'ɛvɚ",
         "ukphone": "'evə"
@@ -448,7 +456,7 @@
     {
         "name": "once",
         "trans": [
-            "一次；曾经"
+            "adv. on one occasion; as soon as"
         ],
         "usphone": "wʌns",
         "ukphone": "wʌns"
@@ -456,7 +464,7 @@
     {
         "name": "twice",
         "trans": [
-            "两次；两倍"
+            "adv. two times; to double the degree"
         ],
         "usphone": "twaɪs",
         "ukphone": "twaɪs"
@@ -464,7 +472,7 @@
     {
         "name": "Internet",
         "trans": [
-            "因特网"
+            "n. a computer network consisting of a worldwide network of computer networks that use the TCP/IP network protocols to facilitate data transmission and exchange"
         ],
         "usphone": "'ɪntɚnɛt",
         "ukphone": "'ɪntənet"
@@ -472,7 +480,8 @@
     {
         "name": "program",
         "trans": [
-            "程序；节目；节目单；课程"
+            "n. a series of steps to be carried out or goals to be accomplished; a system of projects or services intended to meet a public need",
+            "v. arrange a program of or for; write a computer program"
         ],
         "usphone": "'proɡræm",
         "ukphone": "'prəʊɡræm"
@@ -480,7 +489,8 @@
     {
         "name": "full",
         "trans": [
-            "满的；充满的；完全的"
+            "adj. containing as much or as many as is possible or normal; constituting the full quantity or extent; complete",
+            "adv. to the greatest degree or extent; completely or entirely; ('full' in this sense is used as a combining form)"
         ],
         "usphone": "fʊl",
         "ukphone": "fʊl"
@@ -488,8 +498,8 @@
     {
         "name": "swing",
         "trans": [
-            "摇摆；秋千",
-            "摇摆；旋转"
+            "v. move in a curve or arc, usually with the intent of hitting; move or walk in a swinging or swaying manner",
+            "n. a state of steady vigorous action that is characteristic of an activity; mechanical device used as a plaything to support someone swinging back and forth"
         ],
         "usphone": "swɪŋ",
         "ukphone": "swɪŋ"
@@ -505,7 +515,7 @@
     {
         "name": "maybe",
         "trans": [
-            "或许；也许；可能"
+            "adv. by chance"
         ],
         "usphone": "'mebi",
         "ukphone": "'meɪbiː; -bɪ"
@@ -513,7 +523,8 @@
     {
         "name": "least",
         "trans": [
-            "最小的；最少的"
+            "adv. used to form the superlative",
+            "adj. the superlative of 'little' that can be used with mass nouns and is usually preceded by 'the'; a quantifier meaning smallest in amount or extent or degree"
         ],
         "usphone": "list",
         "ukphone": "liːst"
@@ -521,7 +532,7 @@
     {
         "name": "at least",
         "trans": [
-            "至少"
+            "adv. if nothing else ('leastwise' is informal and 'leastways' is colloquial); not less than"
         ],
         "usphone": "",
         "ukphone": ""
@@ -529,7 +540,8 @@
     {
         "name": "junk",
         "trans": [
-            "垃圾；废旧杂物"
+            "n. the remains of something that has been destroyed or broken up",
+            "v. dispose of (something useless or old)"
         ],
         "usphone": "dʒʌŋk",
         "ukphone": "dʒʌŋk"
@@ -537,7 +549,7 @@
     {
         "name": "junk food",
         "trans": [
-            "垃圾食品；无营养食品"
+            "n. food that tastes good but is high in calories having little nutritional value"
         ],
         "usphone": "",
         "ukphone": ""
@@ -545,7 +557,7 @@
     {
         "name": "coffee",
         "trans": [
-            "咖啡；咖啡色"
+            "n. a beverage consisting of an infusion of ground coffee beans"
         ],
         "usphone": "'kɔfi",
         "ukphone": "'kɒfɪ"
@@ -553,7 +565,7 @@
     {
         "name": "health",
         "trans": [
-            "健康；人的身体或精神状态"
+            "n. a healthy state of wellbeing free from disease"
         ],
         "usphone": "hɛlθ",
         "ukphone": "helθ"
@@ -561,7 +573,8 @@
     {
         "name": "result",
         "trans": [
-            "结果；后果"
+            "n. a phenomenon that follows and is caused by some previous phenomenon; a statement that solves a problem or explains how to solve the problem",
+            "v. issue or terminate (in a specified way, state, etc.); end; have as a result or residue"
         ],
         "usphone": "rɪ'zʌlt",
         "ukphone": "rɪ'zʌlt"
@@ -569,7 +582,7 @@
     {
         "name": "percent",
         "trans": [
-            "百分之百的"
+            "n. a proportion in relation to a whole (which is usually the amount per hundred)"
         ],
         "usphone": "pɚ'sɛnt",
         "ukphone": "pə'sent"
@@ -577,8 +590,7 @@
     {
         "name": "online",
         "trans": [
-            "在线的",
-            "在线地"
+            "adj. on a regular route of a railroad or bus or airline system"
         ],
         "usphone": "'ɑn'laɪn",
         "ukphone": "ɒn'laɪn"
@@ -586,7 +598,7 @@
     {
         "name": "television",
         "trans": [
-            "电视机；电视节目"
+            "n. broadcasting visual images of stationary or moving objects"
         ],
         "usphone": "tɛləˌvɪʒən",
         "ukphone": "ˈtelɪvɪʒn"
@@ -594,7 +606,7 @@
     {
         "name": "although",
         "trans": [
-            "虽然；尽管；然而；可是"
+            "conj. in spite of the fact that; even though"
         ],
         "usphone": "ɔl'ðo",
         "ukphone": "ɔːl'ðəʊ; ɒl-"
@@ -602,7 +614,8 @@
     {
         "name": "through",
         "trans": [
-            "穿过；一直到；凭借"
+            "prep. moving in one side and out of the other side of",
+            "prep. by means of; because of"
         ],
         "usphone": "θru",
         "ukphone": "θruː"
@@ -610,7 +623,8 @@
     {
         "name": "mind",
         "trans": [
-            "头脑；想法；意见；心思"
+            "n. that which is responsible for one's thoughts and feelings; the seat of the faculty of reason; recall or remembrance",
+            "v. be offended or bothered by; take offense with, be bothered by; be concerned with or about something or somebody"
         ],
         "usphone": "maɪnd",
         "ukphone": "maɪnd"
@@ -618,7 +632,7 @@
     {
         "name": "body",
         "trans": [
-            "身体"
+            "n. the entire structure of an organism (an animal, plant, or human being); a group of persons associated by some common tie or occupation and regarded as an entity"
         ],
         "usphone": "'bɑdi",
         "ukphone": "'bɒdɪ"
@@ -626,7 +640,7 @@
     {
         "name": "such",
         "trans": [
-            "这样的；如此的"
+            "adv. to so extreme a degree"
         ],
         "usphone": "sʌtʃ",
         "ukphone": "sʌtʃ"
@@ -634,7 +648,7 @@
     {
         "name": "such as",
         "trans": [
-            "例如；诸如"
+            "phr. for example; like"
         ],
         "usphone": "",
         "ukphone": ""
@@ -642,7 +656,8 @@
     {
         "name": "together",
         "trans": [
-            "共同；一起"
+            "adv. in contact with each other or in proximity; assembled in one place",
+            "adj. mentally and emotionally stable"
         ],
         "usphone": "tə'ɡɛðɚ",
         "ukphone": "tə'geðə"
@@ -650,7 +665,8 @@
     {
         "name": "die",
         "trans": [
-            "死；枯竭；消失"
+            "v. pass from physical life and lose all bodily attributes and functions necessary to sustain life; suffer or face the pain of death",
+            "n. a small cube with 1 to 6 spots on the six faces; used in gambling to generate random numbers; a device used for shaping metal"
         ],
         "usphone": "daɪ",
         "ukphone": "daɪ"
@@ -658,7 +674,7 @@
     {
         "name": "writer",
         "trans": [
-            "作者；作家"
+            "n. writes (books or stories or articles or the like) professionally (for pay); a person who is able to write and has written something"
         ],
         "usphone": "'raɪtɚ",
         "ukphone": "'raɪtə"
@@ -666,7 +682,7 @@
     {
         "name": "dentist",
         "trans": [
-            "牙科医生"
+            "n. a person qualified to practice dentistry"
         ],
         "usphone": "'dɛntɪst",
         "ukphone": "'dentɪst"
@@ -674,7 +690,7 @@
     {
         "name": "magazine",
         "trans": [
-            "杂志"
+            "n. a periodic publication containing pictures and stories and articles of interest to those who purchase it or subscribe to it"
         ],
         "usphone": "'mæɡəzin",
         "ukphone": "mægə'ziːn"
@@ -682,7 +698,7 @@
     {
         "name": "however",
         "trans": [
-            "然而；无论如何；不管多么"
+            "adv. despite anything to the contrary (usually following a concession); by contrast; on the other hand"
         ],
         "usphone": "haʊ'ɛvɚ",
         "ukphone": "haʊ'evə"
@@ -690,7 +706,7 @@
     {
         "name": "than",
         "trans": [
-            "比"
+            "conj. / prep. used to introduce the second part of a comparison"
         ],
         "usphone": "ðæn",
         "ukphone": "ðæn; ð(ə)n"
@@ -698,7 +714,7 @@
     {
         "name": "more than",
         "trans": [
-            "超过；多于；；不仅仅；非常"
+            "adj. (comparative of 'much' used with mass nouns) a quantifier meaning greater in size or amount or extent or degree"
         ],
         "usphone": "mɔr ðæn",
         "ukphone": "mɔː ðæn"
@@ -706,7 +722,7 @@
     {
         "name": "almost",
         "trans": [
-            "几乎；差不多"
+            "adv. (of actions or states) slightly short of or not quite accomplished; all but"
         ],
         "usphone": "'ɔlmost",
         "ukphone": "'ɔːlməʊst"
@@ -714,7 +730,7 @@
     {
         "name": "none",
         "trans": [
-            "没有人；没有任何东西，毫无"
+            "adv. not at all or in no way"
         ],
         "usphone": "nʌn",
         "ukphone": "nʌn"
@@ -722,7 +738,8 @@
     {
         "name": "less",
         "trans": [
-            "更少的；较少的"
+            "adv. used to form the comparative of some adjectives and adverbs; comparative of little",
+            "adj. (comparative of 'little' usually used with mass nouns) a quantifier meaning not as great in amount or degree"
         ],
         "usphone": "lɛs",
         "ukphone": "les"
@@ -730,7 +747,7 @@
     {
         "name": "less than",
         "trans": [
-            "不到；少于"
+            "phr. smaller in number or amount than"
         ],
         "usphone": "",
         "ukphone": ""
@@ -738,7 +755,8 @@
     {
         "name": "point",
         "trans": [
-            "看法；要点；重点；小数点；目标；分数"
+            "n. a geometric element that has position but no extension; the precise location of something; a spatially limited location",
+            "v. indicate a place, direction, person, or thing; either spatially or figuratively; be oriented"
         ],
         "usphone": "pɔɪnt",
         "ukphone": "pɒɪnt"
@@ -746,7 +764,7 @@
     {
         "name": "outgoing",
         "trans": [
-            "外向的"
+            "adj. leaving a place or a position"
         ],
         "usphone": "'aʊt'goɪŋ",
         "ukphone": "'aʊtgəʊɪŋ"
@@ -754,8 +772,9 @@
     {
         "name": "better",
         "trans": [
-            "更好的；较好的",
-            "更好地"
+            "adj. (comparative of 'good') superior to another (of the same class or set or kind) in excellence or quality or desirability or suitability…",
+            "adv. comparative of 'well'; in a better or more excellent manner or more advantageously or attractively or to a greater degree etc.",
+            "v. surpass in excellence; to make better"
         ],
         "usphone": "'bɛtɚ",
         "ukphone": "'betə"
@@ -763,7 +782,7 @@
     {
         "name": "loudly",
         "trans": [
-            "大声地；高声地；花俏地"
+            "adv. with relatively high volume; in manner that attracts attention"
         ],
         "usphone": "'laʊdli",
         "ukphone": "'laʊdlɪ"
@@ -771,7 +790,7 @@
     {
         "name": "quietly",
         "trans": [
-            "安静地；悄悄地；平静地"
+            "adv. with low volume; with little or no sound"
         ],
         "usphone": "ˈkwaɪətli",
         "ukphone": "ˈkwaɪətli"
@@ -779,7 +798,7 @@
     {
         "name": "hard-working",
         "trans": [
-            "勤勉的；努力工作的"
+            "adj. working with energy and commitment; diligent"
         ],
         "usphone": "",
         "ukphone": "ˈhɑːdˈwɜːkɪŋ"
@@ -787,7 +806,7 @@
     {
         "name": "competition",
         "trans": [
-            "竞争；比赛"
+            "n. a business relation in which two parties compete to gain customers; an occasion on which a winner is selected from among two or more contestants"
         ],
         "usphone": ",kɑmpə'tɪʃən",
         "ukphone": "ˌkɒmpəˈtɪʃn"
@@ -795,7 +814,7 @@
     {
         "name": "fantastic",
         "trans": [
-            "极好的；了不起的"
+            "adj. ludicrously odd; extraordinarily good or great; used especially as intensifiers"
         ],
         "usphone": "fæn'tæstɪk",
         "ukphone": "fæn'tæstɪk"
@@ -803,7 +822,8 @@
     {
         "name": "which",
         "trans": [
-            "哪一个；哪些"
+            "pron. / det. asking for a choice from a definite set",
+            "pron. introducing a clause that describes a thing"
         ],
         "usphone": "wɪtʃ",
         "ukphone": "wɪtʃ"
@@ -811,7 +831,7 @@
     {
         "name": "clearly",
         "trans": [
-            "清楚地；显然地"
+            "adv. without doubt or question; in an intelligible manner"
         ],
         "usphone": "'klɪrli",
         "ukphone": "'klɪəlɪ"
@@ -819,8 +839,8 @@
     {
         "name": "win",
         "trans": [
-            "赢；赢得；获胜；获得",
-            "胜利"
+            "v. be the winner in a contest or competition; be victorious; win something through one's efforts",
+            "n. a victory (as in a race or other competition)"
         ],
         "usphone": "wɪn",
         "ukphone": "wɪn"
@@ -828,8 +848,8 @@
     {
         "name": "though",
         "trans": [
-            "虽然；尽管；",
-            "不过"
+            "conj. despite the fact that; although",
+            "adv. however; nevertheless"
         ],
         "usphone": "ðo",
         "ukphone": "ðəʊ"
@@ -837,7 +857,7 @@
     {
         "name": "talented",
         "trans": [
-            "有才能的；有天赋的"
+            "adj. endowed with talent or talents"
         ],
         "usphone": "'tæləntɪd",
         "ukphone": "'tæləntɪd"
@@ -845,7 +865,7 @@
     {
         "name": "truly",
         "trans": [
-            "真实地；真诚地；正确地"
+            "adv. in accordance with truth or fact or reality; by right"
         ],
         "usphone": "ˈtruːli",
         "ukphone": "'truːlɪ"
@@ -853,7 +873,8 @@
     {
         "name": "care",
         "trans": [
-            "在乎；关心；担忧；照顾"
+            "v. feel concern or interest; provide care for",
+            "n. the work of providing treatment for or attending to someone or something; judiciousness in avoiding harm or danger"
         ],
         "usphone": "kɛr",
         "ukphone": "keə"
@@ -861,7 +882,7 @@
     {
         "name": "care about",
         "trans": [
-            "关心"
+            "phr. to feel that something is important"
         ],
         "usphone": "",
         "ukphone": ""
@@ -869,7 +890,7 @@
     {
         "name": "serious",
         "trans": [
-            "严重的；严肃的；庄重的"
+            "adj. concerned with work or important matters rather than play or trivialities; of great consequence"
         ],
         "usphone": "'sɪrɪəs",
         "ukphone": "'sɪərɪəs"
@@ -877,7 +898,8 @@
     {
         "name": "mirror",
         "trans": [
-            "镜子；反映"
+            "n. polished surface that forms images by reflecting light; a faithful depiction or reflection",
+            "v. reflect as if in a mirror"
         ],
         "usphone": "'mɪrɚ",
         "ukphone": "'mɪrə"
@@ -885,7 +907,8 @@
     {
         "name": "kid",
         "trans": [
-            "孩子，小孩"
+            "n. a young person of either sex",
+            "v. tell false information to for fun; be silly or tease one another"
         ],
         "usphone": "kɪd",
         "ukphone": "kɪd"
@@ -901,7 +924,7 @@
     {
         "name": "necessary",
         "trans": [
-            "必要的；必然的"
+            "adj. absolutely essential; unavoidably determined by prior circumstances"
         ],
         "usphone": "ˈnɛsəˌsɛri",
         "ukphone": "ˈnesəsərɪ"
@@ -917,7 +940,7 @@
     {
         "name": "both",
         "trans": [
-            "两者"
+            "adj. (used with count nouns) two considered together; the two"
         ],
         "usphone": "boθ",
         "ukphone": "bəʊθ"
@@ -925,7 +948,7 @@
     {
         "name": "bring out",
         "trans": [
-            "拿出；推出"
+            "v. make visible; bring out of a specific state"
         ],
         "usphone": "",
         "ukphone": ""
@@ -933,7 +956,8 @@
     {
         "name": "grade",
         "trans": [
-            "成绩"
+            "n. a body of students who are taught together; a relative position or degree of value in a graded group",
+            "v. assign a rank or rating to"
         ],
         "usphone": "ɡred",
         "ukphone": "greɪd"
@@ -941,7 +965,8 @@
     {
         "name": "should",
         "trans": [
-            "应该；应当；可能；将要"
+            "aux. used to indicate obligation, duty or correctness",
+            "aux. used to indicate what is probable"
         ],
         "usphone": "ʃəd; strong form ʃʊd",
         "ukphone": "ʃəd; strong form ʃʊd"
@@ -957,7 +982,7 @@
     {
         "name": "saying",
         "trans": [
-            "名言"
+            "n. a word or phrase that particular people use in particular situations"
         ],
         "usphone": "'seɪŋ",
         "ukphone": "'seɪɪŋ"
@@ -965,7 +990,8 @@
     {
         "name": "reach",
         "trans": [
-            "到达；伸出；达成；取得联系；延伸；(伸手)去够"
+            "v. reach a destination, either real or abstract; reach a point in time, or a certain state or level",
+            "n. the limits within which something can be effective; an area in which something acts or operates or has power or control:"
         ],
         "usphone": "ritʃ",
         "ukphone": "riːtʃ"
@@ -973,7 +999,8 @@
     {
         "name": "hand",
         "trans": [
-            "手"
+            "n. the (prehensile) extremity of the superior limb; a hired laborer on a farm or ranch",
+            "v. place into the hands or custody of"
         ],
         "usphone": "hænd",
         "ukphone": "hænd"
@@ -981,7 +1008,8 @@
     {
         "name": "touch",
         "trans": [
-            "触摸；感动"
+            "v. make physical contact with, come in contact with; perceive via the tactile sense",
+            "n. the event of something coming in contact with the body"
         ],
         "usphone": "tʌtʃ",
         "ukphone": "tʌtʃ"
@@ -989,7 +1017,7 @@
     {
         "name": "heart",
         "trans": [
-            "心脏；内心"
+            "n. the locus of feelings and intuitions"
         ],
         "usphone": "hɑrt",
         "ukphone": "hɑːt"
@@ -997,7 +1025,7 @@
     {
         "name": "fact",
         "trans": [
-            "事实；真相；实际"
+            "n. a piece of information about circumstances that exist or events that have occurred"
         ],
         "usphone": "fækt",
         "ukphone": "fækt"
@@ -1005,7 +1033,7 @@
     {
         "name": "in fact",
         "trans": [
-            "事实上；实际上"
+            "adv. in reality or actuality"
         ],
         "usphone": "",
         "ukphone": ""
@@ -1013,7 +1041,8 @@
     {
         "name": "break",
         "trans": [
-            "打碎；折断；违背；结束; 打破 (困难或不快的情形)"
+            "v. terminate; become separated into pieces or fragments",
+            "n. some abrupt occurrence that interrupts an ongoing activity; an unexpected piece of good luck"
         ],
         "usphone": "brek",
         "ukphone": "breɪk"
@@ -1021,7 +1050,8 @@
     {
         "name": "arm",
         "trans": [
-            "胳膊"
+            "n. a human limb; technically the part of the superior limb between the shoulder and the elbow but commonly used to refer to the whole superior limb",
+            "v. prepare oneself for a military confrontation; supply with arms"
         ],
         "usphone": "ɑrm",
         "ukphone": "ɑːm"
@@ -1029,8 +1059,8 @@
     {
         "name": "laugh",
         "trans": [
-            "发笑；笑",
-            "笑声；笑；笑料"
+            "v. produce laughter",
+            "n. the sound of laughing; a facial expression characteristic of a person laughing"
         ],
         "usphone": "læf",
         "ukphone": "lɑːf"
@@ -1038,7 +1068,8 @@
     {
         "name": "share",
         "trans": [
-            "分享，共享；共有；分配"
+            "v. have in common; use jointly or in common",
+            "n. assets belonging to or due to or contributed by an individual person or group"
         ],
         "usphone": "ʃɛr",
         "ukphone": "ʃeə"
@@ -1046,8 +1077,8 @@
     {
         "name": "loud",
         "trans": [
-            "大声的",
-            "大声地；响亮地"
+            "adj. characterized by or producing sound of great volume or intensity; tastelessly showy",
+            "adv. with relatively high volume"
         ],
         "usphone": "laʊd",
         "ukphone": "laʊd"
@@ -1055,7 +1086,7 @@
     {
         "name": "similar",
         "trans": [
-            "类似的"
+            "adj. marked by correspondence or resemblance; having the same or similar characteristics"
         ],
         "usphone": "'sɪməlɚ",
         "ukphone": "'sɪmɪlə"
@@ -1071,7 +1102,8 @@
     {
         "name": "primary",
         "trans": [
-            "小学教育的，初级教育的；原始的；最初的"
+            "adj. of first rank or importance or value; direct and immediate rather than secondary; not derived from or reducible to something else; basic",
+            "n. a preliminary election where delegates or nominees are chosen; one of the main flight feathers projecting along the outer edge of a bird's wing"
         ],
         "usphone": "'praɪmɛri",
         "ukphone": "'praɪm(ə)rɪ"
@@ -1079,7 +1111,7 @@
     {
         "name": "primary school",
         "trans": [
-            "小学"
+            "n. a school for young children; usually the first 6 or 8 grades"
         ],
         "usphone": "",
         "ukphone": ""
@@ -1087,7 +1119,7 @@
     {
         "name": "information",
         "trans": [
-            "信息；情报；资料"
+            "n. a message received and understood; knowledge acquired through study or experience or instruction"
         ],
         "usphone": "'ɪnfɚ'meʃən",
         "ukphone": "ɪnfə'meɪʃ(ə)n"
@@ -1095,7 +1127,7 @@
     {
         "name": "theater",
         "trans": [
-            "剧场；电影院；戏院"
+            "n. a building where theatrical performances or motion-picture shows can be presented; the art of writing and producing plays"
         ],
         "usphone": "'θiətɚ",
         "ukphone": "'θɪətə"
@@ -1103,7 +1135,7 @@
     {
         "name": "comfortable",
         "trans": [
-            "舒适的；充裕的"
+            "adj. providing or experiencing physical well-being or relief ('comfy' is informal); free from stress or conducive to mental ease; having or affording peace of mind"
         ],
         "usphone": "ˈkʌmfɚtəbl",
         "ukphone": "ˈkʌmftəbl"
@@ -1111,7 +1143,8 @@
     {
         "name": "seat",
         "trans": [
-            "座位"
+            "n. a space reserved for sitting (as in a theater or on a train or airplane); the fleshy part of the human body that you sit on",
+            "v. show to a seat; assign a seat for; be able to seat"
         ],
         "usphone": "sit",
         "ukphone": "siːt"
@@ -1119,7 +1152,8 @@
     {
         "name": "screen",
         "trans": [
-            "屏幕；银幕"
+            "n. a white or silvered surface where pictures can be projected for viewing; a protective covering that keeps things out or hinders sight",
+            "v. test or examine for the presence of disease or infection; examine methodically"
         ],
         "usphone": "skrin",
         "ukphone": "skriːn"
@@ -1127,7 +1161,9 @@
     {
         "name": "close",
         "trans": [
-            "关；合拢；不开放；停业（暂时性或永久性）"
+            "v. move so that an opening or passage is obstructed; make shut; become closed",
+            "adj. at or within a short distance in space or time or having elements near each other; close in relevance or relationship",
+            "adv. near in time or place or relationship; in an attentive manner"
         ],
         "usphone": "kloz",
         "ukphone": "kləʊs"
@@ -1135,7 +1171,7 @@
     {
         "name": "ticket",
         "trans": [
-            "票"
+            "n. a commercial document showing that the holder is entitled to something (as to ride on public transportation or to enter a public entertainment)"
         ],
         "usphone": "'tɪkɪt",
         "ukphone": "'tɪkɪt"
@@ -1143,7 +1179,8 @@
     {
         "name": "worst",
         "trans": [
-            "最坏的；最差的"
+            "adj. (superlative of 'bad') most wanting in quality or value or condition",
+            "n. the least favorable outcome"
         ],
         "usphone": "wɝst",
         "ukphone": "wə:st"
@@ -1151,7 +1188,7 @@
     {
         "name": "cheaply",
         "trans": [
-            "廉价地；"
+            "adv. in a stingy manner"
         ],
         "usphone": "",
         "ukphone": ""
@@ -1159,7 +1196,7 @@
     {
         "name": "song",
         "trans": [
-            "歌曲；歌唱"
+            "n. a short musical composition with words; a distinctive or characteristic sound"
         ],
         "usphone": "sɔŋ",
         "ukphone": "sɒŋ"
@@ -1167,7 +1204,7 @@
     {
         "name": "choose",
         "trans": [
-            "选择；决定"
+            "v. pick out, select, or choose from a number of alternatives; select as an alternative over another"
         ],
         "usphone": "tʃuz",
         "ukphone": "tʃuːz"
@@ -1175,7 +1212,7 @@
     {
         "name": "carefully",
         "trans": [
-            "小心地，认真地"
+            "adv. taking care or paying attention; as if with kid gloves; with caution or prudence or tact"
         ],
         "usphone": "'kɛrfəli",
         "ukphone": "'keəfəlɪ"
@@ -1183,7 +1220,7 @@
     {
         "name": "reporter",
         "trans": [
-            "记者"
+            "n. a person who investigates and reports or edits news stories"
         ],
         "usphone": "rɪ'pɔrtɚ",
         "ukphone": "rɪ'pɔːtə"
@@ -1191,7 +1228,7 @@
     {
         "name": "so far",
         "trans": [
-            "到目前为止；迄今为止"
+            "adv. used in negative statement to describe a situation that has existed up to this point or up to the present time"
         ],
         "usphone": "",
         "ukphone": ""
@@ -1199,7 +1236,8 @@
     {
         "name": "fresh",
         "trans": [
-            "新的；新做的；新增的；新鲜的；清新的"
+            "adj. recently made, produced, or harvested; (of a cycle) beginning or occurring again",
+            "adv. very recently"
         ],
         "usphone": "frɛʃ",
         "ukphone": "freʃ"
@@ -1207,7 +1245,7 @@
     {
         "name": "comfortably",
         "trans": [
-            "舒服地；充裕地；容易地"
+            "adv. in mental comfort; without stress; in physical comfort"
         ],
         "usphone": "'kʌmftəbli",
         "ukphone": "'kʌmfətəbli"
@@ -1215,7 +1253,9 @@
     {
         "name": "worse",
         "trans": [
-            "更坏的；更差的"
+            "adj. (comparative of 'bad') inferior to another in quality or condition or desirability",
+            "adv. (comparative of 'ill') in a less effective or successful or desirable manner",
+            "n. something inferior in quality or condition or effect"
         ],
         "usphone": "wɜrs",
         "ukphone": "wəːs"
@@ -1223,7 +1263,8 @@
     {
         "name": "service",
         "trans": [
-            "公共服务系统，公共服务；公共事业机构"
+            "n. work done by one person or group that benefits another; an act of help or assistance",
+            "v. be used by; as of a utility; make fit for use"
         ],
         "usphone": "'sɝvɪs",
         "ukphone": "'sɜːvɪs"
@@ -1231,8 +1272,8 @@
     {
         "name": "pretty",
         "trans": [
-            "相当地",
-            "漂亮的"
+            "adv. to a moderately sufficient extent or degree",
+            "adj. pleasing by delicacy or grace; not imposing; (used ironically) unexpectedly bad"
         ],
         "usphone": "ˈprɪtɪ",
         "ukphone": "'prɪtɪ"
@@ -1240,7 +1281,7 @@
     {
         "name": "menu",
         "trans": [
-            "菜单"
+            "n. a list of dishes available at a restaurant"
         ],
         "usphone": "'mɛnju",
         "ukphone": "'menjuː"
@@ -1248,7 +1289,8 @@
     {
         "name": "act",
         "trans": [
-            "行动；表演"
+            "n. a legal document codifying the result of deliberations of a committee or society or legislative body; something that people do or cause to happen",
+            "v. perform an action, or work out or perform (an action); behave in a certain manner; show a certain behavior; conduct or comport oneself"
         ],
         "usphone": "ækt",
         "ukphone": "ækt"
@@ -1256,7 +1298,7 @@
     {
         "name": "meal",
         "trans": [
-            "一餐；膳食"
+            "n. the food served and eaten at one time"
         ],
         "usphone": "mil",
         "ukphone": "miːl"
@@ -1264,7 +1306,7 @@
     {
         "name": "creative",
         "trans": [
-            "创造的，创造性的；"
+            "adj. having the ability or power to create; promoting construction or creation"
         ],
         "usphone": "krɪ'etɪv",
         "ukphone": "kriː'eɪtɪv"
@@ -1272,7 +1314,7 @@
     {
         "name": "performer",
         "trans": [
-            "表演者；执行者"
+            "n. an entertainer who performs a dramatic or musical work for an audience"
         ],
         "usphone": "pɚ'fɔrmɚ",
         "ukphone": "pə'fɔːmə(r)"
@@ -1280,7 +1322,7 @@
     {
         "name": "talent",
         "trans": [
-            "天赋；才能，才艺；"
+            "n. natural abilities or qualities; a person who possesses unusual innate ability in some field or activity"
         ],
         "usphone": "'tælənt",
         "ukphone": "'tælənt"
@@ -1288,7 +1330,8 @@
     {
         "name": "common",
         "trans": [
-            "常见的；共同的；普通的"
+            "adj. belonging to or participated in by a community as a whole; public",
+            "n. a piece of open land for recreational use in an urban area"
         ],
         "usphone": "'kɑmən",
         "ukphone": "'kɒmən"
@@ -1304,7 +1347,7 @@
     {
         "name": "magician",
         "trans": [
-            "魔术师；术士"
+            "n. someone who performs magic tricks to amuse an audience"
         ],
         "usphone": "mə'dʒɪʃən",
         "ukphone": "mə'dʒɪʃ(ə)n"
@@ -1320,7 +1363,7 @@
     {
         "name": "beautifully",
         "trans": [
-            "美丽地；完美地；"
+            "adv. in a beautiful manner"
         ],
         "usphone": "",
         "ukphone": ""
@@ -1328,7 +1371,7 @@
     {
         "name": "be up to",
         "trans": [
-            "是…….的职责；由…….决定"
+            "adj. busy or occupied with; having the requisite qualities for"
         ],
         "usphone": "",
         "ukphone": ""
@@ -1336,7 +1379,7 @@
     {
         "name": "role",
         "trans": [
-            "作用；角色"
+            "n. the actions and activities assigned to or required or expected of a person or group; an actor's portrayal of someone in a play"
         ],
         "usphone": "rol",
         "ukphone": "rəʊl"
@@ -1352,7 +1395,7 @@
     {
         "name": "winner",
         "trans": [
-            "获胜者"
+            "n. the contestant who wins the contest"
         ],
         "usphone": "'wɪnɚ",
         "ukphone": "'wɪnə"
@@ -1360,7 +1403,8 @@
     {
         "name": "prize",
         "trans": [
-            "奖品；奖金"
+            "n. something given for victory or superiority in a contest or competition or for winning a lottery; goods or money obtained illegally",
+            "v. hold dear"
         ],
         "usphone": "praɪz",
         "ukphone": "praɪz"
@@ -1368,7 +1412,7 @@
     {
         "name": "everybody",
         "trans": [
-            "每人；人人"
+            "pron. every person; all people"
         ],
         "usphone": "'ɛvrɪbɑdi",
         "ukphone": "'evrɪbɒdɪ"
@@ -1376,7 +1420,7 @@
     {
         "name": "make up",
         "trans": [
-            "编造"
+            "v. form or compose; devise or compose"
         ],
         "usphone": "",
         "ukphone": ""
@@ -1384,7 +1428,7 @@
     {
         "name": "example",
         "trans": [
-            "例子；榜样"
+            "n. an item of information that is typical of a class or group; a representative form or pattern"
         ],
         "usphone": "ɪg'zæmpl",
         "ukphone": "ɪg'zɑːmp(ə)l; eg-"
@@ -1392,7 +1436,7 @@
     {
         "name": "for example",
         "trans": [
-            "例如"
+            "adv. as an example"
         ],
         "usphone": "fɔr ɪɡˈzæmpəl",
         "ukphone": "fɔ: iɡˈzɑ:mpl"
@@ -1400,7 +1444,7 @@
     {
         "name": "poor",
         "trans": [
-            "贫穷的；可怜的"
+            "adj. deserving or inciting pity; having little money or few possessions"
         ],
         "usphone": "pʊər; pʊr",
         "ukphone": "pɔ:(r)"
@@ -1408,7 +1452,7 @@
     {
         "name": "seriously",
         "trans": [
-            "严重地；严肃地"
+            "adv. in a serious manner; to a severe or serious degree"
         ],
         "usphone": "'sɪrɪəsli",
         "ukphone": "'sɪərɪəslɪ"
@@ -1424,7 +1468,8 @@
     {
         "name": "give",
         "trans": [
-            "给；赠予；送"
+            "v. cause to have, in the abstract sense or physical sense; be the cause or source of",
+            "n. the elasticity of something that can be stretched and returns to its original length"
         ],
         "usphone": "ɡɪv",
         "ukphone": "gɪv"
@@ -1432,7 +1477,7 @@
     {
         "name": "crowded",
         "trans": [
-            "拥挤的"
+            "adj. overfilled or compacted or concentrated"
         ],
         "usphone": "'kraʊdɪd",
         "ukphone": "'kraʊdɪd"
@@ -1440,7 +1485,7 @@
     {
         "name": "sitcom",
         "trans": [
-            "情景喜剧（situation comedy的缩写）"
+            "n. a humorous drama based on situations that might arise in day-to-day life"
         ],
         "usphone": "'sɪtkɑm",
         "ukphone": "'sɪtkɒm"
@@ -1448,7 +1493,7 @@
     {
         "name": "situation comedy",
         "trans": [
-            "情景喜剧"
+            "n. a humorous drama based on situations that might arise in day-to-day life"
         ],
         "usphone": "",
         "ukphone": ""
@@ -1456,7 +1501,7 @@
     {
         "name": "news",
         "trans": [
-            "消息；新闻"
+            "n. information about recent and important events; information reported in a newspaper or news magazine"
         ],
         "usphone": "nuz",
         "ukphone": "njuːz"
@@ -1464,7 +1509,7 @@
     {
         "name": "soap",
         "trans": [
-            "肥皂"
+            "n. a cleansing agent made from the salts of vegetable or animal fats"
         ],
         "usphone": "sop",
         "ukphone": "səʊp"
@@ -1472,7 +1517,7 @@
     {
         "name": "soap opera",
         "trans": [
-            "肥皂剧"
+            "n. a serialized program usually dealing with sentimentalized family matters that is broadcast on radio or television (frequently sponsored by a company…"
         ],
         "usphone": "",
         "ukphone": ""
@@ -1480,7 +1525,7 @@
     {
         "name": "educational",
         "trans": [
-            "教育的；有教育意义的"
+            "adj. relating to the process of education; providing knowledge"
         ],
         "usphone": ",ɛdʒu'keʃənl",
         "ukphone": "edʒʊ'keɪʃən(ə)l"
@@ -1488,8 +1533,8 @@
     {
         "name": "plan",
         "trans": [
-            "计划",
-            "打算；计划"
+            "v. have the will and intention to carry out some action; make plans for something",
+            "n. a series of steps to be carried out or goals to be accomplished; an arrangement scheme"
         ],
         "usphone": "plæn",
         "ukphone": "plæn"
@@ -1497,8 +1542,8 @@
     {
         "name": "hope",
         "trans": [
-            "希望；期望；盼望",
-            "希望"
+            "v. expect and wish; be optimistic; be full of hope; have hopes",
+            "n. a specific instance of feeling hopeful; the general feeling that some desire will be fulfilled"
         ],
         "usphone": "hop",
         "ukphone": "həʊp"
@@ -1506,7 +1551,7 @@
     {
         "name": "find out",
         "trans": [
-            "查明、弄清"
+            "v. establish after a calculation, investigation, experiment, survey, or study; get to know or become aware of, usually accidentally"
         ],
         "usphone": "",
         "ukphone": ""
@@ -1514,7 +1559,7 @@
     {
         "name": "discussion",
         "trans": [
-            "讨论；谈论"
+            "n. an extended communication (often interactive) dealing with some particular topic; an exchange of views on some topic"
         ],
         "usphone": "dɪ'skʌʃən",
         "ukphone": "dɪ'skʌʃ(ə)n"
@@ -1522,7 +1567,8 @@
     {
         "name": "stand",
         "trans": [
-            "站立；忍受"
+            "v. be standing; be upright; be in some specified state or condition",
+            "n. a support or foundation; the position where a thing or person stands"
         ],
         "usphone": "stænd",
         "ukphone": "stænd"
@@ -1530,7 +1576,7 @@
     {
         "name": "happen",
         "trans": [
-            "发生；碰巧"
+            "v. come to pass; happen, occur, or be the case in the course of events or by chance; (Santayana)"
         ],
         "usphone": "'hæpən",
         "ukphone": "'hæp(ə)n"
@@ -1538,7 +1584,8 @@
     {
         "name": "may",
         "trans": [
-            "可能，也许；可以，能够"
+            "aux. expressing possibility or permission",
+            "n. the fifth month of the year (May)"
         ],
         "usphone": "me",
         "ukphone": "meɪ"
@@ -1546,7 +1593,7 @@
     {
         "name": "expect",
         "trans": [
-            "预期；期待；盼望"
+            "v. regard something as probable or likely; consider obligatory; request and expect"
         ],
         "usphone": "ɪk'spɛkt",
         "ukphone": "ɪkˈspekt"
@@ -1554,8 +1601,8 @@
     {
         "name": "joke",
         "trans": [
-            "笑话；玩笑",
-            "说笑话；开玩笑"
+            "n. a humorous anecdote or remark intended to provoke laughter; activity characterized by good humor",
+            "v. tell a joke; speak humorously; act in a funny or teasing way"
         ],
         "usphone": "dʒok",
         "ukphone": "dʒəʊk"
@@ -1563,7 +1610,7 @@
     {
         "name": "comedy",
         "trans": [
-            "喜剧"
+            "n. light and humorous drama with a happy ending; a comic incident or series of incidents"
         ],
         "usphone": "'kɑmədi",
         "ukphone": "'kɒmɪdɪ"
@@ -1571,7 +1618,7 @@
     {
         "name": "meaningless",
         "trans": [
-            "无意义的；不重要的"
+            "adj. having no meaning or direction or purpose"
         ],
         "usphone": "'minɪŋləs",
         "ukphone": "'miːnɪŋlɪs"
@@ -1579,7 +1626,7 @@
     {
         "name": "action",
         "trans": [
-            "行动；行为"
+            "n. something done (usually as opposed to something said); the state of being active"
         ],
         "usphone": "'ækʃən",
         "ukphone": "'ækʃ(ə)n"
@@ -1595,7 +1642,7 @@
     {
         "name": "cartoon",
         "trans": [
-            "卡通；漫画"
+            "n. a humorous or satirical drawing published in a newspaper or magazine"
         ],
         "usphone": "kɑr'tun",
         "ukphone": "kɑː'tuːn"
@@ -1603,7 +1650,7 @@
     {
         "name": "culture",
         "trans": [
-            "文化"
+            "n. a particular society at a particular time and place; the tastes in art and manners that are favored by a social group"
         ],
         "usphone": "'kʌltʃɚ",
         "ukphone": "'kʌltʃə"
@@ -1611,7 +1658,7 @@
     {
         "name": "famous",
         "trans": [
-            "著名的；有名的"
+            "adj. widely known and esteemed"
         ],
         "usphone": "'feməs",
         "ukphone": "'feɪməs"
@@ -1619,7 +1666,7 @@
     {
         "name": "appear",
         "trans": [
-            "似乎；显得；出现"
+            "v. give a certain impression or have a certain outward aspect; come into sight or view"
         ],
         "usphone": "ə'pɪr",
         "ukphone": "ə'pɪə"
@@ -1627,7 +1674,7 @@
     {
         "name": "become",
         "trans": [
-            "变成；成为"
+            "v. enter or assume a certain state or condition; undergo a change or development"
         ],
         "usphone": "bɪ'kʌm",
         "ukphone": "bɪ'kʌm"
@@ -1635,7 +1682,7 @@
     {
         "name": "rich",
         "trans": [
-            "富有的；富饶的；丰富的"
+            "adj. possessing material wealth; having an abundant supply of desirable qualities or substances (especially natural resources)"
         ],
         "usphone": "rɪtʃ",
         "ukphone": "rɪtʃ"
@@ -1643,7 +1690,7 @@
     {
         "name": "successful",
         "trans": [
-            "成功的；圆满的"
+            "adj. having succeeded or being marked by a favorable outcome"
         ],
         "usphone": "sək'sɛsfl",
         "ukphone": "sək'sesfʊl; -f(ə)l"
@@ -1651,7 +1698,8 @@
     {
         "name": "might",
         "trans": [
-            "可能；也许；may的过去式"
+            "aux. past form of \"may\"; expressing weaker possibility",
+            "n. great power or strength"
         ],
         "usphone": "maɪt",
         "ukphone": "maɪt"
@@ -1659,7 +1707,7 @@
     {
         "name": "main",
         "trans": [
-            "主要的；最重要的"
+            "adj. most important element"
         ],
         "usphone": "",
         "ukphone": "meɪn"
@@ -1667,7 +1715,8 @@
     {
         "name": "reason",
         "trans": [
-            "原因；理由"
+            "n. a rational motive for a belief or action; an explanation of the cause of some phenomenon",
+            "v. decide by reasoning; draw or come to a conclusion; present reasons and arguments"
         ],
         "usphone": "ˈrizən",
         "ukphone": "'riːz(ə)n"
@@ -1675,7 +1724,7 @@
     {
         "name": "comedy.",
         "trans": [
-            "喜剧"
+            "n. light and humorous drama with a happy ending; a comic incident or series of incidents"
         ],
         "usphone": "'kɑmədi",
         "ukphone": "'kɒmɪdɪ"
@@ -1683,7 +1732,8 @@
     {
         "name": "film",
         "trans": [
-            "电影"
+            "n. a form of entertainment that enacts a story by sound and a sequence of images giving the illusion of continuous movement",
+            "v. make a film or photograph of something"
         ],
         "usphone": "fɪlm",
         "ukphone": "fɪlm"
@@ -1691,7 +1741,7 @@
     {
         "name": "unlucky",
         "trans": [
-            "倒霉的；不幸的；不吉利的"
+            "adj. having or bringing misfortune"
         ],
         "usphone": "ʌn'lʌki",
         "ukphone": "ʌn'lʌkɪ"
@@ -1699,7 +1749,7 @@
     {
         "name": "lose",
         "trans": [
-            "丢失；失败"
+            "v. fail to keep or to maintain; cease to have, either physically or in an abstract sense; fail to win"
         ],
         "usphone": "luz",
         "ukphone": "luːz"
@@ -1707,7 +1757,7 @@
     {
         "name": "girlfriend",
         "trans": [
-            "女朋友"
+            "n. any female friend; a girl or young woman with whom a man is romantically involved"
         ],
         "usphone": "'ɡɝlfrɛnd",
         "ukphone": "'gɜːlfrend"
@@ -1715,7 +1765,9 @@
     {
         "name": "ready",
         "trans": [
-            "准备好的；乐意的"
+            "adj. completely prepared or in condition for immediate action or use or progress; (of especially money) immediately available",
+            "n. poised for action",
+            "v. prepare for eating by applying heat; make ready or suitable or equip in advance for a particular purpose or for some use, event, etc"
         ],
         "usphone": "'rɛdi",
         "ukphone": "'redɪ"
@@ -1731,7 +1783,7 @@
     {
         "name": "character",
         "trans": [
-            "个性；品质；人物"
+            "n. an imaginary person represented in a work of fiction (play or film or story); a characteristic property that defines the apparent individual nature of something"
         ],
         "usphone": "'kærɪktɚ",
         "ukphone": "'kærəktə"
@@ -1739,7 +1791,7 @@
     {
         "name": "simple",
         "trans": [
-            "简单的；朴素的；单纯的"
+            "adj. having few parts; not complex or complicated or involved; easy and not involved or complicated"
         ],
         "usphone": "'sɪmpl",
         "ukphone": "'sɪmp(ə)l"
@@ -1747,7 +1799,7 @@
     {
         "name": "dress up",
         "trans": [
-            "装扮；乔装打扮"
+            "v. put on special clothes to appear particularly appealing and attractive; make something appear superficially attractive"
         ],
         "usphone": "drɛs ʌp",
         "ukphone": "dres ʌp"
@@ -1763,7 +1815,7 @@
     {
         "name": "army",
         "trans": [
-            "军队；陆军；一大批"
+            "n. a permanent organization of the military land forces of a nation or state; a large number of people united for some specific purpose"
         ],
         "usphone": "'ɑrmi",
         "ukphone": "'ɑːmɪ"
@@ -1779,7 +1831,7 @@
     {
         "name": "grow up",
         "trans": [
-            "长大；成长"
+            "v. become an adult"
         ],
         "usphone": "",
         "ukphone": ""
@@ -1787,7 +1839,7 @@
     {
         "name": "computer programmer",
         "trans": [
-            "计算机管理员"
+            "n. a person who designs and writes and tests computer programs"
         ],
         "usphone": "",
         "ukphone": ""
@@ -1795,7 +1847,8 @@
     {
         "name": "cook",
         "trans": [
-            "烹调，煮，烧，做(饭)"
+            "v. prepare a hot meal; prepare for eating by applying heat",
+            "n. someone who cooks food"
         ],
         "usphone": "kʊk",
         "ukphone": "kʊk"
@@ -1803,7 +1856,8 @@
     {
         "name": "doctor",
         "trans": [
-            "医生"
+            "n. a licensed medical practitioner",
+            "v. alter and make impure, as with the intention to deceive; give medical treatment to"
         ],
         "usphone": "'dɑktɚ",
         "ukphone": "'dɒktə"
@@ -1811,7 +1865,7 @@
     {
         "name": "engineer",
         "trans": [
-            "工程师"
+            "n. a person who uses scientific knowledge to solve practical problems"
         ],
         "usphone": ",ɛndʒɪ'nɪr",
         "ukphone": "endʒɪ'nɪə"
@@ -1819,7 +1873,7 @@
     {
         "name": "violinist",
         "trans": [
-            "小提琴手"
+            "n. a musician who plays the violin"
         ],
         "usphone": ",vaɪə'lɪnɪst",
         "ukphone": ",vaɪə'lɪnɪst"
@@ -1827,7 +1881,7 @@
     {
         "name": "driver",
         "trans": [
-            "驾驶员；驱动程序"
+            "n. the operator of a motor vehicle"
         ],
         "usphone": "'draɪvɚ",
         "ukphone": "'draɪvə"
@@ -1835,7 +1889,8 @@
     {
         "name": "pilot",
         "trans": [
-            "飞行员"
+            "n. someone who is licensed to operate an aircraft in flight",
+            "v. operate an airplane; act as the navigator in a car, plane, or vessel and plan, direct, plot the path and position of the conveyance"
         ],
         "usphone": "'paɪlət",
         "ukphone": "'paɪlət"
@@ -1843,7 +1898,7 @@
     {
         "name": "pianist",
         "trans": [
-            "钢琴家"
+            "n. a person who plays the piano"
         ],
         "usphone": "'pɪənɪst",
         "ukphone": "'pɪənɪst"
@@ -1851,7 +1906,7 @@
     {
         "name": "scientist",
         "trans": [
-            "科学家"
+            "n. a person with advanced knowledge of one or more sciences"
         ],
         "usphone": "'saɪəntɪst",
         "ukphone": "'saɪəntɪst"
@@ -1867,7 +1922,7 @@
     {
         "name": "make sure",
         "trans": [
-            "确保"
+            "v. make a point of doing something; act purposefully and intentionally"
         ],
         "usphone": "mek ʃʊər",
         "ukphone": ""
@@ -1875,7 +1930,7 @@
     {
         "name": "college",
         "trans": [
-            "大学"
+            "n. the body of faculty and students of a college"
         ],
         "usphone": "'kɑlɪdʒ",
         "ukphone": "'kɒlɪdʒ"
@@ -1883,7 +1938,7 @@
     {
         "name": "education",
         "trans": [
-            "教育"
+            "n. the activities of educating or instructing; activities that impart knowledge or skill; knowledge acquired by learning and instruction"
         ],
         "usphone": ",ɛdʒu'keʃən",
         "ukphone": "ˌedʒʊˈkeɪʃn"
@@ -1891,7 +1946,7 @@
     {
         "name": "medicine",
         "trans": [
-            "药；医学"
+            "n. the branches of medical science that deal with nonsurgical techniques; (medicine) something that treats or prevents or alleviates the symptoms of disease"
         ],
         "usphone": "ˈmedɪsn; mɛdəsn",
         "ukphone": "ˈmedsn"
@@ -1899,7 +1954,7 @@
     {
         "name": "university",
         "trans": [
-            "大学，高等学府"
+            "n. the body of faculty and students at a university"
         ],
         "usphone": ",junɪ'vɝsəti",
         "ukphone": "juːnɪ'vɜːsɪtɪ"
@@ -1907,7 +1962,7 @@
     {
         "name": "London",
         "trans": [
-            "伦敦"
+            "n. the capital and largest city of England; located on the Thames in southeastern England; financial and industrial and cultural center"
         ],
         "usphone": "ˈlʌndən",
         "ukphone": "ˈlʌndən"
@@ -1915,7 +1970,7 @@
     {
         "name": "article",
         "trans": [
-            "文章，论文"
+            "n. nonfictional prose forming an independent part of a publication; one of a class of artifacts"
         ],
         "usphone": "'ɑrtɪkl",
         "ukphone": "'ɑːtɪk(ə)l"
@@ -1923,7 +1978,7 @@
     {
         "name": "send",
         "trans": [
-            "邮寄，发送"
+            "v. cause to go somewhere; to cause or order to be taken, directed, or transmitted to another place"
         ],
         "usphone": "sɛnd",
         "ukphone": "send"
@@ -1931,7 +1986,7 @@
     {
         "name": "resolution",
         "trans": [
-            "决定；决心"
+            "n. a formal expression by a meeting; agreed to by a vote"
         ],
         "usphone": ",rɛzə'luʃən",
         "ukphone": "rezə'luːʃ(ə)n"
@@ -1939,7 +1994,7 @@
     {
         "name": "team",
         "trans": [
-            "(一)队(人)；(一)组(人)"
+            "n. a cooperative unit (especially in sports); two or more draft animals that work together to pull something"
         ],
         "usphone": "tim",
         "ukphone": "tiːm"
@@ -1947,7 +2002,7 @@
     {
         "name": "foreign",
         "trans": [
-            "外国的"
+            "adj. of concern to or concerning the affairs of other nations (other than your own)"
         ],
         "usphone": "'fɔrən",
         "ukphone": "'fɒrɪn"
@@ -1955,7 +2010,7 @@
     {
         "name": "able",
         "trans": [
-            "聪明能干的，能力出众的"
+            "adj. (usually followed by 'to') having the necessary means or skill or know-how or authority to do something; have the skills and qualifications to do things well"
         ],
         "usphone": "'ebl",
         "ukphone": "'eɪb(ə)l"
@@ -1963,7 +2018,7 @@
     {
         "name": "be able to",
         "trans": [
-            "能够做某事"
+            "phr. to have the power, skill or means to do something"
         ],
         "usphone": "",
         "ukphone": ""
@@ -1971,7 +2026,8 @@
     {
         "name": "question",
         "trans": [
-            "问题"
+            "n. an instance of questioning; the subject matter at issue",
+            "v. challenge the accuracy, probity, or propriety of; pose a series of questions to"
         ],
         "usphone": "'kwɛstʃən",
         "ukphone": "'kwestʃ(ə)n"
@@ -1979,7 +2035,7 @@
     {
         "name": "meaning",
         "trans": [
-            "意义"
+            "n. the message that is intended or expressed or signified; the idea that is intended"
         ],
         "usphone": "'minɪŋ",
         "ukphone": "'miːnɪŋ"
@@ -1987,7 +2043,7 @@
     {
         "name": "discuss",
         "trans": [
-            "讨论，商量"
+            "v. to consider or examine in speech or writing; speak with others about (something); talk (something) over in detail; have a discussion"
         ],
         "usphone": "dɪ'skʌs",
         "ukphone": "dɪ'skʌs"
@@ -1995,8 +2051,8 @@
     {
         "name": "promise",
         "trans": [
-            "承诺，诺言",
-            "诺言"
+            "v. make a promise or commitment; promise to undertake or give",
+            "n. a verbal commitment by one person to another agreeing to do (or not to do) something in the future; grounds for feeling hopeful about the future"
         ],
         "usphone": "'prɑmɪs",
         "ukphone": "'prɒmɪs"
@@ -2004,7 +2060,7 @@
     {
         "name": "beginning",
         "trans": [
-            "开头，开端"
+            "n. the event consisting of the start of something; the time at which something is supposed to begin"
         ],
         "usphone": "bɪ'ɡɪnɪŋ",
         "ukphone": "bɪ'gɪnɪŋ"
@@ -2020,7 +2076,7 @@
     {
         "name": "improve",
         "trans": [
-            "改进，改善"
+            "v. to make better; get better"
         ],
         "usphone": "ɪm'pruv",
         "ukphone": "ɪm'pruːv"
@@ -2028,7 +2084,7 @@
     {
         "name": "write down",
         "trans": [
-            "写下"
+            "v. put down in writing; of texts, musical compositions, etc."
         ],
         "usphone": "",
         "ukphone": ""
@@ -2036,7 +2092,7 @@
     {
         "name": "physical",
         "trans": [
-            "身体的"
+            "adj. involving the body as distinguished from the mind or spirit; relating to the sciences dealing with matter and energy; especially physics"
         ],
         "usphone": "'fɪzɪkl",
         "ukphone": "'fɪzɪk(ə)l"
@@ -2044,7 +2100,7 @@
     {
         "name": "themselves",
         "trans": [
-            "他们自己"
+            "pron. reflexive or emphatic form of \"they\" / \"them\""
         ],
         "usphone": "ðɛm'sɛlvz",
         "ukphone": "ð(ə)m'selvz"
@@ -2060,7 +2116,7 @@
     {
         "name": "self-improvement",
         "trans": [
-            "自我改进，自我提高"
+            "n. the act of improving yourself"
         ],
         "usphone": "",
         "ukphone": ""
@@ -2068,7 +2124,7 @@
     {
         "name": "take up",
         "trans": [
-            "学着做；开始做"
+            "v. pursue or resume; adopt"
         ],
         "usphone": "",
         "ukphone": ""
@@ -2076,7 +2132,7 @@
     {
         "name": "hobby",
         "trans": [
-            "业余爱好"
+            "n. an auxiliary activity"
         ],
         "usphone": "'hɑbi",
         "ukphone": "'hɒbɪ"
@@ -2084,9 +2140,7 @@
     {
         "name": "weekly",
         "trans": [
-            "每周的",
-            "周刊",
-            "每周一次；逐周"
+            "n. a periodical that is published every week (or 52 issues per year)"
         ],
         "usphone": "'wikli",
         "ukphone": "'wiːklɪ"
@@ -2102,7 +2156,7 @@
     {
         "name": "agree",
         "trans": [
-            "同意；赞成"
+            "v. be in accord; be in agreement; consent or assent to a condition, or agree to do something"
         ],
         "usphone": "ə'ɡri",
         "ukphone": "ə'griː"
@@ -2118,8 +2172,8 @@
     {
         "name": "own",
         "trans": [
-            "自己的，本人的",
-            "拥有"
+            "adj. belonging to or on behalf of a specified person (especially yourself); preceded by a possessive",
+            "v. have ownership or possession of"
         ],
         "usphone": "on",
         "ukphone": "əʊn"
@@ -2127,7 +2181,7 @@
     {
         "name": "personal",
         "trans": [
-            "个人的，私人的"
+            "adj. concerning or affecting a particular person or his or her private life and personality; particular to a given individual"
         ],
         "usphone": "'pɝsənl",
         "ukphone": "'pɜːs(ə)n(ə)l"
@@ -2135,7 +2189,7 @@
     {
         "name": "relationship",
         "trans": [
-            "关系"
+            "n. a relation between people; ('relationship' is often used where 'relation' would serve, as in 'the relationship between inflation and unemployment'…"
         ],
         "usphone": "rɪ'leʃən'ʃɪp",
         "ukphone": "rɪ'leɪʃ(ə)nʃɪp"
@@ -2143,7 +2197,7 @@
     {
         "name": "paper",
         "trans": [
-            "纸"
+            "n. a material made of cellulose pulp derived mainly from wood or rags or certain grasses; an essay (especially one written as an assignment)"
         ],
         "usphone": "'pepɚ",
         "ukphone": "'peɪpə"
@@ -2151,7 +2205,7 @@
     {
         "name": "pollution",
         "trans": [
-            "污染；污染物"
+            "n. undesirable state of the natural environment being contaminated with harmful substances as a consequence of human activities"
         ],
         "usphone": "pə'luʃən",
         "ukphone": "pə'luːʃ(ə)n"
@@ -2159,7 +2213,7 @@
     {
         "name": "prediction",
         "trans": [
-            "预测"
+            "n. the act of predicting (as by reasoning about the future)"
         ],
         "usphone": "prɪ'dɪkʃən",
         "ukphone": "prɪ'dɪkʃ(ə)n"
@@ -2167,7 +2221,8 @@
     {
         "name": "future",
         "trans": [
-            "未来"
+            "n. the time yet to come; a verb tense that expresses actions or states in the future",
+            "adj. yet to be or coming; effective in or looking toward the future"
         ],
         "usphone": "ˈfjutʃɚ",
         "ukphone": "'fjuːtʃə"
@@ -2175,7 +2230,7 @@
     {
         "name": "pollute",
         "trans": [
-            "污染"
+            "v. make impure"
         ],
         "usphone": "pə'lut",
         "ukphone": "pə'luːt"
@@ -2183,7 +2238,7 @@
     {
         "name": "environment",
         "trans": [
-            "环境"
+            "n. the totality of surrounding conditions; the area in which something exists or lives"
         ],
         "usphone": "ɪn'vaɪrənmənt",
         "ukphone": "ɪnˈvaɪərənmənt"
@@ -2191,7 +2246,7 @@
     {
         "name": "planet",
         "trans": [
-            "行星"
+            "n. (astronomy) any of the nine large celestial bodies in the solar system that revolve around the sun and shine by reflected light; Mercury, Venus, Earth, Mars…"
         ],
         "usphone": "'plænɪt",
         "ukphone": "'plænɪt"
@@ -2199,7 +2254,7 @@
     {
         "name": "earth",
         "trans": [
-            "地球；泥土"
+            "n. the 3rd planet from the sun; the planet we live on; the loose soft material that makes up a large part of the land surface"
         ],
         "usphone": "ɝθ",
         "ukphone": "ɜːθ"
@@ -2207,8 +2262,8 @@
     {
         "name": "plant",
         "trans": [
-            "植物",
-            "种植"
+            "n. buildings for carrying on industrial labor; (botany) a living organism lacking the power of locomotion",
+            "v. put or set (seeds, seedlings, or plants) into the ground; fix or set securely or deeply"
         ],
         "usphone": "plænt",
         "ukphone": "plɑːnt"
@@ -2216,7 +2271,9 @@
     {
         "name": "part",
         "trans": [
-            "部分；参加"
+            "n. something determined in relation to something that includes it; something less than the whole of a human artifact",
+            "adv. in part; in some degree; not wholly",
+            "v. go one's own way; move apart; discontinue an association or relation; go different ways"
         ],
         "usphone": "pɑrt",
         "ukphone": "pɑːt"
@@ -2232,7 +2289,7 @@
     {
         "name": "peace",
         "trans": [
-            "和平"
+            "n. the state prevailing during the absence of war; harmonious relations; freedom from disputes"
         ],
         "usphone": "pis",
         "ukphone": "piːs"
@@ -2240,7 +2297,7 @@
     {
         "name": "sea",
         "trans": [
-            "海；海洋；；许多；大量（与of连用）"
+            "n. a division of an ocean or a large body of salt water partially enclosed by land; anything apparently limitless in quantity or volume"
         ],
         "usphone": "si",
         "ukphone": "siː"
@@ -2248,7 +2305,7 @@
     {
         "name": "sky",
         "trans": [
-            "天空"
+            "n. the atmosphere and outer space as viewed from the earth"
         ],
         "usphone": "skaɪ",
         "ukphone": "skaɪ"
@@ -2256,7 +2313,7 @@
     {
         "name": "astronaut",
         "trans": [
-            "宇航员"
+            "n. a person trained to travel in a spacecraft"
         ],
         "usphone": "'æstrəˌnɔt",
         "ukphone": "'æstrənɔːt"
@@ -2264,7 +2321,7 @@
     {
         "name": "apartment",
         "trans": [
-            "公寓"
+            "n. a suite of rooms usually on one floor of an apartment house"
         ],
         "usphone": "ə'pɑrtmənt",
         "ukphone": "ə'pɑːtm(ə)nt"
@@ -2272,7 +2329,7 @@
     {
         "name": "rocket",
         "trans": [
-            "火箭；"
+            "n. any vehicle self-propelled by a rocket engine; a jet engine containing its own propellant and driven by reaction propulsion"
         ],
         "usphone": "'rɑkɪt",
         "ukphone": "'rɒkɪt"
@@ -2280,7 +2337,8 @@
     {
         "name": "space",
         "trans": [
-            "空间；太空"
+            "n. the unlimited expanse in which everything is located; an empty area (usually bounded in some way between things)",
+            "v. place at intervals"
         ],
         "usphone": "spes",
         "ukphone": "speɪs"
@@ -2288,7 +2346,7 @@
     {
         "name": "space station",
         "trans": [
-            "太空站"
+            "n. a manned artificial satellite in a fixed orbit designed for scientific research"
         ],
         "usphone": "",
         "ukphone": ""
@@ -2296,8 +2354,8 @@
     {
         "name": "human",
         "trans": [
-            "人的",
-            "人；人类"
+            "adj. characteristic of humanity; relating to a person",
+            "n. any living or extinct member of the family Hominidae characterized by superior intelligence, articulate speech, and erect carriage"
         ],
         "usphone": "'hjumən",
         "ukphone": "'hjuːmən"
@@ -2305,7 +2363,7 @@
     {
         "name": "servant",
         "trans": [
-            "仆人"
+            "n. a person working in the service of another (especially in the household)"
         ],
         "usphone": "'sɝvənt",
         "ukphone": "'sɜːv(ə)nt"
@@ -2313,7 +2371,7 @@
     {
         "name": "dangerous",
         "trans": [
-            "危险的"
+            "adj. involving or causing danger or risk; liable to hurt or harm; causing fear or anxiety by threatening great harm"
         ],
         "usphone": "'dendʒərəs",
         "ukphone": "ˈdeɪndʒərəs"
@@ -2321,7 +2379,7 @@
     {
         "name": "already",
         "trans": [
-            "已经"
+            "adv. prior to a specified or implied time"
         ],
         "usphone": "ɔl'rɛdi",
         "ukphone": "ɔːl'redɪ"
@@ -2329,7 +2387,7 @@
     {
         "name": "factory",
         "trans": [
-            "工厂"
+            "n. a plant consisting of one or more buildings with facilities for manufacturing"
         ],
         "usphone": "'fæktri",
         "ukphone": "'fækt(ə)rɪ"
@@ -2337,7 +2395,7 @@
     {
         "name": "over and over again",
         "trans": [
-            "多次；反复地"
+            "adv. repeatedly"
         ],
         "usphone": "",
         "ukphone": ""
@@ -2345,7 +2403,7 @@
     {
         "name": "believe",
         "trans": [
-            "相信"
+            "v. accept as true; take to be true; judge or regard; look upon; judge"
         ],
         "usphone": "bɪ'liv",
         "ukphone": "bɪ'liːv"
@@ -2353,7 +2411,7 @@
     {
         "name": "disagree",
         "trans": [
-            "不同意"
+            "v. be of different opinions"
         ],
         "usphone": ",dɪsə'ɡri",
         "ukphone": "dɪsə'griː"
@@ -2361,7 +2419,8 @@
     {
         "name": "even",
         "trans": [
-            "甚至；愈加"
+            "adv. used as an intensive especially to indicate something unexpected; in spite of; notwithstanding",
+            "adj. divisible by two; equal in degree or extent or amount; or equally matched or balanced"
         ],
         "usphone": "'ivən",
         "ukphone": "'iːv(ə)n"
@@ -2377,7 +2436,8 @@
     {
         "name": "shape",
         "trans": [
-            "形状"
+            "n. any spatial attributes (especially as defined by outline); the spatial arrangement of something as distinct from its substance",
+            "v. shape or influence; give direction to; make something, usually for a specific function"
         ],
         "usphone": "ʃep",
         "ukphone": "ʃeɪp"
@@ -2385,7 +2445,8 @@
     {
         "name": "fall",
         "trans": [
-            "摔倒；跌倒"
+            "v. descend in free fall under the influence of gravity; move downward and lower, but not necessarily all the way",
+            "n. the season when the leaves fall from the trees; a sudden drop from an upright position"
         ],
         "usphone": "fɔl",
         "ukphone": "fɔːl"
@@ -2393,7 +2454,7 @@
     {
         "name": "fall down",
         "trans": [
-            "突然倒下；跌倒；倒塌"
+            "v. lose an upright position suddenly"
         ],
         "usphone": "",
         "ukphone": ""
@@ -2401,10 +2462,9 @@
     {
         "name": "inside",
         "trans": [
-            "里面；内部；内脏",
-            "里面的；内部的；秘密的；内幕的",
-            "在里面",
-            "在……之内"
+            "adv. within a building; on the inside",
+            "n. the region that is inside of something; the inner or enclosed surface of something",
+            "adj. relating to or being on the side closer to the center or within a defined space; being or applying to the inside of a building"
         ],
         "usphone": "'ɪn'saɪd",
         "ukphone": "ɪn'saɪd"
@@ -2412,7 +2472,7 @@
     {
         "name": "look for",
         "trans": [
-            "寻找；寻求"
+            "v. try to locate or discover, or try to establish the existence of; be excited or anxious about"
         ],
         "usphone": "",
         "ukphone": ""
@@ -2420,7 +2480,8 @@
     {
         "name": "possible",
         "trans": [
-            "可能的"
+            "adj. capable of happening or existing; existing in possibility",
+            "n. something that can be done"
         ],
         "usphone": "'pɑsəbl",
         "ukphone": "'pɒsɪb(ə)l"
@@ -2428,8 +2489,8 @@
     {
         "name": "impossible",
         "trans": [
-            "不可能的；不可能存在的；难以忍受的；难以忍受的",
-            "不可能；不可能的事"
+            "adj. not capable of occurring or being accomplished or dealt with; totally unlikely",
+            "n. something that cannot be done"
         ],
         "usphone": "ɪm'pɑsəbl",
         "ukphone": "ɪm'pɒsɪb(ə)l"
@@ -2437,9 +2498,8 @@
     {
         "name": "side",
         "trans": [
-            "侧面；旁边；方面",
-            "支持；同意，支持",
-            "旁的，侧的"
+            "n. a place within a region identified relative to a center or reference location; one of two or more contesting groups",
+            "adj. located on a side"
         ],
         "usphone": "saɪd",
         "ukphone": "saɪd"
@@ -2447,7 +2507,7 @@
     {
         "name": "probably",
         "trans": [
-            "大概；或许；很可能"
+            "adv. with considerable certainty; without much doubt"
         ],
         "usphone": "'prɑbəbli",
         "ukphone": "'prɒbəblɪ"
@@ -2455,7 +2515,7 @@
     {
         "name": "during",
         "trans": [
-            "在……的时候，在……的期间"
+            "prep. throughout the course of; at some point in"
         ],
         "usphone": "'dʊrɪŋ",
         "ukphone": "'djʊərɪŋ"
@@ -2463,7 +2523,7 @@
     {
         "name": "holiday",
         "trans": [
-            "假日"
+            "n. leisure time away from work devoted to rest or pleasure; a day on which work is suspended by law or custom"
         ],
         "usphone": "'hɑləde",
         "ukphone": "'hɒlɪdeɪ; -dɪ"
@@ -2471,7 +2531,8 @@
     {
         "name": "word",
         "trans": [
-            "字；词；单词"
+            "n. a unit of language that native speakers can identify; a brief statement",
+            "v. put into words or an expression"
         ],
         "usphone": "wɝd",
         "ukphone": "wɜːd"
@@ -2479,8 +2540,7 @@
     {
         "name": "shake",
         "trans": [
-            "摇动；震动；动摇；发抖",
-            "摇动；哆嗦"
+            "v. move or cause to move back and forth; move with or as if with a tremor"
         ],
         "usphone": "ʃek",
         "ukphone": "ʃeɪk"
@@ -2488,7 +2548,7 @@
     {
         "name": "milk shake",
         "trans": [
-            "奶昔（牛奶和冰淇淋等的混合饮料）"
+            "n. frothy drink of milk and flavoring and sometimes fruit or ice cream"
         ],
         "usphone": "",
         "ukphone": ""
@@ -2496,7 +2556,7 @@
     {
         "name": "blender",
         "trans": [
-            "搅拌器；果汁机"
+            "n. an electrically powered mixer with whirling blades that mix or chop or liquefy foods"
         ],
         "usphone": "'blɛndɚ",
         "ukphone": "'blendə"
@@ -2504,7 +2564,7 @@
     {
         "name": "turn on",
         "trans": [
-            "打开"
+            "v. cause to operate by flipping a switch; be contingent on"
         ],
         "usphone": "tɝ​n ɑn",
         "ukphone": "tɜ:n ɒn"
@@ -2512,7 +2572,7 @@
     {
         "name": "peel",
         "trans": [
-            "削皮；剥落"
+            "v. strip the skin off"
         ],
         "usphone": "pil",
         "ukphone": "piːl"
@@ -2520,7 +2580,7 @@
     {
         "name": "pour",
         "trans": [
-            "倒；倾倒"
+            "v. cause to run; move in large numbers"
         ],
         "usphone": "pɔr",
         "ukphone": "pɔː"
@@ -2528,7 +2588,7 @@
     {
         "name": "yogurt",
         "trans": [
-            "酸奶；"
+            "n. a custard-like food made from curdled milk"
         ],
         "usphone": "'joɡət",
         "ukphone": "'jɒgət; 'jəʊ-"
@@ -2536,7 +2596,8 @@
     {
         "name": "honey",
         "trans": [
-            "蜂蜜"
+            "n. a sweet yellow liquid produced by bees; a beloved person; used as terms of endearment",
+            "adj. of something having the color of honey"
         ],
         "usphone": "'hʌni",
         "ukphone": "'hʌnɪ"
@@ -2544,7 +2605,7 @@
     {
         "name": "watermelon",
         "trans": [
-            "西瓜"
+            "n. an African melon"
         ],
         "usphone": "'wɔtɚmɛlən",
         "ukphone": "'wɔːtəmelən"
@@ -2552,7 +2613,7 @@
     {
         "name": "spoon",
         "trans": [
-            "勺，调羹"
+            "n. a piece of cutlery with a shallow bowl-shaped container and a handle; used to stir or serve or take up food"
         ],
         "usphone": "spun",
         "ukphone": "spuːn"
@@ -2560,8 +2621,8 @@
     {
         "name": "pot",
         "trans": [
-            "壶；盆；罐",
-            "把……装罐"
+            "n. metal or earthenware cooking vessel that is usually round and deep; often has a handle and lid; a plumbing fixture for defecation and urination",
+            "v. plant in a pot"
         ],
         "usphone": "pɑt",
         "ukphone": "pɒt"
@@ -2569,7 +2630,7 @@
     {
         "name": "add",
         "trans": [
-            "增加"
+            "v. make an addition (to); join or combine or unite with others; increase the quality, quantity, size or scope of; state or say further"
         ],
         "usphone": "æd",
         "ukphone": "æd"
@@ -2577,7 +2638,7 @@
     {
         "name": "finally",
         "trans": [
-            "最后，最终"
+            "adv. after an unspecified period of time or an especially long delay; as the end result of a succession or process"
         ],
         "usphone": "'faɪnlɪ",
         "ukphone": "'faɪnəlɪ"
@@ -2585,7 +2646,9 @@
     {
         "name": "salt",
         "trans": [
-            "盐"
+            "n. a compound formed by replacing hydrogen in an acid by a metal (or a radical that acts like a metal)",
+            "v. add salt to",
+            "adj. (of speech) painful or bitter"
         ],
         "usphone": "sɔlt",
         "ukphone": "sɔːlt; sɒlt"
@@ -2593,7 +2656,8 @@
     {
         "name": "sugar",
         "trans": [
-            "糖"
+            "n. a white crystalline carbohydrate used as a sweetener and preservative",
+            "v. sweeten with sugar"
         ],
         "usphone": "'ʃʊgɚ",
         "ukphone": "'ʃʊgə"
@@ -2601,7 +2665,7 @@
     {
         "name": "cheese",
         "trans": [
-            "干酪，奶酪"
+            "n. a solid food prepared from the pressed curd of milk"
         ],
         "usphone": "tʃiz",
         "ukphone": "tʃiːz"
@@ -2609,7 +2673,7 @@
     {
         "name": "popcorn",
         "trans": [
-            "爆米花"
+            "n. corn having small ears and kernels that burst when exposed to dry heat"
         ],
         "usphone": "'pɑpkɔrn",
         "ukphone": "'pɒpkɔːn"
@@ -2617,7 +2681,7 @@
     {
         "name": "corn",
         "trans": [
-            "谷物；玉米"
+            "n. tall annual cereal grass bearing kernels on large ears: widely cultivated in America in many varieties…"
         ],
         "usphone": "kɔrn",
         "ukphone": "kɔːn"
@@ -2625,7 +2689,7 @@
     {
         "name": "machine",
         "trans": [
-            "机器"
+            "n. any mechanical or electrical device that transmits or modifies energy to perform or assist in the performance of human tasks; an efficient person"
         ],
         "usphone": "mə'ʃin",
         "ukphone": "mə'ʃiːn"
@@ -2633,8 +2697,7 @@
     {
         "name": "dig",
         "trans": [
-            "挖，掘；探究",
-            "挖苦；刺；戳"
+            "v. turn up, loosen, or remove earth; create by digging"
         ],
         "usphone": "dɪɡ",
         "ukphone": "dɪg"
@@ -2642,8 +2705,7 @@
     {
         "name": "hole",
         "trans": [
-            "洞，孔；洞穴，穴",
-            "（高尔夫球等）进洞 凿洞"
+            "n. an opening into or through something; an opening deliberately made in or through something"
         ],
         "usphone": "hol",
         "ukphone": "həʊl"
@@ -2651,7 +2713,7 @@
     {
         "name": "sandwich",
         "trans": [
-            "三明治"
+            "n. two (or more) slices of bread with a filling between them"
         ],
         "usphone": "'sænwɪtʃ",
         "ukphone": "'sæn(d)wɪdʒ; -wɪtʃ"
@@ -2659,7 +2721,7 @@
     {
         "name": "butter",
         "trans": [
-            "黄油，奶油"
+            "n. an edible emulsion of fat globules made by churning milk or cream; for cooking and table use"
         ],
         "usphone": "'bʌtɚ",
         "ukphone": "'bʌtə"
@@ -2667,7 +2729,7 @@
     {
         "name": "turkey",
         "trans": [
-            "火鸡"
+            "n. large gallinaceous bird with fan-shaped tail; widely domesticated for food"
         ],
         "usphone": "'tɝki",
         "ukphone": "'tɜːkɪ"
@@ -2675,7 +2737,7 @@
     {
         "name": "lettuce",
         "trans": [
-            "莴苣，生菜"
+            "n. informal terms for money"
         ],
         "usphone": "'lɛtɪs",
         "ukphone": "'letɪs"
@@ -2683,7 +2745,8 @@
     {
         "name": "piece",
         "trans": [
-            "件；篇；片；块；"
+            "n. a separate part of a whole; an item that is an instance of some type",
+            "v. to join or unite the pieces of"
         ],
         "usphone": "pis",
         "ukphone": "piːs"
@@ -2691,7 +2754,7 @@
     {
         "name": "Thanksgiving",
         "trans": [
-            "感恩节"
+            "n. fourth Thursday in November in the United States; second Monday in October in Canada; commemorates a feast held in 1621 by the Pilgrims and the Wampanoag"
         ],
         "usphone": "",
         "ukphone": ""
@@ -2699,7 +2762,7 @@
     {
         "name": "traditional",
         "trans": [
-            "传统的"
+            "adj. consisting of or derived from tradition; pertaining to time-honored orthodox doctrines"
         ],
         "usphone": "trə'dɪʃənl",
         "ukphone": "trə'dɪʃ(ə)n(ə)l"
@@ -2707,8 +2770,7 @@
     {
         "name": "autumn",
         "trans": [
-            "秋天",
-            "秋天的，秋季的"
+            "n. the season when the leaves fall from the trees"
         ],
         "usphone": "'ɔtəm",
         "ukphone": "'ɔːtəm"
@@ -2716,7 +2778,7 @@
     {
         "name": "traveler",
         "trans": [
-            "旅行者"
+            "n. a person who changes location"
         ],
         "usphone": "'trævlɚ",
         "ukphone": "'trævələ"
@@ -2724,7 +2786,7 @@
     {
         "name": "England",
         "trans": [
-            "英格兰；英国"
+            "n. a division of the United Kingdom"
         ],
         "usphone": "'iŋɡlənd",
         "ukphone": "ˈɪŋɡlənd"
@@ -2732,7 +2794,7 @@
     {
         "name": "celebrate",
         "trans": [
-            "庆祝；庆贺"
+            "v. behave as expected during of holidays or rites; have a celebration"
         ],
         "usphone": "sɛləˌbret",
         "ukphone": "'selɪbreɪt"
@@ -2740,8 +2802,7 @@
     {
         "name": "mix",
         "trans": [
-            "混淆；使混和；配制",
-            "混合；混合物；混乱"
+            "v. mix together different elements; open (a place) to members of all races and ethnic groups"
         ],
         "usphone": "mɪks",
         "ukphone": "mɪks"
@@ -2749,7 +2810,7 @@
     {
         "name": "pepper",
         "trans": [
-            "胡椒粉；椒类"
+            "v. add pepper to; attack and bombard with or as if with missiles"
         ],
         "usphone": "'pɛpɚ",
         "ukphone": "'pepə"
@@ -2757,7 +2818,8 @@
     {
         "name": "fill",
         "trans": [
-            "装满，使充满；满足；任职"
+            "v. make full, also in a metaphorical sense; become full",
+            "n. a quantity sufficient to satisfy"
         ],
         "usphone": "fɪl",
         "ukphone": "fɪl"
@@ -2765,7 +2827,7 @@
     {
         "name": "oven",
         "trans": [
-            "烤箱；烤炉"
+            "n. kitchen appliance used for baking or roasting"
         ],
         "usphone": "ˈʌvən",
         "ukphone": "ˈʌvn"
@@ -2773,8 +2835,7 @@
     {
         "name": "plate",
         "trans": [
-            "碟；金属牌；金属板",
-            "镀上（金或银）"
+            "n. (baseball) base consisting of a rubber slab where the batter stands; it must be touched by a base runner in order to score"
         ],
         "usphone": "pleɪt",
         "ukphone": "pleɪt"
@@ -2782,7 +2843,8 @@
     {
         "name": "cover",
         "trans": [
-            "遮盖，盖"
+            "v. provide with a covering or cause to be covered; form a cover over",
+            "n. a covering that serves to conceal or shelter something; bedding that keeps a person warm in bed"
         ],
         "usphone": "'kʌvɚ",
         "ukphone": "'kʌvə"
@@ -2790,7 +2852,7 @@
     {
         "name": "gravy",
         "trans": [
-            "肉汁；肉汤"
+            "n. a sauce made by adding stock, flour, or other ingredients to the juice and fat that drips from cooking meats"
         ],
         "usphone": "'ɡrevi",
         "ukphone": "'greɪvɪ"
@@ -2798,7 +2860,7 @@
     {
         "name": "serve",
         "trans": [
-            "接待，服务"
+            "v. serve a purpose, role, or function; do duty or hold offices; serve in a specific function"
         ],
         "usphone": "sɝv",
         "ukphone": "sɜːv"
@@ -2806,7 +2868,7 @@
     {
         "name": "temperature",
         "trans": [
-            "温度，气候"
+            "n. the degree of hotness or coldness of a body or environment (corresponding to its molecular activity); the somatic sensation of cold or heat"
         ],
         "usphone": "ˈtempərtʃʊər; tɛmpɚ-ˌtʃʊr",
         "ukphone": "temprətʃə(r)"
@@ -2814,7 +2876,7 @@
     {
         "name": "prepare",
         "trans": [
-            "预备；准备"
+            "v. make ready or suitable or equip in advance for a particular purpose or for some use, event, etc; prepare for eating by applying heat"
         ],
         "usphone": "prɪ'pɛr",
         "ukphone": "prɪ'peə"
@@ -2822,7 +2884,7 @@
     {
         "name": "prepare for",
         "trans": [
-            "为……准备"
+            "v. prepare mentally or emotionally for something unpleasant"
         ],
         "usphone": "",
         "ukphone": ""
@@ -2830,7 +2892,7 @@
     {
         "name": "exam",
         "trans": [
-            "考试"
+            "n. a set of questions or exercises evaluating skill or knowledge"
         ],
         "usphone": "ɪg'zæm",
         "ukphone": "ɪg'zæm; eg-"
@@ -2838,7 +2900,7 @@
     {
         "name": "flu",
         "trans": [
-            "流感"
+            "n. an acute febrile highly contagious viral disease"
         ],
         "usphone": "flu",
         "ukphone": "fluː"
@@ -2846,7 +2908,7 @@
     {
         "name": "available",
         "trans": [
-            "可得到的；有空的"
+            "adj. obtainable or accessible and ready for use or service"
         ],
         "usphone": "ə'veləbl",
         "ukphone": "ə'veɪləb(ə)l"
@@ -2862,8 +2924,7 @@
     {
         "name": "until",
         "trans": [
-            "在…之前；直到…时",
-            "在…之前；到…为止"
+            "prep. / conj. up to the time that; till"
         ],
         "usphone": "ən'tɪl",
         "ukphone": "ən'tɪl"
@@ -2871,7 +2932,7 @@
     {
         "name": "hang",
         "trans": [
-            "悬挂"
+            "v. be suspended or hanging; cause to be hanging or suspended"
         ],
         "usphone": "hæŋ",
         "ukphone": "hæŋ"
@@ -2879,7 +2940,7 @@
     {
         "name": "hang out",
         "trans": [
-            "常去某处；泡在某处"
+            "v. spend time in a certain location or with certain people"
         ],
         "usphone": "",
         "ukphone": ""
@@ -2887,7 +2948,8 @@
     {
         "name": "catch",
         "trans": [
-            "抓住；捕捉"
+            "v. discover or come upon accidentally, suddenly, or unexpectedly; catch somebody doing something or in a certain state",
+            "n. a drawback or difficulty that is not readily evident"
         ],
         "usphone": "kætʃ",
         "ukphone": "kætʃ"
@@ -2895,7 +2957,7 @@
     {
         "name": "invite",
         "trans": [
-            "邀请"
+            "v. increase the likelihood of; invite someone to one's house"
         ],
         "usphone": "ɪn'vaɪt",
         "ukphone": "ɪn'vaɪt"
@@ -2903,7 +2965,7 @@
     {
         "name": "accept",
         "trans": [
-            "接受；"
+            "v. consider or hold as true; receive willingly something given or offered"
         ],
         "usphone": "əkˈsɛpt",
         "ukphone": "əkˈsept"
@@ -2911,7 +2973,8 @@
     {
         "name": "refuse",
         "trans": [
-            "拒绝"
+            "v. show unwillingness towards; refuse to accept",
+            "n. food that is discarded (as from a kitchen)"
         ],
         "usphone": "ri'fjʊz",
         "ukphone": "rɪ'fjuːz"
@@ -2935,7 +2998,7 @@
     {
         "name": "weekday",
         "trans": [
-            "工作日"
+            "n. any day except Sunday (and sometimes except Saturday)"
         ],
         "usphone": "'wikde",
         "ukphone": "'wiːkdeɪ"
@@ -2943,7 +3006,7 @@
     {
         "name": "look after",
         "trans": [
-            "照顾，照料"
+            "v. keep under careful scrutiny"
         ],
         "usphone": "",
         "ukphone": ""
@@ -2951,7 +3014,7 @@
     {
         "name": "invitation",
         "trans": [
-            "邀请；邀请函"
+            "n. a request (spoken or written) to participate or be present or take part in something"
         ],
         "usphone": "ˌɪnvɪˈteɪʃn",
         "ukphone": "ɪnvɪ'teɪʃ(ə)n"
@@ -2959,7 +3022,7 @@
     {
         "name": "turn down",
         "trans": [
-            "减小，关小，调低"
+            "v. refuse to accept"
         ],
         "usphone": "",
         "ukphone": ""
@@ -2967,7 +3030,8 @@
     {
         "name": "reply",
         "trans": [
-            "回答，回复"
+            "v. react verbally",
+            "n. a statement (either spoken or written) that is made to reply to a question or request or criticism or accusation"
         ],
         "usphone": "rɪ'plai",
         "ukphone": "rɪ'plaɪ"
@@ -2975,7 +3039,9 @@
     {
         "name": "forward",
         "trans": [
-            "向前"
+            "adv. at or to or toward the front; ('forrad' and 'forrard' are dialectal variations); forward in time or order or degree",
+            "adj. at or near or directed toward the front",
+            "v. send or ship onward from an intermediate post or station in transit"
         ],
         "usphone": "'fɔrwɚd",
         "ukphone": "'fɔːwəd"
@@ -2983,7 +3049,7 @@
     {
         "name": "delete",
         "trans": [
-            "删除"
+            "v. remove or make invisible"
         ],
         "usphone": "dɪ'lit",
         "ukphone": "dɪ'liːt"
@@ -2991,8 +3057,8 @@
     {
         "name": "print",
         "trans": [
-            "印刷的文字；印花布",
-            "印刷；打印；刊载"
+            "v. put into print; write as if with print; not cursive",
+            "n. the text appearing in a book, newspaper, or other printed publication; a picture or design printed from an engraving"
         ],
         "usphone": "prɪnt",
         "ukphone": "prɪnt"
@@ -3000,7 +3066,7 @@
     {
         "name": "sad",
         "trans": [
-            "难过的；悲哀的，令人悲痛的"
+            "adj. experiencing or showing sorrow or unhappiness"
         ],
         "usphone": "sæd",
         "ukphone": "sæd"
@@ -3008,7 +3074,7 @@
     {
         "name": "goodbye",
         "trans": [
-            "再见"
+            "n. a farewell remark"
         ],
         "usphone": "",
         "ukphone": "gʊd'baɪ"
@@ -3024,8 +3090,7 @@
     {
         "name": "glad",
         "trans": [
-            "高兴的；乐意的",
-            "使...高兴"
+            "adj. showing or causing joy and pleasure; especially made happy; eagerly disposed to act or to be of service"
         ],
         "usphone": "ɡlæd",
         "ukphone": "glæd"
@@ -3033,7 +3098,7 @@
     {
         "name": "preparation",
         "trans": [
-            "准备；准备工作（用复数形式）"
+            "n. the activity of putting or setting in order in advance of some act or purpose; a substance prepared according to a formula"
         ],
         "usphone": ",prɛpə'reʃən",
         "ukphone": ",prepə'reɪʃ(ə)n"
@@ -3041,8 +3106,8 @@
     {
         "name": "glue",
         "trans": [
-            "粘合；盯着某物看（后接to）",
-            "胶；各种胶合物"
+            "v. join or attach with or as if with glue; be fixed as if by glue",
+            "n. cement consisting of a sticky substance that is used as an adhesive"
         ],
         "usphone": "ɡlu",
         "ukphone": "gluː"
@@ -3050,7 +3115,7 @@
     {
         "name": "without",
         "trans": [
-            "没有"
+            "prep. not having; in the absence of"
         ],
         "usphone": "wɪðˈaʊt",
         "ukphone": "wɪˈðaʊt"
@@ -3058,8 +3123,7 @@
     {
         "name": "surprised",
         "trans": [
-            "感到惊讶的",
-            "使惊奇（surprise的过去分词形式）"
+            "adj. taken unawares or suddenly and feeling wonder or astonishment"
         ],
         "usphone": "sɚ'praɪzd",
         "ukphone": ""
@@ -3067,7 +3131,7 @@
     {
         "name": "look forward to",
         "trans": [
-            "盼望，期待"
+            "phr. to feel pleased and excited about something that is going to happen"
         ],
         "usphone": "",
         "ukphone": ""
@@ -3075,7 +3139,7 @@
     {
         "name": "hear from",
         "trans": [
-            "收到......来信"
+            "phr. to receive a letter, call or message from"
         ],
         "usphone": "",
         "ukphone": ""
@@ -3083,7 +3147,7 @@
     {
         "name": "housewarming",
         "trans": [
-            "乔迁庆宴"
+            "n. a party of people assembled to celebrate moving into a new home"
         ],
         "usphone": "'haʊs,wɔrmɪŋ",
         "ukphone": "'haʊs,wɔːmɪŋ"
@@ -3091,7 +3155,8 @@
     {
         "name": "opening",
         "trans": [
-            "开幕式，落成典礼"
+            "n. an open or empty space in or between things; a ceremony accompanying the start of some enterprise",
+            "adj. first or beginning"
         ],
         "usphone": "'opənɪŋ",
         "ukphone": "'əʊp(ə)nɪŋ"
@@ -3099,7 +3164,7 @@
     {
         "name": "concert",
         "trans": [
-            "音乐会"
+            "n. a performance of music by players or singers not involving theatrical staging"
         ],
         "usphone": "'kɑnsɚt",
         "ukphone": "'kɒnsət"
@@ -3107,7 +3172,7 @@
     {
         "name": "headmaster",
         "trans": [
-            "男校长"
+            "n. presiding officer of a school"
         ],
         "usphone": ",hɛd'mæstɚ",
         "ukphone": "hed'mɑːstə"
@@ -3115,7 +3180,7 @@
     {
         "name": "event",
         "trans": [
-            "大事；公开活动"
+            "n. something that happens at a given place and time; a special set of circumstances"
         ],
         "usphone": "ɪ'vɛnt",
         "ukphone": "ɪ'vent"
@@ -3123,7 +3188,7 @@
     {
         "name": "guest",
         "trans": [
-            "客人"
+            "n. a visitor to whom hospitality is extended"
         ],
         "usphone": "ɡɛst",
         "ukphone": "gest"
@@ -3131,7 +3196,7 @@
     {
         "name": "calendar",
         "trans": [
-            "日历；日程表"
+            "n. a system of timekeeping that defines the beginning and length and divisions of the year"
         ],
         "usphone": "'kæləndɚ",
         "ukphone": "'kælɪndə"
@@ -3139,7 +3204,7 @@
     {
         "name": "daytime",
         "trans": [
-            "日间，白天"
+            "n. the time after sunrise and before sunset while it is light outside"
         ],
         "usphone": "'detaɪm",
         "ukphone": "'deɪtaɪm"
@@ -3147,8 +3212,7 @@
     {
         "name": "meeting",
         "trans": [
-            "会议；集会；会见",
-            "会面；会合（meet的ing形式）"
+            "n. a formally arranged gathering; a small informal social gathering"
         ],
         "usphone": "'mitɪŋ",
         "ukphone": "'miːtɪŋ"
@@ -3156,7 +3220,7 @@
     {
         "name": "video",
         "trans": [
-            "录像；录像带"
+            "n. the visible part of a television transmission"
         ],
         "usphone": "'vɪdɪo",
         "ukphone": "'vɪdɪəʊ"
@@ -3164,7 +3228,7 @@
     {
         "name": "potato chips",
         "trans": [
-            "马铃薯片；油炸薯片"
+            "n. a thin crisp slice of potato fried in deep fat"
         ],
         "usphone": "",
         "ukphone": ""
@@ -3172,7 +3236,7 @@
     {
         "name": "chocolate",
         "trans": [
-            "巧克力"
+            "n. a beverage made from cocoa powder and milk and sugar; usually drunk hot"
         ],
         "usphone": "ˈtʃɑkələt",
         "ukphone": "'tʃɒk(ə)lət"
@@ -3180,7 +3244,9 @@
     {
         "name": "upset",
         "trans": [
-            "难过的，失望的"
+            "v. disturb the balance or stability of; cause to lose one's composure",
+            "adj. afflicted with or marked by anxious uneasiness or trouble or grief; thrown into a state of disarray or confusion",
+            "n. an unhappy and worried mental state; the act of disturbing the mind or body"
         ],
         "usphone": "ʌp'sɛt",
         "ukphone": "ʌp'set"
@@ -3188,8 +3254,8 @@
     {
         "name": "taxi",
         "trans": [
-            "滑行；乘出租车；用出租车送",
-            "出租汽车"
+            "n. a car driven by a person whose job is to take passengers where they want to go in exchange for money",
+            "v. travel slowly"
         ],
         "usphone": "'tæksi",
         "ukphone": "'tæksɪ"
@@ -3197,7 +3263,7 @@
     {
         "name": "advice",
         "trans": [
-            "劝告，建议"
+            "n. a proposal for an appropriate course of action"
         ],
         "usphone": "ədˈvaɪs",
         "ukphone": "əd'vaɪs"
@@ -3205,7 +3271,8 @@
     {
         "name": "travel",
         "trans": [
-            "旅行；走过（某距离）；（以某速度）行进"
+            "v. change location; move, travel, or proceed, also metaphorically; undertake a journey or trip",
+            "n. the act of going from one place to another; a movement through space that changes the location of something"
         ],
         "usphone": "'trævl",
         "ukphone": "'træv(ə)l"
@@ -3213,7 +3280,7 @@
     {
         "name": "agent",
         "trans": [
-            "代理人，经纪人"
+            "n. an active and efficient cause; capable of producing a certain effect; a representative who acts on behalf of other persons or organizations"
         ],
         "usphone": "'edʒənt",
         "ukphone": "'eɪdʒ(ə)nt"
@@ -3221,7 +3288,8 @@
     {
         "name": "expert",
         "trans": [
-            "专家，能手"
+            "n. a person with special knowledge or ability who performs skillfully",
+            "adj. having or showing knowledge and skill and aptitude"
         ],
         "usphone": "'ɛkspɝt; (for adj., also) ɛksˈpɝt ; ɪkˈspɝt",
         "ukphone": "'ekspɜːt"
@@ -3237,7 +3305,7 @@
     {
         "name": "teenager",
         "trans": [
-            "青少年"
+            "n. a juvenile between the onset of puberty and maturity"
         ],
         "usphone": "'tinedʒɚ",
         "ukphone": "'tiːneɪdʒə"
@@ -3245,7 +3313,7 @@
     {
         "name": "normal",
         "trans": [
-            "正常的"
+            "adj. conforming with or constituting a norm or standard or level or type or social norm; not abnormal; in accordance with scientific laws"
         ],
         "usphone": "'nɔrml",
         "ukphone": "'nɔːm(ə)l"
@@ -3253,7 +3321,7 @@
     {
         "name": "unless",
         "trans": [
-            "除非，如果不"
+            "conj. except if; if not"
         ],
         "usphone": "ən'lɛs",
         "ukphone": "ʌn'les"
@@ -3261,7 +3329,7 @@
     {
         "name": "certainly",
         "trans": [
-            "当然，肯定"
+            "adv. definitely or positively ('sure' is sometimes used informally for 'surely')"
         ],
         "usphone": "'sɝtnli",
         "ukphone": "ˈsəːt(ə)nli"
@@ -3269,7 +3337,7 @@
     {
         "name": "wallet",
         "trans": [
-            "皮夹，钱包"
+            "n. a pocket-size case for holding papers and paper money"
         ],
         "usphone": "'wɑlɪt",
         "ukphone": "'wɒlɪt"
@@ -3277,7 +3345,7 @@
     {
         "name": "mile",
         "trans": [
-            "英里；较大的距离"
+            "n. a unit of length equal to 1,760 yards or 5,280 feet; exactly 1609.344 meters"
         ],
         "usphone": "maɪl",
         "ukphone": "maɪl"
@@ -3285,7 +3353,7 @@
     {
         "name": "angry",
         "trans": [
-            "生气的，发怒的"
+            "adj. feeling or showing anger; (of the elements) as if showing violent anger"
         ],
         "usphone": "ˈæŋgrɪ",
         "ukphone": "'æŋgrɪ"
@@ -3293,7 +3361,8 @@
     {
         "name": "understanding",
         "trans": [
-            "善解人意的，体谅人的"
+            "n. the cognitive condition of someone who understands; the statement (oral or written) of an exchange of promises",
+            "adj. characterized by understanding based on comprehension and discernment and empathy"
         ],
         "usphone": ",ʌndɚ'stændɪŋ",
         "ukphone": "ʌndə'stændɪŋ"
@@ -3301,7 +3370,7 @@
     {
         "name": "careless",
         "trans": [
-            "粗心的，不小心的"
+            "adj. marked by lack of attention or consideration or forethought or thoroughness; not careful; effortless and unstudied"
         ],
         "usphone": "'kɛrləs",
         "ukphone": "'keələs"
@@ -3309,7 +3378,8 @@
     {
         "name": "mistake",
         "trans": [
-            "错误，失误"
+            "n. a wrong action attributable to bad judgment or ignorance or inattention; an understanding of something that is not correct",
+            "v. identify incorrectly"
         ],
         "usphone": "mɪ'stek",
         "ukphone": "mɪ'steɪk"
@@ -3317,7 +3387,7 @@
     {
         "name": "himself",
         "trans": [
-            "他自己；他亲自，他本人"
+            "pron. reflexive or emphatic form of \"he\" / \"him\""
         ],
         "usphone": "hɪm'sɛlf",
         "ukphone": "hɪm'self"
@@ -3325,7 +3395,7 @@
     {
         "name": "careful",
         "trans": [
-            "小心的；细致的，周密的"
+            "adj. exercising caution or showing care or attention; cautiously attentive"
         ],
         "usphone": "'kɛrfl",
         "ukphone": "ˈkeəfl"
@@ -3333,7 +3403,7 @@
     {
         "name": "advise",
         "trans": [
-            "劝告，建议"
+            "v. give advice to; inform (somebody) of something"
         ],
         "usphone": "əd'vaɪz",
         "ukphone": "əd'vaɪz"
@@ -3341,7 +3411,7 @@
     {
         "name": "solve",
         "trans": [
-            "解决；解答"
+            "v. find the solution to (a problem or question) or understand the meaning of; find the solution"
         ],
         "usphone": "sɑlv",
         "ukphone": "sɒlv"
@@ -3349,8 +3419,8 @@
     {
         "name": "step",
         "trans": [
-            "步，脚步；步伐；步骤；梯级",
-            "踏，踩；走；走，迈步"
+            "n. any maneuver made as part of progress toward a goal; the distance covered by a step",
+            "v. shift or move by taking a step; put down or press the foot, place the foot"
         ],
         "usphone": "stɛp",
         "ukphone": "step"
@@ -3358,7 +3428,8 @@
     {
         "name": "trust",
         "trans": [
-            "相信，信任"
+            "v. have confidence or faith in; allow without fear",
+            "n. something (as property) held by one party (the trustee) for the benefit of another (the beneficiary); certainty based on past experience"
         ],
         "usphone": "trʌst",
         "ukphone": "trʌst"
@@ -3366,7 +3437,8 @@
     {
         "name": "experience",
         "trans": [
-            "经验；经历"
+            "n. the accumulation of knowledge or skill that results from direct participation in events or activities",
+            "v. go or live through; have firsthand knowledge of states, situations, emotions, or sensations"
         ],
         "usphone": "ɪk'spɪrɪəns",
         "ukphone": "ɪkˈspɪərɪəns"
@@ -3382,7 +3454,8 @@
     {
         "name": "halfway",
         "trans": [
-            "中途地；半路地"
+            "adj. equally distant from the extremes; at a point midway between two extremes",
+            "adv. at half the distance; at the middle"
         ],
         "usphone": ",hæf'we",
         "ukphone": "hɑːf'weɪ; 'hɑːfweɪ"
@@ -3390,8 +3463,7 @@
     {
         "name": "else",
         "trans": [
-            "别的，其他的",
-            "还能有别的……"
+            "adv. in addition; besides; different"
         ],
         "usphone": "ɛls",
         "ukphone": "els"

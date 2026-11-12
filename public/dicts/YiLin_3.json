@@ -1,2286 +1,2332 @@
 [
-	{
-		"name": "harm",
-		"trans": [
-			"n. & vt. 伤害，损害"
-		],
-		"usphone": "hɑːm",
-		"ukphone": "hɑːm"
-	},
-	{
-		"name": "soil",
-		"trans": [
-			"n. 土壤；国土，领土，土地"
-		],
-		"usphone": "sɔɪl",
-		"ukphone": "sɔɪl"
-	},
-	{
-		"name": "ecosystem",
-		"trans": [
-			"n. 生态系统"
-		],
-		"usphone": "ˈiːkəʊsɪstəm",
-		"ukphone": "ˈiːkəʊsɪstəm"
-	},
-	{
-		"name": "overseas",
-		"trans": [
-			"adj. 海外的，国外的 adv.向（在）海外，向（在）国外"
-		],
-		"usphone": "ˌəʊvəˈsiːz",
-		"ukphone": "ˌəʊvəˈsiːz"
-	},
-	{
-		"name": "region",
-		"trans": [
-			"n. 地区，区域；行政区"
-		],
-		"usphone": "ˈriːdʒən",
-		"ukphone": "ˈriːdʒən"
-	},
-	{
-		"name": "continent",
-		"trans": [
-			"n. 大陆，陆地；洲"
-		],
-		"usphone": "ˈkɒntɪnənt",
-		"ukphone": "ˈkɒntɪnənt"
-	},
-	{
-		"name": "million",
-		"trans": [
-			"n. 一百万；许多，大量"
-		],
-		"usphone": "ˈmɪljən",
-		"ukphone": "ˈmɪljən"
-	},
-	{
-		"name": "length",
-		"trans": [
-			"n. 长，长度；时间的长短；篇幅，（电影）片长"
-		],
-		"usphone": "leŋθ",
-		"ukphone": "leŋθ"
-	},
-	{
-		"name": "biodiversity",
-		"trans": [
-			"n. 生物多样性"
-		],
-		"usphone": "ˌbaɪəʊdaɪˈvɜːsəti",
-		"ukphone": "ˌbaɪəʊdaɪˈvɜːsəti"
-	},
-	{
-		"name": "species",
-		"trans": [
-			"n. (pl species) 种，物种"
-		],
-		"usphone": "ˈspiːʃiːz",
-		"ukphone": "ˈspiːʃiːz"
-	},
-	{
-		"name": "nut",
-		"trans": [
-			"n. 坚果"
-		],
-		"usphone": "nʌt",
-		"ukphone": "nʌt"
-	},
-	{
-		"name": "brazil nut",
-		"trans": [
-			"巴西坚果"
-		]
-	},
-	{
-		"name": "lily",
-		"trans": [
-			"n. 百合（花）"
-		],
-		"usphone": "ˈlɪli",
-		"ukphone": "ˈlɪli"
-	},
-	{
-		"name": "water lily",
-		"trans": [
-			"睡莲"
-		]
-	},
-	{
-		"name": "variety",
-		"trans": [
-			"n. 不同种类；变化，多样性；变种，变体"
-		],
-		"usphone": "vəˈraɪəti",
-		"ukphone": "vəˈraɪəti"
-	},
-	{
-		"name": "wildlife",
-		"trans": [
-			"n. 野生动植物，野生生物"
-		],
-		"usphone": "ˈwaɪldlaɪf",
-		"ukphone": "ˈwaɪldlaɪf"
-	},
-	{
-		"name": "beneath",
-		"trans": [
-			"prep. 在…下面，在…下方；配不上"
-		],
-		"usphone": "bɪˈniːθ",
-		"ukphone": "bɪˈniːθ"
-	},
-	{
-		"name": "mass",
-		"trans": [
-			"n. 大量；团，块，堆；一大群 adj.大批的，广泛的"
-		],
-		"usphone": "mæs",
-		"ukphone": "mæs"
-	},
-	{
-		"name": "towering",
-		"trans": [
-			"adj. 高大的，高耸的；出色的"
-		],
-		"usphone": "ˈtaʊərɪŋ",
-		"ukphone": "ˈtaʊərɪŋ"
-	},
-	{
-		"name": "hardwood",
-		"trans": [
-			"n. 阔叶树；硬材（阔叶树的木材）"
-		],
-		"usphone": "ˈhɑːdwʊd",
-		"ukphone": "ˈhɑːdwʊd"
-	},
-	{
-		"name": "living",
-		"trans": [
-			"adj. 活着的，活的；在使用的 n.生计，谋生；生活方式"
-		],
-		"usphone": "ˈlɪvɪŋ",
-		"ukphone": "ˈlɪvɪŋ"
-	},
-	{
-		"name": "mammal",
-		"trans": [
-			"n. 哺乳动物"
-		],
-		"usphone": "ˈmæml",
-		"ukphone": "ˈmæml"
-	},
-	{
-		"name": "jaguar",
-		"trans": [
-			"n. 美洲豹，美洲虎"
-		],
-		"usphone": "ˈdʒæɡjuə(r)",
-		"ukphone": "ˈdʒæɡjuə(r)"
-	},
-	{
-		"name": "survive",
-		"trans": [
-			"vi. 生存，存活 vt.幸存，幸免于难"
-		],
-		"usphone": "səˈvaɪv",
-		"ukphone": "səˈvaɪv"
-	},
-	{
-		"name": "frog",
-		"trans": [
-			"n. 蛙，青蛙"
-		],
-		"usphone": "frɒɡ",
-		"ukphone": "frɒɡ"
-	},
-	{
-		"name": "in turn",
-		"trans": [
-			"相应地，转而"
-		]
-	},
-	{
-		"name": "insect",
-		"trans": [
-			"n. 昆虫"
-		],
-		"usphone": "ˈɪnsekt",
-		"ukphone": "ˈɪnsekt"
-	},
-	{
-		"name": "microorganism",
-		"trans": [
-			"n. 微生物"
-		],
-		"usphone": "ˌmaɪkrəʊˈɔːgənɪzəm",
-		"ukphone": "ˌmaɪkrəʊˈɔːgənɪzəm"
-	},
-	{
-		"name": "break down",
-		"trans": [
-			"使分解（为），使变化（成）"
-		]
-	},
-	{
-		"name": "nutrient",
-		"trans": [
-			"n. 营养素，营养物"
-		],
-		"usphone": "ˈnjuːtriənt",
-		"ukphone": "ˈnjuːtriənt"
-	},
-	{
-		"name": "breathe life into",
-		"trans": [
-			"给…带来起色，注入活力"
-		]
-	},
-	{
-		"name": "carbon",
-		"trans": [
-			"n. 碳"
-		],
-		"usphone": "ˈkɑːbən",
-		"ukphone": "ˈkɑːbən"
-	},
-	{
-		"name": "oxygen",
-		"trans": [
-			"n. 氧，氧气"
-		],
-		"usphone": "ˈɒksɪdʒən",
-		"ukphone": "ˈɒksɪdʒən"
-	},
-	{
-		"name": "thus",
-		"trans": [
-			"adv. 因此，从而；这样"
-		],
-		"usphone": "ðʌs",
-		"ukphone": "ðʌs"
-	},
-	{
-		"name": "disappear",
-		"trans": [
-			"vi. 不复存在，灭绝，消亡；消失；失踪"
-		],
-		"usphone": "ˌdɪsəˈpɪə(r)",
-		"ukphone": "ˌdɪsəˈpɪə(r)"
-	},
-	{
-		"name": "due",
-		"trans": [
-			"to 由于，因为"
-		],
-		"usphone": "djuː",
-		"ukphone": "djuː"
-	},
-	{
-		"name": "agriculture",
-		"trans": [
-			"n. 农业，农学"
-		],
-		"usphone": "ˈæɡrɪkʌltʃə(r)",
-		"ukphone": "ˈæɡrɪkʌltʃə(r)"
-	},
-	{
-		"name": "cattle",
-		"trans": [
-			"n. 牛"
-		],
-		"usphone": "ˈkætl",
-		"ukphone": "ˈkætl"
-	},
-	{
-		"name": "impact",
-		"trans": [
-			"vi. & vt. 有影响；冲击"
-		],
-		"usphone": "ˈɪmpækt/ n. 影响，作用；撞击，冲撞 /ɪmˈpækt",
-		"ukphone": "ˈɪmpækt/ n. 影响，作用；撞击，冲撞 /ɪmˈpækt"
-	},
-	{
-		"name": "extinction",
-		"trans": [
-			"n. 灭绝，绝种"
-		],
-		"usphone": "ɪkˈstɪŋkʃn",
-		"ukphone": "ɪkˈstɪŋkʃn"
-	},
-	{
-		"name": "damage",
-		"trans": [
-			"vt. & n. 损害，伤害，损坏，破坏"
-		],
-		"usphone": "ˈdæmɪdʒ",
-		"ukphone": "ˈdæmɪdʒ"
-	},
-	{
-		"name": "climate",
-		"trans": [
-			"n. 气候；倾向，风气"
-		],
-		"usphone": "ˈklaɪmət",
-		"ukphone": "ˈklaɪmət"
-	},
-	{
-		"name": "build up",
-		"trans": [
-			"逐渐增加，扩大"
-		]
-	},
-	{
-		"name": "global",
-		"trans": [
-			"adj. 全球的；全面的"
-		],
-		"usphone": "ˈɡləʊbl",
-		"ukphone": "ˈɡləʊbl"
-	},
-	{
-		"name": "greenhouse",
-		"trans": [
-			"n. 温室，暖房"
-		],
-		"usphone": "ˈɡriːnhaʊs",
-		"ukphone": "ˈɡriːnhaʊs"
-	},
-	{
-		"name": "gas",
-		"trans": [
-			"n. 气体；煤气；汽油"
-		],
-		"usphone": "ɡæs",
-		"ukphone": "ɡæs"
-	},
-	{
-		"name": "drought",
-		"trans": [
-			"n. 旱灾，久旱"
-		],
-		"usphone": "draʊt",
-		"ukphone": "draʊt"
-	},
-	{
-		"name": "come up with",
-		"trans": [
-			"想出，想到"
-		]
-	},
-	{
-		"name": "call for",
-		"trans": [
-			"（公开）要求；需要"
-		]
-	},
-	{
-		"name": "application",
-		"trans": [
-			"n. 应用，运用；申请"
-		],
-		"usphone": "ˌæplɪˈkeɪʃn",
-		"ukphone": "ˌæplɪˈkeɪʃn"
-	},
-	{
-		"name": "brochure",
-		"trans": [
-			"n. 小册子"
-		],
-		"usphone": "ˈbrəʊʃə(r)",
-		"ukphone": "ˈbrəʊʃə(r)"
-	},
-	{
-		"name": "organization",
-		"trans": [
-			"n. 组织，团体；组织工作；安排；条理"
-		],
-		"usphone": "ˌɔːɡənaɪˈzeɪʃn",
-		"ukphone": "ˌɔːɡənaɪˈzeɪʃn"
-	},
-	{
-		"name": "absolutely",
-		"trans": [
-			"adv. 绝对地，完全地；极其"
-		],
-		"usphone": "ˈæbsəluːtli",
-		"ukphone": "ˈæbsəluːtli"
-	},
-	{
-		"name": "belt",
-		"trans": [
-			"n. 地带，地区；腰带；传送带"
-		],
-		"usphone": "belt",
-		"ukphone": "belt"
-	},
-	{
-		"name": "medal",
-		"trans": [
-			"n. 奖章，勋章"
-		],
-		"usphone": "ˈmedl",
-		"ukphone": "ˈmedl"
-	},
-	{
-		"name": "image",
-		"trans": [
-			"n. 形象；图像；意象"
-		],
-		"usphone": "ˈɪmɪdʒ",
-		"ukphone": "ˈɪmɪdʒ"
-	},
-	{
-		"name": "shark",
-		"trans": [
-			"n. 鲨鱼"
-		],
-		"usphone": "ʃɑːk",
-		"ukphone": "ʃɑːk"
-	},
-	{
-		"name": "spring to mind",
-		"trans": [
-			"突然记起（或想到）"
-		]
-	},
-	{
-		"name": "whale",
-		"trans": [
-			"n. 鲸"
-		],
-		"usphone": "weɪl",
-		"ukphone": "weɪl"
-	},
-	{
-		"name": "deer",
-		"trans": [
-			"n. (pl deer) 鹿"
-		],
-		"usphone": "dɪə(r)",
-		"ukphone": "dɪə(r)"
-	},
-	{
-		"name": "track",
-		"trans": [
-			"vt. &vi. 跟踪，追踪 n.足迹，踪迹；小道；轨道；跑道；路线"
-		],
-		"usphone": "træk",
-		"ukphone": "træk"
-	},
-	{
-		"name": "habitat",
-		"trans": [
-			"n. 生活环境，栖息地"
-		],
-		"usphone": "ˈhæbɪtæt",
-		"ukphone": "ˈhæbɪtæt"
-	},
-	{
-		"name": "nowhere",
-		"trans": [
-			"adv. 无处，哪里都不"
-		],
-		"usphone": "ˈnəʊweə(r)",
-		"ukphone": "ˈnəʊweə(r)"
-	},
-	{
-		"name": "dolphin",
-		"trans": [
-			"n. 海豚"
-		],
-		"usphone": "ˈdɒlfɪn",
-		"ukphone": "ˈdɒlfɪn"
-	},
-	{
-		"name": "resident",
-		"trans": [
-			"n. 居民，住户"
-		],
-		"usphone": "ˈrezɪdənt",
-		"ukphone": "ˈrezɪdənt"
-	},
-	{
-		"name": "chief",
-		"trans": [
-			"n. 首领，最高领导人 adj.主要的；首席的"
-		],
-		"usphone": "tʃiːf",
-		"ukphone": "tʃiːf"
-	},
-	{
-		"name": "committee",
-		"trans": [
-			"n. 委员会"
-		],
-		"usphone": "kəˈmɪti",
-		"ukphone": "kəˈmɪti"
-	},
-	{
-		"name": "entirely",
-		"trans": [
-			"adv. 完全地，全部地，完整地"
-		],
-		"usphone": "ɪnˈtaɪəli",
-		"ukphone": "ɪnˈtaɪəli"
-	},
-	{
-		"name": "smog",
-		"trans": [
-			"n. 雾霾，烟雾"
-		],
-		"usphone": "smɒɡ",
-		"ukphone": "smɒɡ"
-	},
-	{
-		"name": "get rid",
-		"trans": [
-			"of 摆脱，丢弃，扔掉"
-		],
-		"usphone": "rɪd",
-		"ukphone": "rɪd"
-	},
-	{
-		"name": "protest",
-		"trans": [
-			"n. 抗议，反对"
-		],
-		"usphone": "prəˈtest/ vi. 反对，抗议 vt.坚持声称，申辩 /ˈprəʊtest",
-		"ukphone": "prəˈtest/ vi. 反对，抗议 vt.坚持声称，申辩 /ˈprəʊtest"
-	},
-	{
-		"name": "profit",
-		"trans": [
-			"n. 利润，收益；好处 vi. & vt. 获益，得到好处"
-		],
-		"usphone": "ˈprɒfɪt",
-		"ukphone": "ˈprɒfɪt"
-	},
-	{
-		"name": "defence",
-		"trans": [
-			"(AmE defense) n. 辩护；防御，保护；防御物；国防；防守"
-		],
-		"usphone": "dɪˈfens",
-		"ukphone": "dɪˈfens"
-	},
-	{
-		"name": "various",
-		"trans": [
-			"adj. 各种不同的，各种各样的"
-		],
-		"usphone": "ˈveəriəs",
-		"ukphone": "ˈveəriəs"
-	},
-	{
-		"name": "process",
-		"trans": [
-			"n. 过程，进程；步骤，流程 vt.加工，处理"
-		],
-		"usphone": "ˈprəʊses",
-		"ukphone": "ˈprəʊses"
-	},
-	{
-		"name": "economic",
-		"trans": [
-			"adj. 经济的，经济上的；可赚钱的"
-		],
-		"usphone": "ˌiːkəˈnɒmɪk",
-		"ukphone": "ˌiːkəˈnɒmɪk"
-	},
-	{
-		"name": "policy",
-		"trans": [
-			"n. 政策，方针；原则"
-		],
-		"usphone": "ˈpɒləsi",
-		"ukphone": "ˈpɒləsi"
-	},
-	{
-		"name": "branch",
-		"trans": [
-			"n.（政府或机构）部门；分部；树枝；支流；分支"
-		],
-		"usphone": "brɑːntʃ",
-		"ukphone": "brɑːntʃ"
-	},
-	{
-		"name": "strategy",
-		"trans": [
-			"n. 策略，行动计划；策划，部署"
-		],
-		"usphone": "ˈstrætədʒi",
-		"ukphone": "ˈstrætədʒi"
-	},
-	{
-		"name": "recycle",
-		"trans": [
-			"vt. 回收利用，再利用"
-		],
-		"usphone": "ˌriːˈsaɪkl",
-		"ukphone": "ˌriːˈsaɪkl"
-	},
-	{
-		"name": "subway",
-		"trans": [
-			"n. 地铁；地下人行道"
-		],
-		"usphone": "ˈsʌbweɪ",
-		"ukphone": "ˈsʌbweɪ"
-	},
-	{
-		"name": "former",
-		"trans": [
-			"adj. 昔日的，前任的；以前的，从前的"
-		],
-		"usphone": "ˈfɔːmə(r)",
-		"ukphone": "ˈfɔːmə(r)"
-	},
-	{
-		"name": "official",
-		"trans": [
-			"n. 官员，要员 adj.公务的；正式的，官方的"
-		],
-		"usphone": "əˈfɪʃl",
-		"ukphone": "əˈfɪʃl"
-	},
-	{
-		"name": "poverty",
-		"trans": [
-			"n. 贫穷，贫困；贫乏"
-		],
-		"usphone": "ˈpɒvəti",
-		"ukphone": "ˈpɒvəti"
-	},
-	{
-		"name": "poison",
-		"trans": [
-			"vt. 污染；毒死，毒害 n.毒物，毒药"
-		],
-		"usphone": "ˈpɔɪzn",
-		"ukphone": "ˈpɔɪzn"
-	},
-	{
-		"name": "chemical",
-		"trans": [
-			"n. 化学制品 adj.化学的；化学作用的"
-		],
-		"usphone": "ˈkemɪkl",
-		"ukphone": "ˈkemɪkl"
-	},
-	{
-		"name": "consequence",
-		"trans": [
-			"n. 结果，后果；重要性"
-		],
-		"usphone": "ˈkɒnsɪkwəns",
-		"ukphone": "ˈkɒnsɪkwəns"
-	},
-	{
-		"name": "give rise to",
-		"trans": [
-			"使发生（或存在）"
-		]
-	},
-	{
-		"name": "further",
-		"trans": [
-			"adj. 更多的，更进一步的 adv.较远，更远；进一步"
-		],
-		"usphone": "ˈfɜːðə(r)",
-		"ukphone": "ˈfɜːðə(r)"
-	},
-	{
-		"name": "county",
-		"trans": [
-			"n. 郡，县"
-		],
-		"usphone": "ˈkaʊnti",
-		"ukphone": "ˈkaʊnti"
-	},
-	{
-		"name": "injure",
-		"trans": [
-			"vt. 伤害，使受伤；损害"
-		],
-		"usphone": "ˈɪndʒə(r)",
-		"ukphone": "ˈɪndʒə(r)"
-	},
-	{
-		"name": "disaster",
-		"trans": [
-			"n. 灾难，灾害；彻底失败"
-		],
-		"usphone": "dɪˈzɑːstə(r)",
-		"ukphone": "dɪˈzɑːstə(r)"
-	},
-	{
-		"name": "at large",
-		"trans": [
-			"整个，全部"
-		]
-	},
-	{
-		"name": "reaction",
-		"trans": [
-			"n. 反应，回应；抗拒；化学反应"
-		],
-		"usphone": "riˈækʃn",
-		"ukphone": "riˈækʃn"
-	},
-	{
-		"name": "crash",
-		"trans": [
-			"n. 碰撞声，破裂声；碰撞；崩溃 vi. & vt. 碰撞，撞击；崩溃"
-		],
-		"usphone": "kræʃ",
-		"ukphone": "kræʃ"
-	},
-	{
-		"name": "signal",
-		"trans": [
-			"vi. & vt. 发信号，示意；标志 n.信号，暗号；标志；信号灯"
-		],
-		"usphone": "ˈsɪɡnəl",
-		"ukphone": "ˈsɪɡnəl"
-	},
-	{
-		"name": "exit",
-		"trans": [
-			"vt. &vi. 出去，离去，退场；退出 n.出口，通道；离开"
-		],
-		"usphone": "ˈeksɪt；ˈegzɪt",
-		"ukphone": "ˈeksɪt；ˈegzɪt"
-	},
-	{
-		"name": "orderly",
-		"trans": [
-			"adj. 有秩序的，有条理的，整齐的"
-		],
-		"usphone": "ˈɔːdəli",
-		"ukphone": "ˈɔːdəli"
-	},
-	{
-		"name": "stair",
-		"trans": [
-			"n. 楼梯；梯级"
-		],
-		"usphone": "steə(r)",
-		"ukphone": "steə(r)"
-	},
-	{
-		"name": "roll",
-		"trans": [
-			"n. 名单；卷；一管；翻滚 vi. & vt. 翻滚，滚动；翻身；卷起"
-		],
-		"usphone": "rəʊl",
-		"ukphone": "rəʊl"
-	},
-	{
-		"name": "roll call",
-		"trans": [
-			"点名"
-		]
-	},
-	{
-		"name": "confirm",
-		"trans": [
-			"vt. 证实，确认；使确信；批准"
-		],
-		"usphone": "kənˈfɜːm",
-		"ukphone": "kənˈfɜːm"
-	},
-	{
-		"name": "safe and sound",
-		"trans": [
-			"安然无恙的"
-		]
-	},
-	{
-		"name": "hug",
-		"trans": [
-			"vt. 拥抱，搂抱；抱紧"
-		],
-		"usphone": "hʌɡ",
-		"ukphone": "hʌɡ"
-	},
-	{
-		"name": "procedure",
-		"trans": [
-			"n. 程序，步骤，手续"
-		],
-		"usphone": "prəˈsiːdʒə(r)",
-		"ukphone": "prəˈsiːdʒə(r)"
-	},
-	{
-		"name": "tsunami",
-		"trans": [
-			"n. 海啸"
-		],
-		"usphone": "tsuːˈnɑːmi",
-		"ukphone": "tsuːˈnɑːmi"
-	},
-	{
-		"name": "odd",
-		"trans": [
-			"adj. 奇怪的，怪异的；偶尔的；不成对的"
-		],
-		"usphone": "ɒd",
-		"ukphone": "ɒd"
-	},
-	{
-		"name": "bubble",
-		"trans": [
-			"n. 泡沫，泡，气泡"
-		],
-		"usphone": "ˈbʌbl",
-		"ukphone": "ˈbʌbl"
-	},
-	{
-		"name": "occur",
-		"trans": [
-			"vi. 发生，出现；存在于"
-		],
-		"usphone": "əˈkɜː(r)",
-		"ukphone": "əˈkɜː(r)"
-	},
-	{
-		"name": "occur to",
-		"trans": [
-			"被想到，浮现在脑中"
-		]
-	},
-	{
-		"name": "keep on",
-		"trans": [
-			"’s head （在困境中）保持冷静"
-		]
-	},
-	{
-		"name": "relief",
-		"trans": [
-			"n. 宽慰，轻松；减轻，消除；救济"
-		],
-		"usphone": "rɪˈliːf",
-		"ukphone": "rɪˈliːf"
-	},
-	{
-		"name": "typhoon",
-		"trans": [
-			"n. 台风"
-		],
-		"usphone": "taɪˈfuːn",
-		"ukphone": "taɪˈfuːn"
-	},
-	{
-		"name": "destructive",
-		"trans": [
-			"adj. 引起破坏（或毁灭）的，破坏（或毁灭性）的"
-		],
-		"usphone": "dɪˈstrʌktɪv",
-		"ukphone": "dɪˈstrʌktɪv"
-	},
-	{
-		"name": "pole",
-		"trans": [
-			"n. 柱，杆；极"
-		],
-		"usphone": "pəʊl",
-		"ukphone": "pəʊl"
-	},
-	{
-		"name": "inform",
-		"trans": [
-			"vt. 了解，熟悉；通知"
-		],
-		"usphone": "ɪnˈfɔːm",
-		"ukphone": "ɪnˈfɔːm"
-	},
-	{
-		"name": "hurricane",
-		"trans": [
-			"n. 飓风"
-		],
-		"usphone": "ˈhʌrɪkən",
-		"ukphone": "ˈhʌrɪkən"
-	},
-	{
-		"name": "conference",
-		"trans": [
-			"n. 会议，研讨会；讨论，商谈"
-		],
-		"usphone": "ˈkɒnfərəns",
-		"ukphone": "ˈkɒnfərəns"
-	},
-	{
-		"name": "shock",
-		"trans": [
-			"n. 震惊，惊愕；剧烈震动 vt.使震惊"
-		],
-		"usphone": "ʃɒk",
-		"ukphone": "ʃɒk"
-	},
-	{
-		"name": "scare",
-		"trans": [
-			"vt. & vi. 惊吓，害怕 n.恐慌；惊吓"
-		],
-		"usphone": "skeə(r)",
-		"ukphone": "skeə(r)"
-	},
-	{
-		"name": "power",
-		"trans": [
-			"n. 电，电力；权力；政权；控制力；能力；能量；力量"
-		],
-		"usphone": "ˈpaʊə(r)",
-		"ukphone": "ˈpaʊə(r)"
-	},
-	{
-		"name": "run out of",
-		"trans": [
-			"用完，耗尽"
-		]
-	},
-	{
-		"name": "supply",
-		"trans": [
-			"n. 补给，补给品；供应；供应量，储备 vt.供应，供给，提供"
-		],
-		"usphone": "səˈplaɪ",
-		"ukphone": "səˈplaɪ"
-	},
-	{
-		"name": "donate",
-		"trans": [
-			"vt. 捐赠，赠送；献（血）"
-		],
-		"usphone": "dəʊˈneɪt",
-		"ukphone": "dəʊˈneɪt"
-	},
-	{
-		"name": "charity",
-		"trans": [
-			"n. 慈善机构（组织）；慈善，施舍；仁爱，宽容"
-		],
-		"usphone": "ˈtʃærəti",
-		"ukphone": "ˈtʃærəti"
-	},
-	{
-		"name": "staff",
-		"trans": [
-			"n. 全体职工；管理人员 vt.在…工作，任职于"
-		],
-		"usphone": "stɑːf",
-		"ukphone": "stɑːf"
-	},
-	{
-		"name": "slide",
-		"trans": [
-			"n. 投影片；降低；滑行；山崩 vi. & vt. 滑行；逐渐陷入"
-		],
-		"usphone": "slaɪd",
-		"ukphone": "slaɪd"
-	},
-	{
-		"name": "fund",
-		"trans": [
-			"n. 资金；基金"
-		],
-		"usphone": "fʌnd",
-		"ukphone": "fʌnd"
-	},
-	{
-		"name": "flood",
-		"trans": [
-			"n. 洪水，水灾；大量 vt. & vi. 淹没，泛滥；大量涌入；充满"
-		],
-		"usphone": "flʌd",
-		"ukphone": "flʌd"
-	},
-	{
-		"name": "downstairs",
-		"trans": [
-			"adv. 在楼下，往楼下 n.楼下"
-		],
-		"usphone": "ˌdaʊnˈsteəz",
-		"ukphone": "ˌdaʊnˈsteəz"
-	},
-	{
-		"name": "document",
-		"trans": [
-			"n. 文件，公文；（计算机中的）文档"
-		],
-		"usphone": "ˈdɒkjumənt",
-		"ukphone": "ˈdɒkjumənt"
-	},
-	{
-		"name": "honey",
-		"trans": [
-			"n. （爱称）亲爱的；蜂蜜"
-		],
-		"usphone": "ˈhʌni",
-		"ukphone": "ˈhʌni"
-	},
-	{
-		"name": "otherwise",
-		"trans": [
-			"adv. 否则，不然；除此以外"
-		],
-		"usphone": "ˈʌðəwaɪz",
-		"ukphone": "ˈʌðəwaɪz"
-	},
-	{
-		"name": "curious",
-		"trans": [
-			"adj. 好奇的；奇特的"
-		],
-		"usphone": "ˈkjʊəriəs",
-		"ukphone": "ˈkjʊəriəs"
-	},
-	{
-		"name": "Roman",
-		"trans": [
-			"adj. 古罗马的；罗马的 n.古罗马人；罗马人"
-		],
-		"usphone": "ˈrəʊmən",
-		"ukphone": "ˈrəʊmən"
-	},
-	{
-		"name": "erupt",
-		"trans": [
-			"vi. & vt.（火山）爆发；突然发生"
-		],
-		"usphone": "ɪˈrʌpt",
-		"ukphone": "ɪˈrʌpt"
-	},
-	{
-		"name": "unearth",
-		"trans": [
-			"vt. 使出土，挖掘，发掘；发现，找到"
-		],
-		"usphone": "ʌnˈɜːθ",
-		"ukphone": "ʌnˈɜːθ"
-	},
-	{
-		"name": "destination",
-		"trans": [
-			"n. 目的地，终点"
-		],
-		"usphone": "ˌdestɪˈneɪʃn",
-		"ukphone": "ˌdestɪˈneɪʃn"
-	},
-	{
-		"name": "bar",
-		"trans": [
-			"n. 酒吧；小馆子；吧台；条，块；栏杆；障碍 vt.封；阻挡；阻止"
-		],
-		"usphone": "bɑː(r)",
-		"ukphone": "bɑː(r)"
-	},
-	{
-		"name": "import",
-		"trans": [
-			"vt. 进口，引进"
-		],
-		"usphone": "ˈɪmpɔːt/ n. 进口产品，输入的产品；输入 /ɪmˈpɔːt",
-		"ukphone": "ˈɪmpɔːt/ n. 进口产品，输入的产品；输入 /ɪmˈpɔːt"
-	},
-	{
-		"name": "export",
-		"trans": [
-			"vt. 出口，输出"
-		],
-		"usphone": "ˈekspɔːt/ n. 出口产品，输出的产品；出口，输出 /ɪkˈspɔːt",
-		"ukphone": "ˈekspɔːt/ n. 出口产品，输出的产品；出口，输出 /ɪkˈspɔːt"
-	},
-	{
-		"name": "port",
-		"trans": [
-			"n. 港口，避风港；港口城市"
-		],
-		"usphone": "pɔːt",
-		"ukphone": "pɔːt"
-	},
-	{
-		"name": "cloud-capped",
-		"trans": [
-			"adj. 高耸入云的，耸入云霄的"
-		],
-		"usphone": "ˌklaʊd ˈkæpt",
-		"ukphone": "ˌklaʊd ˈkæpt"
-	},
-	{
-		"name": "ashy",
-		"trans": [
-			"adj. 覆盖着灰的；灰色的"
-		],
-		"usphone": "ˈæʃi",
-		"ukphone": "ˈæʃi"
-	},
-	{
-		"name": "dawn",
-		"trans": [
-			"n. 黎明，破晓；开端，萌芽 vi.开始；开始清楚"
-		],
-		"usphone": "dɔːn",
-		"ukphone": "dɔːn"
-	},
-	{
-		"name": "volcano",
-		"trans": [
-			"n. 火山"
-		],
-		"usphone": "vɒlˈkeɪnəʊ",
-		"ukphone": "vɒlˈkeɪnəʊ"
-	},
-	{
-		"name": "take the form of",
-		"trans": [
-			"呈现…的形状；采取…的形式"
-		]
-	},
-	{
-		"name": "trunk",
-		"trans": [
-			"n. 树干"
-		],
-		"usphone": "trʌŋk",
-		"ukphone": "trʌŋk"
-	},
-	{
-		"name": "unbearable",
-		"trans": [
-			"adj. 难耐的，无法忍受的"
-		],
-		"usphone": "ʌnˈbeərəbl",
-		"ukphone": "ʌnˈbeərəbl"
-	},
-	{
-		"name": "break out",
-		"trans": [
-			"突然开始，爆发"
-		]
-	},
-	{
-		"name": "beyond",
-		"trans": [
-			"adv. 在（或向）较远处；在另一边 prep.在（或向）更远处；超出；晚于；无法；超出…之外"
-		],
-		"usphone": "bɪˈjɒnd",
-		"ukphone": "bɪˈjɒnd"
-	},
-	{
-		"name": "distance",
-		"trans": [
-			"n. 遥远，久远；距离；差异；疏远"
-		],
-		"usphone": "ˈdɪstəns",
-		"ukphone": "ˈdɪstəns"
-	},
-	{
-		"name": "far and wide",
-		"trans": [
-			"到处，各处"
-		]
-	},
-	{
-		"name": "pattern",
-		"trans": [
-			"n. 图案，花样；模式；范例；模型"
-		],
-		"usphone": "ˈpætn",
-		"ukphone": "ˈpætn"
-	},
-	{
-		"name": "column",
-		"trans": [
-			"n. 柱，圆柱；柱状物；栏；专栏；队，列"
-		],
-		"usphone": "ˈkɒləm",
-		"ukphone": "ˈkɒləm"
-	},
-	{
-		"name": "rescue",
-		"trans": [
-			"n. & vt. 救援，营救，抢救"
-		],
-		"usphone": "ˈreskjuː",
-		"ukphone": "ˈreskjuː"
-	},
-	{
-		"name": "sharp",
-		"trans": [
-			"adj. 灵敏的；锋利的；急剧的；明显的；尖锐的；强烈的"
-		],
-		"usphone": "ʃɑːp",
-		"ukphone": "ʃɑːp"
-	},
-	{
-		"name": "locate",
-		"trans": [
-			"vt. 找出…的准确位置；把…安置在（或建造于）"
-		],
-		"usphone": "ləʊˈkeɪt",
-		"ukphone": "ləʊˈkeɪt"
-	},
-	{
-		"name": "retire",
-		"trans": [
-			"vi. & vt. 退休，退役"
-		],
-		"usphone": "rɪˈtaɪə(r)",
-		"ukphone": "rɪˈtaɪə(r)"
-	},
-	{
-		"name": "wetca",
-		"trans": [
-			"n. 网络摄像头"
-		],
-		"usphone": "ˈwebkæm",
-		"ukphone": "ˈwebkæm"
-	},
-	{
-		"name": "po",
-		"trans": [
-			"n. 壶，瓶，罐；锅"
-		],
-		"usphone": "pɒt",
-		"ukphone": "pɒt"
-	},
-	{
-		"name": "emoji",
-		"trans": [
-			"n. 表情符号"
-		],
-		"usphone": "ɪˈməʊdʒi",
-		"ukphone": "ɪˈməʊdʒi"
-	},
-	{
-		"name": "comic",
-		"trans": [
-			"n. 连环漫画；喜剧演员 adj.滑稽的；喜剧的"
-		],
-		"usphone": "ˈkɒmɪk",
-		"ukphone": "ˈkɒmɪk"
-	},
-	{
-		"name": "take off",
-		"trans": [
-			"突然大受欢迎，迅速流行"
-		]
-	},
-	{
-		"name": "frontier",
-		"trans": [
-			"n. 国界，边界；尖端，边缘"
-		],
-		"usphone": "ˈfrʌntɪə(r)",
-		"ukphone": "ˈfrʌntɪə(r)"
-	},
-	{
-		"name": "billion",
-		"trans": [
-			"n. 十亿"
-		],
-		"usphone": "ˈbɪljən",
-		"ukphone": "ˈbɪljən"
-	},
-	{
-		"name": "obviously",
-		"trans": [
-			"adv. 显然，明显地"
-		],
-		"usphone": "ˈɒbviəsli",
-		"ukphone": "ˈɒbviəsli"
-	},
-	{
-		"name": "access",
-		"trans": [
-			"n. 机会，权利；路径，通道 vt.到达，进入，使用"
-		],
-		"usphone": "ˈækses",
-		"ukphone": "ˈækses"
-	},
-	{
-		"name": "extent",
-		"trans": [
-			"n. 程度，限度；范围"
-		],
-		"usphone": "ɪkˈstent",
-		"ukphone": "ɪkˈstent"
-	},
-	{
-		"name": "to a certain extent",
-		"trans": [
-			"在一定程度上"
-		]
-	},
-	{
-		"name": "at on",
-		"trans": [
-			"’s fingertips 掌握（信息），熟悉、精通（知识等），了如指掌"
-		]
-	},
-	{
-		"name": "click",
-		"trans": [
-			"n. 点击，单击；咔哒声 vi. & vt. 使发出咔哒声；点击，单击"
-		],
-		"usphone": "klɪk",
-		"ukphone": "klɪk"
-	},
-	{
-		"name": "button",
-		"trans": [
-			"n. 按钮；纽扣"
-		],
-		"usphone": "ˈbʌtn",
-		"ukphone": "ˈbʌtn"
-	},
-	{
-		"name": "recipe",
-		"trans": [
-			"n. 食谱；方法，秘诀"
-		],
-		"usphone": "ˈresəpi",
-		"ukphone": "ˈresəpi"
-	},
-	{
-		"name": "military",
-		"trans": [
-			"adj. 军事的，军队的"
-		],
-		"usphone": "ˈmɪlətri",
-		"ukphone": "ˈmɪlətri"
-	},
-	{
-		"name": "affair",
-		"trans": [
-			"n.公共事务，政治事务；事件，事情"
-		],
-		"usphone": "əˈfeə(r)",
-		"ukphone": "əˈfeə(r)"
-	},
-	{
-		"name": "bring up",
-		"trans": [
-			"使显示在计算机屏幕上，调出；提出"
-		]
-	},
-	{
-		"name": "majority",
-		"trans": [
-			"n. 大部分，大多数；多数票"
-		],
-		"usphone": "məˈdʒɒrəti",
-		"ukphone": "məˈdʒɒrəti"
-	},
-	{
-		"name": "goods",
-		"trans": [
-			"n. 商品，货品；私人财产"
-		],
-		"usphone": "ɡʊdz",
-		"ukphone": "ɡʊdz"
-	},
-	{
-		"name": "commerce",
-		"trans": [
-			"n. 商务；商业；贸易"
-		],
-		"usphone": "ˈkɒmɜːs",
-		"ukphone": "ˈkɒmɜːs"
-	},
-	{
-		"name": "deliver",
-		"trans": [
-			"vt.递送，传送；发表，宣布；交出"
-		],
-		"usphone": "dɪˈlɪvə(r)",
-		"ukphone": "dɪˈlɪvə(r)"
-	},
-	{
-		"name": "site",
-		"trans": [
-			"n. 网站，站点；地点；现场"
-		],
-		"usphone": "saɪt",
-		"ukphone": "saɪt"
-	},
-	{
-		"name": "boot",
-		"trans": [
-			"n. 靴子"
-		],
-		"usphone": "buːt",
-		"ukphone": "buːt"
-	},
-	{
-		"name": "arrangement",
-		"trans": [
-			"n. 安排；布置；约定；排列"
-		],
-		"usphone": "əˈreɪndʒmənt",
-		"ukphone": "əˈreɪndʒmənt"
-	},
-	{
-		"name": "cash",
-		"trans": [
-			"n. 现金；金钱，资金"
-		],
-		"usphone": "kæʃ",
-		"ukphone": "kæʃ"
-	},
-	{
-		"name": "above all else",
-		"trans": [
-			"最重要的是，尤其是"
-		]
-	},
-	{
-		"name": "establish",
-		"trans": [
-			"vt. 建立（关系或联系）；设立；确立；使得到认可；查实，确定"
-		],
-		"usphone": "ɪˈstæblɪʃ",
-		"ukphone": "ɪˈstæblɪʃ"
-	},
-	{
-		"name": "software",
-		"trans": [
-			"n. 软件"
-		],
-		"usphone": "ˈsɒftweə(r)",
-		"ukphone": "ˈsɒftweə(r)"
-	},
-	{
-		"name": "instant",
-		"trans": [
-			"adj. 立即的，立刻的；方便的 n.瞬间，片刻；某一时刻"
-		],
-		"usphone": "ˈɪnstənt",
-		"ukphone": "ˈɪnstənt"
-	},
-	{
-		"name": "comment",
-		"trans": [
-			"n. 议论，评论；批评，指责 vi. & vt. 表达意见"
-		],
-		"usphone": "ˈkɒment",
-		"ukphone": "ˈkɒment"
-	},
-	{
-		"name": "aware",
-		"trans": [
-			"adj. 知道，意识到；察觉到，发觉；有…意识的"
-		],
-		"usphone": "əˈweə(r)",
-		"ukphone": "əˈweə(r)"
-	},
-	{
-		"name": "surf",
-		"trans": [
-			"vt. & vi.（互联网上）冲浪，浏览；进行冲浪运动"
-		],
-		"usphone": "sɜːf",
-		"ukphone": "sɜːf"
-	},
-	{
-		"name": "guideline",
-		"trans": [
-			"n. 准则，指导方针；参考"
-		],
-		"usphone": "ˈɡaɪdlaɪn",
-		"ukphone": "ˈɡaɪdlaɪn"
-	},
-	{
-		"name": "remove",
-		"trans": [
-			"vt. 删除；移走；开除"
-		],
-		"usphone": "rɪˈmuːv",
-		"ukphone": "rɪˈmuːv"
-	},
-	{
-		"name": "file",
-		"trans": [
-			"n. 文件；文件夹；档案"
-		],
-		"usphone": "faɪl",
-		"ukphone": "faɪl"
-	},
-	{
-		"name": "belong",
-		"trans": [
-			"to 属于，归…所有"
-		],
-		"usphone": "bɪˈlɒŋ",
-		"ukphone": "bɪˈlɒŋ"
-	},
-	{
-		"name": "ballet",
-		"trans": [
-			"n. 芭蕾舞；芭蕾舞剧；芭蕾舞团"
-		],
-		"usphone": "ˈbæleɪ",
-		"ukphone": "ˈbæleɪ"
-	},
-	{
-		"name": "set up",
-		"trans": [
-			"创建，建立"
-		]
-	},
-	{
-		"name": "request",
-		"trans": [
-			"vt. 要求，请求 n.要求，请求；要求的事"
-		],
-		"usphone": "rɪˈkwest",
-		"ukphone": "rɪˈkwest"
-	},
-	{
-		"name": "technical",
-		"trans": [
-			"adj. 技术的，技能的；专门技术的；专业的"
-		],
-		"usphone": "ˈteknɪkl",
-		"ukphone": "ˈteknɪkl"
-	},
-	{
-		"name": "upload",
-		"trans": [
-			"vt. 上载，上传"
-		],
-		"usphone": "ˌʌpˈləʊd",
-		"ukphone": "ˌʌpˈləʊd"
-	},
-	{
-		"name": "download",
-		"trans": [
-			"vt. 下载"
-		],
-		"usphone": "ˌdaʊnˈləʊd",
-		"ukphone": "ˌdaʊnˈləʊd"
-	},
-	{
-		"name": "percentage",
-		"trans": [
-			"n. 百分率，百分比；提成"
-		],
-		"usphone": "pəˈsentɪdʒ",
-		"ukphone": "pəˈsentɪdʒ"
-	},
-	{
-		"name": "entertainment",
-		"trans": [
-			"n.娱乐活动；招待，娱乐"
-		],
-		"usphone": "ˌentəˈteɪnmənt",
-		"ukphone": "ˌentəˈteɪnmənt"
-	},
-	{
-		"name": "mobile",
-		"trans": [
-			"adj. 可移动的，非固定的；行动方便的；流动的 n.手机"
-		],
-		"usphone": "ˈməʊbaɪl",
-		"ukphone": "ˈməʊbaɪl"
-	},
-	{
-		"name": "device",
-		"trans": [
-			"n. 设备，仪器；手段，技巧"
-		],
-		"usphone": "dɪˈvaɪs",
-		"ukphone": "dɪˈvaɪs"
-	},
-	{
-		"name": "addict",
-		"trans": [
-			"n. 对…入迷的人；瘾君子"
-		],
-		"usphone": "ˈædɪkt",
-		"ukphone": "ˈædɪkt"
-	},
-	{
-		"name": "be glued to sth",
-		"trans": [
-			"全神贯注看着某物，离某物很近"
-		]
-	},
-	{
-		"name": "Wi-Fi",
-		"trans": [
-			"n. 无线网络"
-		],
-		"usphone": "ˈwaɪ faɪ",
-		"ukphone": "ˈwaɪ faɪ"
-	},
-	{
-		"name": "battery",
-		"trans": [
-			"n. 电池"
-		],
-		"usphone": "ˈbætri; ˈbætəri",
-		"ukphone": "ˈbætri; ˈbætəri"
-	},
-	{
-		"name": "quit",
-		"trans": [
-			"vt. & vi. (quit，quit；quitted，quitted) 停止，戒掉；离开"
-		],
-		"usphone": "kwɪt",
-		"ukphone": "kwɪt"
-	},
-	{
-		"name": "shoot past",
-		"trans": [
-			"飞驰而过"
-		]
-	},
-	{
-		"name": "knock sb off on",
-		"trans": [
-			"’s feet 撞倒某人，使某人双脚离地"
-		]
-	},
-	{
-		"name": "scary",
-		"trans": [
-			"adj. 恐怖的，吓人的"
-		],
-		"usphone": "ˈskeəri",
-		"ukphone": "ˈskeəri"
-	},
-	{
-		"name": "somehow",
-		"trans": [
-			"adv. 不知怎么地；以某种方式（或方法）"
-		],
-		"usphone": "ˈsʌmhaʊ",
-		"ukphone": "ˈsʌmhaʊ"
-	},
-	{
-		"name": "be lost in",
-		"trans": [
-			"全神贯注，沉浸于"
-		]
-	},
-	{
-		"name": "journal",
-		"trans": [
-			"n. 日记；报纸，杂志"
-		],
-		"usphone": "ˈdʒɜːnl",
-		"ukphone": "ˈdʒɜːnl"
-	},
-	{
-		"name": "reveal",
-		"trans": [
-			"vt. 展示，显出；揭示，透露"
-		],
-		"usphone": "rɪˈviːl",
-		"ukphone": "rɪˈviːl"
-	},
-	{
-		"name": "appreciate",
-		"trans": [
-			"vt. 欣赏，赏识；感谢"
-		],
-		"usphone": "əˈpriːʃieɪt",
-		"ukphone": "əˈpriːʃieɪt"
-	},
-	{
-		"name": "wide-ranging",
-		"trans": [
-			"adj. 覆盖面广的，内容广泛的"
-		],
-		"usphone": "ˌwaɪd ˈreɪndʒɪŋ",
-		"ukphone": "ˌwaɪd ˈreɪndʒɪŋ"
-	},
-	{
-		"name": "opera",
-		"trans": [
-			"n. 歌剧；歌剧院"
-		],
-		"usphone": "ˈɒprə",
-		"ukphone": "ˈɒprə"
-	},
-	{
-		"name": "badminton",
-		"trans": [
-			"n. 羽毛球运动"
-		],
-		"usphone": "ˈbædmɪntən",
-		"ukphone": "ˈbædmɪntən"
-	},
-	{
-		"name": "cut back o",
-		"trans": [
-			"减少"
-		]
-	},
-	{
-		"name": "republic",
-		"trans": [
-			"n. 共和国，共和政体"
-		],
-		"usphone": "rɪˈpʌblɪk",
-		"ukphone": "rɪˈpʌblɪk"
-	},
-	{
-		"name": "malaria",
-		"trans": [
-			"n. 疟疾"
-		],
-		"usphone": "məˈleəriə",
-		"ukphone": "məˈleəriə"
-	},
-	{
-		"name": "deadly",
-		"trans": [
-			"adj.致命的；十足的，彻底的"
-		],
-		"usphone": "ˈdedli",
-		"ukphone": "ˈdedli"
-	},
-	{
-		"name": "survival",
-		"trans": [
-			"n. 生存，存活；残存物，幸存事物"
-		],
-		"usphone": "səˈvaɪvl",
-		"ukphone": "səˈvaɪvl"
-	},
-	{
-		"name": "province",
-		"trans": [
-			"n. 省，省份"
-		],
-		"usphone": "ˈprɒvɪns",
-		"ukphone": "ˈprɒvɪns"
-	},
-	{
-		"name": "broad",
-		"trans": [
-			"adj. 广泛的；宽阔的，广阔的；概括的；开阔的"
-		],
-		"usphone": "brɔːd",
-		"ukphone": "brɔːd"
-	},
-	{
-		"name": "intend",
-		"trans": [
-			"vi. & vt. 想要，计划；意指"
-		],
-		"usphone": "ɪnˈtend",
-		"ukphone": "ɪnˈtend"
-	},
-	{
-		"name": "extract",
-		"trans": [
-			"vt. 提取；选录；取出；设法得到"
-		],
-		"usphone": "ˈekstrækt/ n. 提取物；选录 /ɪkˈstrækt",
-		"ukphone": "ˈekstrækt/ n. 提取物；选录 /ɪkˈstrækt"
-	},
-	{
-		"name": "herb",
-		"trans": [
-			"n. 药草，香草；草本"
-		],
-		"usphone": "hɜːb",
-		"ukphone": "hɜːb"
-	},
-	{
-		"name": "refer",
-		"trans": [
-			"to 查阅，参考；提到，谈及"
-		],
-		"usphone": "rɪˈfɜː(r)",
-		"ukphone": "rɪˈfɜː(r)"
-	},
-	{
-		"name": "experiment",
-		"trans": [
-			"n. 实验，试验；尝试，实践 vi.做试验，进行实验；尝试"
-		],
-		"usphone": "ɪkˈsperɪmənt",
-		"ukphone": "ɪkˈsperɪmənt"
-	},
-	{
-		"name": "trial",
-		"trans": [
-			"n. 试用，试验；审讯，审判；考验 vi. & vt. 测试，试验"
-		],
-		"usphone": "ˈtraɪəl",
-		"ukphone": "ˈtraɪəl"
-	},
-	{
-		"name": "limited",
-		"trans": [
-			"adj. 有限的"
-		],
-		"usphone": "ˈlɪmɪtɪd",
-		"ukphone": "ˈlɪmɪtɪd"
-	},
-	{
-		"name": "household",
-		"trans": [
-			"adj. 家庭的，家用的，家务的 n.一家人，家庭"
-		],
-		"usphone": "ˈhaʊshəʊld",
-		"ukphone": "ˈhaʊshəʊld"
-	},
-	{
-		"name": "container",
-		"trans": [
-			"n. 容器；集装箱，货柜"
-		],
-		"usphone": "kənˈteɪnə(r)",
-		"ukphone": "kənˈteɪnə(r)"
-	},
-	{
-		"name": "postpone",
-		"trans": [
-			"vt. 延迟，延期"
-		],
-		"usphone": "pəˈspəʊn",
-		"ukphone": "pəˈspəʊn"
-	},
-	{
-		"name": "sufficient",
-		"trans": [
-			"adj. 足够的，充足的"
-		],
-		"usphone": "səˈfɪʃnt",
-		"ukphone": "səˈfɪʃnt"
-	},
-	{
-		"name": "data",
-		"trans": [
-			"n. 数据，资料，材料"
-		],
-		"usphone": "ˈdeɪtə",
-		"ukphone": "ˈdeɪtə"
-	},
-	{
-		"name": "speed up",
-		"trans": [
-			"（使）加速"
-		]
-	},
-	{
-		"name": "pay off",
-		"trans": [
-			"成功，奏效，达到目的"
-		]
-	},
-	{
-		"name": "error",
-		"trans": [
-			"n. 错误，差错"
-		],
-		"usphone": "ˈerə(r)",
-		"ukphone": "ˈerə(r)"
-	},
-	{
-		"name": "through trial and error",
-		"trans": [
-			"反复试验"
-		]
-	},
-	{
-		"name": "wisdom",
-		"trans": [
-			"n. 智慧，知识，学问；才智；明智"
-		],
-		"usphone": "ˈwɪzdəm",
-		"ukphone": "ˈwɪzdəm"
-	},
-	{
-		"name": "beneficial",
-		"trans": [
-			"adj. 有益的，有用的"
-		],
-		"usphone": "ˌbenɪˈfɪʃl",
-		"ukphone": "ˌbenɪˈfɪʃl"
-	},
-	{
-		"name": "conduct",
-		"trans": [
-			"vt. & vi. 组织，实施；指挥；引导；举止"
-		],
-		"usphone": "kənˈdʌkt",
-		"ukphone": "kənˈdʌkt"
-	},
-	{
-		"name": "illustrate",
-		"trans": [
-			"vt. 说明，解释；加插图于"
-		],
-		"usphone": "ˈɪləstreɪt",
-		"ukphone": "ˈɪləstreɪt"
-	},
-	{
-		"name": "penicillin",
-		"trans": [
-			"n. 青霉素，盘尼西林"
-		],
-		"usphone": "ˌpenɪˈsɪlɪn",
-		"ukphone": "ˌpenɪˈsɪlɪn"
-	},
-	{
-		"name": "mould",
-		"trans": [
-			"(AmE. mold) n. 霉菌；模具；类型 vt.浇铸；塑造"
-		],
-		"usphone": "məʊld",
-		"ukphone": "məʊld"
-	},
-	{
-		"name": "bacteria",
-		"trans": [
-			"n. (sing bacterium) 细菌"
-		],
-		"usphone": "bækˈtɪəriə",
-		"ukphone": "bækˈtɪəriə"
-	},
-	{
-		"name": "surround",
-		"trans": [
-			"vt. 围绕，环绕；包围；与…紧密相关"
-		],
-		"usphone": "səˈraʊnd",
-		"ukphone": "səˈraʊnd"
-	},
-	{
-		"name": "indicate",
-		"trans": [
-			"vt. 表明；暗示；提及；指出"
-		],
-		"usphone": "ˈɪndɪkeɪt",
-		"ukphone": "ˈɪndɪkeɪt"
-	},
-	{
-		"name": "accident",
-		"trans": [
-			"n. 意外，偶然的事；事故，意外遭遇"
-		],
-		"usphone": "ˈæksɪdənt",
-		"ukphone": "ˈæksɪdənt"
-	},
-	{
-		"name": "by accident",
-		"trans": [
-			"偶然，意外地"
-		]
-	},
-	{
-		"name": "intelligent",
-		"trans": [
-			"adj. 有才智的，聪明的；有智力的"
-		],
-		"usphone": "ɪnˈtelɪdʒənt",
-		"ukphone": "ɪnˈtelɪdʒənt"
-	},
-	{
-		"name": "favour",
-		"trans": [
-			"(AmE favor) vt. 较喜欢；偏袒；有助于 n.帮助，好事；赞同；偏袒"
-		],
-		"usphone": "ˈfeɪvə(r)",
-		"ukphone": "ˈfeɪvə(r)"
-	},
-	{
-		"name": "politician",
-		"trans": [
-			"n. 政治家，从政者；投机钻营者"
-		],
-		"usphone": "ˌpɒləˈtɪʃn",
-		"ukphone": "ˌpɒləˈtɪʃn"
-	},
-	{
-		"name": "lightning",
-		"trans": [
-			"n. 闪电"
-		],
-		"usphone": "ˈlaɪtnɪŋ",
-		"ukphone": "ˈlaɪtnɪŋ"
-	},
-	{
-		"name": "electricity",
-		"trans": [
-			"n. 电，电能"
-		],
-		"usphone": "ɪˌlekˈtrɪsəti",
-		"ukphone": "ɪˌlekˈtrɪsəti"
-	},
-	{
-		"name": "theory",
-		"trans": [
-			"n.学说，论；原理；看法，意见"
-		],
-		"usphone": "ˈθɪəri",
-		"ukphone": "ˈθɪəri"
-	},
-	{
-		"name": "thunderstorm",
-		"trans": [
-			"n. 雷雨，雷暴"
-		],
-		"usphone": "ˈθʌndəstɔːm",
-		"ukphone": "ˈθʌndəstɔːm"
-	},
-	{
-		"name": "ribbon",
-		"trans": [
-			"n. 带子，丝带；带状物"
-		],
-		"usphone": "ˈrɪbən",
-		"ukphone": "ˈrɪbən"
-	},
-	{
-		"name": "metal",
-		"trans": [
-			"n. 金属"
-		],
-		"usphone": "ˈmetl",
-		"ukphone": "ˈmetl"
-	},
-	{
-		"name": "charge",
-		"trans": [
-			"vt. & vi. 充电；收费；控告；谴责；使…承担责任；使充满 n.收费；控告；谴责；掌管"
-		],
-		"usphone": "tʃɑːdʒ",
-		"ukphone": "tʃɑːdʒ"
-	},
-	{
-		"name": "electric",
-		"trans": [
-			"adj. 电的，发电的，电动的"
-		],
-		"usphone": "ɪˈlektrɪk",
-		"ukphone": "ɪˈlektrɪk"
-	},
-	{
-		"name": "bang",
-		"trans": [
-			"n. 突然的巨响；猛敲，猛击 vi. & vt. 砸；砰地关上；猛摔；碰撞"
-		],
-		"usphone": "bæŋ",
-		"ukphone": "bæŋ"
-	},
-	{
-		"name": "with a bang",
-		"trans": [
-			"很成功；引人注目，有强烈影响"
-		]
-	},
-	{
-		"name": "standout",
-		"trans": [
-			"adj. 突出的 n.突出的人（或物）"
-		],
-		"usphone": "ˈstændaʊt",
-		"ukphone": "ˈstændaʊt"
-	},
-	{
-		"name": "atomic",
-		"trans": [
-			"adj. 原子的；原子能的"
-		],
-		"usphone": "əˈtɒmɪk",
-		"ukphone": "əˈtɒmɪk"
-	},
-	{
-		"name": "bomb",
-		"trans": [
-			"n. 炸弹；核武器 vt.轰炸"
-		],
-		"usphone": "bɒm",
-		"ukphone": "bɒm"
-	},
-	{
-		"name": "evil",
-		"trans": [
-			"n. 罪恶，罪行；害处，坏处 adj.恶毒的；有害的；恶魔的"
-		],
-		"usphone": "ˈiːvl",
-		"ukphone": "ˈiːvl"
-	},
-	{
-		"name": "involve",
-		"trans": [
-			"vt. 牵涉，影响；包含；（使）参加"
-		],
-		"usphone": "ɪnˈvɒlv",
-		"ukphone": "ɪnˈvɒlv"
-	},
-	{
-		"name": "scientific",
-		"trans": [
-			"adj. 科学的，关于科学的；细致严谨的"
-		],
-		"usphone": "ˌsaɪənˈtɪfɪk",
-		"ukphone": "ˌsaɪənˈtɪfɪk"
-	},
-	{
-		"name": "credit",
-		"trans": [
-			"n. 赞扬，认可；信用 vt.存入金额；把…归于"
-		],
-		"usphone": "ˈkredɪt",
-		"ukphone": "ˈkredɪt"
-	},
-	{
-		"name": "moral",
-		"trans": [
-			"adj. 道德的；道义上的；品行端正的 n.品行，道德；寓意"
-		],
-		"usphone": "ˈmɒrəl",
-		"ukphone": "ˈmɒrəl"
-	},
-	{
-		"name": "apply",
-		"trans": [
-			"vt. & vi. 应用；申请；涂；有关"
-		],
-		"usphone": "əˈplaɪ",
-		"ukphone": "əˈplaɪ"
-	},
-	{
-		"name": "negate",
-		"trans": [
-			"vt. 取消，使无效；否认，否定"
-		],
-		"usphone": "nɪˈɡeɪt",
-		"ukphone": "nɪˈɡeɪt"
-	},
-	{
-		"name": "intellectual",
-		"trans": [
-			"adj. 脑力的；有才智的，智力发达的 n.知识分子，脑力劳动者"
-		],
-		"usphone": "ˌɪntəˈlektʃuəl",
-		"ukphone": "ˌɪntəˈlektʃuəl"
-	},
-	{
-		"name": "mystery",
-		"trans": [
-			"n. 神秘；神秘的人（或事物）；悬疑作品"
-		],
-		"usphone": "ˈmɪstri",
-		"ukphone": "ˈmɪstri"
-	},
-	{
-		"name": "let sb down",
-		"trans": [
-			"使某人失望"
-		]
-	},
-	{
-		"name": "ignorance",
-		"trans": [
-			"n. 无知"
-		],
-		"usphone": "ˈɪɡnərəns",
-		"ukphone": "ˈɪɡnərəns"
-	},
-	{
-		"name": "as to",
-		"trans": [
-			"关于，至于"
-		]
-	},
-	{
-		"name": "take it for granted",
-		"trans": [
-			"想当然地认为，认为…是理所当然"
-		],
-		"usphone": "ˈɡrɑːntɪd",
-		"ukphone": "ˈɡrɑːntɪd"
-	},
-	{
-		"name": "freedom",
-		"trans": [
-			"n. 自由"
-		],
-		"usphone": "ˈfriːdəm",
-		"ukphone": "ˈfriːdəm"
-	},
-	{
-		"name": "authority",
-		"trans": [
-			"n. 权威；权力；官方"
-		],
-		"usphone": "ɔːˈθɒrəti",
-		"ukphone": "ɔːˈθɒrəti"
-	},
-	{
-		"name": "permit",
-		"trans": [
-			"n. 许可证"
-		],
-		"usphone": "pəˈmɪt/ vt. & vi. 允许，准许，许可；使有可能 /ˈpɜːmɪt",
-		"ukphone": "pəˈmɪt/ vt. & vi. 允许，准许，许可；使有可能 /ˈpɜːmɪt"
-	},
-	{
-		"name": "responsibility",
-		"trans": [
-			"n. 责任，负责；职责，义务"
-		],
-		"usphone": "rɪˌspɒnsəˈbɪləti",
-		"ukphone": "rɪˌspɒnsəˈbɪləti"
-	},
-	{
-		"name": "declare",
-		"trans": [
-			"vt. 表明，宣称；公布，宣布；申报"
-		],
-		"usphone": "dɪˈkleə(r)",
-		"ukphone": "dɪˈkleə(r)"
-	},
-	{
-		"name": "nationality",
-		"trans": [
-			"n. 国籍；民族"
-		],
-		"usphone": "ˌnæʃəˈnæləti",
-		"ukphone": "ˌnæʃəˈnæləti"
-	},
-	{
-		"name": "put forward",
-		"trans": [
-			"提出，提议，建议"
-		]
-	},
-	{
-		"name": "evolution",
-		"trans": [
-			"n. 进化；演变，发展"
-		],
-		"usphone": "ˌiːvəˈluːʃn",
-		"ukphone": "ˌiːvəˈluːʃn"
-	},
-	{
-		"name": "publish",
-		"trans": [
-			"vt. 出版，发行；发表；公布"
-		],
-		"usphone": "ˈpʌblɪʃ",
-		"ukphone": "ˈpʌblɪʃ"
-	},
-	{
-		"name": "marriage",
-		"trans": [
-			"n. 结婚，婚姻；已婚状态"
-		],
-		"usphone": "ˈmærɪdʒ",
-		"ukphone": "ˈmærɪdʒ"
-	}
+  {
+    "name": "harm",
+    "trans": [
+      "n. any physical damage to the body caused by violence or accident or fracture etc.; the occurrence of a change for the worse",
+      "v. cause or do harm to"
+    ],
+    "usphone": "hɑːm",
+    "ukphone": "hɑːm"
+  },
+  {
+    "name": "soil",
+    "trans": [
+      "n. the state of being covered with unclean things; the part of the earth's surface consisting of humus and disintegrated rock"
+    ],
+    "usphone": "sɔɪl",
+    "ukphone": "sɔɪl"
+  },
+  {
+    "name": "ecosystem",
+    "trans": [
+      "n. a system formed by the interaction of a community of organisms with their physical environment"
+    ],
+    "usphone": "ˈiːkəʊsɪstəm",
+    "ukphone": "ˈiːkəʊsɪstəm"
+  },
+  {
+    "name": "overseas",
+    "trans": [
+      "adj. in a foreign country",
+      "adv. beyond or across the sea; in a place across an ocean"
+    ],
+    "usphone": "ˌəʊvəˈsiːz",
+    "ukphone": "ˌəʊvəˈsiːz"
+  },
+  {
+    "name": "region",
+    "trans": [
+      "n. the extended spatial location of something; a part of an animal that has a special function or is supplied by a given artery or nerve"
+    ],
+    "usphone": "ˈriːdʒən",
+    "ukphone": "ˈriːdʒən"
+  },
+  {
+    "name": "continent",
+    "trans": [
+      "n. one of the large landmasses of the earth; the European mainland"
+    ],
+    "usphone": "ˈkɒntɪnənt",
+    "ukphone": "ˈkɒntɪnənt"
+  },
+  {
+    "name": "million",
+    "trans": [
+      "n. the number that is represented as a one followed by 6 zeros"
+    ],
+    "usphone": "ˈmɪljən",
+    "ukphone": "ˈmɪljən"
+  },
+  {
+    "name": "length",
+    "trans": [
+      "n. the linear extent in space from one end to the other; the longest dimension of something that is fixed in place; continuance in time"
+    ],
+    "usphone": "leŋθ",
+    "ukphone": "leŋθ"
+  },
+  {
+    "name": "biodiversity",
+    "trans": [
+      "n. the diversity of plant and animal life in a particular habitat (or in the world as a whole)"
+    ],
+    "usphone": "ˌbaɪəʊdaɪˈvɜːsəti",
+    "ukphone": "ˌbaɪəʊdaɪˈvɜːsəti"
+  },
+  {
+    "name": "species",
+    "trans": [
+      "n. (biology) taxonomic group whose members can interbreed; a specific kind of something"
+    ],
+    "usphone": "ˈspiːʃiːz",
+    "ukphone": "ˈspiːʃiːz"
+  },
+  {
+    "name": "nut",
+    "trans": [
+      "n. usually large hard-shelled seed; Egyptian goddess of the sky"
+    ],
+    "usphone": "nʌt",
+    "ukphone": "nʌt"
+  },
+  {
+    "name": "brazil nut",
+    "trans": [
+      "n. tall South American tree bearing brazil nuts"
+    ]
+  },
+  {
+    "name": "lily",
+    "trans": [
+      "n. any liliaceous plant of the genus Lilium having showy pendulous flowers"
+    ],
+    "usphone": "ˈlɪli",
+    "ukphone": "ˈlɪli"
+  },
+  {
+    "name": "water lily",
+    "trans": [
+      "n. an aquatic plant of the family Nymphaeaceae"
+    ]
+  },
+  {
+    "name": "variety",
+    "trans": [
+      "n. a collection containing a variety of sorts of things; noticeable heterogeneity"
+    ],
+    "usphone": "vəˈraɪəti",
+    "ukphone": "vəˈraɪəti"
+  },
+  {
+    "name": "wildlife",
+    "trans": [
+      "n. all living things (except people) that are undomesticated"
+    ],
+    "usphone": "ˈwaɪldlaɪf",
+    "ukphone": "ˈwaɪldlaɪf"
+  },
+  {
+    "name": "beneath",
+    "trans": [
+      "prep. Lower in place, with something directly over or on; under; underneath; hence, at the foot of"
+    ],
+    "usphone": "bɪˈniːθ",
+    "ukphone": "bɪˈniːθ"
+  },
+  {
+    "name": "mass",
+    "trans": [
+      "n. the property of a body that causes it to have weight in a gravitational field; (often followed by 'of') a large number or amount or extent",
+      "adj. formed of separate units gathered into a mass or whole"
+    ],
+    "usphone": "mæs",
+    "ukphone": "mæs"
+  },
+  {
+    "name": "towering",
+    "trans": [
+      "adj. of imposing height; especially standing out above others"
+    ],
+    "usphone": "ˈtaʊərɪŋ",
+    "ukphone": "ˈtaʊərɪŋ"
+  },
+  {
+    "name": "hardwood",
+    "trans": [
+      "n. the wood of broad-leaved dicotyledonous trees (as distinguished from the wood of conifers)"
+    ],
+    "usphone": "ˈhɑːdwʊd",
+    "ukphone": "ˈhɑːdwʊd"
+  },
+  {
+    "name": "living",
+    "trans": [
+      "adj. pertaining to living persons; true to life; lifelike",
+      "n. the experience of being alive; the course of human events and activities; people who are still living"
+    ],
+    "usphone": "ˈlɪvɪŋ",
+    "ukphone": "ˈlɪvɪŋ"
+  },
+  {
+    "name": "mammal",
+    "trans": [
+      "n. any warm-blooded vertebrate having the skin more or less covered with hair…"
+    ],
+    "usphone": "ˈmæml",
+    "ukphone": "ˈmæml"
+  },
+  {
+    "name": "jaguar",
+    "trans": [
+      "n. a large spotted feline of tropical America similar to the leopard; in some classifications considered a member of the genus Felis"
+    ],
+    "usphone": "ˈdʒæɡjuə(r)",
+    "ukphone": "ˈdʒæɡjuə(r)"
+  },
+  {
+    "name": "survive",
+    "trans": [
+      "v. continue to live through hardship or adversity; continue in existence after (an adversity, etc.)"
+    ],
+    "usphone": "səˈvaɪv",
+    "ukphone": "səˈvaɪv"
+  },
+  {
+    "name": "frog",
+    "trans": [
+      "n. any of various tailless stout-bodied amphibians with long hind limbs for leaping; semiaquatic and terrestrial species"
+    ],
+    "usphone": "frɒɡ",
+    "ukphone": "frɒɡ"
+  },
+  {
+    "name": "in turn",
+    "trans": [
+      "adv. in proper order or sequence"
+    ]
+  },
+  {
+    "name": "insect",
+    "trans": [
+      "n. small air-breathing arthropod"
+    ],
+    "usphone": "ˈɪnsekt",
+    "ukphone": "ˈɪnsekt"
+  },
+  {
+    "name": "microorganism",
+    "trans": [
+      "n. any organism of microscopic size"
+    ],
+    "usphone": "ˌmaɪkrəʊˈɔːgənɪzəm",
+    "ukphone": "ˌmaɪkrəʊˈɔːgənɪzəm"
+  },
+  {
+    "name": "break down",
+    "trans": [
+      "v. make ineffective; make a mathematical, chemical, or grammatical analysis of; break down into components or essential features"
+    ]
+  },
+  {
+    "name": "nutrient",
+    "trans": [
+      "n. any substance that can be metabolized by an animal to give energy and build tissue"
+    ],
+    "usphone": "ˈnjuːtriənt",
+    "ukphone": "ˈnjuːtriənt"
+  },
+  {
+    "name": "breathe life into",
+    "trans": [
+      "给…带来起色，注入活力"
+    ]
+  },
+  {
+    "name": "carbon",
+    "trans": [
+      "n. an abundant nonmetallic tetravalent element occurring in three allotropic forms: amorphous carbon and graphite and diamond; occurs in all organic compounds"
+    ],
+    "usphone": "ˈkɑːbən",
+    "ukphone": "ˈkɑːbən"
+  },
+  {
+    "name": "oxygen",
+    "trans": [
+      "n. a nonmetallic bivalent element that is normally a colorless odorless tasteless nonflammable diatomic gas; constitutes 21 percent of the atmosphere by volume…"
+    ],
+    "usphone": "ˈɒksɪdʒən",
+    "ukphone": "ˈɒksɪdʒən"
+  },
+  {
+    "name": "thus",
+    "trans": [
+      "adv. (used to introduce a logical conclusion) from that fact or reason or as a result; in the way indicated; ('thusly' is a nonstandard variant)"
+    ],
+    "usphone": "ðʌs",
+    "ukphone": "ðʌs"
+  },
+  {
+    "name": "disappear",
+    "trans": [
+      "v. get lost, as without warning or explanation"
+    ],
+    "usphone": "ˌdɪsəˈpɪə(r)",
+    "ukphone": "ˌdɪsəˈpɪə(r)"
+  },
+  {
+    "name": "due",
+    "trans": [
+      "adj. owed and payable immediately or on demand; scheduled to arrive",
+      "n. that which is deserved or owed"
+    ],
+    "usphone": "djuː",
+    "ukphone": "djuː"
+  },
+  {
+    "name": "agriculture",
+    "trans": [
+      "n. a large-scale farming enterprise; the practice of cultivating the land or raising stock"
+    ],
+    "usphone": "ˈæɡrɪkʌltʃə(r)",
+    "ukphone": "ˈæɡrɪkʌltʃə(r)"
+  },
+  {
+    "name": "cattle",
+    "trans": [
+      "n. domesticated bovine animals as a group regardless of sex or age"
+    ],
+    "usphone": "ˈkætl",
+    "ukphone": "ˈkætl"
+  },
+  {
+    "name": "impact",
+    "trans": [
+      "v. press or wedge together; pack together"
+    ],
+    "usphone": "ˈɪmpækt/ n. 影响，作用；撞击，冲撞 /ɪmˈpækt",
+    "ukphone": "ˈɪmpækt/ n. 影响，作用；撞击，冲撞 /ɪmˈpækt"
+  },
+  {
+    "name": "extinction",
+    "trans": [
+      "n. no longer active; extinguished"
+    ],
+    "usphone": "ɪkˈstɪŋkʃn",
+    "ukphone": "ɪkˈstɪŋkʃn"
+  },
+  {
+    "name": "damage",
+    "trans": [
+      "v. inflict damage upon",
+      "n. the occurrence of a change for the worse; loss of military equipment"
+    ],
+    "usphone": "ˈdæmɪdʒ",
+    "ukphone": "ˈdæmɪdʒ"
+  },
+  {
+    "name": "climate",
+    "trans": [
+      "n. the weather in some location averaged over some long period of time; the prevailing psychological state"
+    ],
+    "usphone": "ˈklaɪmət",
+    "ukphone": "ˈklaɪmət"
+  },
+  {
+    "name": "build up",
+    "trans": [
+      "v. enlarge, develop, or increase by degrees or in stages; form or accumulate steadily"
+    ]
+  },
+  {
+    "name": "global",
+    "trans": [
+      "adj. involving the entire earth; not limited or provincial in scope"
+    ],
+    "usphone": "ˈɡləʊbl",
+    "ukphone": "ˈɡləʊbl"
+  },
+  {
+    "name": "greenhouse",
+    "trans": [
+      "n. a building with glass walls and roof; for the cultivation and exhibition of plants under controlled conditions"
+    ],
+    "usphone": "ˈɡriːnhaʊs",
+    "ukphone": "ˈɡriːnhaʊs"
+  },
+  {
+    "name": "gas",
+    "trans": [
+      "n. the state of matter distinguished from the solid and liquid states by: relatively low density and viscosity…"
+    ],
+    "usphone": "ɡæs",
+    "ukphone": "ɡæs"
+  },
+  {
+    "name": "drought",
+    "trans": [
+      "n. a shortage of rainfall; a prolonged shortage"
+    ],
+    "usphone": "draʊt",
+    "ukphone": "draʊt"
+  },
+  {
+    "name": "come up with",
+    "trans": [
+      "phr. to think of; to produce (an idea or plan)"
+    ]
+  },
+  {
+    "name": "call for",
+    "trans": [
+      "v. express the need or desire for; ask for; require as useful, just, or proper"
+    ]
+  },
+  {
+    "name": "application",
+    "trans": [
+      "n. the act of bringing something to bear; using it for a particular purpose; a verbal or written request for assistance or employment or admission to a school"
+    ],
+    "usphone": "ˌæplɪˈkeɪʃn",
+    "ukphone": "ˌæplɪˈkeɪʃn"
+  },
+  {
+    "name": "brochure",
+    "trans": [
+      "n. a small book usually having a paper cover"
+    ],
+    "usphone": "ˈbrəʊʃə(r)",
+    "ukphone": "ˈbrəʊʃə(r)"
+  },
+  {
+    "name": "organization",
+    "trans": [
+      "n. a group of people who work together; an organized structure for arranging or classifying"
+    ],
+    "usphone": "ˌɔːɡənaɪˈzeɪʃn",
+    "ukphone": "ˌɔːɡənaɪˈzeɪʃn"
+  },
+  {
+    "name": "absolutely",
+    "trans": [
+      "adv. completely and without qualification; used informally as intensifiers"
+    ],
+    "usphone": "ˈæbsəluːtli",
+    "ukphone": "ˈæbsəluːtli"
+  },
+  {
+    "name": "belt",
+    "trans": [
+      "n. endless loop of flexible material between two rotating shafts or pulleys; a band to tie or buckle around the body (usually at the waist)"
+    ],
+    "usphone": "belt",
+    "ukphone": "belt"
+  },
+  {
+    "name": "medal",
+    "trans": [
+      "n. an award for winning a championship or commemorating some other event"
+    ],
+    "usphone": "ˈmedl",
+    "ukphone": "ˈmedl"
+  },
+  {
+    "name": "image",
+    "trans": [
+      "n. an iconic mental representation; (Jungian psychology) a personal facade that one presents to the world"
+    ],
+    "usphone": "ˈɪmɪdʒ",
+    "ukphone": "ˈɪmɪdʒ"
+  },
+  {
+    "name": "shark",
+    "trans": [
+      "n. any of numerous elongate mostly marine carnivorous fishes with heterocercal caudal fins and tough skin covered with small toothlike scales"
+    ],
+    "usphone": "ʃɑːk",
+    "ukphone": "ʃɑːk"
+  },
+  {
+    "name": "spring to mind",
+    "trans": [
+      "v. be remembered"
+    ]
+  },
+  {
+    "name": "whale",
+    "trans": [
+      "n. a very large person; impressive in size or qualities"
+    ],
+    "usphone": "weɪl",
+    "ukphone": "weɪl"
+  },
+  {
+    "name": "deer",
+    "trans": [
+      "n. distinguished from Bovidae by the male's having solid deciduous antlers"
+    ],
+    "usphone": "dɪə(r)",
+    "ukphone": "dɪə(r)"
+  },
+  {
+    "name": "track",
+    "trans": [
+      "v. carry on the feet and deposit; observe or plot the moving path of something",
+      "n. a line or route along which something travels or moves; evidence pointing to a possible solution"
+    ],
+    "usphone": "træk",
+    "ukphone": "træk"
+  },
+  {
+    "name": "habitat",
+    "trans": [
+      "n. the type of environment in which an organism or group normally lives or occurs"
+    ],
+    "usphone": "ˈhæbɪtæt",
+    "ukphone": "ˈhæbɪtæt"
+  },
+  {
+    "name": "nowhere",
+    "trans": [
+      "adv. not anywhere; in or at or to no place"
+    ],
+    "usphone": "ˈnəʊweə(r)",
+    "ukphone": "ˈnəʊweə(r)"
+  },
+  {
+    "name": "dolphin",
+    "trans": [
+      "n. large slender food and game fish widely distributed in warm seas (especially around Hawaii)"
+    ],
+    "usphone": "ˈdɒlfɪn",
+    "ukphone": "ˈdɒlfɪn"
+  },
+  {
+    "name": "resident",
+    "trans": [
+      "n. someone who lives at a particular place for a prolonged period or who was born there"
+    ],
+    "usphone": "ˈrezɪdənt",
+    "ukphone": "ˈrezɪdənt"
+  },
+  {
+    "name": "chief",
+    "trans": [
+      "n. a person who is in charge; a person who exercises control over workers",
+      "adj. most important element"
+    ],
+    "usphone": "tʃiːf",
+    "ukphone": "tʃiːf"
+  },
+  {
+    "name": "committee",
+    "trans": [
+      "n. a special group delegated to consider some matter; a self-constituted organization to promote something"
+    ],
+    "usphone": "kəˈmɪti",
+    "ukphone": "kəˈmɪti"
+  },
+  {
+    "name": "entirely",
+    "trans": [
+      "adv. to a complete degree or to the full or entire extent ('whole' is often used informally for 'wholly'); without any others being included or involved"
+    ],
+    "usphone": "ɪnˈtaɪəli",
+    "ukphone": "ɪnˈtaɪəli"
+  },
+  {
+    "name": "smog",
+    "trans": [
+      "n. air pollution by a mixture of smoke and fog"
+    ],
+    "usphone": "smɒɡ",
+    "ukphone": "smɒɡ"
+  },
+  {
+    "name": "get rid",
+    "trans": [
+      "of 摆脱，丢弃，扔掉"
+    ],
+    "usphone": "rɪd",
+    "ukphone": "rɪd"
+  },
+  {
+    "name": "protest",
+    "trans": [
+      "n. a formal and solemn declaration of objection; the act of protesting; a public (often organized) manifestation of dissent"
+    ],
+    "usphone": "prəˈtest/ vi. 反对，抗议 vt.坚持声称，申辩 /ˈprəʊtest",
+    "ukphone": "prəˈtest/ vi. 反对，抗议 vt.坚持声称，申辩 /ˈprəʊtest"
+  },
+  {
+    "name": "profit",
+    "trans": [
+      "n. the excess of revenues over outlays in a given period of time (including depreciation and other non-cash expenses); the advantageous quality of being beneficial",
+      "v. derive a benefit from; make a profit; gain money or materially"
+    ],
+    "usphone": "ˈprɒfɪt",
+    "ukphone": "ˈprɒfɪt"
+  },
+  {
+    "name": "defence",
+    "trans": [
+      "n. (psychiatry) an unconscious process that tries to reduce the anxiety associated with instinctive desires"
+    ],
+    "usphone": "dɪˈfens",
+    "ukphone": "dɪˈfens"
+  },
+  {
+    "name": "various",
+    "trans": [
+      "adj. of many different kinds purposefully arranged but lacking any uniformity; considered individually"
+    ],
+    "usphone": "ˈveəriəs",
+    "ukphone": "ˈveəriəs"
+  },
+  {
+    "name": "process",
+    "trans": [
+      "n. a particular course of action intended to achieve a result",
+      "v. subject to a process or treatment, with the aim of readying for some purpose, improving, or remedying a condition; deal with in a routine way"
+    ],
+    "usphone": "ˈprəʊses",
+    "ukphone": "ˈprəʊses"
+  },
+  {
+    "name": "economic",
+    "trans": [
+      "adj. of or relating to an economy, the system of production and management of material wealth; of or relating to the science of economics"
+    ],
+    "usphone": "ˌiːkəˈnɒmɪk",
+    "ukphone": "ˌiːkəˈnɒmɪk"
+  },
+  {
+    "name": "policy",
+    "trans": [
+      "n. a plan of action adopted by an individual or social group; a line of argument rationalizing the course of action of a government"
+    ],
+    "usphone": "ˈpɒləsi",
+    "ukphone": "ˈpɒləsi"
+  },
+  {
+    "name": "branch",
+    "trans": [
+      "n. a division of some larger or more complex organization; a division of a stem, or secondary stem arising from the main stem of a plant"
+    ],
+    "usphone": "brɑːntʃ",
+    "ukphone": "brɑːntʃ"
+  },
+  {
+    "name": "strategy",
+    "trans": [
+      "n. an elaborate and systematic plan of action"
+    ],
+    "usphone": "ˈstrætədʒi",
+    "ukphone": "ˈstrætədʒi"
+  },
+  {
+    "name": "recycle",
+    "trans": [
+      "v. cause to repeat a cycle"
+    ],
+    "usphone": "ˌriːˈsaɪkl",
+    "ukphone": "ˌriːˈsaɪkl"
+  },
+  {
+    "name": "subway",
+    "trans": [
+      "n. an electric railway operating below the surface of the ground (usually in a city)"
+    ],
+    "usphone": "ˈsʌbweɪ",
+    "ukphone": "ˈsʌbweɪ"
+  },
+  {
+    "name": "former",
+    "trans": [
+      "adj. referring to the first of two things or persons mentioned (or the earlier one or ones of several); belonging to some prior time"
+    ],
+    "usphone": "ˈfɔːmə(r)",
+    "ukphone": "ˈfɔːmə(r)"
+  },
+  {
+    "name": "official",
+    "trans": [
+      "n. a worker who holds or is invested with an office; someone who administers the rules of a game or sport",
+      "adj. having official authority or sanction; of or relating to an office"
+    ],
+    "usphone": "əˈfɪʃl",
+    "ukphone": "əˈfɪʃl"
+  },
+  {
+    "name": "poverty",
+    "trans": [
+      "n. the state of having little or no money and few or no material possessions"
+    ],
+    "usphone": "ˈpɒvəti",
+    "ukphone": "ˈpɒvəti"
+  },
+  {
+    "name": "poison",
+    "trans": [
+      "v. spoil as if by poison; kill with poison",
+      "n. any substance that causes injury or illness or death of a living organism; anything that harms or destroys"
+    ],
+    "usphone": "ˈpɔɪzn",
+    "ukphone": "ˈpɔɪzn"
+  },
+  {
+    "name": "chemical",
+    "trans": [
+      "n. material produced by or used in a reaction involving changes in atoms or molecules",
+      "adj. relating to or used in chemistry; of or made from or using substances produced by or used in reactions involving atomic or molecular changes"
+    ],
+    "usphone": "ˈkemɪkl",
+    "ukphone": "ˈkemɪkl"
+  },
+  {
+    "name": "consequence",
+    "trans": [
+      "n. a phenomenon that follows and is caused by some previous phenomenon; the outcome of an event especially as relative to an individual"
+    ],
+    "usphone": "ˈkɒnsɪkwəns",
+    "ukphone": "ˈkɒnsɪkwəns"
+  },
+  {
+    "name": "give rise to",
+    "trans": [
+      "使发生（或存在）"
+    ]
+  },
+  {
+    "name": "further",
+    "trans": [
+      "adj. more distant in especially degree",
+      "adv. to or at a greater extent or degree or a more advanced stage ('further' is used more often than 'farther' in this abstract sense); in addition or furthermore"
+    ],
+    "usphone": "ˈfɜːðə(r)",
+    "ukphone": "ˈfɜːðə(r)"
+  },
+  {
+    "name": "county",
+    "trans": [
+      "n. (United Kingdom) a region created by territorial division for the purpose of local government"
+    ],
+    "usphone": "ˈkaʊnti",
+    "ukphone": "ˈkaʊnti"
+  },
+  {
+    "name": "injure",
+    "trans": [
+      "v. cause injuries or bodily harm to"
+    ],
+    "usphone": "ˈɪndʒə(r)",
+    "ukphone": "ˈɪndʒə(r)"
+  },
+  {
+    "name": "disaster",
+    "trans": [
+      "n. a state of extreme (usually irremediable) ruin and misfortune; an event resulting in great loss and misfortune"
+    ],
+    "usphone": "dɪˈzɑːstə(r)",
+    "ukphone": "dɪˈzɑːstə(r)"
+  },
+  {
+    "name": "at large",
+    "trans": [
+      "adv. in a general fashion",
+      "adj. having escaped, especially from confinement"
+    ]
+  },
+  {
+    "name": "reaction",
+    "trans": [
+      "n. (chemistry) a process in which one or more substances are changed into others; an idea evoked by some experience"
+    ],
+    "usphone": "riˈækʃn",
+    "ukphone": "riˈækʃn"
+  },
+  {
+    "name": "crash",
+    "trans": [
+      "n. a loud resonant repeating noise; a serious accident (usually involving one or more vehicles)",
+      "v. fall or come down violently; move with, or as if with, a crashing noise"
+    ],
+    "usphone": "kræʃ",
+    "ukphone": "kræʃ"
+  },
+  {
+    "name": "signal",
+    "trans": [
+      "v. communicate silently and non-verbally by signals or signs; be a signal for or a symptom of",
+      "n. any nonverbal action or gesture that encodes a message; any incitement to action"
+    ],
+    "usphone": "ˈsɪɡnəl",
+    "ukphone": "ˈsɪɡnəl"
+  },
+  {
+    "name": "exit",
+    "trans": [
+      "v. move out of or depart from",
+      "n. an opening that permits escape or release"
+    ],
+    "usphone": "ˈeksɪt；ˈegzɪt",
+    "ukphone": "ˈeksɪt；ˈegzɪt"
+  },
+  {
+    "name": "orderly",
+    "trans": [
+      "adj. devoid of violence or disruption"
+    ],
+    "usphone": "ˈɔːdəli",
+    "ukphone": "ˈɔːdəli"
+  },
+  {
+    "name": "stair",
+    "trans": [
+      "n. support consisting of a place to rest the foot while ascending or descending a stairway"
+    ],
+    "usphone": "steə(r)",
+    "ukphone": "steə(r)"
+  },
+  {
+    "name": "roll",
+    "trans": [
+      "n. rotary motion of an object around its own axis; a list of names",
+      "v. move by turning over or rotating; move along on or as if on wheels or a wheeled vehicle"
+    ],
+    "usphone": "rəʊl",
+    "ukphone": "rəʊl"
+  },
+  {
+    "name": "roll call",
+    "trans": [
+      "n. calling out an official list of names"
+    ]
+  },
+  {
+    "name": "confirm",
+    "trans": [
+      "v. establish or strengthen as with new evidence or facts; strengthen or make more firm"
+    ],
+    "usphone": "kənˈfɜːm",
+    "ukphone": "kənˈfɜːm"
+  },
+  {
+    "name": "safe and sound",
+    "trans": [
+      "adj. free from danger or injury"
+    ]
+  },
+  {
+    "name": "hug",
+    "trans": [
+      "v. squeeze (someone) tightly in your arms, usually with fondness; fit closely or tightly"
+    ],
+    "usphone": "hʌɡ",
+    "ukphone": "hʌɡ"
+  },
+  {
+    "name": "procedure",
+    "trans": [
+      "n. a particular course of action intended to achieve a result"
+    ],
+    "usphone": "prəˈsiːdʒə(r)",
+    "ukphone": "prəˈsiːdʒə(r)"
+  },
+  {
+    "name": "tsunami",
+    "trans": [
+      "n. a cataclysm resulting from a destructive sea wave caused by an earthquake or volcanic eruption"
+    ],
+    "usphone": "tsuːˈnɑːmi",
+    "ukphone": "tsuːˈnɑːmi"
+  },
+  {
+    "name": "odd",
+    "trans": [
+      "adj. not divisible by two; not easily explained"
+    ],
+    "usphone": "ɒd",
+    "ukphone": "ɒd"
+  },
+  {
+    "name": "bubble",
+    "trans": [
+      "n. a hollow globule of gas (e.g., air or carbon dioxide)"
+    ],
+    "usphone": "ˈbʌbl",
+    "ukphone": "ˈbʌbl"
+  },
+  {
+    "name": "occur",
+    "trans": [
+      "v. come to pass; come to one's mind; suggest itself"
+    ],
+    "usphone": "əˈkɜː(r)",
+    "ukphone": "əˈkɜː(r)"
+  },
+  {
+    "name": "occur to",
+    "trans": [
+      "被想到，浮现在脑中"
+    ]
+  },
+  {
+    "name": "keep on",
+    "trans": [
+      "v. allow to remain in a place or position or maintain a property or feature"
+    ]
+  },
+  {
+    "name": "relief",
+    "trans": [
+      "n. the feeling that comes when something burdensome is removed or reduced"
+    ],
+    "usphone": "rɪˈliːf",
+    "ukphone": "rɪˈliːf"
+  },
+  {
+    "name": "typhoon",
+    "trans": [
+      "n. a tropical cyclone occurring in the western Pacific or Indian oceans"
+    ],
+    "usphone": "taɪˈfuːn",
+    "ukphone": "taɪˈfuːn"
+  },
+  {
+    "name": "destructive",
+    "trans": [
+      "adj. causing destruction or much damage"
+    ],
+    "usphone": "dɪˈstrʌktɪv",
+    "ukphone": "dɪˈstrʌktɪv"
+  },
+  {
+    "name": "pole",
+    "trans": [
+      "n. a long (usually round) rod of wood or metal or plastic; a native or inhabitant of Poland"
+    ],
+    "usphone": "pəʊl",
+    "ukphone": "pəʊl"
+  },
+  {
+    "name": "inform",
+    "trans": [
+      "v. impart knowledge of some fact, state or affairs, or event to; give character or essence to"
+    ],
+    "usphone": "ɪnˈfɔːm",
+    "ukphone": "ɪnˈfɔːm"
+  },
+  {
+    "name": "hurricane",
+    "trans": [
+      "n. a severe tropical cyclone usually with heavy rains and winds moving a 73-136 knots (12 on the Beaufort scale)"
+    ],
+    "usphone": "ˈhʌrɪkən",
+    "ukphone": "ˈhʌrɪkən"
+  },
+  {
+    "name": "conference",
+    "trans": [
+      "n. a prearranged meeting for consultation or exchange of information or discussion (especially one with a formal agenda)"
+    ],
+    "usphone": "ˈkɒnfərəns",
+    "ukphone": "ˈkɒnfərəns"
+  },
+  {
+    "name": "shock",
+    "trans": [
+      "n. the feeling of distress and disbelief that you have when something bad happens accidentally",
+      "v. surprise greatly; knock someone's socks off; strike with disgust or revulsion"
+    ],
+    "usphone": "ʃɒk",
+    "ukphone": "ʃɒk"
+  },
+  {
+    "name": "scare",
+    "trans": [
+      "v. cause fear in; cause to lose courage",
+      "n. sudden mass fear and anxiety over anticipated events"
+    ],
+    "usphone": "skeə(r)",
+    "ukphone": "skeə(r)"
+  },
+  {
+    "name": "power",
+    "trans": [
+      "n. possession of controlling influence; (physics) the rate of doing work; measured in watts (= joules/second)"
+    ],
+    "usphone": "ˈpaʊə(r)",
+    "ukphone": "ˈpaʊə(r)"
+  },
+  {
+    "name": "run out of",
+    "trans": [
+      "用完，耗尽"
+    ]
+  },
+  {
+    "name": "supply",
+    "trans": [
+      "n. an amount of something available for use; offering goods and services for sale",
+      "v. give something useful or necessary to; circulate or distribute or equip with"
+    ],
+    "usphone": "səˈplaɪ",
+    "ukphone": "səˈplaɪ"
+  },
+  {
+    "name": "donate",
+    "trans": [
+      "v. give to a charity or good cause"
+    ],
+    "usphone": "dəʊˈneɪt",
+    "ukphone": "dəʊˈneɪt"
+  },
+  {
+    "name": "charity",
+    "trans": [
+      "n. a foundation created to promote the public good (not for assistance to any particular individuals); a kindly and lenient attitude toward people"
+    ],
+    "usphone": "ˈtʃærəti",
+    "ukphone": "ˈtʃærəti"
+  },
+  {
+    "name": "staff",
+    "trans": [
+      "n. personnel who assist their superior in carrying out an assigned task; a strong rod or stick with a specialized utilitarian purpose",
+      "v. provide with staff"
+    ],
+    "usphone": "stɑːf",
+    "ukphone": "stɑːf"
+  },
+  {
+    "name": "slide",
+    "trans": [
+      "n. a small flat rectangular piece of glass on which specimens can be mounted for microscopic study",
+      "v. move obliquely or sideways, usually in an uncontrolled manner; to pass or move unobtrusively or smoothly"
+    ],
+    "usphone": "slaɪd",
+    "ukphone": "slaɪd"
+  },
+  {
+    "name": "fund",
+    "trans": [
+      "n. a reserve of money set aside for some purpose; a supply of something available for future use"
+    ],
+    "usphone": "fʌnd",
+    "ukphone": "fʌnd"
+  },
+  {
+    "name": "flood",
+    "trans": [
+      "n. the rising of a body of water and its overflowing onto normally dry land; an overwhelming number or amount",
+      "v. fill quickly beyond capacity; as with a liquid; cover with liquid, usually water"
+    ],
+    "usphone": "flʌd",
+    "ukphone": "flʌd"
+  },
+  {
+    "name": "downstairs",
+    "trans": [
+      "adv. on a floor below"
+    ],
+    "usphone": "ˌdaʊnˈsteəz",
+    "ukphone": "ˌdaʊnˈsteəz"
+  },
+  {
+    "name": "document",
+    "trans": [
+      "n. writing that provides information (especially information of an official nature)"
+    ],
+    "usphone": "ˈdɒkjumənt",
+    "ukphone": "ˈdɒkjumənt"
+  },
+  {
+    "name": "honey",
+    "trans": [
+      "n. a sweet yellow liquid produced by bees; a beloved person; used as terms of endearment"
+    ],
+    "usphone": "ˈhʌni",
+    "ukphone": "ˈhʌni"
+  },
+  {
+    "name": "otherwise",
+    "trans": [
+      "adv. in other respects or ways; in another and different manner"
+    ],
+    "usphone": "ˈʌðəwaɪz",
+    "ukphone": "ˈʌðəwaɪz"
+  },
+  {
+    "name": "curious",
+    "trans": [
+      "adj. beyond or deviating from the usual or expected; eager to investigate and learn or learn more (sometimes about others' concerns)"
+    ],
+    "usphone": "ˈkjʊəriəs",
+    "ukphone": "ˈkjʊəriəs"
+  },
+  {
+    "name": "Roman",
+    "trans": [
+      "adj. relating to or characteristic of people of Rome; of or relating to or derived from Rome (especially ancient Rome)",
+      "n. a resident of modern Rome"
+    ],
+    "usphone": "ˈrəʊmən",
+    "ukphone": "ˈrəʊmən"
+  },
+  {
+    "name": "erupt",
+    "trans": [
+      "v. start abruptly; erupt or intensify suddenly"
+    ],
+    "usphone": "ɪˈrʌpt",
+    "ukphone": "ɪˈrʌpt"
+  },
+  {
+    "name": "unearth",
+    "trans": [
+      "v. bring to light"
+    ],
+    "usphone": "ʌnˈɜːθ",
+    "ukphone": "ʌnˈɜːθ"
+  },
+  {
+    "name": "destination",
+    "trans": [
+      "n. the place designated as the end (as of a race or journey); the ultimate goal for which something is done"
+    ],
+    "usphone": "ˌdestɪˈneɪʃn",
+    "ukphone": "ˌdestɪˈneɪʃn"
+  },
+  {
+    "name": "bar",
+    "trans": [
+      "n. a room or establishment where alcoholic drinks are served over a counter; a counter where you can obtain food or drink",
+      "v. prevent from entering; keep out; render unsuitable for passage"
+    ],
+    "usphone": "bɑː(r)",
+    "ukphone": "bɑː(r)"
+  },
+  {
+    "name": "import",
+    "trans": [
+      "v. bring in from abroad"
+    ],
+    "usphone": "ˈɪmpɔːt/ n. 进口产品，输入的产品；输入 /ɪmˈpɔːt",
+    "ukphone": "ˈɪmpɔːt/ n. 进口产品，输入的产品；输入 /ɪmˈpɔːt"
+  },
+  {
+    "name": "export",
+    "trans": [
+      "v. sell or transfer abroad"
+    ],
+    "usphone": "ˈekspɔːt/ n. 出口产品，输出的产品；出口，输出 /ɪkˈspɔːt",
+    "ukphone": "ˈekspɔːt/ n. 出口产品，输出的产品；出口，输出 /ɪkˈspɔːt"
+  },
+  {
+    "name": "port",
+    "trans": [
+      "n. a place (seaport or airport) where people and merchandise can enter or leave a country; sweet dark-red dessert wine originally from Portugal"
+    ],
+    "usphone": "pɔːt",
+    "ukphone": "pɔːt"
+  },
+  {
+    "name": "cloud-capped",
+    "trans": [
+      "adj. Having clouds resting on the top or head; reaching to the clouds"
+    ],
+    "usphone": "ˌklaʊd ˈkæpt",
+    "ukphone": "ˌklaʊd ˈkæpt"
+  },
+  {
+    "name": "ashy",
+    "trans": [
+      "adj. of a light grey"
+    ],
+    "usphone": "ˈæʃi",
+    "ukphone": "ˈæʃi"
+  },
+  {
+    "name": "dawn",
+    "trans": [
+      "n. the first light of day; the earliest period",
+      "v. become clear or enter one's consciousness or emotions"
+    ],
+    "usphone": "dɔːn",
+    "ukphone": "dɔːn"
+  },
+  {
+    "name": "volcano",
+    "trans": [
+      "n. a fissure in the earth's crust (or in the surface of some other planet) through which molten lava and gases erupt"
+    ],
+    "usphone": "vɒlˈkeɪnəʊ",
+    "ukphone": "vɒlˈkeɪnəʊ"
+  },
+  {
+    "name": "take the form of",
+    "trans": [
+      "呈现…的形状；采取…的形式"
+    ]
+  },
+  {
+    "name": "trunk",
+    "trans": [
+      "n. the main stem of a tree; usually covered with bark; the bole is usually the part that is commercially useful for lumber"
+    ],
+    "usphone": "trʌŋk",
+    "ukphone": "trʌŋk"
+  },
+  {
+    "name": "unbearable",
+    "trans": [
+      "adj. incapable of being put up with"
+    ],
+    "usphone": "ʌnˈbeərəbl",
+    "ukphone": "ʌnˈbeərəbl"
+  },
+  {
+    "name": "break out",
+    "trans": [
+      "v. start abruptly; begin suddenly and sometimes violently"
+    ]
+  },
+  {
+    "name": "beyond",
+    "trans": [
+      "prep. / adv. on or to the further side of; more than"
+    ],
+    "usphone": "bɪˈjɒnd",
+    "ukphone": "bɪˈjɒnd"
+  },
+  {
+    "name": "distance",
+    "trans": [
+      "n. the property created by the space between two objects or points; a distant region"
+    ],
+    "usphone": "ˈdɪstəns",
+    "ukphone": "ˈdɪstəns"
+  },
+  {
+    "name": "far and wide",
+    "trans": [
+      "adv. over great areas or distances; everywhere"
+    ]
+  },
+  {
+    "name": "pattern",
+    "trans": [
+      "n. a perceptual structure; a customary way of operation or behavior"
+    ],
+    "usphone": "ˈpætn",
+    "ukphone": "ˈpætn"
+  },
+  {
+    "name": "column",
+    "trans": [
+      "n. a line of units following one after another"
+    ],
+    "usphone": "ˈkɒləm",
+    "ukphone": "ˈkɒləm"
+  },
+  {
+    "name": "rescue",
+    "trans": [
+      "n. recovery or preservation from loss or danger",
+      "v. free from harm or evil"
+    ],
+    "usphone": "ˈreskjuː",
+    "ukphone": "ˈreskjuː"
+  },
+  {
+    "name": "sharp",
+    "trans": [
+      "adj. (of something seen or heard) clearly defined; ending in a sharp point"
+    ],
+    "usphone": "ʃɑːp",
+    "ukphone": "ʃɑːp"
+  },
+  {
+    "name": "locate",
+    "trans": [
+      "v. discover the location of; determine the place of; find by searching or examining"
+    ],
+    "usphone": "ləʊˈkeɪt",
+    "ukphone": "ləʊˈkeɪt"
+  },
+  {
+    "name": "retire",
+    "trans": [
+      "v. go into retirement; stop performing one's work or withdraw from one's position; withdraw from active participation"
+    ],
+    "usphone": "rɪˈtaɪə(r)",
+    "ukphone": "rɪˈtaɪə(r)"
+  },
+  {
+    "name": "wetca",
+    "trans": [
+      "n. 网络摄像头"
+    ],
+    "usphone": "ˈwebkæm",
+    "ukphone": "ˈwebkæm"
+  },
+  {
+    "name": "po",
+    "trans": [
+      "n. a radioactive metallic element that is similar to tellurium and bismuth…"
+    ],
+    "usphone": "pɒt",
+    "ukphone": "pɒt"
+  },
+  {
+    "name": "emoji",
+    "trans": [
+      "n. 表情符号"
+    ],
+    "usphone": "ɪˈməʊdʒi",
+    "ukphone": "ɪˈməʊdʒi"
+  },
+  {
+    "name": "comic",
+    "trans": [
+      "n. a professional performer who tells jokes and performs comical acts",
+      "adj. arousing or provoking laughter; of or relating to or characteristic of comedy"
+    ],
+    "usphone": "ˈkɒmɪk",
+    "ukphone": "ˈkɒmɪk"
+  },
+  {
+    "name": "take off",
+    "trans": [
+      "v. leave; take away or remove"
+    ]
+  },
+  {
+    "name": "frontier",
+    "trans": [
+      "n. a wilderness at the edge of a settled area of a country"
+    ],
+    "usphone": "ˈfrʌntɪə(r)",
+    "ukphone": "ˈfrʌntɪə(r)"
+  },
+  {
+    "name": "billion",
+    "trans": [
+      "n. the number that is represented as a one followed by 12 zeros; in the United Kingdom the usage followed in the United States is frequently seen"
+    ],
+    "usphone": "ˈbɪljən",
+    "ukphone": "ˈbɪljən"
+  },
+  {
+    "name": "obviously",
+    "trans": [
+      "adv. unmistakably ('plain' is often used informally for 'plainly')"
+    ],
+    "usphone": "ˈɒbviəsli",
+    "ukphone": "ˈɒbviəsli"
+  },
+  {
+    "name": "access",
+    "trans": [
+      "n. the right to enter; the right to obtain or make use of or take advantage of something (as services or membership)",
+      "v. obtain or retrieve from a storage device; as of information on a computer"
+    ],
+    "usphone": "ˈækses",
+    "ukphone": "ˈækses"
+  },
+  {
+    "name": "extent",
+    "trans": [
+      "n. the point or degree to which something extends; the distance or area or volume over which something extends"
+    ],
+    "usphone": "ɪkˈstent",
+    "ukphone": "ɪkˈstent"
+  },
+  {
+    "name": "to a certain extent",
+    "trans": [
+      "在一定程度上"
+    ]
+  },
+  {
+    "name": "at on",
+    "trans": [
+      "’s fingertips 掌握（信息），熟悉、精通（知识等），了如指掌"
+    ]
+  },
+  {
+    "name": "click",
+    "trans": [
+      "n. a short light metallic sound",
+      "v. move or strike with a noise; make a clicking or ticking sound"
+    ],
+    "usphone": "klɪk",
+    "ukphone": "klɪk"
+  },
+  {
+    "name": "button",
+    "trans": [
+      "n. a round fastener sewn to shirts and coats etc to fit through buttonholes; an electrical switch operated by pressing"
+    ],
+    "usphone": "ˈbʌtn",
+    "ukphone": "ˈbʌtn"
+  },
+  {
+    "name": "recipe",
+    "trans": [
+      "n. directions for making something"
+    ],
+    "usphone": "ˈresəpi",
+    "ukphone": "ˈresəpi"
+  },
+  {
+    "name": "military",
+    "trans": [
+      "adj. of or relating to the study of the principles of warfare; characteristic of or associated with soldiers or the military"
+    ],
+    "usphone": "ˈmɪlətri",
+    "ukphone": "ˈmɪlətri"
+  },
+  {
+    "name": "affair",
+    "trans": [
+      "n. a vaguely specified concern; a usually secretive or illicit sexual relationship"
+    ],
+    "usphone": "əˈfeə(r)",
+    "ukphone": "əˈfeə(r)"
+  },
+  {
+    "name": "bring up",
+    "trans": [
+      "v. summon into action or bring into existence, often as if by magic; bring up"
+    ]
+  },
+  {
+    "name": "majority",
+    "trans": [
+      "n. the property resulting from being or relating to the greater in number of two parts; the main part; (elections) more than half of the votes"
+    ],
+    "usphone": "məˈdʒɒrəti",
+    "ukphone": "məˈdʒɒrəti"
+  },
+  {
+    "name": "goods",
+    "trans": [
+      "n. benefit; moral excellence or admirableness"
+    ],
+    "usphone": "ɡʊdz",
+    "ukphone": "ɡʊdz"
+  },
+  {
+    "name": "commerce",
+    "trans": [
+      "n. transactions (sales and purchases) having the objective of supplying commodities (goods and services)"
+    ],
+    "usphone": "ˈkɒmɜːs",
+    "ukphone": "ˈkɒmɜːs"
+  },
+  {
+    "name": "deliver",
+    "trans": [
+      "v. deliver (a speech, oration, or idea); bring to a destination, make a delivery"
+    ],
+    "usphone": "dɪˈlɪvə(r)",
+    "ukphone": "dɪˈlɪvə(r)"
+  },
+  {
+    "name": "site",
+    "trans": [
+      "n. the piece of land on which something is located (or is to be located); physical position in relation to the surroundings"
+    ],
+    "usphone": "saɪt",
+    "ukphone": "saɪt"
+  },
+  {
+    "name": "boot",
+    "trans": [
+      "n. footwear that covers the whole foot and lower leg; British term for the luggage compartment in a car"
+    ],
+    "usphone": "buːt",
+    "ukphone": "buːt"
+  },
+  {
+    "name": "arrangement",
+    "trans": [
+      "n. the thing arranged or agreed to; an orderly grouping (of things or persons) considered as a unit; the result of arranging"
+    ],
+    "usphone": "əˈreɪndʒmənt",
+    "ukphone": "əˈreɪndʒmənt"
+  },
+  {
+    "name": "cash",
+    "trans": [
+      "n. money in the form of bills or coins"
+    ],
+    "usphone": "kæʃ",
+    "ukphone": "kæʃ"
+  },
+  {
+    "name": "above all else",
+    "trans": [
+      "最重要的是，尤其是"
+    ]
+  },
+  {
+    "name": "establish",
+    "trans": [
+      "v. set up or found; set up or lay the groundwork for"
+    ],
+    "usphone": "ɪˈstæblɪʃ",
+    "ukphone": "ɪˈstæblɪʃ"
+  },
+  {
+    "name": "software",
+    "trans": [
+      "n. (computer science) written programs or procedures or rules and associated documentation pertaining to the operation of a computer system and that are stored in…"
+    ],
+    "usphone": "ˈsɒftweə(r)",
+    "ukphone": "ˈsɒftweə(r)"
+  },
+  {
+    "name": "instant",
+    "trans": [
+      "adj. occurring with no delay",
+      "n. a very short time (as the time it takes the eye to blink or the heart to beat); a particular point in time"
+    ],
+    "usphone": "ˈɪnstənt",
+    "ukphone": "ˈɪnstənt"
+  },
+  {
+    "name": "comment",
+    "trans": [
+      "n. a statement that expresses a personal opinion or belief or adds information",
+      "v. make or write a comment on; explain or interpret something"
+    ],
+    "usphone": "ˈkɒment",
+    "ukphone": "ˈkɒment"
+  },
+  {
+    "name": "aware",
+    "trans": [
+      "adj. (sometimes followed by 'of') having or showing knowledge or understanding or realization or perception"
+    ],
+    "usphone": "əˈweə(r)",
+    "ukphone": "əˈweə(r)"
+  },
+  {
+    "name": "surf",
+    "trans": [
+      "v. ride the waves of the sea with a surfboard"
+    ],
+    "usphone": "sɜːf",
+    "ukphone": "sɜːf"
+  },
+  {
+    "name": "guideline",
+    "trans": [
+      "n. a light line that is used in lettering to help align the letters"
+    ],
+    "usphone": "ˈɡaɪdlaɪn",
+    "ukphone": "ˈɡaɪdlaɪn"
+  },
+  {
+    "name": "remove",
+    "trans": [
+      "v. remove something concrete, as by lifting, pushing, or taking off, or remove something abstract; remove from a position or an office"
+    ],
+    "usphone": "rɪˈmuːv",
+    "ukphone": "rɪˈmuːv"
+  },
+  {
+    "name": "file",
+    "trans": [
+      "n. a set of related records (either written or electronic) kept together; a line of persons or things ranged one behind the other"
+    ],
+    "usphone": "faɪl",
+    "ukphone": "faɪl"
+  },
+  {
+    "name": "belong",
+    "trans": [
+      "v. be owned by; be in the possession of; be suitable or acceptable"
+    ],
+    "usphone": "bɪˈlɒŋ",
+    "ukphone": "bɪˈlɒŋ"
+  },
+  {
+    "name": "ballet",
+    "trans": [
+      "n. a theatrical representation of a story that is performed to music by trained dancers; music written for a ballet"
+    ],
+    "usphone": "ˈbæleɪ",
+    "ukphone": "ˈbæleɪ"
+  },
+  {
+    "name": "set up",
+    "trans": [
+      "v. set up or found; create by putting components or members together"
+    ]
+  },
+  {
+    "name": "request",
+    "trans": [
+      "v. express the need or desire for; ask for; ask (a person) to do something",
+      "n. a formal message requesting something that is submitted to an authority; the verbal act of requesting"
+    ],
+    "usphone": "rɪˈkwest",
+    "ukphone": "rɪˈkwest"
+  },
+  {
+    "name": "technical",
+    "trans": [
+      "adj. of or relating to technique or proficiency in a practical skill; characterizing or showing skill in or specialized knowledge of applied arts and sciences"
+    ],
+    "usphone": "ˈteknɪkl",
+    "ukphone": "ˈteknɪkl"
+  },
+  {
+    "name": "upload",
+    "trans": [
+      "v. transfer a file or program to a central computer from a smaller computer or a computer at a remote location"
+    ],
+    "usphone": "ˌʌpˈləʊd",
+    "ukphone": "ˌʌpˈləʊd"
+  },
+  {
+    "name": "download",
+    "trans": [
+      "v. transfer a file or program from a central computer to a smaller computer or to a computer at a remote location"
+    ],
+    "usphone": "ˌdaʊnˈləʊd",
+    "ukphone": "ˌdaʊnˈləʊd"
+  },
+  {
+    "name": "percentage",
+    "trans": [
+      "n. a proportion in relation to a whole (which is usually the amount per hundred); assets belonging to or due to or contributed by an individual person or group"
+    ],
+    "usphone": "pəˈsentɪdʒ",
+    "ukphone": "pəˈsentɪdʒ"
+  },
+  {
+    "name": "entertainment",
+    "trans": [
+      "n. an activity that is diverting and that holds the attention"
+    ],
+    "usphone": "ˌentəˈteɪnmənt",
+    "ukphone": "ˌentəˈteɪnmənt"
+  },
+  {
+    "name": "mobile",
+    "trans": [
+      "adj. migratory",
+      "n. a river in southwestern Alabama; flows into Mobile Bay"
+    ],
+    "usphone": "ˈməʊbaɪl",
+    "ukphone": "ˈməʊbaɪl"
+  },
+  {
+    "name": "device",
+    "trans": [
+      "n. an instrumentality invented for a particular purpose; something in an artistic work designed to achieve a particular effect"
+    ],
+    "usphone": "dɪˈvaɪs",
+    "ukphone": "dɪˈvaɪs"
+  },
+  {
+    "name": "addict",
+    "trans": [
+      "n. someone who is so ardently devoted to something that it resembles an addiction"
+    ],
+    "usphone": "ˈædɪkt",
+    "ukphone": "ˈædɪkt"
+  },
+  {
+    "name": "be glued to sth",
+    "trans": [
+      "全神贯注看着某物，离某物很近"
+    ]
+  },
+  {
+    "name": "Wi-Fi",
+    "trans": [
+      "n. a local area network that uses high frequency radio signals to transmit and receive data over distances of a few hundred feet; uses ethernet protocol"
+    ],
+    "usphone": "ˈwaɪ faɪ",
+    "ukphone": "ˈwaɪ faɪ"
+  },
+  {
+    "name": "battery",
+    "trans": [
+      "n. group of guns or missile launchers operated together at one place"
+    ],
+    "usphone": "ˈbætri; ˈbætəri",
+    "ukphone": "ˈbætri; ˈbætəri"
+  },
+  {
+    "name": "quit",
+    "trans": [
+      "v. put an end to a state or an activity; give up or retire from a position"
+    ],
+    "usphone": "kwɪt",
+    "ukphone": "kwɪt"
+  },
+  {
+    "name": "shoot past",
+    "trans": [
+      "飞驰而过"
+    ]
+  },
+  {
+    "name": "knock sb off on",
+    "trans": [
+      "’s feet 撞倒某人，使某人双脚离地"
+    ]
+  },
+  {
+    "name": "scary",
+    "trans": [
+      "adj. provoking fear terror"
+    ],
+    "usphone": "ˈskeəri",
+    "ukphone": "ˈskeəri"
+  },
+  {
+    "name": "somehow",
+    "trans": [
+      "adv. in some unspecified way or manner; or by some unspecified means; for some unspecified reason"
+    ],
+    "usphone": "ˈsʌmhaʊ",
+    "ukphone": "ˈsʌmhaʊ"
+  },
+  {
+    "name": "be lost in",
+    "trans": [
+      "全神贯注，沉浸于"
+    ]
+  },
+  {
+    "name": "journal",
+    "trans": [
+      "n. a daily written record of (usually personal) experiences and observations; a periodical dedicated to a particular subject"
+    ],
+    "usphone": "ˈdʒɜːnl",
+    "ukphone": "ˈdʒɜːnl"
+  },
+  {
+    "name": "reveal",
+    "trans": [
+      "v. make visible; make known to the public information that was previously known only to a few people or that was meant to be kept a secret"
+    ],
+    "usphone": "rɪˈviːl",
+    "ukphone": "rɪˈviːl"
+  },
+  {
+    "name": "appreciate",
+    "trans": [
+      "v. recognize with gratitude; be grateful for; be fully aware of; realize fully"
+    ],
+    "usphone": "əˈpriːʃieɪt",
+    "ukphone": "əˈpriːʃieɪt"
+  },
+  {
+    "name": "wide-ranging",
+    "trans": [
+      "adj. including much"
+    ],
+    "usphone": "ˌwaɪd ˈreɪndʒɪŋ",
+    "ukphone": "ˌwaɪd ˈreɪndʒɪŋ"
+  },
+  {
+    "name": "opera",
+    "trans": [
+      "n. a drama set to music; consists of singing with orchestral accompaniment and an orchestral overture and interludes"
+    ],
+    "usphone": "ˈɒprə",
+    "ukphone": "ˈɒprə"
+  },
+  {
+    "name": "badminton",
+    "trans": [
+      "n. a game played on a court with light long-handled rackets used to volley a shuttlecock over a net"
+    ],
+    "usphone": "ˈbædmɪntən",
+    "ukphone": "ˈbædmɪntən"
+  },
+  {
+    "name": "cut back o",
+    "trans": [
+      "减少"
+    ]
+  },
+  {
+    "name": "republic",
+    "trans": [
+      "n. a political system in which the supreme power lies in a body of citizens who can elect people to represent them"
+    ],
+    "usphone": "rɪˈpʌblɪk",
+    "ukphone": "rɪˈpʌblɪk"
+  },
+  {
+    "name": "malaria",
+    "trans": [
+      "n. an infective disease caused by sporozoan parasites that are transmitted through the bite of an infected Anopheles mosquito…"
+    ],
+    "usphone": "məˈleəriə",
+    "ukphone": "məˈleəriə"
+  },
+  {
+    "name": "deadly",
+    "trans": [
+      "adj. causing or capable of causing death; of an instrument of certain death"
+    ],
+    "usphone": "ˈdedli",
+    "ukphone": "ˈdedli"
+  },
+  {
+    "name": "survival",
+    "trans": [
+      "n. a state of surviving; remaining alive"
+    ],
+    "usphone": "səˈvaɪvl",
+    "ukphone": "səˈvaɪvl"
+  },
+  {
+    "name": "province",
+    "trans": [
+      "n. the territory occupied by one of the constituent administrative districts of a nation; the proper sphere or extent of your activities"
+    ],
+    "usphone": "ˈprɒvɪns",
+    "ukphone": "ˈprɒvɪns"
+  },
+  {
+    "name": "broad",
+    "trans": [
+      "adj. having great (or a certain) extent from one side to the other; broad in scope or content"
+    ],
+    "usphone": "brɔːd",
+    "ukphone": "brɔːd"
+  },
+  {
+    "name": "intend",
+    "trans": [
+      "v. have in mind as a purpose; design or destine"
+    ],
+    "usphone": "ɪnˈtend",
+    "ukphone": "ɪnˈtend"
+  },
+  {
+    "name": "extract",
+    "trans": [
+      "v. remove, usually with some force or effort; also used in an abstract sense; get despite difficulties or obstacles"
+    ],
+    "usphone": "ˈekstrækt/ n. 提取物；选录 /ɪkˈstrækt",
+    "ukphone": "ˈekstrækt/ n. 提取物；选录 /ɪkˈstrækt"
+  },
+  {
+    "name": "herb",
+    "trans": [
+      "n. a plant lacking a permanent woody stem; many are flowering garden plants or potherbs; some having medicinal properties; some are pests"
+    ],
+    "usphone": "hɜːb",
+    "ukphone": "hɜːb"
+  },
+  {
+    "name": "refer",
+    "trans": [
+      "v. make reference to; be relevant to"
+    ],
+    "usphone": "rɪˈfɜː(r)",
+    "ukphone": "rɪˈfɜː(r)"
+  },
+  {
+    "name": "experiment",
+    "trans": [
+      "n. the act of conducting a controlled test or investigation; the testing of an idea",
+      "v. to conduct a test or investigation"
+    ],
+    "usphone": "ɪkˈsperɪmənt",
+    "ukphone": "ɪkˈsperɪmənt"
+  },
+  {
+    "name": "trial",
+    "trans": [
+      "n. the act of testing something; trying something to find out about it"
+    ],
+    "usphone": "ˈtraɪəl",
+    "ukphone": "ˈtraɪəl"
+  },
+  {
+    "name": "limited",
+    "trans": [
+      "adj. small in range or scope; subject to limits or subjected to limits"
+    ],
+    "usphone": "ˈlɪmɪtɪd",
+    "ukphone": "ˈlɪmɪtɪd"
+  },
+  {
+    "name": "household",
+    "trans": [
+      "n. a social unit living together"
+    ],
+    "usphone": "ˈhaʊshəʊld",
+    "ukphone": "ˈhaʊshəʊld"
+  },
+  {
+    "name": "container",
+    "trans": [
+      "n. any object that can be used to hold things (especially a large metal boxlike object of standardized dimensions that can be loaded from one form of transport to…"
+    ],
+    "usphone": "kənˈteɪnə(r)",
+    "ukphone": "kənˈteɪnə(r)"
+  },
+  {
+    "name": "postpone",
+    "trans": [
+      "v. hold back to a later time"
+    ],
+    "usphone": "pəˈspəʊn",
+    "ukphone": "pəˈspəʊn"
+  },
+  {
+    "name": "sufficient",
+    "trans": [
+      "adj. of a quantity that can fulfill a need or requirement but without being abundant"
+    ],
+    "usphone": "səˈfɪʃnt",
+    "ukphone": "səˈfɪʃnt"
+  },
+  {
+    "name": "data",
+    "trans": [
+      "n. a collection of facts from which conclusions may be drawn"
+    ],
+    "usphone": "ˈdeɪtə",
+    "ukphone": "ˈdeɪtə"
+  },
+  {
+    "name": "speed up",
+    "trans": [
+      "v. move faster"
+    ]
+  },
+  {
+    "name": "pay off",
+    "trans": [
+      "v. yield a profit or result; eliminate by paying off (debts)"
+    ]
+  },
+  {
+    "name": "error",
+    "trans": [
+      "n. a wrong action attributable to bad judgment or ignorance or inattention; inadvertent incorrectness"
+    ],
+    "usphone": "ˈerə(r)",
+    "ukphone": "ˈerə(r)"
+  },
+  {
+    "name": "through trial and error",
+    "trans": [
+      "反复试验"
+    ]
+  },
+  {
+    "name": "wisdom",
+    "trans": [
+      "n. accumulated knowledge or erudition or enlightenment; the trait of utilizing knowledge and experience with common sense and insight"
+    ],
+    "usphone": "ˈwɪzdəm",
+    "ukphone": "ˈwɪzdəm"
+  },
+  {
+    "name": "beneficial",
+    "trans": [
+      "adj. promoting or enhancing well-being"
+    ],
+    "usphone": "ˌbenɪˈfɪʃl",
+    "ukphone": "ˌbenɪˈfɪʃl"
+  },
+  {
+    "name": "conduct",
+    "trans": [
+      "v. direct the course of; manage or control; lead, as in the performance of a composition"
+    ],
+    "usphone": "kənˈdʌkt",
+    "ukphone": "kənˈdʌkt"
+  },
+  {
+    "name": "illustrate",
+    "trans": [
+      "v. clarify by giving an example of; depict with an illustration"
+    ],
+    "usphone": "ˈɪləstreɪt",
+    "ukphone": "ˈɪləstreɪt"
+  },
+  {
+    "name": "penicillin",
+    "trans": [
+      "n. any of various antibiotics obtained from Penicillium molds (or produced synthetically) and used in the treatment of various infections and diseases"
+    ],
+    "usphone": "ˌpenɪˈsɪlɪn",
+    "ukphone": "ˌpenɪˈsɪlɪn"
+  },
+  {
+    "name": "mould",
+    "trans": [
+      "n. loose soil rich in organic matter",
+      "v. form in clay, wax, etc"
+    ],
+    "usphone": "məʊld",
+    "ukphone": "məʊld"
+  },
+  {
+    "name": "bacteria",
+    "trans": [
+      "n. (microbiology) single-celled or noncellular spherical or spiral or rod-shaped organisms lacking chlorophyll that reproduce by fission…"
+    ],
+    "usphone": "bækˈtɪəriə",
+    "ukphone": "bækˈtɪəriə"
+  },
+  {
+    "name": "surround",
+    "trans": [
+      "v. extend on all sides of simultaneously; encircle; envelop completely"
+    ],
+    "usphone": "səˈraʊnd",
+    "ukphone": "səˈraʊnd"
+  },
+  {
+    "name": "indicate",
+    "trans": [
+      "v. be a signal for or a symptom of; indicate a place, direction, person, or thing; either spatially or figuratively"
+    ],
+    "usphone": "ˈɪndɪkeɪt",
+    "ukphone": "ˈɪndɪkeɪt"
+  },
+  {
+    "name": "accident",
+    "trans": [
+      "n. an unfortunate mishap; especially one causing damage or injury; anything that happens suddenly or by chance without an apparent cause"
+    ],
+    "usphone": "ˈæksɪdənt",
+    "ukphone": "ˈæksɪdənt"
+  },
+  {
+    "name": "by accident",
+    "trans": [
+      "phr. by chance; without intending to"
+    ]
+  },
+  {
+    "name": "intelligent",
+    "trans": [
+      "adj. having the capacity for thought and reason especially to a high degree; possessing sound knowledge"
+    ],
+    "usphone": "ɪnˈtelɪdʒənt",
+    "ukphone": "ɪnˈtelɪdʒənt"
+  },
+  {
+    "name": "favour",
+    "trans": [
+      "v. treat gently or carefully",
+      "n. a feeling of favorable regard"
+    ],
+    "usphone": "ˈfeɪvə(r)",
+    "ukphone": "ˈfeɪvə(r)"
+  },
+  {
+    "name": "politician",
+    "trans": [
+      "n. a leader engaged in civil administration; a person active in party politics"
+    ],
+    "usphone": "ˌpɒləˈtɪʃn",
+    "ukphone": "ˌpɒləˈtɪʃn"
+  },
+  {
+    "name": "lightning",
+    "trans": [
+      "n. abrupt electric discharge from cloud to cloud or from cloud to earth accompanied by the emission of light"
+    ],
+    "usphone": "ˈlaɪtnɪŋ",
+    "ukphone": "ˈlaɪtnɪŋ"
+  },
+  {
+    "name": "electricity",
+    "trans": [
+      "n. a physical phenomenon associated with stationary or moving electrons and protons; energy made available by the flow of electric charge through a conductor"
+    ],
+    "usphone": "ɪˌlekˈtrɪsəti",
+    "ukphone": "ɪˌlekˈtrɪsəti"
+  },
+  {
+    "name": "theory",
+    "trans": [
+      "n. a well-substantiated explanation of some aspect of the natural world…"
+    ],
+    "usphone": "ˈθɪəri",
+    "ukphone": "ˈθɪəri"
+  },
+  {
+    "name": "thunderstorm",
+    "trans": [
+      "n. a storm resulting from strong rising air currents; heavy rain or hail along with thunder and lightning"
+    ],
+    "usphone": "ˈθʌndəstɔːm",
+    "ukphone": "ˈθʌndəstɔːm"
+  },
+  {
+    "name": "ribbon",
+    "trans": [
+      "n. any long object resembling a thin line"
+    ],
+    "usphone": "ˈrɪbən",
+    "ukphone": "ˈrɪbən"
+  },
+  {
+    "name": "metal",
+    "trans": [
+      "n. any of several chemical elements that are usually shiny solids that conduct heat or electricity and can be formed into sheets etc."
+    ],
+    "usphone": "ˈmetl",
+    "ukphone": "ˈmetl"
+  },
+  {
+    "name": "charge",
+    "trans": [
+      "v. to make a rush at or sudden attack upon, as in battle; blame for, make a claim of wrongdoing or misbehavior against",
+      "n. an impetuous rush toward someone or something; (criminal law) a pleading describing some wrong or offense"
+    ],
+    "usphone": "tʃɑːdʒ",
+    "ukphone": "tʃɑːdʒ"
+  },
+  {
+    "name": "electric",
+    "trans": [
+      "adj. using or providing or producing or transmitting or operated by electricity"
+    ],
+    "usphone": "ɪˈlektrɪk",
+    "ukphone": "ɪˈlektrɪk"
+  },
+  {
+    "name": "bang",
+    "trans": [
+      "n. a vigorous blow; a sudden very loud noise",
+      "v. strike violently; to produce a sharp often metallic explosive or percussive sound"
+    ],
+    "usphone": "bæŋ",
+    "ukphone": "bæŋ"
+  },
+  {
+    "name": "with a bang",
+    "trans": [
+      "很成功；引人注目，有强烈影响"
+    ]
+  },
+  {
+    "name": "standout",
+    "trans": [
+      "adj. 突出的 n.突出的人（或物）"
+    ],
+    "usphone": "ˈstændaʊt",
+    "ukphone": "ˈstændaʊt"
+  },
+  {
+    "name": "atomic",
+    "trans": [
+      "adj. of or relating to or comprising atoms; (weapons) deriving destructive energy from the release of atomic energy"
+    ],
+    "usphone": "əˈtɒmɪk",
+    "ukphone": "əˈtɒmɪk"
+  },
+  {
+    "name": "bomb",
+    "trans": [
+      "n. an explosive device fused to explode under specific conditions; strong sealed vessel for measuring heat of combustion",
+      "v. throw bombs at or attack with bombs"
+    ],
+    "usphone": "bɒm",
+    "ukphone": "bɒm"
+  },
+  {
+    "name": "evil",
+    "trans": [
+      "n. morally objectionable behavior; that which causes harm or destruction or misfortune",
+      "adj. morally bad or wrong; having the nature of vice"
+    ],
+    "usphone": "ˈiːvl",
+    "ukphone": "ˈiːvl"
+  },
+  {
+    "name": "involve",
+    "trans": [
+      "v. connect closely and often incriminatingly; engage as a participant"
+    ],
+    "usphone": "ɪnˈvɒlv",
+    "ukphone": "ɪnˈvɒlv"
+  },
+  {
+    "name": "scientific",
+    "trans": [
+      "adj. of or relating to the practice of science; conforming with the principles or methods used in science"
+    ],
+    "usphone": "ˌsaɪənˈtɪfɪk",
+    "ukphone": "ˌsaɪənˈtɪfɪk"
+  },
+  {
+    "name": "credit",
+    "trans": [
+      "n. approval; money available for a client to borrow",
+      "v. give someone credit for something; ascribe an achievement to"
+    ],
+    "usphone": "ˈkredɪt",
+    "ukphone": "ˈkredɪt"
+  },
+  {
+    "name": "moral",
+    "trans": [
+      "adj. concerned with principles of right and wrong or conforming to standards of behavior and character based on those principles",
+      "n. the significance of a story or event"
+    ],
+    "usphone": "ˈmɒrəl",
+    "ukphone": "ˈmɒrəl"
+  },
+  {
+    "name": "apply",
+    "trans": [
+      "v. put into service; make work or employ for a particular purpose or for its inherent or natural purpose; be pertinent or relevant or applicable"
+    ],
+    "usphone": "əˈplaɪ",
+    "ukphone": "əˈplaɪ"
+  },
+  {
+    "name": "negate",
+    "trans": [
+      "v. be in contradiction with"
+    ],
+    "usphone": "nɪˈɡeɪt",
+    "ukphone": "nɪˈɡeɪt"
+  },
+  {
+    "name": "intellectual",
+    "trans": [
+      "adj. of or associated with or requiring the use of the mind; appealing to or using the intellect",
+      "n. a person who uses the mind creatively"
+    ],
+    "usphone": "ˌɪntəˈlektʃuəl",
+    "ukphone": "ˌɪntəˈlektʃuəl"
+  },
+  {
+    "name": "mystery",
+    "trans": [
+      "n. something that baffles understanding and cannot be explained"
+    ],
+    "usphone": "ˈmɪstri",
+    "ukphone": "ˈmɪstri"
+  },
+  {
+    "name": "let sb down",
+    "trans": [
+      "v. move something or somebody to a lower position"
+    ]
+  },
+  {
+    "name": "ignorance",
+    "trans": [
+      "n. the lack of knowledge or education"
+    ],
+    "usphone": "ˈɪɡnərəns",
+    "ukphone": "ˈɪɡnərəns"
+  },
+  {
+    "name": "as to",
+    "trans": [
+      "prep. with respect to; concerning"
+    ]
+  },
+  {
+    "name": "take it for granted",
+    "trans": [
+      "想当然地认为，认为…是理所当然"
+    ],
+    "usphone": "ˈɡrɑːntɪd",
+    "ukphone": "ˈɡrɑːntɪd"
+  },
+  {
+    "name": "freedom",
+    "trans": [
+      "n. the condition of being free; the power to act or speak or think without externally imposed restraints; immunity from an obligation or duty"
+    ],
+    "usphone": "ˈfriːdəm",
+    "ukphone": "ˈfriːdəm"
+  },
+  {
+    "name": "authority",
+    "trans": [
+      "n. the power or right to give orders or make decisions; (usually plural) persons who exercise (administrative) control over others"
+    ],
+    "usphone": "ɔːˈθɒrəti",
+    "ukphone": "ɔːˈθɒrəti"
+  },
+  {
+    "name": "permit",
+    "trans": [
+      "n. a legal document giving official permission to do something; the act of giving a formal (usually written) authorization"
+    ],
+    "usphone": "pəˈmɪt/ vt. & vi. 允许，准许，许可；使有可能 /ˈpɜːmɪt",
+    "ukphone": "pəˈmɪt/ vt. & vi. 允许，准许，许可；使有可能 /ˈpɜːmɪt"
+  },
+  {
+    "name": "responsibility",
+    "trans": [
+      "n. the social force that binds you to the courses of action demanded by that force; the proper sphere or extent of your activities"
+    ],
+    "usphone": "rɪˌspɒnsəˈbɪləti",
+    "ukphone": "rɪˌspɒnsəˈbɪləti"
+  },
+  {
+    "name": "declare",
+    "trans": [
+      "v. state emphatically and authoritatively; announce publicly or officially"
+    ],
+    "usphone": "dɪˈkleə(r)",
+    "ukphone": "dɪˈkleə(r)"
+  },
+  {
+    "name": "nationality",
+    "trans": [
+      "n. people having common origins or traditions and often comprising a nation"
+    ],
+    "usphone": "ˌnæʃəˈnæləti",
+    "ukphone": "ˌnæʃəˈnæləti"
+  },
+  {
+    "name": "put forward",
+    "trans": [
+      "v. put before"
+    ]
+  },
+  {
+    "name": "evolution",
+    "trans": [
+      "n. a process in which something passes by degrees to a different stage (especially a more advanced or mature stage)"
+    ],
+    "usphone": "ˌiːvəˈluːʃn",
+    "ukphone": "ˌiːvəˈluːʃn"
+  },
+  {
+    "name": "publish",
+    "trans": [
+      "v. put into print; prepare and issue for public distribution or sale"
+    ],
+    "usphone": "ˈpʌblɪʃ",
+    "ukphone": "ˈpʌblɪʃ"
+  },
+  {
+    "name": "marriage",
+    "trans": [
+      "n. the state of being a married couple voluntarily joined for life (or until divorce); two people who are married to each other"
+    ],
+    "usphone": "ˈmærɪdʒ",
+    "ukphone": "ˈmærɪdʒ"
+  }
 ]

@@ -2,9 +2,8 @@
     {
         "name": "farm",
         "trans": [
-            "n. 农场；农家；畜牧场",
-            "vt. 养殖；耕种；佃出（土地）",
-            "vi. 种田，务农；经营农场"
+            "n. workplace consisting of farm buildings and cultivated land as a unit",
+            "v. be a farmer; work as a farmer"
         ],
         "usphone": "[fɑːrm]",
         "ukphone": "[fɑːm]"
@@ -12,7 +11,7 @@
     {
         "name": "farmer",
         "trans": [
-            "n. 农夫，农民"
+            "n. a person who operates a farm"
         ],
         "usphone": "[ˈfɑːrmər]",
         "ukphone": "[ˈfɑːmə(r)]"
@@ -20,9 +19,8 @@
     {
         "name": "pig",
         "trans": [
-            "n. 猪；猪肉",
-            "vi. 生小猪；像猪一样过活",
-            "n. 警察（俚语，带有攻击性）"
+            "n. domestic swine",
+            "v. live like a pig, in squalor"
         ],
         "usphone": "[pɪɡ]",
         "ukphone": "[pɪɡ]"
@@ -30,8 +28,8 @@
     {
         "name": "cow",
         "trans": [
-            "n. 奶牛，母牛；母兽",
-            "vt. 威胁，恐吓"
+            "n. female of domestic cattle:; mature female of mammals of which the male is called 'bull'",
+            "v. subdue, restrain, or overcome by affecting with a feeling of awe; frighten (as with threats)"
         ],
         "usphone": "[kaʊ]",
         "ukphone": "[kaʊ]"
@@ -39,7 +37,7 @@
     {
         "name": "sheep",
         "trans": [
-            "n. 羊，绵羊；胆小鬼"
+            "n. woolly usually horned ruminant mammal related to the goat; a timid defenseless simpleton who is readily preyed upon"
         ],
         "usphone": "[ʃiːp]",
         "ukphone": "[ʃiːp]"
@@ -47,8 +45,8 @@
     {
         "name": "a",
         "trans": [
-            "n. 字母A；第一流的；学业成绩达最高标准的评价符号",
-            "abbr. [物]安（ampere）"
+            "art. one; any one (used before a singular noun)",
+            "art. per; for each (e.g. twice a day)"
         ],
         "usphone": "[ə; eɪ]",
         "ukphone": "[ə]"
@@ -56,7 +54,7 @@
     {
         "name": "an",
         "trans": [
-            "art. 一（在元音音素前）"
+            "art. one; any one (form of \"a\" used before a vowel sound)"
         ],
         "usphone": "[ən; æn]",
         "ukphone": "[ən]"
@@ -64,7 +62,7 @@
     {
         "name": "cat",
         "trans": [
-            "n. 猫，猫科动物"
+            "n. feline mammal usually having thick soft fur and no ability to roar: domestic cats; wildcats"
         ],
         "usphone": "[kæt]",
         "ukphone": "[kæt]"
@@ -72,8 +70,8 @@
     {
         "name": "dog",
         "trans": [
-            "n. 狗；丑女人；卑鄙的人；(俚)朋友",
-            "vt. 跟踪；尾随"
+            "n. a member of the genus Canis (probably descended from the common wolf) that has been domesticated by man since prehistoric times; occurs in many breeds",
+            "v. go after with the intent to catch"
         ],
         "usphone": "[dɔːɡ]",
         "ukphone": "[dɒɡ]"
@@ -81,9 +79,8 @@
     {
         "name": "duck",
         "trans": [
-            "n. 鸭子；鸭肉；（英）宝贝儿；零分",
-            "vt. 躲避；猛按…入水",
-            "vi. 闪避；没入水中"
+            "n. small wild or domesticated web-footed broad-billed swimming bird usually having a depressed body and short legs",
+            "v. to move (the head or body) quickly downwards or away; submerge or plunge suddenly"
         ],
         "usphone": "[dʌk]",
         "ukphone": "[dʌk]"
@@ -91,9 +88,8 @@
     {
         "name": "fish",
         "trans": [
-            "n. 鱼，鱼类",
-            "vt. 钓鱼，捕鱼；搜寻",
-            "vi. 捕鱼，钓鱼；用钩捞取"
+            "n. any of various mostly cold-blooded aquatic vertebrates usually having scales and breathing through gills; the flesh of fish used as food",
+            "v. seek indirectly; catch or try to catch fish or shellfish"
         ],
         "usphone": "[fɪʃ]",
         "ukphone": "[fɪʃ]"
@@ -101,9 +97,8 @@
     {
         "name": "bird",
         "trans": [
-            "n. 鸟；家伙；羽毛球",
-            "vt. 向…喝倒彩；起哄",
-            "vi. 猎鸟；观察研究野鸟"
+            "n. warm-blooded egg-laying vertebrates characterized by feathers and forelimbs modified as wings; the flesh of a bird or fowl (wild or domestic) used as food",
+            "v. watch and study birds in their natural habitat"
         ],
         "usphone": "[bɜːrd]",
         "ukphone": "[bɜːd]"
@@ -111,8 +106,7 @@
     {
         "name": "animal",
         "trans": [
-            "n. 动物",
-            "动物的"
+            "n. a living organism characterized by voluntary movement"
         ],
         "usphone": "[ˈænɪm(ə)l]",
         "ukphone": "[ˈænɪm(ə)l]"
@@ -120,9 +114,8 @@
     {
         "name": "horse",
         "trans": [
-            "n. 马；骑兵；脚架；海洛因",
-            "vt. 使骑马；系马于；捉弄",
-            "vi. 骑马；作弄人"
+            "n. solid-hoofed herbivorous quadruped domesticated since prehistoric times; a padded gymnastic apparatus on legs",
+            "v. provide with a horse or horses"
         ],
         "usphone": "[hɔːrs]",
         "ukphone": "[hɔːs]"
@@ -130,8 +123,7 @@
     {
         "name": "yes",
         "trans": [
-            "n. 是（表示肯定）",
-            "adv. 是, 是的"
+            "adv. used to give an affirmative answer"
         ],
         "usphone": "[jes]",
         "ukphone": "[jes]"
@@ -139,10 +131,8 @@
     {
         "name": "no",
         "trans": [
-            "adv. 不",
-            "adj. 没有；不是",
-            "n. 不；否决票",
-            "abbr. 数字（number）；元素锘（nobelium）的符号"
+            "det. not any",
+            "adv. used to give a negative answer"
         ],
         "usphone": "[noʊ]",
         "ukphone": "[nəʊ]"
@@ -150,10 +140,8 @@
     {
         "name": "in",
         "trans": [
-            "prep. 按照（表示方式）；从事于；在…之内",
-            "n. 执政者；门路；知情者",
-            "adj. 在里面的；时髦的",
-            "adv. 进入；当选；（服装等）时髦；在屋里"
+            "prep. inside; contained by; during",
+            "adv. into a place; at home"
         ],
         "usphone": "[ɪn]",
         "ukphone": "[ɪn]"
@@ -161,9 +149,9 @@
     {
         "name": "on",
         "trans": [
-            "adv. 向前地；作用中，行动中；继续着",
-            "prep. 向，朝……；关于；在……之上；在……时候",
-            "adj. 开着的；发生着的，正在进行中"
+            "prep. touching and supported by the top surface of",
+            "prep. about; concerning; on a particular day",
+            "adv. continuing; in operation"
         ],
         "usphone": "[ɑːn]",
         "ukphone": "[ɒn]"
@@ -171,9 +159,7 @@
     {
         "name": "under",
         "trans": [
-            "prep. 低于，少于；在...之下",
-            "adj. 下面的；从属的",
-            "adv. 在下面；在下方"
+            "prep. beneath; below; less than"
         ],
         "usphone": "[ˈʌndər]",
         "ukphone": "[ˈʌndə(r)]"
@@ -181,9 +167,8 @@
     {
         "name": "box",
         "trans": [
-            "n. 箱，盒子；包厢；一拳",
-            "vt. 拳击；装…入盒中；打耳光",
-            "vi. 拳击"
+            "n. a (usually rectangular) container; may have a lid; private area in a theater or grandstand where a small group can watch the performance",
+            "v. put into a box"
         ],
         "usphone": "[bɑːks]",
         "ukphone": "[bɒks]"
@@ -191,7 +176,7 @@
     {
         "name": "zoo",
         "trans": [
-            "n. 动物园; <美俚>（铁路货车的最后一节）守车; <美俚>核粒子园"
+            "n. the facility where wild animals are housed for exhibition"
         ],
         "usphone": "[zuː]",
         "ukphone": "[zuː]"
@@ -199,7 +184,7 @@
     {
         "name": "panda",
         "trans": [
-            "n. 熊猫；猫熊"
+            "n. large black-and-white herbivorous mammal of bamboo forests of China and Tibet…"
         ],
         "usphone": "[ˈpændə]",
         "ukphone": "[ˈpændə]"
@@ -207,9 +192,8 @@
     {
         "name": "monkey",
         "trans": [
-            "n. 猴子；顽童",
-            "vi. 胡闹；捣蛋",
-            "vt. 嘲弄"
+            "n. any of various long-tailed primates (excluding the prosimians)",
+            "v. play around with or alter or falsify, usually secretively or dishonestly"
         ],
         "usphone": "[ˈmʌŋki]",
         "ukphone": "[ˈmʌŋki]"
@@ -217,7 +201,7 @@
     {
         "name": "elephant",
         "trans": [
-            "n. 象；大号图画纸"
+            "n. five-toed pachyderm"
         ],
         "usphone": "[ˈelɪfənt]",
         "ukphone": "[ˈelɪfənt]"
@@ -225,8 +209,8 @@
     {
         "name": "big",
         "trans": [
-            "adj. 大的；重要的；量大的",
-            "adv. 大量地；顺利；夸大地"
+            "adj. above average in size or number or quantity or magnitude or extent; significant",
+            "adv. extremely well; in a boastful manner"
         ],
         "usphone": "[bɪɡ]",
         "ukphone": "[bɪɡ]"
@@ -234,9 +218,9 @@
     {
         "name": "small",
         "trans": [
-            "n. 小件物品；矮小的人",
-            "adj. 少的，小的；微弱的；几乎没有的；不重要的；幼小的",
-            "adv. 小小地；卑鄙地"
+            "n. the slender part of the back",
+            "adj. limited or below average in number or quantity or magnitude or extent; limited in size or scope",
+            "adv. on a small scale"
         ],
         "usphone": "[smɔːl]",
         "ukphone": "[smɔːl]"
@@ -244,7 +228,7 @@
     {
         "name": "tiger",
         "trans": [
-            "n. 老虎；凶暴的人"
+            "n. a fierce or audacious person; large feline of forests in most of Asia having a tawny coat with black stripes; endangered"
         ],
         "usphone": "[ˈtaɪɡər]",
         "ukphone": "[ˈtaɪɡə(r)]"
@@ -252,9 +236,8 @@
     {
         "name": "bear",
         "trans": [
-            "n. 熊",
-            "vt. 结果实，开花（正式）",
-            "vt. 忍受；承受；具有；支撑"
+            "n. massive plantigrade carnivorous or omnivorous mammals with long shaggy coats and strong claws",
+            "v. have; cause to be born"
         ],
         "usphone": "[ber]",
         "ukphone": "[beə(r)]"
@@ -262,10 +245,9 @@
     {
         "name": "long",
         "trans": [
-            "n. 长时间；[语] 长音节；（服装的）长尺寸；长裤",
-            "adj. 长的；过长的；做多头的；长时间的；冗长的，长音",
-            "vi. 渴望；热望",
-            "adv. 长期地；始终"
+            "adj. primarily temporal sense; being or indicating a relatively great or greater than average duration or passage of time or a duration as specified",
+            "v. desire strongly or persistently",
+            "adv. for an extended time or at a distant time"
         ],
         "usphone": "[lɔːŋ]",
         "ukphone": "[lɒŋ]"
@@ -273,9 +255,9 @@
     {
         "name": "short",
         "trans": [
-            "n. 短；缺乏；短路；短裤",
-            "adj. 短的；不足的；矮的，低的",
-            "adv. 不足；突然；唐突地"
+            "n. the location on a baseball field where the shortstop is stationed",
+            "adj. primarily temporal sense; indicating or being or seeming to be limited in duration; (primarily spatial sense) having little length or lacking in length",
+            "adv. quickly and without warning"
         ],
         "usphone": "[ʃɔːrt]",
         "ukphone": "[ʃɔːt]"
@@ -283,10 +265,8 @@
     {
         "name": "one",
         "trans": [
-            "pron. 一个人；任何人",
-            "adj. 一的；唯一的",
-            "n. 一",
-            "num. 一；一个"
+            "adj. used of a single unit or thing; not two or more; having the indivisible character of a unit",
+            "n. the smallest whole number or a numeral representing this number; a single person or thing"
         ],
         "usphone": "[wʌn]",
         "ukphone": "[wʌn]"
@@ -294,9 +274,8 @@
     {
         "name": "two",
         "trans": [
-            "num. 二",
-            "n. 两个",
-            "adj. 两个的"
+            "n. the cardinal number that is the sum of one and one or a numeral representing this number",
+            "adj. being one more than one"
         ],
         "usphone": "[tuː]",
         "ukphone": "[tuː]"
@@ -304,9 +283,8 @@
     {
         "name": "three",
         "trans": [
-            "num. 三",
-            "n. 三，三个",
-            "adj. 三的，三个的"
+            "n. the cardinal number that is the sum of one and one and one",
+            "adj. being one more than two"
         ],
         "usphone": "[θriː]",
         "ukphone": "[θriː]"
@@ -314,8 +292,9 @@
     {
         "name": "four",
         "trans": [
-            "num. 四；四个",
-            "adj. 四的；四个的"
+            "prep. intended to belong to or be used by",
+            "prep. in order to help or benefit",
+            "prep. during (a period of time); in place of"
         ],
         "usphone": "[fɔːr]",
         "ukphone": "[fɔː(r)]"
@@ -323,9 +302,8 @@
     {
         "name": "five",
         "trans": [
-            "num. 五，五个",
-            "n. 五，五个；五美元钞票",
-            "adj. 五的；五个的"
+            "n. the cardinal number that is the sum of four and one",
+            "adj. being one more than four"
         ],
         "usphone": "[faɪv]",
         "ukphone": "[faɪv]"
@@ -333,8 +311,7 @@
     {
         "name": "six",
         "trans": [
-            "num. 六，六个",
-            "n. 六，六个"
+            "n. the cardinal number that is the sum of five and one"
         ],
         "usphone": "[sɪks]",
         "ukphone": "[sɪks]"
@@ -342,9 +319,8 @@
     {
         "name": "seven",
         "trans": [
-            "num. 七个，七",
-            "n. 七个，七",
-            "adj. 七的；七个的"
+            "n. the cardinal number that is the sum of six and one",
+            "adj. being one more than six"
         ],
         "usphone": "[ˈsev(ə)n]",
         "ukphone": "[ˈsev(ə)n]"
@@ -352,9 +328,8 @@
     {
         "name": "eight",
         "trans": [
-            "num. 八；八个；第八",
-            "n. 八字形",
-            "adj. 八的"
+            "n. the cardinal number that is the sum of seven and one",
+            "adj. being one more than seven"
         ],
         "usphone": "[eɪt]",
         "ukphone": "[eɪt]"
@@ -362,9 +337,8 @@
     {
         "name": "nine",
         "trans": [
-            "n. 九，九个",
-            "num. 九；九个",
-            "adj. 九的，九个的"
+            "n. the cardinal number that is the sum of eight and one",
+            "adj. denoting a quantity consisting of one more than eight and one less than ten"
         ],
         "usphone": "[naɪn]",
         "ukphone": "[naɪn]"
@@ -372,7 +346,8 @@
     {
         "name": "ten",
         "trans": [
-            "num. 十个，十"
+            "adj. being one more than nine",
+            "n. the cardinal number that is the sum of nine and one; the base of the decimal system"
         ],
         "usphone": "[ten]",
         "ukphone": "[ten]"
@@ -380,7 +355,7 @@
     {
         "name": "river",
         "trans": [
-            "n. 河，江"
+            "n. a large natural stream of water (larger than a creek)"
         ],
         "usphone": "[ˈrɪvər]",
         "ukphone": "[ˈrɪvə(r)]"
@@ -388,9 +363,8 @@
     {
         "name": "tree",
         "trans": [
-            "n. 树；木料；树状物",
-            "vt. 把...赶上树",
-            "vi. 爬上树；逃上树"
+            "n. a tall perennial woody plant having a main trunk and branches forming a distinct elevated crown; includes both gymnosperms and angiosperms",
+            "v. force a person or an animal into a position from which he cannot escape"
         ],
         "usphone": "[triː]",
         "ukphone": "[triː]"
@@ -398,9 +372,8 @@
     {
         "name": "grass",
         "trans": [
-            "n. 草；草地，草坪",
-            "vt. 放牧；使……长满草；使……吃草",
-            "vi. 长草"
+            "n. narrow-leaved green herbage: grown as lawns; used as pasture for grazing animals; cut and dried as hay",
+            "v. shoot down, of birds"
         ],
         "usphone": "[ɡræs]",
         "ukphone": "[ɡrɑːs]"
@@ -408,7 +381,7 @@
     {
         "name": "banana",
         "trans": [
-            "n. 香蕉；喜剧演员；大鹰钩鼻"
+            "n. any of several tropical and subtropical treelike herbs of the genus Musa having a terminal crown of large entire leaves and usually bearing hanging clusters of…"
         ],
         "usphone": "[bəˈnænə]",
         "ukphone": "[bəˈnɑːnə]"
@@ -416,7 +389,7 @@
     {
         "name": "food",
         "trans": [
-            "n. 食物；养料"
+            "n. any substance that can be metabolized by an animal to give energy and build tissue"
         ],
         "usphone": "[fuːd]",
         "ukphone": "[fuːd]"
@@ -424,8 +397,7 @@
     {
         "name": "eat",
         "trans": [
-            "vt. 吃，喝；腐蚀；烦扰",
-            "vi. 进食；腐蚀，侵蚀"
+            "v. take in solid food; eat a meal; take a meal"
         ],
         "usphone": "[iːt]",
         "ukphone": "[iːt]"
@@ -433,9 +405,8 @@
     {
         "name": "drink",
         "trans": [
-            "n. 酒，饮料；喝酒",
-            "vt. 喝，饮；吸收；举杯庆贺",
-            "vi. 喝酒；饮水；干杯"
+            "n. a single serving of a beverage; the act of drinking alcoholic beverages to excess",
+            "v. take in liquids; consume alcohol"
         ],
         "usphone": "[drɪŋk]",
         "ukphone": "[drɪŋk]"
@@ -443,7 +414,7 @@
     {
         "name": "juice",
         "trans": [
-            "n. （水果）汁，液；果汁"
+            "n. the liquid part that can be extracted from plant or animal tissue by squeezing or cooking"
         ],
         "usphone": "[dʒuːs]",
         "ukphone": "[dʒuːs]"
@@ -451,8 +422,7 @@
     {
         "name": "I",
         "trans": [
-            "n. 碘元素；英语字母I",
-            "pron. 我"
+            "pron. the speaker or writer, used as the subject of a verb"
         ],
         "usphone": "[aɪ]",
         "ukphone": "[aɪ]"
@@ -460,8 +430,8 @@
     {
         "name": "soup",
         "trans": [
-            "n. 汤，羹；马力",
-            "vt. 加速；增加马力"
+            "n. liquid food especially of meat or fish or vegetable stock often containing pieces of solid food",
+            "v. dope (a racehorse)"
         ],
         "usphone": "[suːp]",
         "ukphone": "[suːp]"
@@ -469,7 +439,7 @@
     {
         "name": "noodle",
         "trans": [
-            "n. 面条；笨蛋"
+            "n. a ribbonlike strip of pasta"
         ],
         "usphone": "[ˈnuːd(ə)l]",
         "ukphone": "[ˈnuːd(ə)l]"
@@ -477,8 +447,8 @@
     {
         "name": "rice",
         "trans": [
-            "n. 稻；米饭",
-            "vt. 把…捣成米糊状"
+            "n. grains used as food either unpolished or more often polished; annual or perennial rhizomatous marsh grasses; seed used for food; straw used for paper",
+            "v. sieve so that it becomes the consistency of rice"
         ],
         "usphone": "[raɪs]",
         "ukphone": "[raɪs]"
@@ -486,8 +456,8 @@
     {
         "name": "chicken",
         "trans": [
-            "n. 鸡肉；小鸡；胆小鬼，懦夫",
-            "adj. 鸡肉的；胆怯的；幼小的"
+            "n. the flesh of a chicken used for food; a domestic fowl bred for flesh or eggs; believed to have been developed from the red jungle fowl",
+            "adj. easily frightened"
         ],
         "usphone": "[ˈtʃɪkɪn]",
         "ukphone": "[ˈtʃɪkɪn]"
@@ -495,8 +465,7 @@
     {
         "name": "vegetable",
         "trans": [
-            "n. 蔬菜；植物；植物人",
-            "adj. 蔬菜的；植物的"
+            "n. edible seeds or roots or stems or leaves or bulbs or tubers or nonsweet fruits of any of numerous herbaceous plant"
         ],
         "usphone": "[ˈvedʒtəbl]",
         "ukphone": "[ˈvedʒtəb(ə)l]"
@@ -504,9 +473,8 @@
     {
         "name": "fruit",
         "trans": [
-            "n. 水果；产物",
-            "vt. 使……结果实",
-            "vi. 结果实"
+            "n. the ripened reproductive body of a seed plant; an amount of a product",
+            "v. cause to bear fruit"
         ],
         "usphone": "[fruːt]",
         "ukphone": "[fruːt]"
@@ -514,13 +482,9 @@
     {
         "name": "like",
         "trans": [
-            "vt. 喜欢；想；愿意",
-            "vi. 喜欢；希望",
-            "prep. 像；如同",
-            "adj. 同样的；相似的",
-            "n. 爱好；同样的人或物",
-            "adv. 可能",
-            "conj. 好像"
+            "v. prefer or wish to do something; find enjoyable or agreeable",
+            "adj. resembling or similar; having the same or some of the same characteristics; often used in combination; equal in amount or value",
+            "n. a similar kind; ,"
         ],
         "usphone": "[laɪk]",
         "ukphone": "[laɪk]"
@@ -528,9 +492,9 @@
     {
         "name": "good",
         "trans": [
-            "n. 好处；善行；慷慨的行为",
-            "adj. 好的；优良的；愉快的；虔诚的",
-            "adv. 好"
+            "n. benefit; moral excellence or admirableness",
+            "adj. having desirable or positive qualities especially those suitable for a thing specified; having the normally expected amount",
+            "adv. (often used as a combining form) in a good or proper or satisfactory manner or to a high standard ('good' is a nonstandard dialectal variant for 'well')"
         ],
         "usphone": "[ɡʊd]",
         "ukphone": "[ɡʊd]"
@@ -538,9 +502,8 @@
     {
         "name": "milk",
         "trans": [
-            "n. 牛奶；乳状物",
-            "vt. 榨取；挤…的奶",
-            "vi. 挤奶"
+            "n. a white nutritious liquid secreted by mammals and used as food by human beings; produced by mammary glands of female mammals for feeding their young",
+            "v. take milk from female mammals; exploit as much as possible"
         ],
         "usphone": "[mɪlk]",
         "ukphone": "[mɪlk]"
@@ -548,8 +511,8 @@
     {
         "name": "egg",
         "trans": [
-            "n. 蛋；卵子；家伙；鸡蛋",
-            "vt. 煽动；怂恿"
+            "n. animal reproductive body consisting of an ovum or embryo together with nutritive and protective envelopes…",
+            "v. throw eggs at"
         ],
         "usphone": "[eɡ]",
         "ukphone": "[eɡ]"
@@ -557,8 +520,8 @@
     {
         "name": "bread",
         "trans": [
-            "n. 面包；生计",
-            "vt. 在…上洒面包屑"
+            "n. food made from dough of flour or meal and usually raised with yeast or baking powder and then baked",
+            "v. cover with bread crumbs"
         ],
         "usphone": "[bred]",
         "ukphone": "[bred]"
@@ -566,7 +529,7 @@
     {
         "name": "apple",
         "trans": [
-            "n. 苹果，苹果树，苹果似的东西；[美俚]炸弹，手榴弹，（棒球的）球；[美俚]人，家伙。"
+            "n. fruit with red or yellow or green skin and sweet to tart crisp whitish flesh"
         ],
         "usphone": "[ˈæpl]",
         "ukphone": "[ˈæp(ə)l]"
@@ -574,8 +537,8 @@
     {
         "name": "orange",
         "trans": [
-            "adj. 橙色的；橘色的",
-            "n. 橙；橙色；桔子"
+            "adj. of the color between red and yellow; similar to the color of a ripe orange",
+            "n. round yellow to orange fruit of any of several citrus trees; orange color or pigment; any of a range of colors between red and yellow"
         ],
         "usphone": "[ˈɔrɪndʒ]",
         "ukphone": "[ˈɒrɪndʒ]"
@@ -583,9 +546,8 @@
     {
         "name": "eleven",
         "trans": [
-            "num. 十一；十一个",
-            "n. 十一；十一个",
-            "adj. 十一的；十一个的"
+            "n. the cardinal number that is the sum of ten and one",
+            "adj. being one more than ten"
         ],
         "usphone": "[ɪˈlevn]",
         "ukphone": "[ɪˈlev(ə)n]"
@@ -593,9 +555,8 @@
     {
         "name": "twelve",
         "trans": [
-            "num. 十二；十二个",
-            "n. 十二；十二个",
-            "adj. 十二的；十二个的"
+            "n. the cardinal number that is the sum of eleven and one",
+            "adj. denoting a quantity consisting of 12 items or units"
         ],
         "usphone": "[twelv]",
         "ukphone": "[twelv]"
@@ -603,9 +564,8 @@
     {
         "name": "thirteen",
         "trans": [
-            "n. 十三；十三岁；十三个",
-            "num. 十三",
-            "adj. 十三的；十三个的"
+            "n. the cardinal number that is the sum of twelve and one",
+            "adj. being one more than twelve"
         ],
         "usphone": "[ˌθɜːrˈtiːn]",
         "ukphone": "[ˌθɜːˈtiːn]"
@@ -613,8 +573,7 @@
     {
         "name": "fourteen",
         "trans": [
-            "num. 十四；十四个；第十四",
-            "n. 十四的记号；十四岁；十四点钟；十五世纪"
+            "n. the cardinal number that is the sum of thirteen and one"
         ],
         "usphone": "[ˌfɔːrˈtiːn]",
         "ukphone": "[ˌfɔːˈtiːn]"
@@ -622,9 +581,8 @@
     {
         "name": "fifteen",
         "trans": [
-            "n. 十五；十五个；十五人组成的橄榄球队",
-            "num. 十五",
-            "adj. 十五的"
+            "n. the cardinal number that is the sum of fourteen and one",
+            "adj. being one more than fourteen"
         ],
         "usphone": "[ˌfɪfˈtiːn]",
         "ukphone": "[ˌfɪfˈtiːn]"
@@ -632,7 +590,7 @@
     {
         "name": "ice cream",
         "trans": [
-            "n. 【食】冰淇淋"
+            "n. frozen dessert containing cream and sugar and flavoring"
         ],
         "usphone": "[ˈaɪs kriːm]",
         "ukphone": "[ˈaɪs kriːm]"
@@ -640,8 +598,7 @@
     {
         "name": "sixteen",
         "trans": [
-            "num. 十六",
-            "adj. 十六的，十六个的"
+            "adj. being one more than fifteen"
         ],
         "usphone": "[ˌsɪksˈtiːn]",
         "ukphone": "[ˌsɪksˈtiːn]"
@@ -649,9 +606,8 @@
     {
         "name": "seventeen",
         "trans": [
-            "n. 十七，十七个",
-            "num. 十七",
-            "adj. 十七岁的；十七的，十七个的"
+            "n. the cardinal number that is the sum of sixteen and one",
+            "adj. being one more than sixteen"
         ],
         "usphone": "[ˌsevnˈtiːn]",
         "ukphone": "[ˌsev(ə)nˈtiːn]"
@@ -659,9 +615,8 @@
     {
         "name": "eighteen",
         "trans": [
-            "n. 十八，十八个",
-            "num. 十八",
-            "adj. 十八个的，十八的"
+            "n. the cardinal number that is the sum of seventeen and one",
+            "adj. being one more than seventeen"
         ],
         "usphone": "[ˌeɪˈtiːn]",
         "ukphone": "[ˌeɪˈtiːn]"
@@ -669,7 +624,8 @@
     {
         "name": "nineteen",
         "trans": [
-            "num. 十九"
+            "adj. being one more than eighteen",
+            "n. the cardinal number that is the sum of eighteen and one"
         ],
         "usphone": "[ˌnaɪnˈtiːn]",
         "ukphone": "[ˌnaɪnˈtiːn]"
@@ -677,9 +633,8 @@
     {
         "name": "twenty",
         "trans": [
-            "num. 二十",
-            "n. 二十；二十年代",
-            "adj. 二十的"
+            "n. the cardinal number that is the sum of nineteen and one",
+            "adj. denoting a quantity consisting of 20 items or units"
         ],
         "usphone": "[ˈtwenti]",
         "ukphone": "[ˈtwenti]"
@@ -687,9 +642,7 @@
     {
         "name": "please",
         "trans": [
-            "int. 请（礼貌用语）",
-            "vt. 使喜欢；使高兴，使满意",
-            "vi. 讨人喜欢；令人高兴"
+            "v. give pleasure to or be pleasing to; be the will of or have the will (to)"
         ],
         "usphone": "[pliːz]",
         "ukphone": "[pliːz]"
@@ -697,8 +650,7 @@
     {
         "name": "thanks",
         "trans": [
-            "n. 谢谢（只用复数）",
-            "int. 谢谢"
+            "n. an acknowledgment of appreciation; with the help of or owing to"
         ],
         "usphone": "[θæŋks]",
         "ukphone": "[θæŋks]"
@@ -706,10 +658,9 @@
     {
         "name": "welcome",
         "trans": [
-            "n. 欢迎",
-            "vt. 欢迎",
-            "adj. 受欢迎的",
-            "int. 欢迎"
+            "n. the state of being welcome",
+            "v. accept gladly; bid welcome to; greet upon arrival",
+            "adj. giving pleasure or satisfaction or received with pleasure or freely granted"
         ],
         "usphone": "[ˈwelkəm]",
         "ukphone": "[ˈwelkəm]"

@@ -1,306 +1,458 @@
 [
     {
         "name": "printer",
-        "trans": ["n. 打印机"]
+        "trans": [
+            "n. someone whose occupation is printing"
+        ]
     },
     {
         "name": "withdraw",
-        "trans": ["v. 收回"]
+        "trans": [
+            "v. pull back or move away or backward; withdraw from active participation"
+        ]
     },
     {
         "name": "outstanding",
-        "trans": ["adj. 杰出的"]
+        "trans": [
+            "adj. distinguished from others in excellence; having a quality that thrusts itself into attention"
+        ]
     },
     {
         "name": "canteen",
-        "trans": ["n. 食堂"]
+        "trans": [
+            "n. a flask for carrying water; used by soldiers or travelers"
+        ]
     },
     {
         "name": "exact",
-        "trans": ["adj. 精确的"]
+        "trans": [
+            "adj. marked by strict and particular and complete accordance with fact"
+        ]
     },
     {
         "name": "switch off",
-        "trans": ["v. 关掉"]
+        "trans": [
+            "v. cause to stop operating by disengaging a switch"
+        ]
     },
     {
         "name": "boot",
-        "trans": ["n. 靴子"]
+        "trans": [
+            "n. footwear that covers the whole foot and lower leg; British term for the luggage compartment in a car"
+        ]
     },
     {
         "name": "wood",
-        "trans": ["n. 木材"]
+        "trans": [
+            "n. the hard fibrous lignified substance under the bark of trees; the trees and other plants in a large densely wooded area"
+        ]
     },
     {
         "name": "forbid",
-        "trans": ["v. 禁止"]
+        "trans": [
+            "v. command against; keep from happening or arising; make impossible"
+        ]
     },
     {
         "name": "client",
-        "trans": ["n. 客户"]
+        "trans": [
+            "n. a person who seeks the advice of a lawyer; someone who pays for goods or services"
+        ]
     },
     {
         "name": "rail",
-        "trans": ["n. 铁轨"]
+        "trans": [
+            "n. a barrier consisting of a horizontal bar and supports; short for railway"
+        ]
     },
     {
         "name": "intermediate",
-        "trans": ["adj. 中间的"]
+        "trans": [
+            "adj. lying between two extremes in time or space or state; around the middle of a scale of evaluation"
+        ]
     },
     {
         "name": "appliance",
-        "trans": ["n. 电器"]
+        "trans": [
+            "n. a device or control that is very useful for a particular job"
+        ]
     },
     {
         "name": "intensive",
-        "trans": ["adj. 加强的"]
+        "trans": [
+            "adj. characterized by a high degree or intensity; often used as a combining form"
+        ]
     },
     {
         "name": "allergy",
-        "trans": ["n. 过敏"]
+        "trans": [
+            "n. hypersensitivity reaction to a particular allergen; symptoms can vary greatly in intensity"
+        ]
     },
     {
         "name": "vegetarian",
-        "trans": ["n. 素食者"]
+        "trans": [
+            "n. eater of fruits and grains and nuts; someone who eats no meat or fish or (often) any animal products"
+        ]
     },
     {
         "name": "bargain",
-        "trans": ["n. 便宜货"]
+        "trans": [
+            "n. an agreement between parties (usually arrived at after discussion) fixing obligations of each"
+        ]
     },
     {
         "name": "relative",
-        "trans": ["adj. 相对的"]
+        "trans": [
+            "adj. estimated by comparison; not absolute or complete; properly related in size or degree or other measurable characteristics; usually followed by 'to'"
+        ]
     },
     {
         "name": "condition",
-        "trans": ["n. 情况"]
+        "trans": [
+            "n. a state at a particular time; an assumption on which rests the validity or effect of something else"
+        ]
     },
     {
         "name": "package",
-        "trans": ["n. 包裹"]
+        "trans": [
+            "n. a collection of things wrapped or boxed together; a wrapped container"
+        ]
     },
     {
         "name": "fare",
-        "trans": ["n. 费用"]
+        "trans": [
+            "n. an agenda of things to do"
+        ]
     },
     {
         "name": "armchair",
-        "trans": ["n. 扶手椅"]
+        "trans": [
+            "n. chair with a support on each side for arms"
+        ]
     },
     {
         "name": "advanced",
-        "trans": ["adj. 高级的"]
+        "trans": [
+            "adj. farther along in physical or mental development; comparatively late in a course of development"
+        ]
     },
     {
         "name": "material",
-        "trans": ["n. 物质"]
+        "trans": [
+            "n. the tangible substance that goes into the makeup of a physical object"
+        ]
     },
     {
         "name": "jeans",
-        "trans": ["n. 牛仔裤"]
+        "trans": [
+            "n. (usually plural) close-fitting trousers of heavy denim for manual work or casual wear"
+        ]
     },
     {
         "name": "trolley",
-        "trans": ["n. 手推车"]
+        "trans": [
+            "n. a wheeled vehicle that runs on rails and is propelled by electricity"
+        ]
     },
     {
         "name": "sightseeing",
-        "trans": ["n. 观光"]
+        "trans": [
+            "n. going about to look at places of interest"
+        ]
     },
     {
         "name": "post office",
-        "trans": ["n. 邮局"]
+        "trans": [
+            "n. a local branch where postal services are available\""
+        ]
     },
     {
         "name": "rent",
-        "trans": ["n. 租金"]
+        "trans": [
+            "n. a payment or series of payments made by the lessee to an owner for use of some property, facility, equipment, or service"
+        ]
     },
     {
         "name": "sports centre",
-        "trans": ["n. 体育中心"]
+        "trans": [
+            "n. 体育中心"
+        ]
     },
     {
         "name": "Monday",
-        "trans": ["n. 星期一"]
+        "trans": [
+            "n. the second day of the week; the first working day"
+        ]
     },
     {
         "name": "Sunday",
-        "trans": ["n. 星期天"]
+        "trans": [
+            "n. first day of the week; observed as a day of rest and worship by most Christians"
+        ]
     },
     {
         "name": "rail",
-        "trans": ["n. 铁轨，栏杆"]
+        "trans": [
+            "n. a barrier consisting of a horizontal bar and supports; short for railway"
+        ]
     },
     {
         "name": "stair lift",
-        "trans": ["n. 楼梯升降机"]
+        "trans": [
+            "n. 楼梯升降机"
+        ]
     },
     {
         "name": "seat",
-        "trans": ["n. 座位"]
+        "trans": [
+            "n. a space reserved for sitting (as in a theater or on a train or airplane); the fleshy part of the human body that you sit on"
+        ]
     },
     {
         "name": "living room",
-        "trans": ["n. 客厅起居室"]
+        "trans": [
+            "n. a room in a private house or establishment where people can sit and talk and relax"
+        ]
     },
     {
         "name": "bathroom",
-        "trans": ["n. 浴室，卫生间"]
+        "trans": [
+            "n. a room (as in a residence) containing a bathtub or shower and usually a washbasin and toilet"
+        ]
     },
     {
         "name": "kitchen",
-        "trans": ["n. 厨房"]
+        "trans": [
+            "n. a room equipped for preparing meals"
+        ]
     },
     {
         "name": "washing machine",
-        "trans": ["n. 洗衣机"]
+        "trans": [
+            "n. a home appliance for washing clothes and linens automatically"
+        ]
     },
     {
         "name": "video",
-        "trans": ["n. 电视，录像机"]
+        "trans": [
+            "n. the visible part of a television transmission"
+        ]
     },
     {
         "name": "basin",
-        "trans": ["n. 盆"]
+        "trans": [
+            "n. a bowl-shaped vessel; usually used for holding food or liquids"
+        ]
     },
     {
         "name": "campus",
-        "trans": ["n. 校园"]
+        "trans": [
+            "n. a field on which the buildings of a university are situated"
+        ]
     },
     {
         "name": "balcony",
-        "trans": ["n. 阳台"]
+        "trans": [
+            "n. an upper floor projecting from the rear over the main floor in an auditorium"
+        ]
     },
     {
         "name": "lamp",
-        "trans": ["n. 灯"]
+        "trans": [
+            "n. an artificial source of visible illumination; a piece of furniture holding one or more electric light bulbs"
+        ]
     },
     {
         "name": "survey",
-        "trans": ["n. 调查，测量"]
+        "trans": [
+            "n. a detailed critical inspection; short descriptive summary (of events)"
+        ]
     },
     {
         "name": "community",
-        "trans": ["n. 社区，共同体"]
+        "trans": [
+            "n. a group of people living in a particular local area; common ownership"
+        ]
     },
     {
         "name": "dissatisfaction",
-        "trans": ["n. 不满"]
+        "trans": [
+            "n. the feeling of being displeased and discontent"
+        ]
     },
     {
         "name": "quality",
-        "trans": ["n. 质量，品质"]
+        "trans": [
+            "n. an essential and distinguishing attribute of something or someone; a degree or grade of excellence or worth"
+        ]
     },
     {
         "name": "local",
-        "trans": ["adj. 当地的"]
+        "trans": [
+            "adj. relating to or applicable to or concerned with the administration of a city or town or district rather than a larger area"
+        ]
     },
     {
         "name": "swimming pool",
-        "trans": ["n. 游泳池"]
+        "trans": [
+            "n. pool that provides a facility for swimming"
+        ]
     },
     {
         "name": "bedsheet",
-        "trans": ["n. 床单"]
+        "trans": [
+            "n. 床单"
+        ]
     },
     {
         "name": "carpet",
-        "trans": ["n. 地毯"]
+        "trans": [
+            "n. floor covering consisting of a piece of thick heavy fabric (usually with nap or pile)"
+        ]
     },
     {
         "name": "Thursday",
-        "trans": ["n. 星期四"]
+        "trans": [
+            "n. the fifth day of the week; the fourth working day"
+        ]
     },
     {
         "name": "iron",
-        "trans": ["n. 熨烫"]
+        "trans": [
+            "n. a heavy ductile magnetic metallic element; is silver-white in pure form but readily rusts; used in construction and tools and armament…"
+        ]
     },
     {
         "name": "suburb",
-        "trans": ["n. 郊区"]
+        "trans": [
+            "n. a residential district located on the outskirts of a city"
+        ]
     },
     {
         "name": "exterior",
-        "trans": ["adj. 外面的"]
+        "trans": [
+            "adj. situated in or suitable for the outdoors or outside of a building"
+        ]
     },
     {
         "name": "setting",
-        "trans": ["n. 环境"]
+        "trans": [
+            "n. the context and environment in which something is set; the state of the environment in which a situation exists"
+        ]
     },
     {
         "name": "ceremony",
-        "trans": ["n. 典礼仪式"]
+        "trans": [
+            "n. a formal event performed on a special occasion; any activity that is performed in an especially solemn elaborate or formal way"
+        ]
     },
     {
         "name": "consult",
-        "trans": ["v. 咨询"]
+        "trans": [
+            "v. get or ask advice from; seek information from"
+        ]
     },
     {
         "name": "premium",
-        "trans": ["adj. 高品质的"]
+        "trans": [
+            "adj. having or reflecting superior quality or value"
+        ]
     },
     {
         "name": "apply",
-        "trans": ["v. 申请"]
+        "trans": [
+            "v. put into service; make work or employ for a particular purpose or for its inherent or natural purpose; be pertinent or relevant or applicable"
+        ]
     },
     {
         "name": "brochure",
-        "trans": ["n. 小册子"]
+        "trans": [
+            "n. a small book usually having a paper cover"
+        ]
     },
     {
         "name": "reception",
-        "trans": ["n. 招待"]
+        "trans": [
+            "n. the manner in which something is greeted; a formal party of people; as after a wedding"
+        ]
     },
     {
         "name": "annual",
-        "trans": ["adj. 每年的"]
+        "trans": [
+            "adj. completing its life cycle within a year"
+        ]
     },
     {
         "name": "guard",
-        "trans": ["n. 保卫"]
+        "trans": [
+            "n. a person who keeps watch over something or someone; the person who plays that position on a football team"
+        ]
     },
     {
         "name": "poster",
-        "trans": ["n. 海报"]
+        "trans": [
+            "n. a sign posted in a public place as an advertisement"
+        ]
     },
     {
         "name": "health check",
-        "trans": ["n. 体检"]
+        "trans": [
+            "n. a thorough physical examination; includes a variety of tests depending on the age and sex and health of the person"
+        ]
     },
     {
         "name": "petrol",
-        "trans": ["n. 汽油"]
+        "trans": [
+            "n. a volatile flammable mixture of hydrocarbons (hexane and heptane and octane etc.) derived from petroleum; used mainly as a fuel in internal-combustion engines"
+        ]
     },
     {
         "name": "literacy",
-        "trans": ["n. 读写能力"]
+        "trans": [
+            "n. the ability to read and write"
+        ]
     },
     {
         "name": "comedy",
-        "trans": ["n. 喜剧"]
+        "trans": [
+            "n. light and humorous drama with a happy ending; a comic incident or series of incidents"
+        ]
     },
     {
         "name": "lounge",
-        "trans": ["n. 休息厅"]
+        "trans": [
+            "n. an upholstered seat for more than one person"
+        ]
     },
     {
         "name": "Spanish",
-        "trans": ["n. 西班牙语"]
+        "trans": [
+            "n. the Romance language spoken in most of Spain and the countries colonized by Spain; the people of Spain"
+        ]
     },
     {
         "name": "yoga",
-        "trans": ["n. 瑜伽"]
+        "trans": [
+            "n. Hindu discipline aimed at training the consciousness for a state of perfect spiritual insight and tranquility that is achieved through the three paths of…"
+        ]
     },
     {
         "name": "headache",
-        "trans": ["n. 头疼"]
+        "trans": [
+            "n. something or someone that causes anxiety; a source of unhappiness"
+        ]
     },
     {
         "name": "burglar",
-        "trans": ["n. 盗贼"]
+        "trans": [
+            "n. a thief who enters a building with intent to steal"
+        ]
     },
     {
         "name": "goods",
-        "trans": ["n. 商品"]
+        "trans": [
+            "n. benefit; moral excellence or admirableness"
+        ]
     }
 ]

@@ -1,35 +1,51 @@
 [
   {
     "name": "lipid",
-    "trans": "油脂；脂质"
+    "trans": [
+      "n. an oily organic compound insoluble in water but soluble in organic solvents…"
+    ]
   },
   {
     "name": "photosynthetic",
-    "trans": "adj. 光合的；光合作用的"
+    "trans": [
+      "adj. relating to or using or formed by photosynthesis"
+    ]
   },
   {
     "name": "enzyme",
-    "trans": "酶"
+    "trans": [
+      "n. any of several complex proteins that are produced by cells and act as catalysts in specific biochemical reactions"
+    ]
   },
   {
     "name": "extracellular",
-    "trans": "adj.细胞外的"
+    "trans": [
+      "adj. located or occurring outside a cell or cells"
+    ]
   },
   {
     "name": "cytosol",
-    "trans": "胞液，细胞溶质"
+    "trans": [
+      "n. the aqueous part of the cytoplasm within which various particles and organelles are suspended"
+    ]
   },
   {
     "name": "detergent",
-    "trans": "清洁剂；去垢剂"
+    "trans": [
+      "n. a surface-active chemical widely used in industry and laundering…"
+    ]
   },
   {
     "name": "fluorescence",
-    "trans": "荧光；荧光性"
+    "trans": [
+      "n. light emitted during absorption of radiation of some other (invisible) wavelength"
+    ]
   },
   {
     "name": "Fluorescence",
-    "trans": "荧光|萤光|光度"
+    "trans": [
+      "n. light emitted during absorption of radiation of some other (invisible) wavelength"
+    ]
   },
   {
     "name": "Inherent fluorescence",
@@ -41,11 +57,15 @@
   },
   {
     "name": "Rafts",
-    "trans": "皮筏|木筏"
+    "trans": [
+      "n. a large number or amount"
+    ]
   },
   {
     "name": "Life Rafts",
-    "trans": "救生艇"
+    "trans": [
+      "n. a raft to use if a ship must be abandoned in an emergency"
+    ]
   },
   {
     "name": "Lipid Rafts",
@@ -53,15 +73,21 @@
   },
   {
     "name": "numerical",
-    "trans": "adj. 数字的；数值的；用数字表示的"
+    "trans": [
+      "adj. measured or expressed in numbers; of or relating to or denoting numbers"
+    ]
   },
   {
     "name": "trypsin",
-    "trans": "胰蛋白酶；胰岛素"
+    "trans": [
+      "n. an enzyme of pancreatic origin; catalyzes the hydrolysis of proteins to smaller polypeptide units"
+    ]
   },
   {
     "name": "Trypsin",
-    "trans": "胰蛋白酶|胰朊酶|胰蛋白"
+    "trans": [
+      "n. an enzyme of pancreatic origin; catalyzes the hydrolysis of proteins to smaller polypeptide units"
+    ]
   },
   {
     "name": "insulin trypsin",
@@ -73,31 +99,48 @@
   },
   {
     "name": "yeast",
-    "trans": "酵母；酵母片；泡沫；引起骚动因素"
+    "trans": [
+      "n. a commercial leavening agent containing yeast cells; used to raise the dough in making bread and for fermenting beer or whiskey"
+    ]
   },
   {
     "name": "detect",
-    "trans": "vt. 发现；察觉；探测"
+    "trans": [
+      "v. discover or determine the existence, presence, or fact of"
+    ]
   },
   {
     "name": "halt",
-    "trans": "vi. 停止；踌躇，犹豫；立定 n. 停止；立定；休息 vt. 使停止；使立定"
+    "trans": [
+      "v. cause to stop; come to a halt, stop moving",
+      "n. the state of inactivity following an interruption; the event of something ending"
+    ]
   },
   {
     "name": "convert",
-    "trans": "vt. 使转变；转换…；使…改变信仰 vi. 转变，变换；皈依n. 皈依者"
+    "trans": [
+      "v. change from one system to another or to a new plan or policy; change the nature, purpose, or function of something",
+      "n. a person who has been converted to another religious or political belief"
+    ]
   },
   {
     "name": "whereby",
-    "trans": "adv. 凭什么；靠那个"
+    "trans": [
+      "adv. by which; by means of which"
+    ]
   },
   {
     "name": "amino",
-    "trans": "adj. 氨基的n. 氨基"
+    "trans": [
+      "n. the radical -NH2",
+      "adj. pertaining to or containing any of a group of organic compounds of nitrogen derived from ammonia"
+    ]
   },
   {
     "name": "peptides",
-    "trans": "多肽类；缩氨酸"
+    "trans": [
+      "n. amide combining the amino group of one amino acid with the carboxyl group of another; usually obtained by partial hydrolysis of protein"
+    ]
   },
   {
     "name": "dissolved gas",
@@ -105,23 +148,34 @@
   },
   {
     "name": "dissolved",
-    "trans": "adj. 溶解的；溶化的v. 使溶解；使溶化"
+    "trans": [
+      "adj. (of solid matter) reduced to a liquid form"
+    ]
   },
   {
     "name": "sap",
-    "trans": "树液；活力；坑道；精力，元气 vt. 使衰竭；挖掘以破坏基础 vi. 挖坑道"
+    "trans": [
+      "v. deplete"
+    ]
   },
   {
     "name": "endocrine",
-    "trans": "激素；内分泌；内分泌物adj. 内分泌的；激素的"
+    "trans": [
+      "n. the secretion of an endocrine gland that is transmitted by the blood to the tissue on which it has a specific effect",
+      "adj. of or belonging to endocrine glands or their secretions"
+    ]
   },
   {
     "name": "pancreas",
-    "trans": "胰腺"
+    "trans": [
+      "n. a large elongated exocrine gland located behind the stomach; secretes pancreatic juice and insulin"
+    ]
   },
   {
     "name": "gland",
-    "trans": "腺"
+    "trans": [
+      "n. any of various organs that synthesize substances needed by the body and release it through ducts or directly into the bloodstream"
+    ]
   },
   {
     "name": "glucouse",
@@ -129,11 +183,15 @@
   },
   {
     "name": "insulin",
-    "trans": "胰岛素"
+    "trans": [
+      "n. hormone secreted by the isles of Langerhans in the pancreas; regulates storage of glycogen in the liver and accelerates oxidation of sugar in cells"
+    ]
   },
   {
     "name": "regulate",
-    "trans": "vt. 调节，规定；有系统的管理；控制；校准"
+    "trans": [
+      "v. fix or adjust the time, amount, degree, or rate of; bring into conformity with rules or principles or usage; impose regulations"
+    ]
   },
   {
     "name": "paracrine",
@@ -141,11 +199,16 @@
   },
   {
     "name": "diffuse",
-    "trans": "adj. 散开的；弥漫的vt. 传播；扩散；漫射 vi. 传播；四散"
+    "trans": [
+      "v. move outward; spread or diffuse through",
+      "adj. spread out; not concentrated in one place"
+    ]
   },
   {
     "name": "mediator",
-    "trans": "调停者；传递者；中介物"
+    "trans": [
+      "n. a negotiator who acts as a link between parties"
+    ]
   },
   {
     "name": "autocrine",
@@ -153,87 +216,131 @@
   },
   {
     "name": "proliferation",
-    "trans": "增殖，扩散；分芽繁殖"
+    "trans": [
+      "n. growth by the rapid multiplication of parts"
+    ]
   },
   {
     "name": "neuronal",
-    "trans": "adj. 神经元的"
+    "trans": [
+      "adj. of or relating to neurons"
+    ]
   },
   {
     "name": "axon",
-    "trans": "轴索，轴突"
+    "trans": [
+      "n. long nerve fiber that conducts away from the cell body of the neuron"
+    ]
   },
   {
     "name": "synapse",
-    "trans": "突触"
+    "trans": [
+      "n. the junction between two neurons (axon-to-dendrite) or between a neuron and a muscle"
+    ]
   },
   {
     "name": "spinal",
-    "trans": "adj. 脊骨的；脊髓的；脊柱的；尖刺的；针的 n. 脊椎麻醉"
+    "trans": [
+      "n. anesthesia of the lower half of the body; caused by injury to the spinal cord or by injecting an anesthetic beneath the arachnoid membrane that surrounds the…",
+      "adj. of or relating to the spine or spinal cord"
+    ]
   },
   {
     "name": "cord",
-    "trans": "束缚；绳索vt. 用绳子捆绑"
+    "trans": [
+      "n. a line made of twisted fibers or threads"
+    ]
   },
   {
     "name": "toe",
-    "trans": "脚趾；足尖vt. 用脚尖走；以趾踏触vi. 动脚尖；用足尖跳舞"
+    "trans": [
+      "n. one of the digits of the foot; the part of footwear that provides a covering for the toes"
+    ]
   },
   {
     "name": "neurotransmitter",
-    "trans": "神经递质；神经传递素"
+    "trans": [
+      "n. a neurochemical that transmits nerve impulses across a synapse"
+    ]
   },
   {
     "name": "intimate",
-    "trans": "adj. 亲密的；私人的；精通的 n. 至交；知己vt. 暗示; 通知；宣布"
+    "trans": [
+      "adj. marked by close acquaintance, association, or familiarity; having or fostering a warm or friendly and informal atmosphere",
+      "v. give to understand; imply as a possibility"
+    ]
   },
   {
     "name": "lodge",
-    "trans": "旅馆；门房；集会处；山林小屋vt. 提出；寄存；借住；嵌入vi. 寄宿"
+    "trans": [
+      "v. be a lodger; stay temporarily; put, fix, force, or implant"
+    ]
   },
   {
     "name": "plasma membrane",
-    "trans": "质膜；浆膜"
+    "trans": [
+      "n. a thin membrane (a double layer of lipids) enclosing the cytoplasm of a cell…"
+    ]
   },
   {
     "name": "embryonic",
-    "trans": "adj. 胚胎的；似胚胎的"
+    "trans": [
+      "adj. of an organism prior to birth or hatching"
+    ]
   },
   {
     "name": "adjacent",
-    "trans": "adj. 邻近的，毗连的"
+    "trans": [
+      "adj. nearest in space or position; immediately adjoining without intervening space; having a common boundary or edge; abutting; touching"
+    ]
   },
   {
     "name": "akin",
-    "trans": "adj. 同族的；同类的；类似的"
+    "trans": [
+      "adj. similar in quality or character"
+    ]
   },
   {
     "name": "epithelial",
-    "trans": "adj. 上皮的；皮膜的"
+    "trans": [
+      "adj. of or belonging to the epithelium"
+    ]
   },
   {
     "name": "bind",
-    "trans": "vi. 结合；装订；有约束力；过紧vt. 绑；约束；装订；凝固n. 捆绑；困境"
+    "trans": [
+      "v. stick to firmly; create social or emotional ties"
+    ]
   },
   {
     "name": "mediate",
-    "trans": "vi. 调解；斡旋；居中vt. 调停；传达adj. 间接的；居间的"
+    "trans": [
+      "v. act between parties with a view to reconciling differences"
+    ]
   },
   {
     "name": "fatty acid",
-    "trans": "脂肪酸"
+    "trans": [
+      "n. any of a class of aliphatic monocarboxylic acids that form part of a lipid molecule and can be derived from fat by hydrolysis…"
+    ]
   },
   {
     "name": "disorder",
-    "trans": "混乱；骚乱vt. 扰乱；使失调"
+    "trans": [
+      "n. a physical condition in which there is a disturbance of normal functioning"
+    ]
   },
   {
     "name": "kinase",
-    "trans": "激酶；致活酶"
+    "trans": [
+      "n. an enzyme that catalyzes the conversion of a proenzyme to an active enzyme"
+    ]
   },
   {
     "name": "Kinase",
-    "trans": "激酶|致活酶"
+    "trans": [
+      "n. an enzyme that catalyzes the conversion of a proenzyme to an active enzyme"
+    ]
   },
   {
     "name": "thymidine kinase",
@@ -249,31 +356,45 @@
   },
   {
     "name": "circuit",
-    "trans": "电路，回路；环道；一圈；巡回vi. 环行vt. 绕回…环行"
+    "trans": [
+      "n. an electrical device that provides a path for electrical current to flow; a journey or route all the way around a particular place or area"
+    ]
   },
   {
     "name": "ligand",
-    "trans": "配合基"
+    "trans": [
+      "n. a substance (an atom or molecule or radical or ion) that forms a complex around a central atom"
+    ]
   },
   {
     "name": "physiology",
-    "trans": "生理学；生理机能"
+    "trans": [
+      "n. the branch of the biological sciences dealing with the functioning of organisms"
+    ]
   },
   {
     "name": "hijacking",
-    "trans": "劫持"
+    "trans": [
+      "n. robbery of a traveller or vehicle in transit or seizing control of a vehicle by the use of force"
+    ]
   },
   {
     "name": "cholera",
-    "trans": "霍乱"
+    "trans": [
+      "n. an acute intestinal infection caused by ingestion of contaminated water or food"
+    ]
   },
   {
     "name": "ion",
-    "trans": "离子"
+    "trans": [
+      "n. a particle that is electrically charged (positive or negative); an atom or molecule or group that has lost or gained one or more electrons"
+    ]
   },
   {
     "name": "Ion",
-    "trans": "离子|智能光网络|翼扬"
+    "trans": [
+      "n. a particle that is electrically charged (positive or negative); an atom or molecule or group that has lost or gained one or more electrons"
+    ]
   },
   {
     "name": "ion plating",
@@ -285,11 +406,17 @@
   },
   {
     "name": "stretch",
-    "trans": "\"n. 伸展，延伸adj. 可伸缩的vt. 伸展"
+    "trans": [
+      "v. occupy a large, elongated area; extend one's limbs or muscles, or the entire body",
+      "n. a large and unbroken expanse or distance; the act of physically reaching or thrusting out"
+    ]
   },
   {
     "name": "Stretch",
-    "trans": "伸展|拉伸|缩放"
+    "trans": [
+      "v. occupy a large, elongated area; extend one's limbs or muscles, or the entire body",
+      "n. a large and unbroken expanse or distance; the act of physically reaching or thrusting out"
+    ]
   },
   {
     "name": "reel stretch",
@@ -297,15 +424,21 @@
   },
   {
     "name": "stretch receptor",
-    "trans": "牵张感受器|伸展感受器|(肌肉的)牵张感受器"
+    "trans": [
+      "n. a receptor in a muscle that responds to stretching of the muscle tissue"
+    ]
   },
   {
     "name": "hypertonic",
-    "trans": "adj. 高渗的；张力亢进的"
+    "trans": [
+      "adj. (of living tissue) in a state of abnormally high tension"
+    ]
   },
   {
     "name": "Hypertonic",
-    "trans": "张力亢进的|高渗的|高张的，高渗的"
+    "trans": [
+      "adj. (of living tissue) in a state of abnormally high tension"
+    ]
   },
   {
     "name": "Hypertonic incoordinate",
@@ -317,11 +450,15 @@
   },
   {
     "name": "hypotonic",
-    "trans": "adj. 低渗的；张力减退的"
+    "trans": [
+      "adj. (of living tissue) lacking normal tone or tension"
+    ]
   },
   {
     "name": "Hypotonic",
-    "trans": "低张的|低渗的|低渗"
+    "trans": [
+      "adj. (of living tissue) lacking normal tone or tension"
+    ]
   },
   {
     "name": "hypotonic hypoxia",
@@ -333,11 +470,15 @@
   },
   {
     "name": "isotonic",
-    "trans": "adj. 等张的，等压的"
+    "trans": [
+      "adj. (used of solutions) having the same or equal osmotic pressure; relating to or characterized by the equal intervals of a musical scale"
+    ]
   },
   {
     "name": "Isotonic",
-    "trans": "等渗的|等张的，等渗的|等分的"
+    "trans": [
+      "adj. (used of solutions) having the same or equal osmotic pressure; relating to or characterized by the equal intervals of a musical scale"
+    ]
   },
   {
     "name": "isotonic contraction",
@@ -349,11 +490,15 @@
   },
   {
     "name": "osmosis",
-    "trans": "渗透；渗透性；渗透作用"
+    "trans": [
+      "n. (biology, chemistry) diffusion of molecules through a semipermeable membrane from a place of higher concentration to a place of lower concentration until the…"
+    ]
   },
   {
     "name": "osmosis",
-    "trans": "渗透|渗透作用|渗透性"
+    "trans": [
+      "n. (biology, chemistry) diffusion of molecules through a semipermeable membrane from a place of higher concentration to a place of lower concentration until the…"
+    ]
   },
   {
     "name": "electric osmosis",
@@ -381,11 +526,15 @@
   },
   {
     "name": "congenital",
-    "trans": "adj. 先天的，天生的；天赋的"
+    "trans": [
+      "adj. present at birth but not necessarily hereditary; acquired during fetal development"
+    ]
   },
   {
     "name": "Congenital",
-    "trans": "先天性病|天生的|先天的"
+    "trans": [
+      "adj. present at birth but not necessarily hereditary; acquired during fetal development"
+    ]
   },
   {
     "name": "Congenital Dysbolism",
@@ -413,27 +562,39 @@
   },
   {
     "name": "diabetes",
-    "trans": "糖尿病；多尿症"
+    "trans": [
+      "n. a polygenic disease characterized by abnormally high glucose levels in the blood…"
+    ]
   },
   {
     "name": "Diabetes",
-    "trans": "糖尿病|??病|肠内营养混悬液"
+    "trans": [
+      "n. a polygenic disease characterized by abnormally high glucose levels in the blood…"
+    ]
   },
   {
     "name": "Diabetes Mellitus",
-    "trans": "糖尿病|1型糖尿病|??病"
+    "trans": [
+      "n. diabetes caused by a relative or absolute deficiency of insulin and characterized by polyuria"
+    ]
   },
   {
     "name": "diabetes insipidus",
-    "trans": "尿崩症|尿崩病|糖尿病性尿崩症"
+    "trans": [
+      "n. a rare form of diabetes resulting from a deficiency of vasopressin (the pituitary hormone that regulates the kidneys)…"
+    ]
   },
   {
     "name": "physician",
-    "trans": "医师；内科医师"
+    "trans": [
+      "n. a licensed medical practitioner"
+    ]
   },
   {
     "name": "Physician",
-    "trans": "内科医生|内科医师|医师"
+    "trans": [
+      "n. a licensed medical practitioner"
+    ]
   },
   {
     "name": "chief physician",
@@ -445,11 +606,15 @@
   },
   {
     "name": "alternatively",
-    "trans": "adv. 非此即彼；二者择一地；作为一种选择"
+    "trans": [
+      "adv. in place of, or as an alternative to"
+    ]
   },
   {
     "name": "Alternatively",
-    "trans": "\" 做为选择"
+    "trans": [
+      "adv. in place of, or as an alternative to"
+    ]
   },
   {
     "name": "or alternatively",
@@ -461,11 +626,15 @@
   },
   {
     "name": "abbreviation",
-    "trans": "缩写；缩写词"
+    "trans": [
+      "n. a shortened form of a word or phrase"
+    ]
   },
   {
     "name": "Abbreviation",
-    "trans": "缩写|缩语和略语|简写"
+    "trans": [
+      "n. a shortened form of a word or phrase"
+    ]
   },
   {
     "name": "acceptable abbreviation",
@@ -477,15 +646,21 @@
   },
   {
     "name": "calcium",
-    "trans": "钙"
+    "trans": [
+      "n. a white metallic element that burns with a brilliant light; the fifth most abundant element in the earth's crust…"
+    ]
   },
   {
     "name": "Calcium",
-    "trans": "钙|钙：|钙离子"
+    "trans": [
+      "n. a white metallic element that burns with a brilliant light; the fifth most abundant element in the earth's crust…"
+    ]
   },
   {
     "name": "calcium nitrate",
-    "trans": "\" 硝酸钙|酸钙|硝酸钙"
+    "trans": [
+      "n. a deliquescent salt that is soluble in water; sometimes used as a source of nitrogen in fertilizers"
+    ]
   },
   {
     "name": "Calcium Malate",
@@ -497,11 +672,15 @@
   },
   {
     "name": "antiserum",
-    "trans": "抗血清"
+    "trans": [
+      "n. blood serum containing antibodies against specific antigens; provides immunity to a disease"
+    ]
   },
   {
     "name": "Antiserum",
-    "trans": "抗血清|抗毒血清|免疫蛋白"
+    "trans": [
+      "n. blood serum containing antibodies against specific antigens; provides immunity to a disease"
+    ]
   },
   {
     "name": "polyvalent antiserum",
@@ -513,11 +692,15 @@
   },
   {
     "name": "oocyte",
-    "trans": "卵母细胞"
+    "trans": [
+      "n. a female gametocyte that develops into an ovum after two meiotic divisions"
+    ]
   },
   {
     "name": "Oocyte",
-    "trans": "卵母细胞|卵细胞|卵母细胞，卵原细胞"
+    "trans": [
+      "n. a female gametocyte that develops into an ovum after two meiotic divisions"
+    ]
   },
   {
     "name": "oocyte recovery",
@@ -529,27 +712,41 @@
   },
   {
     "name": "advocate",
-    "trans": "vt. 提倡，主张，拥护 n. 提倡者；支持者；律师"
+    "trans": [
+      "v. push for something; speak, plead, or argue in favor of",
+      "n. a person who pleads for a cause or propounds an idea"
+    ]
   },
   {
     "name": "derive",
-    "trans": "vt. 源于；得自 vi. 起源"
+    "trans": [
+      "v. reason by deduction; establish by deduction; obtain"
+    ]
   },
   {
     "name": "bracket",
-    "trans": "支架；括号；墙上凸出的托架 vt. 括在一起；把…归入同一类；排除"
+    "trans": [
+      "n. a category falling within certain defined limits",
+      "v. support with brackets"
+    ]
   },
   {
     "name": "refine",
-    "trans": "vt. 精炼，提纯；改善；使…文雅"
+    "trans": [
+      "v. improve or perfect by pruning or polishing; make more complex, intricate, or richer"
+    ]
   },
   {
     "name": "crude",
-    "trans": "原油；天然的物质adj. 粗糙的；天然的，未加工的；粗鲁的"
+    "trans": [
+      "adj. not carefully or expertly made; conspicuously and tastelessly indecent"
+    ]
   },
   {
     "name": "Crude",
-    "trans": "原油|天然的雨林|粗糙"
+    "trans": [
+      "adj. not carefully or expertly made; conspicuously and tastelessly indecent"
+    ]
   },
   {
     "name": "crude steel",
@@ -561,103 +758,153 @@
   },
   {
     "name": "consistent",
-    "trans": "adj. 始终如一的，一致的；坚持的"
+    "trans": [
+      "adj. (sometimes followed by 'with') in agreement or consistent or reliable"
+    ]
   },
   {
     "name": "striking",
-    "trans": "adj. 显著的，突出的，惊人的；打击的；罢工的 v. 打(strike的ing形式)"
+    "trans": [
+      "adj. sensational in appearance or thrilling in effect"
+    ]
   },
   {
     "name": "sustain",
-    "trans": "vt. 支撑，承担；维持；忍受；供养；证实"
+    "trans": [
+      "v. lengthen or extend in duration or space; undergo (as of injuries and illnesses)"
+    ]
   },
   {
     "name": "moisture",
-    "trans": "潮湿；水分；降雨量；湿度"
+    "trans": [
+      "n. wetness caused by water"
+    ]
   },
   {
     "name": "laboratory",
-    "trans": "实验室，研究室"
+    "trans": [
+      "n. a workplace for the conduct of scientific research"
+    ]
   },
   {
     "name": "perceive",
-    "trans": "vt. 察觉，感觉；理解；认知 vi. 感到，感知；认识到"
+    "trans": [
+      "v. to become aware of through the senses; become conscious of"
+    ]
   },
   {
     "name": "fabric",
-    "trans": "织物；构造；建筑物；组织；布"
+    "trans": [
+      "n. artifact made by weaving or felting or knitting or crocheting natural or synthetic fibers; the underlying structure"
+    ]
   },
   {
     "name": "synthetic",
-    "trans": "adj. 合成的，人造的；综合的n. 合成物"
+    "trans": [
+      "adj. not of natural origin; prepared or made artificially"
+    ]
   },
   {
     "name": "bred",
-    "trans": "繁殖breed的过去式和过去分词"
+    "trans": [
+      "v. call forth; copulate with a female, used especially of horses"
+    ]
   },
   {
     "name": "probability",
-    "trans": "可能性"
+    "trans": [
+      "n. a measure of how likely it is that some event will occur; a number expressing the ratio of favorable cases to the whole number of cases possible"
+    ]
   },
   {
     "name": "Possibility",
-    "trans": "可能性"
+    "trans": [
+      "n. a future prospect or potential; capability of existing or happening or being true"
+    ]
   },
   {
     "name": "feasibility",
-    "trans": "可能性"
+    "trans": [
+      "n. the quality of being doable"
+    ]
   },
   {
     "name": "soluble",
-    "trans": "adj. 可溶的，可溶解的；可解决的"
+    "trans": [
+      "adj. (of a substance) capable of being dissolved in some solvent (usually water)"
+    ]
   },
   {
     "name": "subunit",
-    "trans": "亚组；副族"
+    "trans": [
+      "n. a monetary unit that is valued at a fraction (usually one hundredth) of the basic monetary unit"
+    ]
   },
   {
     "name": "filamentous",
-    "trans": "adj. 纤维所成的；细丝状的；如丝的"
+    "trans": [
+      "adj. thin in diameter; resembling a thread"
+    ]
   },
   {
     "name": "polymer",
-    "trans": "聚合物"
+    "trans": [
+      "n. a naturally occurring or synthetic compound consisting of large molecules made up of a linked series of repeated simple monomers"
+    ]
   },
   {
     "name": "reassembly",
-    "trans": "adv. 重新装配的；重组的"
+    "trans": [
+      "n. assembling again"
+    ]
   },
   {
     "name": "segment",
-    "trans": "vi. 分割 n. 段；部分vt. 分割"
+    "trans": [
+      "n. one of several parts or pieces that fit with others to constitute a whole object"
+    ]
   },
   {
     "name": "shrink",
-    "trans": "vi. 收缩；畏缩 vt. 使缩小，使收缩 n. 收缩"
+    "trans": [
+      "v. wither, as with a loss of moisture; draw back, as with fear or pain"
+    ]
   },
   {
     "name": "cytoplasm",
-    "trans": "细胞质"
+    "trans": [
+      "n. the protoplasm of a cell excluding the nucleus; is full of proteins that control cell metabolism"
+    ]
   },
   {
     "name": "conduit",
-    "trans": "导管；沟渠；导水管"
+    "trans": [
+      "n. a passage (a pipe or tunnel) through which water or electric wires can pass"
+    ]
   },
   {
     "name": "permeability",
-    "trans": "弥漫；渗透性；[物"
+    "trans": [
+      "n. the property of something that can be pervaded by a liquid (as by osmosis or diffusion)"
+    ]
   },
   {
     "name": "glaring",
-    "trans": "adj. 耀眼的；瞪视的；炯炯的"
+    "trans": [
+      "adj. shining intensely; conspicuously and outrageously bad or reprehensible"
+    ]
   },
   {
     "name": "gospel",
-    "trans": "真理；信条adj. 传播福音的；福音赞美诗的"
+    "trans": [
+      "n. the four books in the New Testament (Matthew, Mark, Luke, and John) that tell the story of Christ's life and teachings; an unquestionable truth"
+    ]
   },
   {
     "name": "Gospel",
-    "trans": "福音 | 福音音乐 | 福音书"
+    "trans": [
+      "n. the four books in the New Testament (Matthew, Mark, Luke, and John) that tell the story of Christ's life and teachings; an unquestionable truth"
+    ]
   },
   {
     "name": "Invitrogen",
@@ -665,19 +912,28 @@
   },
   {
     "name": "pigment",
-    "trans": "颜料；色素vt. 给…着色vi. 呈现颜色"
+    "trans": [
+      "n. dry coloring material (especially a powder to be mixed with a liquid to produce paint, etc.)"
+    ]
   },
   {
     "name": "fuel",
-    "trans": "vi. 得到燃料vt. 供以燃料，加燃料 n. 燃料；刺激因素"
+    "trans": [
+      "n. a substance that can be consumed to produce energy",
+      "v. provide with a combustible substance that provides energy"
+    ]
   },
   {
     "name": "proteome",
-    "trans": "蛋白质组"
+    "trans": [
+      "n. the full complement of proteins produced by a particular genome"
+    ]
   },
   {
     "name": "phylogenetic",
-    "trans": "adj.系统发生的；动植物种类史的"
+    "trans": [
+      "adj. of or relating to the evolutionary development of organisms"
+    ]
   },
   {
     "name": "phylogenetics",
@@ -685,19 +941,27 @@
   },
   {
     "name": "thinner",
-    "trans": "稀释剂，冲淡剂 adj. 薄的；细的；瘦的"
+    "trans": [
+      "n. a diluting agent"
+    ]
   },
   {
     "name": "warfarin",
-    "trans": "华法令阻凝剂；杀鼠灵"
+    "trans": [
+      "n. an anticoagulant (trade name Coumadin) use to prevent and treat a thrombus or embolus"
+    ]
   },
   {
     "name": "pharmacology",
-    "trans": "药物学，药理学"
+    "trans": [
+      "n. the science or study of drugs: their preparation and properties and uses and effects"
+    ]
   },
   {
     "name": "tailor",
-    "trans": "vt. 剪裁；使合适 n. 裁缝 vi. 做裁缝"
+    "trans": [
+      "v. adjust to a specific need or market; style and tailor in a certain fashion"
+    ]
   },
   {
     "name": "pharmacogenetic",
@@ -705,51 +969,75 @@
   },
   {
     "name": "pharmacogenetics",
-    "trans": "遗传药理学；药物基因学"
+    "trans": [
+      "n. the branch of genetics that studies the genetically determined variations in responses to drugs in humans or laboratory organisms"
+    ]
   },
   {
     "name": "disseminate",
-    "trans": "vt. 散布；宣传，传播vi. 散布；广为传播"
+    "trans": [
+      "v. cause to become widely known"
+    ]
   },
   {
     "name": "interface",
-    "trans": "接口；界面；接触面"
+    "trans": [
+      "n. (chemistry) a surface forming a common boundary between two things (two objects or liquids or chemical phases)"
+    ]
   },
   {
     "name": "stagger",
-    "trans": "vt. 使交错；使犹豫vi. 蹒跚；犹豫n.交错安排adj. 交错的；错开的"
+    "trans": [
+      "v. walk as if unable to control one's movements; walk with great difficulty"
+    ]
   },
   {
     "name": "propel",
-    "trans": "vt. 推进；驱使；驱策；激励"
+    "trans": [
+      "v. cause to move forward with force"
+    ]
   },
   {
     "name": "manipulate",
-    "trans": "vt. 操作；操纵；巧妙地处理；篡改"
+    "trans": [
+      "v. influence or control shrewdly or deviously; hold something in one's hands and move it"
+    ]
   },
   {
     "name": "atlas",
-    "trans": "地图集"
+    "trans": [
+      "n. (Greek mythology) a Titan who was forced by Zeus to bear the sky on his shoulders"
+    ]
   },
   {
     "name": "collaboration",
-    "trans": "合作；通敌；勾结"
+    "trans": [
+      "n. act of working jointly"
+    ]
   },
   {
     "name": "algorithm",
-    "trans": "算法，运算法则"
+    "trans": [
+      "n. a precise rule (or set of rules) specifying how to solve some problem"
+    ]
   },
   {
     "name": "hemoglobin",
-    "trans": "血红蛋白；血红素"
+    "trans": [
+      "n. a hemoprotein composed of globin and heme that gives red blood cells their characteristic color…"
+    ]
   },
   {
     "name": "globin",
-    "trans": "球蛋白，珠朊"
+    "trans": [
+      "n. a colorless protein obtained by removing heme from hemoglobin; the oxygen carrying compound in red blood cells"
+    ]
   },
   {
     "name": "subset",
-    "trans": "子集；子设备；小团体"
+    "trans": [
+      "n. a set whose members are members of another set; a set contained within another set"
+    ]
   },
   {
     "name": "roundwood",
@@ -757,11 +1045,15 @@
   },
   {
     "name": "roundworm",
-    "trans": "蛔虫"
+    "trans": [
+      "n. infections of the skin or nails caused by fungi and appearing as itching circular patches"
+    ]
   },
   {
     "name": "homologous",
-    "trans": "adj. 相应的；同源的；类似的；一致的"
+    "trans": [
+      "adj. having the same evolutionary origin but not necessarily the same function"
+    ]
   },
   {
     "name": "ribosomal",
@@ -769,151 +1061,228 @@
   },
   {
     "name": "mitochondria",
-    "trans": "线粒体"
+    "trans": [
+      "n. an organelle containing enzymes responsible for producing energy"
+    ]
   },
   {
     "name": "cytochrome",
-    "trans": "细胞色素"
+    "trans": [
+      "n. (biochemistry) a class of hemoprotein whose principal biological function is electron transfer (especially in cellular respiration)"
+    ]
   },
   {
     "name": "colorectal",
-    "trans": "adj. 结肠直肠的"
+    "trans": [
+      "adj. relating to or affecting the colon and the rectum"
+    ]
   },
   {
     "name": "soybean",
-    "trans": "大豆；黄豆"
+    "trans": [
+      "n. a source of oil; used for forage and soil improvement and as food"
+    ]
   },
   {
     "name": "query",
-    "trans": "疑问，质问；疑问号vt. 询问；对……表示疑问vi. 询问；表示怀疑"
+    "trans": [
+      "v. pose a question",
+      "n. an instance of questioning"
+    ]
   },
   {
     "name": "advent",
-    "trans": "到来；出现；基督降临；基督降临节"
+    "trans": [
+      "n. arrival that has been awaited (especially of something momentous)"
+    ]
   },
   {
     "name": "cystic",
-    "trans": "adj. 囊的；膀胱的，胆囊的；胞囊的"
+    "trans": [
+      "adj. of or relating to a normal cyst (as the gallbladder or urinary bladder)"
+    ]
   },
   {
     "name": "fibrosis",
-    "trans": "纤维化，纤维变性"
+    "trans": [
+      "n. development of excess fibrous connective tissue in an organ"
+    ]
   },
   {
     "name": "taxonomy",
-    "trans": "分类学；分类法"
+    "trans": [
+      "n. a classification of organisms into groups based on similarities of structure or origin etc"
+    ]
   },
   {
     "name": "subsequent",
-    "trans": "adj. 后来的，随后的"
+    "trans": [
+      "adj. following in time or order"
+    ]
   },
   {
     "name": "chloride",
-    "trans": "氯化物"
+    "trans": [
+      "n. any compound containing a chlorine atom"
+    ]
   },
   {
     "name": "mucus",
-    "trans": "粘液；黏液"
+    "trans": [
+      "n. protective secretion of the mucus membranes; in the gut it lubricates the passage of food and protects the epithelial cells…"
+    ]
   },
   {
     "name": "airway",
-    "trans": "导气管；空中航线；通风孔"
+    "trans": [
+      "n. a duct that provides ventilation (as in mines)"
+    ]
   },
   {
     "name": "respiratory",
-    "trans": "adj. 呼吸的"
+    "trans": [
+      "adj. pertaining to respiration"
+    ]
   },
   {
     "name": "hallmark",
-    "trans": "品质证明；特点vt. 给…盖上品质证明印记；使具有…标志"
+    "trans": [
+      "n. a distinctive characteristic or attribute"
+    ]
   },
   {
     "name": "opsin",
-    "trans": "视蛋白"
+    "trans": [
+      "n. retinal protein formed by the action of light on rhodopsin"
+    ]
   },
   {
     "name": "navigate",
-    "trans": "vt. 航行于；驾驶，操纵；使通过vi. 航行，航空"
+    "trans": [
+      "v. travel on water propelled by wind or by other means"
+    ]
   },
   {
     "name": "prone",
-    "trans": "adj. 有…倾向的，易于…的；俯卧的"
+    "trans": [
+      "adj. lying face downward"
+    ]
   },
   {
     "name": "substitution",
-    "trans": "代替；置换；代替物"
+    "trans": [
+      "n. an event in which one thing is substituted for another"
+    ]
   },
   {
     "name": "deleting",
-    "trans": "正在删除 v. 删除；擦去"
+    "trans": [
+      "v. remove or make invisible"
+    ]
   },
   {
     "name": "actin",
-    "trans": "肌动蛋白"
+    "trans": [
+      "n. one of the proteins into which actomyosin can be split; can exist in either a globular or a fibrous form"
+    ]
   },
   {
     "name": "parameter",
-    "trans": "参数；参量；系数"
+    "trans": [
+      "n. a constant in the equation of a curve that can be varied to yield a family of similar curves"
+    ]
   },
   {
     "name": "redundant",
-    "trans": "adj. 多余的，过剩的；冗长的，累赘的；被解雇的，失业的"
+    "trans": [
+      "adj. more than is needed, desired, or required"
+    ]
   },
   {
     "name": "divergence",
-    "trans": "分歧"
+    "trans": [
+      "n. the act of moving away in different direction from a common point"
+    ]
   },
   {
     "name": "intron",
-    "trans": "基因内区"
+    "trans": [
+      "n. sequence of a eukaryotic gene's DNA that is not translated into a protein"
+    ]
   },
   {
     "name": "algorithms",
-    "trans": "算法；算法式"
+    "trans": [
+      "n. a precise rule (or set of rules) specifying how to solve some problem"
+    ]
   },
   {
     "name": "motif",
-    "trans": "主题；动机；图形；主旨；意念"
+    "trans": [
+      "n. a design or figure that consists of recurring shapes or colors, as in architecture or decoration; a theme that is repeated or elaborated in a piece of music"
+    ]
   },
   {
     "name": "accession",
-    "trans": "增加；就职；到达vt. 登记入册"
+    "trans": [
+      "n. a process of increasing by addition (as to a collection or group)",
+      "v. make a record of additions to a collection, such as a library"
+    ]
   },
   {
     "name": "crystallography",
-    "trans": "结晶学"
+    "trans": [
+      "n. the branch of science that studies the formation and structure of crystals"
+    ]
   },
   {
     "name": "resonance",
-    "trans": "共振；共鸣；反响"
+    "trans": [
+      "n. an excited state of a stable particle causing a sharp maximum in the probability of absorption of electromagnetic radiation"
+    ]
   },
   {
     "name": "spectroscopy",
-    "trans": "光谱学"
+    "trans": [
+      "n. the use of spectroscopes to analyze spectra"
+    ]
   },
   {
     "name": "yield",
-    "trans": "vt. 出产；屈服；放弃vi. 屈服，投降n. 收益；产量"
+    "trans": [
+      "v. be the cause or source of; end resistance, as under pressure or force",
+      "n. production of a certain amount; the income or profit arising from such transactions as the sale of land or other property"
+    ]
   },
   {
     "name": "weed",
-    "trans": "vt. 除草；铲除n. 杂草，野草；菸草vi. 除草"
+    "trans": [
+      "n. any plant that crowds out cultivated plants"
+    ]
   },
   {
     "name": "apoptosis",
-    "trans": "细胞凋亡；细胞死亡"
+    "trans": [
+      "n. a type of cell death in which the cell uses specialized cellular machinery to kill itself…"
+    ]
   },
   {
     "name": "engulf",
-    "trans": "vt. 吞没；吞食，狼吞虎咽"
+    "trans": [
+      "v. devote (oneself) fully to; flow over or cover completely"
+    ]
   },
   {
     "name": "debris",
-    "trans": "碎片，残骸"
+    "trans": [
+      "n. the remains of something that has been destroyed or broken up"
+    ]
   },
   {
     "name": "placenta",
-    "trans": "胎盘；胎座"
+    "trans": [
+      "n. that part of the ovary of a flowering plant where the ovules form"
+    ]
   },
   {
     "name": "dystrophin",
@@ -925,103 +1294,156 @@
   },
   {
     "name": "chimpanzee",
-    "trans": "黑猩猩"
+    "trans": [
+      "n. intelligent somewhat arboreal ape of equatorial African forests"
+    ]
   },
   {
     "name": "prairie",
-    "trans": "大草原；牧场"
+    "trans": [
+      "n. a treeless grassy plain"
+    ]
   },
   {
     "name": "rodent",
-    "trans": "adj. 咬的，嚼的；啮齿类的；侵蚀性的n. 啮齿动物"
+    "trans": [
+      "n. relatively small placental mammals having a single pair of constantly growing incisor teeth specialized for gnawing"
+    ]
   },
   {
     "name": "hypothalamus",
-    "trans": "下丘脑"
+    "trans": [
+      "n. a basal part of the diencephalon governing autonomic nervous system"
+    ]
   },
   {
     "name": "vole",
-    "trans": "大满贯；野鼠 vi. 赢得大满贯"
+    "trans": [
+      "n. any of various small mouselike rodents of the family Cricetidae (especially of genus Microtus) having a stout short-tailed body and inconspicuous ears and…"
+    ]
   },
   {
     "name": "promiscuity",
-    "trans": "乱交；混乱"
+    "trans": [
+      "n. indulging in promiscuous (casual and indiscriminate) sexual relations"
+    ]
   },
   {
     "name": "promiscuous",
-    "trans": "adj. 杂乱的；混杂的 adv. 偶然地；胡乱地"
+    "trans": [
+      "adj. not selective of a single class or person"
+    ]
   },
   {
     "name": "deficit",
-    "trans": "赤字；不足额"
+    "trans": [
+      "n. the property of being an amount by which something is less than expected or required"
+    ]
   },
   {
     "name": "autism",
-    "trans": "孤独症；自我中心主义"
+    "trans": [
+      "n. (psychiatry) an abnormal absorption with the self; marked by communication disorders and short attention span and inability to treat others as people"
+    ]
   },
   {
     "name": "predisposition",
-    "trans": "易染病体质；素质；倾向"
+    "trans": [
+      "n. susceptibility to a pathogen"
+    ]
   },
   {
     "name": "variant",
-    "trans": "adj. 不同的；多样的n. 变体；转化"
+    "trans": [
+      "n. an event that departs from expectations",
+      "adj. differing from a norm or standard"
+    ]
   },
   {
     "name": "reinforcement",
-    "trans": "加固；增援；援军；加强"
+    "trans": [
+      "n. a military operation (often involving new supplies of men and materiel) to strengthen a military force or aid in the performance of its mission"
+    ]
   },
   {
     "name": "endeavor",
-    "trans": "努力；尽力vi. 努力；尽力"
+    "trans": [
+      "n. a purposeful or industrious undertaking (especially one that requires effort or boldness)",
+      "v. attempt by employing effort"
+    ]
   },
   {
     "name": "initiating",
-    "trans": "开始"
+    "trans": [
+      "v. bring into being; take the lead or initiative in; participate in the development of"
+    ]
   },
   {
     "name": "rival",
-    "trans": "对手；竞争者vt. 与…竞争；比得上某人vi. 竞争adj. 竞争的"
+    "trans": [
+      "v. be equal to in quality or ability",
+      "n. the contestant you hope to defeat"
+    ]
   },
   {
     "name": "scope",
-    "trans": "视野；眼界；范围；余地；导弹射程vt. 审视"
+    "trans": [
+      "n. an area in which something acts or operates or has power or control:"
+    ]
   },
   {
     "name": "paramount",
-    "trans": "adj. 最重要的，主要的；至高无上的n. 最高统治者"
+    "trans": [
+      "adj. having superior power and influence"
+    ]
   },
   {
     "name": "implication",
-    "trans": "暗示；牵连，卷入；含义"
+    "trans": [
+      "n. something that is inferred (deduced or entailed or implied); a meaning that is not expressly stated but can be inferred"
+    ]
   },
   {
     "name": "zygote",
-    "trans": "受精卵；接合子"
+    "trans": [
+      "n. (genetics) the diploid cell resulting from the union of a haploid spermatozoon and ovum (including the organism that develops from that cell)"
+    ]
   },
   {
     "name": "automated",
-    "trans": "adj. 自动化的；机械化的v. 自动操作；自动化"
+    "trans": [
+      "adj. operated by automation"
+    ]
   },
   {
     "name": "Nematoda",
-    "trans": "线虫类"
+    "trans": [
+      "n. unsegmented worms: roundworms; threadworms; eelworms"
+    ]
   },
   {
     "name": "embryo",
-    "trans": "胚胎；胚芽；初期adj. 初期的；胚胎的"
+    "trans": [
+      "n. (botany) a minute rudimentary plant contained within a seed or an archegonium"
+    ]
   },
   {
     "name": "corn",
-    "trans": "玉米；谷物；鸡眼vt. 腌；使成颗粒"
+    "trans": [
+      "n. tall annual cereal grass bearing kernels on large ears: widely cultivated in America in many varieties…"
+    ]
   },
   {
     "name": "Zea mays",
-    "trans": "玉米；玉蜀黍"
+    "trans": [
+      "n. tall annual cereal grass bearing kernels on large ears: widely cultivated in America in many varieties…"
+    ]
   },
   {
     "name": "Arabidopsis thaliana",
-    "trans": "拟南芥；阿拉伯芥；鼠耳芥"
+    "trans": [
+      "n. a small invasive self-pollinating weed with small white flowers; much studied by plant geneticists…"
+    ]
   },
   {
     "name": "archaea",
@@ -1029,7 +1451,9 @@
   },
   {
     "name": "halophile",
-    "trans": "喜盐生物"
+    "trans": [
+      "n. archaebacteria requiring a salt-rich environment for growth and survival"
+    ]
   },
   {
     "name": "thermophile",
@@ -1037,63 +1461,101 @@
   },
   {
     "name": "thermophilic",
-    "trans": "adj. 适温的，喜温的"
+    "trans": [
+      "Heat-loving"
+    ]
   },
   {
     "name": "submarine",
-    "trans": "潜水艇；海底生物adj. 水下的；海底的 v.潜水"
+    "trans": [
+      "n. a submersible warship usually armed with torpedoes"
+    ]
   },
   {
     "name": "thermal",
-    "trans": "adj. 热的，热量的n. 上升暖气流"
+    "trans": [
+      "adj. relating to or associated with heat"
+    ]
   },
   {
     "name": "vent",
-    "trans": "出口；通风孔; 发泄vt. 发泄感情；放出…；给…开孔vi.减轻压力；放出"
+    "trans": [
+      "n. a hole for the escape of gas or air; external opening of urinary or genital system of a lower vertebrate",
+      "v. give expression or utterance to"
+    ]
   },
   {
     "name": "purebred",
-    "trans": "adj. 纯种的n. 纯种的动物"
+    "trans": [
+      "n. a pedigreed animal of unmixed lineage; used especially of horses",
+      "adj. bred for many generations from member of a recognized breed or strain"
+    ]
   },
   {
     "name": "shepherd",
-    "trans": "vt. 带领；看管；牧羊；指导n. 牧羊人；指导者；牧师"
+    "trans": [
+      "n. a clergyman who watches over a group of people; a herder of sheep (on an open range); someone who keeps the sheep together in a flock",
+      "v. watch over like a shepherd, as a teacher of her pupils"
+    ]
   },
   {
     "name": "border",
-    "trans": "边界；边境；国界vt. 接近；与…接壤；在…上镶边vi. 接界；近似"
+    "trans": [
+      "n. a line that indicates a boundary; the boundary line or the area immediately inside the boundary",
+      "v. extend on all sides of simultaneously; encircle; form the boundary of; be contiguous to"
+    ]
   },
   {
     "name": "breeds",
-    "trans": "品种；族类v. 养育；导致（breed的三单形式"
+    "trans": [
+      "v. call forth; copulate with a female, used especially of horses",
+      "n. a special variety of domesticated animals within a species"
+    ]
   },
   {
     "name": "attenuate",
-    "trans": "adj. 稀薄的；细小的；减弱的vt. 使纤细vi.变弱"
+    "trans": [
+      "v. weaken the consistency of (a chemical substance)",
+      "adj. reduced in strength"
+    ]
   },
   {
     "name": "canine",
-    "trans": "adj. 犬科的；犬的；似犬的；犬齿的n. 犬齿；犬"
+    "trans": [
+      "n. one of the four pointed conical teeth (two in each jaw) located between the incisors and the premolars",
+      "adj. of or relating to a pointed conical tooth"
+    ]
   },
   {
     "name": "pamper",
-    "trans": "vt. 纵容；使…过量；给…吃得过多"
+    "trans": [
+      "v. treat with excessive indulgence"
+    ]
   },
   {
     "name": "detrimental",
-    "trans": "adj. 有害的；不利的n. 有害的人；不受欢迎的求婚者"
+    "trans": [
+      "adj. (sometimes followed by 'to') causing harm or injury"
+    ]
   },
   {
     "name": "tandem",
-    "trans": "串联；串座双人自行车adj. 串联的adv. 一前一后地；纵排地"
+    "trans": [
+      "n. an arrangement of two or more objects or persons one behind another",
+      "adv. one behind the other"
+    ]
   },
   {
     "name": "depict",
-    "trans": "vt. 描画；描述"
+    "trans": [
+      "v. show in, or as in, a picture; give a description of"
+    ]
   },
   {
     "name": "meiotic",
-    "trans": "adj. 减数分裂的"
+    "trans": [
+      "adj. of or relating to meiosis"
+    ]
   },
   {
     "name": "centimorgan",
@@ -1105,31 +1567,46 @@
   },
   {
     "name": "red tape",
-    "trans": "繁文缛节；官样文章"
+    "trans": [
+      "n. needlessly time-consuming procedure"
+    ]
   },
   {
     "name": "stiff",
-    "trans": "adj. 严厉的；坚硬的adv. 彻底地n. 死尸；流通票据 vi. 在商业上惨败"
+    "trans": [
+      "adj. not moving or operating freely; powerful",
+      "n. an ordinary man"
+    ]
   },
   {
     "name": "congress",
-    "trans": "国会；会议；代表大会；社交"
+    "trans": [
+      "n. the legislature of the United States government; a meeting of elected or appointed representatives"
+    ]
   },
   {
     "name": "modify",
-    "trans": "vt. 修改，修饰；更改vi. 修改"
+    "trans": [
+      "v. make less severe or harsh or extreme; add a modifier to a constituent"
+    ]
   },
   {
     "name": "pipet",
-    "trans": "移液管；吸量管；球管 vt. 用移液管移"
+    "trans": [
+      "n. measuring instrument consisting of a graduated glass tube used to measure or transfer precise volumes of a liquid by drawing the liquid up into the tube"
+    ]
   },
   {
     "name": "ingenious",
-    "trans": "adj. 心灵手巧的；有独创性的；机灵的，精制的"
+    "trans": [
+      "adj. showing inventiveness and skill"
+    ]
   },
   {
     "name": "painstaking",
-    "trans": "adj. 勤勉的；小心的；艰苦的n. 辛苦；勤勉"
+    "trans": [
+      "adj. characterized by extreme care and great effort"
+    ]
   },
   {
     "name": "dideoxy",
@@ -1141,55 +1618,82 @@
   },
   {
     "name": "purple",
-    "trans": "adj. 紫色的；帝王的；华而不实的n. 紫色vi. 变成紫色vt. 使成紫色"
+    "trans": [
+      "adj. of a color intermediate between red and blue",
+      "n. a purple color or pigment"
+    ]
   },
   {
     "name": "align",
-    "trans": "vt. 使结盟；使成一行；匹配vi. 排列；排成一行"
+    "trans": [
+      "v. place in a line or arrange so as to be parallel or straight; be or come into adjustment with"
+    ]
   },
   {
     "name": "skeptic",
-    "trans": "怀疑论者；怀疑者；无神论者"
+    "trans": [
+      "n. someone who habitually doubts accepted beliefs"
+    ]
   },
   {
     "name": "outfit",
-    "trans": "用具；机构；全套装备vi. 得到装备vt. 配备；供应"
+    "trans": [
+      "n. any cohesive unit such as a military company; a set of clothing (with accessories)"
+    ]
   },
   {
     "name": "reagent",
-    "trans": "试剂；反应物"
+    "trans": [
+      "n. a chemical agent for use in chemical reactions"
+    ]
   },
   {
     "name": "therapeutic",
-    "trans": "adj. 治疗的；治疗学的；有益于健康的n. 治疗剂；治疗学家"
+    "trans": [
+      "adj. tending to cure or restore to health; relating to or involved in therapy"
+    ]
   },
   {
     "name": "simultaneously",
-    "trans": "adv. 同时地"
+    "trans": [
+      "adv. at the same instant"
+    ]
   },
   {
     "name": "nucleus",
-    "trans": "核，核心；原子核"
+    "trans": [
+      "n. a part of the cell containing DNA and RNA and responsible for growth and reproduction; the positively charged dense center of an atom"
+    ]
   },
   {
     "name": "nucleus",
-    "trans": "细胞核"
+    "trans": [
+      "n. a part of the cell containing DNA and RNA and responsible for growth and reproduction; the positively charged dense center of an atom"
+    ]
   },
   {
     "name": "splice",
-    "trans": "vt. 接合；拼接；使结婚n. 接合；结婚"
+    "trans": [
+      "v. join the ends of"
+    ]
   },
   {
     "name": "precursor",
-    "trans": "先驱，前导"
+    "trans": [
+      "n. a substance from which another substance is formed (especially by a metabolic reaction)"
+    ]
   },
   {
     "name": "substantially",
-    "trans": "adv. 实质上；大体上；充分地"
+    "trans": [
+      "adv. to a great extent or degree; in a strong substantial way"
+    ]
   },
   {
     "name": "muscular",
-    "trans": "adj. 肌肉发达的；肌肉的；强健的"
+    "trans": [
+      "adj. of or relating to or consisting of muscle"
+    ]
   },
   {
     "name": "dystrophia",
@@ -1197,47 +1701,70 @@
   },
   {
     "name": "dystrophy",
-    "trans": "营养障碍；营养失调"
+    "trans": [
+      "n. any of several hereditary diseases of the muscular system characterized by weakness and wasting of skeletal muscles"
+    ]
   },
   {
     "name": "cluster",
-    "trans": "丛；串；簇；群vi. 丛生；群聚vt. 使聚集；聚集在某人的周围"
+    "trans": [
+      "n. a grouping of a number of similar things",
+      "v. come together as in a cluster or flock; gather or cause to gather into a cluster"
+    ]
   },
   {
     "name": "appendage",
-    "trans": "附加物；下属；附器"
+    "trans": [
+      "n. an external body part that projects from the body"
+    ]
   },
   {
     "name": "epigenetic",
-    "trans": "adj. 后生的；外成的；渐成说的"
+    "trans": [
+      "Of or pertaining to the epigenesis; produced according to the theory of epigenesis"
+    ]
   },
   {
     "name": "spill",
-    "trans": "vt. 使流出；使摔下vi. 溢出，摔下；涌流n. 溢出，溢出量；摔下；小塞子"
+    "trans": [
+      "v. cause or allow (a liquid substance) to run or flow from a container; flow, run or fall out and become lost"
+    ]
   },
   {
     "name": "predate",
-    "trans": "vt. 在日期上早于"
+    "trans": [
+      "v. be earlier in time; go back further"
+    ]
   },
   {
     "name": "intriguing",
-    "trans": "adj. 迷人的；有趣的v. 引起…的兴趣；私通"
+    "trans": [
+      "adj. disturbingly provocative"
+    ]
   },
   {
     "name": "versatile",
-    "trans": "adj. 多才多艺的；通用的，万能的；多面手的"
+    "trans": [
+      "adj. having great diversity or variety"
+    ]
   },
   {
     "name": "forensic",
-    "trans": "adj. 辩论的；法院的；适于法庭的"
+    "trans": [
+      "adj. of, relating to, or used in public debate or argument"
+    ]
   },
   {
     "name": "variability",
-    "trans": "可变性，变化性；变异性"
+    "trans": [
+      "n. the quality of being subject to variation"
+    ]
   },
   {
     "name": "paternity",
-    "trans": "父权；父系；父系后裔"
+    "trans": [
+      "n. the state of being a father"
+    ]
   },
   {
     "name": "mitochondrial",
@@ -1245,15 +1772,22 @@
   },
   {
     "name": "contradict",
-    "trans": "vt. 反驳；否定；与…矛盾；与…抵触vi. 反驳；否认；发生矛盾"
+    "trans": [
+      "v. be in contradiction with; deny the truth of"
+    ]
   },
   {
     "name": "trace",
-    "trans": "vi. 追溯；沿路走vt. 追踪，查探；描绘；回溯n. 痕迹，微量；迹线；缰绳"
+    "trans": [
+      "v. follow, discover, or ascertain the course of development of something; make a mark or lines on a surface",
+      "n. a just detectable amount; an indication that something has been present"
+    ]
   },
   {
     "name": "probe",
-    "trans": "探针；调查vi. 调查；探测vt. 探查；用探针探测"
+    "trans": [
+      "v. question or examine thoroughly and closely; examine physically with or as if with a probe"
+    ]
   },
   {
     "name": "bioterror",
@@ -1261,51 +1795,76 @@
   },
   {
     "name": "upheaval",
-    "trans": "剧变；隆起；举起"
+    "trans": [
+      "n. a state of violent disturbance and disorder (as in politics or social conditions generally)"
+    ]
   },
   {
     "name": "Upheaval",
-    "trans": "隆起 | 剧变 | 起来"
+    "trans": [
+      "n. a state of violent disturbance and disorder (as in politics or social conditions generally)"
+    ]
   },
   {
     "name": "track",
-    "trans": "足迹，踪迹；轨道； vt. 追踪；通过；用纤拉vi. 走；追踪；留下足迹"
+    "trans": [
+      "n. a line or route along which something travels or moves; evidence pointing to a possible solution",
+      "v. carry on the feet and deposit; observe or plot the moving path of something"
+    ]
   },
   {
     "name": "prosecute",
-    "trans": "vt. 贯彻；从事；检举；依法进行vi. 告发；起诉；作检察官"
+    "trans": [
+      "v. conduct a prosecution in a court of law; bring a criminal action against (in a trial)"
+    ]
   },
   {
     "name": "poachers",
-    "trans": "偷猎者；侵入者"
+    "trans": [
+      "n. someone who hunts or fishes illegally on the property of another"
+    ]
   },
   {
     "name": "timeline",
-    "trans": "时间轴，时间线；大事年表"
+    "trans": [
+      "n. a sequence of related events arranged in chronological order and displayed along a line (usually drawn left to right or top to bottom)"
+    ]
   },
   {
     "name": "spectrum",
-    "trans": "光谱；频谱；余象；范围"
+    "trans": [
+      "n. an ordered array of the components of an emission or wave; a broad range of related objects or values or qualities or ideas or activities"
+    ]
   },
   {
     "name": "scrutiny",
-    "trans": "监视；详细审查；细看；选票复查"
+    "trans": [
+      "n. the act of examining something closely (as for mistakes); a prolonged intense look"
+    ]
   },
   {
     "name": "biases",
-    "trans": "偏差，偏见 v. 偏见"
+    "trans": [
+      "n. a partiality that prevents objective consideration of an issue or situation"
+    ]
   },
   {
     "name": "perplexing",
-    "trans": "adj. 令人困惑的；复杂的，令人费解的"
+    "trans": [
+      "adj. lacking clarity of meaning; causing confusion or perplexity"
+    ]
   },
   {
     "name": "lenses",
-    "trans": "柔性焦距透镜组"
+    "trans": [
+      "n. a transparent optical device used to converge or diverge transmitted light and to form images"
+    ]
   },
   {
     "name": "contact lenses",
-    "trans": "隐形眼镜"
+    "trans": [
+      "n. a thin curved glass or plastic lens designed to fit over the cornea in order to correct vision or to deliver medication"
+    ]
   },
   {
     "name": "disposable Contact Lenses",
@@ -1313,55 +1872,82 @@
   },
   {
     "name": "assailant",
-    "trans": "攻击者adj. 袭击的；攻击的"
+    "trans": [
+      "n. someone who attacks"
+    ]
   },
   {
     "name": "allegation",
-    "trans": "辩解；主张，断言"
+    "trans": [
+      "n. (law) a formal accusation against somebody (often in a court of law); statements affirming or denying certain matters of fact that you are prepared to prove"
+    ]
   },
   {
     "name": "consensual",
-    "trans": "adj. 交感的；在双方同意下成立的"
+    "trans": [
+      "adj. existing by consent"
+    ]
   },
   {
     "name": "corroborate",
-    "trans": "vt. 证实；使坚固"
+    "trans": [
+      "v. establish or strengthen as with new evidence or facts; give evidence for"
+    ]
   },
   {
     "name": "shred",
-    "trans": "碎片；少量剩余；最少量；破布 vt. 切成条状；用碎纸机撕毁vi. 撕碎"
+    "trans": [
+      "n. a tiny or scarcely detectable amount",
+      "v. tear into shreds"
+    ]
   },
   {
     "name": "lick",
-    "trans": "vt. 舔；卷过；鞭打vi. 舔；轻轻拍打n. 舔；打；少许"
+    "trans": [
+      "v. beat thoroughly and conclusively in a competition or fight; pass the tongue over"
+    ]
   },
   {
     "name": "shard",
-    "trans": "鞘翅；陶瓷碎片"
+    "trans": [
+      "n. a broken piece of a brittle artifact"
+    ]
   },
   {
     "name": "implicate",
-    "trans": "vt. 暗示；使牵连其中；含有…的意思 n. 包含的东西"
+    "trans": [
+      "v. bring into intimate and incriminating connection"
+    ]
   },
   {
     "name": "impartial",
-    "trans": "adj. 不偏不倚的；公平的，公正的"
+    "trans": [
+      "adj. showing lack of favoritism"
+    ]
   },
   {
     "name": "exonerate",
-    "trans": "vt. 使免罪"
+    "trans": [
+      "v. pronounce not guilty of criminal charges"
+    ]
   },
   {
     "name": "drastic",
-    "trans": "adj. 激烈的；猛烈的 n. 烈性泻药"
+    "trans": [
+      "adj. forceful and extreme and rigorous"
+    ]
   },
   {
     "name": "polymorphism",
-    "trans": "多态性；多形性；同质多晶"
+    "trans": [
+      "n. (genetics) the genetic variation within a population that natural selection can operate on"
+    ]
   },
   {
     "name": "milepost",
-    "trans": "里程碑；里程标志"
+    "trans": [
+      "n. stone post at side of a road to show distances"
+    ]
   },
   {
     "name": "roadmap",
@@ -1369,11 +1955,15 @@
   },
   {
     "name": "allele",
-    "trans": "等位基因"
+    "trans": [
+      "n. (genetics) either of a pair (or series) of alternative forms of a gene that can occupy the same locus on a particular chromosome and that control the same…"
+    ]
   },
   {
     "name": "genotype",
-    "trans": "基因型；遗传型"
+    "trans": [
+      "n. a group of organisms sharing a specific genetic constitution"
+    ]
   },
   {
     "name": "Amelogenin",
@@ -1385,67 +1975,100 @@
   },
   {
     "name": "homozygous",
-    "trans": "adj. 纯合子的；同型结合的"
+    "trans": [
+      "adj. having identical alleles at corresponding chromosomal loci"
+    ]
   },
   {
     "name": "heterozygous",
-    "trans": "adj. 杂合的"
+    "trans": [
+      "adj. having dissimilar alleles at corresponding chromosomal loci"
+    ]
   },
   {
     "name": "flanking",
-    "trans": "下齿面加工;侧面攻击adj. 侧翼的v. 侧面相接;侧面攻击(flank的ing形式)"
+    "trans": [
+      "v. be located at the sides of something or somebody"
+    ]
   },
   {
     "name": "lane",
-    "trans": "小巷；航线；车道；罚球区"
+    "trans": [
+      "n. a narrow way or road; a well-defined track or path; for e.g. swimmers or lines of traffic"
+    ]
   },
   {
     "name": "semen",
-    "trans": "精液；精子"
+    "trans": [
+      "n. the thick white fluid containing spermatozoa that is ejaculated by the male genital tract"
+    ]
   },
   {
     "name": "deposited",
-    "trans": "储存；存放；放置adj. 存放的；堆积的"
+    "trans": [
+      "v. put, fix, force, or implant; put into a bank account"
+    ]
   },
   {
     "name": "perpetrate",
-    "trans": "vt. 犯；做"
+    "trans": [
+      "v. perform an act, usually with a negative connotation"
+    ]
   },
   {
     "name": "swab",
-    "trans": "医用海绵，纱布;拭子;拖把，擦帚；无赖 vt. 打扫，擦拭；涂抹于"
+    "trans": [
+      "v. wash with a swab or a mop"
+    ]
   },
   {
     "name": "scraping",
-    "trans": "刮擦声；抹去adj. 刮擦的；吝啬的v. 刮，擦"
+    "trans": [
+      "n. (usually plural) a fragment scraped off of something and collected; a harsh noise made by scraping"
+    ]
   },
   {
     "name": "vaginal",
-    "trans": "adj. 阴道的；叶鞘的"
+    "trans": [
+      "adj. of or relating to the vagina"
+    ]
   },
   {
     "name": "sperm",
-    "trans": "精液；精子；鲸蜡油"
+    "trans": [
+      "n. the male reproductive cell; the male gamete"
+    ]
   },
   {
     "name": "precede",
-    "trans": "vt. 领先，在…之前；优于，高于vi. 领先，在前面"
+    "trans": [
+      "v. be earlier in time; go back further; come before"
+    ]
   },
   {
     "name": "postulate",
-    "trans": "vt. 要求；假定；视…为理所当然 n. 假定；基本条件"
+    "trans": [
+      "v. maintain or assert; take as a given; assume as a postulate or axiom",
+      "n. (logic) a proposition that is accepted as true in order to provide a basis for logical reasoning"
+    ]
   },
   {
     "name": "metabolic",
-    "trans": "adj. 新陈代谢的；变化的"
+    "trans": [
+      "adj. of or relating to metabolism"
+    ]
   },
   {
     "name": "single out",
-    "trans": "挑出；挑选"
+    "trans": [
+      "v. select from a group; treat differently on the basis of sex or race"
+    ]
   },
   {
     "name": "degrade",
-    "trans": "vt. 使……丢脸；使……降级；使……降解；贬低 vi. 退化；降低"
+    "trans": [
+      "v. reduce the level of land, as by erosion"
+    ]
   },
   {
     "name": "uncrumple",
@@ -1453,11 +2076,15 @@
   },
   {
     "name": "unscrupulous",
-    "trans": "adj. 肆无忌惮的；寡廉鲜耻的；不讲道德的"
+    "trans": [
+      "adj. without scruples or principles"
+    ]
   },
   {
     "name": "tamper",
-    "trans": "vi. 损害；削弱；干预；玩弄；篡改；贿赂 vt. 篡改n. 填塞者；捣棒"
+    "trans": [
+      "v. play around with or alter or falsify, usually secretively or dishonestly"
+    ]
   },
   {
     "name": "tamper with",
@@ -1465,71 +2092,107 @@
   },
   {
     "name": "prosecutor",
-    "trans": "检察官；公诉人；起诉人；实行者"
+    "trans": [
+      "n. a government official who conducts criminal prosecutions on behalf of the state"
+    ]
   },
   {
     "name": "alibis",
-    "trans": "不在场证明"
+    "trans": [
+      "n. (law) a defense by an accused person purporting to show that he or she could not have committed the crime in question"
+    ]
   },
   {
     "name": "alibi",
-    "trans": "托辞；犯罪现场；辩解vi. 辩解；找借口vt. 为…辩解"
+    "trans": [
+      "n. (law) a defense by an accused person purporting to show that he or she could not have committed the crime in question"
+    ]
   },
   {
     "name": "juror",
-    "trans": "审查委员，陪审员"
+    "trans": [
+      "n. someone who serves (or waits to be called to serve) on a jury"
+    ]
   },
   {
     "name": "jurors",
-    "trans": "陪审员"
+    "trans": [
+      "n. someone who serves (or waits to be called to serve) on a jury"
+    ]
   },
   {
     "name": "fallacies",
-    "trans": "错误，谬论"
+    "trans": [
+      "n. a misconception resulting from incorrect reasoning"
+    ]
   },
   {
     "name": "fallacy",
-    "trans": "谬论，谬误"
+    "trans": [
+      "n. a misconception resulting from incorrect reasoning"
+    ]
   },
   {
     "name": "Caucasians",
-    "trans": "高加索人；白种人"
+    "trans": [
+      "n. a member of the Caucasoid race"
+    ]
   },
   {
     "name": "caucasian",
-    "trans": "白种人；高加索人adj. 高加索的；白种人的"
+    "trans": [
+      "n. a member of the Caucasoid race",
+      "adj. of or relating to the geographical region of Caucasia"
+    ]
   },
   {
     "name": "Hispanic",
-    "trans": "adj. 西班牙的"
+    "trans": [
+      "n. an American whose first language is Spanish",
+      "adj. related to a Spanish-speaking people or culture"
+    ]
   },
   {
     "name": "casualties",
-    "trans": "伤亡；人员伤亡"
+    "trans": [
+      "n. someone injured or killed or captured or missing in a military engagement"
+    ]
   },
   {
     "name": "casualty",
-    "trans": "意外事故；伤亡人员；急诊室"
+    "trans": [
+      "n. someone injured or killed or captured or missing in a military engagement"
+    ]
   },
   {
     "name": "analyst",
-    "trans": "分析者；精神分析医师；分解者"
+    "trans": [
+      "n. someone who is skilled at analyzing data"
+    ]
   },
   {
     "name": "mitochondrion",
-    "trans": "线粒体"
+    "trans": [
+      "n. an organelle containing enzymes responsible for producing energy"
+    ]
   },
   {
     "name": "organelle",
-    "trans": "细胞器；细胞器官"
+    "trans": [
+      "n. a specialized part of a cell; analogous to an organ"
+    ]
   },
   {
     "name": "anecdotal",
-    "trans": "adj. 轶事一样的；轶事的；多轶事的"
+    "trans": [
+      "adj. having the character of an anecdote"
+    ]
   },
   {
     "name": "fondness",
-    "trans": "溺爱；爱好"
+    "trans": [
+      "n. a predisposition to like something"
+    ]
   },
   {
     "name": "fondness for",
@@ -1537,15 +2200,21 @@
   },
   {
     "name": "viral",
-    "trans": "adj. 滤过性毒菌引起的；滤过性毒菌的"
+    "trans": [
+      "adj. relating to or caused by a virus"
+    ]
   },
   {
     "name": "immunodeficiency",
-    "trans": "免疫缺陷"
+    "trans": [
+      "n. immunological disorder in which some part of the body's immune system is inadequate and resistance to infectious diseases is reduced"
+    ]
   },
   {
     "name": "inadvertently",
-    "trans": "adv. 非故意地；不注意地"
+    "trans": [
+      "adv. without knowledge or intention"
+    ]
   },
   {
     "name": "hantavirus",
@@ -1553,107 +2222,163 @@
   },
   {
     "name": "avian",
-    "trans": "adj. 鸟类的；鸟的n. 鸟"
+    "trans": [
+      "adj. pertaining to or characteristic of birds"
+    ]
   },
   {
     "name": "tuberculosis",
-    "trans": "肺结核；结核病"
+    "trans": [
+      "n. infection transmitted by inhalation or ingestion of tubercle bacilli and manifested in fever and small lesions (usually in the lungs but in various other parts…"
+    ]
   },
   {
     "name": "peruvian",
-    "trans": "adj. 秘鲁人的；秘鲁的n. 秘鲁人"
+    "trans": [
+      "n. a native or inhabitant of Peru",
+      "adj. of or relating to or characteristic of Peru or its people"
+    ]
   },
   {
     "name": "homicide",
-    "trans": "杀人；杀人犯"
+    "trans": [
+      "n. the killing of a human being by another human being"
+    ]
   },
   {
     "name": "warden",
-    "trans": "看守人；典狱官；区长；学监"
+    "trans": [
+      "n. the chief official in charge of a prison"
+    ]
   },
   {
     "name": "poacher",
-    "trans": "偷猎者；侵入者；炖蛋锅"
+    "trans": [
+      "n. someone who hunts or fishes illegally on the property of another"
+    ]
   },
   {
     "name": "carcass",
-    "trans": "尸体；畜体；残骸"
+    "trans": [
+      "n. the dead body of an animal especially one slaughtered and dressed for food"
+    ]
   },
   {
     "name": "freezer",
-    "trans": "冰箱；冷冻库；制冷工"
+    "trans": [
+      "n. electric refrigerator (trade name Deepfreeze) in which food is frozen and stored for long periods of time"
+    ]
   },
   {
     "name": "trophies",
-    "trans": "奖杯；战利品 v. 授予…战利品；以战利品装饰"
+    "trans": [
+      "n. an award for success in war or hunting"
+    ]
   },
   {
     "name": "polymorphic",
-    "trans": "adj.多态的；多形的；多形态的；多晶形的"
+    "trans": [
+      "adj. relating to the crystallization of a compound in two or more different forms"
+    ]
   },
   {
     "name": "reside",
-    "trans": "vt. 住，居住；属于"
+    "trans": [
+      "v. make one's home in a particular place or community; live (in a certain place)"
+    ]
   },
   {
     "name": "estimate",
-    "trans": "vi. 估计，估价n. 估计，估价；判断，看法vt. 估计，判断，评价"
+    "trans": [
+      "v. judge tentatively or form an estimate of (quantities or time); judge to be probable",
+      "n. an approximate calculation of quantity or degree or worth; a judgment of the qualities of something or somebody"
+    ]
   },
   {
     "name": "primate",
-    "trans": "大主教；灵长类的动物；首领adj. 首要的；灵长目动物的"
+    "trans": [
+      "n. a senior clergyman and dignitary"
+    ]
   },
   {
     "name": "scenario",
-    "trans": "情节；剧本；方案"
+    "trans": [
+      "n. an outline or synopsis of a play (or, by extension, of a literary work)"
+    ]
   },
   {
     "name": "anatomically",
-    "trans": "adv. 结构上；解剖学上"
+    "trans": [
+      "adv. with respect to anatomy"
+    ]
   },
   {
     "name": "controversy",
-    "trans": "争论；辩论；论战"
+    "trans": [
+      "n. a contentious speech act; a dispute where there is strong disagreement"
+    ]
   },
   {
     "name": "malignant",
-    "trans": "adj. 恶性的；有恶意的；有害的"
+    "trans": [
+      "adj. dangerous to health; characterized by progressive and uncontrolled growth (especially of a tumor)"
+    ]
   },
   {
     "name": "spine",
-    "trans": "脊柱，脊椎；刺；书脊"
+    "trans": [
+      "n. the series of vertebrae forming the axis of the skeleton and protecting the spinal cord"
+    ]
   },
   {
     "name": "skull",
-    "trans": "头盖骨，脑壳"
+    "trans": [
+      "n. the bony skeleton of the head of vertebrates"
+    ]
   },
   {
     "name": "notochord",
-    "trans": "脊索"
+    "trans": [
+      "n. a flexible rodlike structure that forms the supporting axis of the body in the lowest chordates and lowest vertebrates and in embryos of higher vertebrates"
+    ]
   },
   {
     "name": "devastate",
-    "trans": "vt. 毁坏；毁灭"
+    "trans": [
+      "v. cause extensive destruction or ruin utterly"
+    ]
   },
   {
     "name": "line",
-    "trans": "绳；路线，航线 vt. 划线于；排成一行；使…起皱纹 vi. 排队；站成一排"
+    "trans": [
+      "n. a formation of people or things one beside another; a mark that is long relative to its width",
+      "v. be in line with; form a line along; cover the interior of"
+    ]
   },
   {
     "name": "carcinoma",
-    "trans": "癌"
+    "trans": [
+      "n. any malignant tumor derived from epithelial tissue; one of the four major types of cancer"
+    ]
   },
   {
     "name": "mitosis",
-    "trans": "间接核分裂，有丝分裂"
+    "trans": [
+      "n. cell division in which the nucleus divides into nuclei containing the same number of chromosomes"
+    ]
   },
   {
     "name": "trigger",
-    "trans": "vt. 触发；引发，引起 vi. 松开扳柄n. 触发器；扳机；制滑机"
+    "trans": [
+      "n. lever that activates the firing mechanism of a gun",
+      "v. put in motion or move to act; release or pull the trigger on"
+    ]
   },
   {
     "name": "islet",
-    "trans": "小岛"
+    "trans": [
+      "n. a small island"
+    ]
   },
   {
     "name": "islet cell",
@@ -1661,87 +2386,133 @@
   },
   {
     "name": "span",
-    "trans": "跨度，跨距；范围vt. 跨越；持续；以手指测量"
+    "trans": [
+      "v. to cover or extend over an area or time period; ,",
+      "n. the complete duration of something; the distance or interval between two points"
+    ]
   },
   {
     "name": "quiescent",
-    "trans": "adj. 静止的；不活动的；沉寂的"
+    "trans": [
+      "adj. not active or activated"
+    ]
   },
   {
     "name": "slough",
-    "trans": "蜕下的皮；绝境；泥沼；腐肉 vt. 使陷入泥沼；抛弃vi.在泥浆中跋涉"
+    "trans": [
+      "n. necrotic tissue; a mortified or gangrenous part or mass",
+      "v. cast off hair, skin, horn, or feathers"
+    ]
   },
   {
     "name": "slough off",
-    "trans": "丢弃；抛弃"
+    "trans": [
+      "v. discard as undesirable"
+    ]
   },
   {
     "name": "shed",
-    "trans": "vt.散发；流出；摆脱；倾吐vi. 流出；脱落；散布n. 小屋，棚；分水岭"
+    "trans": [
+      "v. get rid of; pour out in drops or small quantities or as if in drops or small quantities",
+      "n. an outbuilding with a single story; used for shelter or storage"
+    ]
   },
   {
     "name": "lymphocyte",
-    "trans": "淋巴细胞；淋巴球"
+    "trans": [
+      "n. an agranulocytic leukocyte that normally makes up a quarter of the white blood cell count but increases in the presence of infection"
+    ]
   },
   {
     "name": "fetus",
-    "trans": "胎儿，胎"
+    "trans": [
+      "n. an unborn or unhatched vertebrate in the later stages of development showing the main recognizable features of the mature animal"
+    ]
   },
   {
     "name": "myriad",
-    "trans": "adj. 无数的；种种的n. 无数，极大数量；无数的人或物"
+    "trans": [
+      "adj. too numerous to be counted",
+      "n. a large indefinite number"
+    ]
   },
   {
     "name": "gamete",
-    "trans": "配子，配偶子"
+    "trans": [
+      "n. a mature sexual reproductive cell having a single set of unpaired chromosomes"
+    ]
   },
   {
     "name": "trauma",
-    "trans": "外伤；创伤"
+    "trans": [
+      "n. any physical damage to the body caused by violence or accident or fracture etc."
+    ]
   },
   {
     "name": "dermal",
-    "trans": "adj. 真皮的；皮肤的"
+    "trans": [
+      "adj. of or relating to a cuticle or cuticula"
+    ]
   },
   {
     "name": "epidermis",
-    "trans": "上皮，表皮"
+    "trans": [
+      "n. the outer layer of the skin covering the exterior body surface of vertebrates"
+    ]
   },
   {
     "name": "dermis",
-    "trans": "皮肤，真皮"
+    "trans": [
+      "n. the deep vascular inner layer of the skin"
+    ]
   },
   {
     "name": "subcutaneous",
-    "trans": "adj. 皮下的；皮下用的"
+    "trans": [
+      "adj. relating to or located below the epidermis"
+    ]
   },
   {
     "name": "sebaceous",
-    "trans": "adj. 分泌脂质的；脂肪的，脂肪质的；似油脂或皮脂的"
+    "trans": [
+      "adj. containing an unusual amount of grease or oil"
+    ]
   },
   {
     "name": "rod",
-    "trans": "棒；枝条；惩罚；权力"
+    "trans": [
+      "n. a long thin implement made of metal or wood; any rod-shaped bacterium"
+    ]
   },
   {
     "name": "mitotic",
-    "trans": "adj. 有丝分裂的；间接核分裂的"
+    "trans": [
+      "adj. of or relating to or undergoing mitosis"
+    ]
   },
   {
     "name": "inflammatory",
-    "trans": "adj. 炎症性的；煽动性的；激动的"
+    "trans": [
+      "adj. characterized or caused by inflammation"
+    ]
   },
   {
     "name": "phagocytosis",
-    "trans": "吞噬作用"
+    "trans": [
+      "n. process in which phagocytes engulf and digest microorganisms and cellular debris; an important defense against infection"
+    ]
   },
   {
     "name": "fibroblast",
-    "trans": "纤维原细胞；纤维组织母细胞"
+    "trans": [
+      "n. a cell from which connective tissue develops"
+    ]
   },
   {
     "name": "collagen",
-    "trans": "胶原，胶原质"
+    "trans": [
+      "n. a fibrous scleroprotein in bone and cartilage and tendon and other connective tissue; yields gelatin on boiling"
+    ]
   },
   {
     "name": "fibronectin",
@@ -1749,19 +2520,28 @@
   },
   {
     "name": "matrix",
-    "trans": "矩阵；基质；模型；脉石；母体；子宫"
+    "trans": [
+      "n. (mathematics) a rectangular array of quantities or expressions set out by rows and columns; treated as a single element and manipulated according to rules"
+    ]
   },
   {
     "name": "deposit",
-    "trans": "存款；保证金；沉淀物vt. 存放；使沉积vi. 沉淀"
+    "trans": [
+      "v. put, fix, force, or implant; put into a bank account",
+      "n. the phenomenon of sediment or gravel accumulating; matter that has been deposited by some natural process"
+    ]
   },
   {
     "name": "paralysis",
-    "trans": "麻痹；停顿；无力"
+    "trans": [
+      "n. loss of the ability to move a body part"
+    ]
   },
   {
     "name": "liver",
-    "trans": "肝脏；生活者，居民"
+    "trans": [
+      "n. large and complicated reddish-brown glandular organ located in the upper right portion of the abdominal cavity…"
+    ]
   },
   {
     "name": "ploidy",
@@ -1769,23 +2549,35 @@
   },
   {
     "name": "diploid",
-    "trans": "二倍体；倍数染色体adj. 双倍的；倍数的；双重的"
+    "trans": [
+      "n. (genetics) an organism or cell having the normal amount of DNA per cell; i.e., two sets of chromosomes or twice the haploid number",
+      "adj. of a cell or organism having two sets of chromosomes or twice the haploid number"
+    ]
   },
   {
     "name": "haploid",
-    "trans": "单倍体adj. 单一的"
+    "trans": [
+      "n. (genetics) an organism or cell having only one complete set of chromosomes",
+      "adj. of a cell or organism having a single set of chromosomes"
+    ]
   },
   {
     "name": "replicate",
-    "trans": "vt. 复制；折叠vi. 重复；折转adj. 复制的n. 复制品"
+    "trans": [
+      "v. bend or turn backward"
+    ]
   },
   {
     "name": "duplicate",
-    "trans": "vt. 复制；使加倍n. 复制品adj. 二重的vi. 重复；复制"
+    "trans": [
+      "v. make or do or perform again"
+    ]
   },
   {
     "name": "fidelity",
-    "trans": "保真度；忠诚；尽责；精确"
+    "trans": [
+      "n. accuracy with which an electronic system reproduces the sound or image of its input signal"
+    ]
   },
   {
     "name": "segregant",
@@ -1793,55 +2585,81 @@
   },
   {
     "name": "progeny",
-    "trans": "后裔；子孙；成果"
+    "trans": [
+      "n. the immediate descendants of a person"
+    ]
   },
   {
     "name": "ovaries",
-    "trans": "卵巢，子房"
+    "trans": [
+      "n. the organ that bears the ovules of a flower"
+    ]
   },
   {
     "name": "ovary",
-    "trans": "子房；卵巢"
+    "trans": [
+      "n. the organ that bears the ovules of a flower"
+    ]
   },
   {
     "name": "testes",
-    "trans": "睾丸"
+    "trans": [
+      "n. one of the two male reproductive glands that produce spermatozoa and secrete androgens"
+    ]
   },
   {
     "name": "testis",
-    "trans": "睾丸 testis: 睾丸 | 证人 | 睪丸"
+    "trans": [
+      "n. one of the two male reproductive glands that produce spermatozoa and secrete androgens"
+    ]
   },
   {
     "name": "metaphase",
-    "trans": "中期adj. 中期的；转位期的"
+    "trans": [
+      "n. the second stage of meiosis"
+    ]
   },
   {
     "name": "transit",
-    "trans": "运输；经过vt. 运送vi. 经过"
+    "trans": [
+      "n. a surveying instrument for measuring horizontal and vertical angles, consisting of a small telescope mounted on a tripod"
+    ]
   },
   {
     "name": "microtubule",
-    "trans": "微管"
+    "trans": [
+      "n. a microscopically small tubule"
+    ]
   },
   {
     "name": "surveillance",
-    "trans": "监督；监视"
+    "trans": [
+      "n. close observation of a person or group (usually by the police)"
+    ]
   },
   {
     "name": "Surveillance",
-    "trans": "监督 | 监视 | 管制"
+    "trans": [
+      "n. close observation of a person or group (usually by the police)"
+    ]
   },
   {
     "name": "aneuploidy",
-    "trans": "非整倍性；异倍体性；异倍性"
+    "trans": [
+      "n. an abnormality involving a chromosome number that is not an exact multiple of the haploid number (one chromosome set is incomplete)"
+    ]
   },
   {
     "name": "prevent",
-    "trans": "vt. 预防，防止；阻止vi. 妨碍，阻止"
+    "trans": [
+      "v. keep from happening or arising; make impossible; stop (someone or something) from doing something or being in a certain state"
+    ]
   },
   {
     "name": "prevention",
-    "trans": "预防；阻止；妨碍"
+    "trans": [
+      "n. the act of preventing"
+    ]
   },
   {
     "name": "protooncogene",
@@ -1849,51 +2667,78 @@
   },
   {
     "name": "proto-oncogene",
-    "trans": "原癌基因"
+    "trans": [
+      "n. a normal gene that has the potential to become an oncogene"
+    ]
   },
   {
     "name": "suppressor",
-    "trans": "消除器；抑制器"
+    "trans": [
+      "n. someone who suppresses"
+    ]
   },
   {
     "name": "ultraviolet",
-    "trans": "adj. 紫外的；紫外线的n. 紫外线辐射，紫外光"
+    "trans": [
+      "n. radiation lying in the ultraviolet range; wave lengths shorter than light but longer than X rays",
+      "adj. having or employing wavelengths shorter than light but longer than X-rays; lying outside the visible spectrum at its violet end"
+    ]
   },
   {
     "name": "vulnerable",
-    "trans": "adj. 有弱点的；易受伤害的；易受攻击的，易受…的攻击"
+    "trans": [
+      "adj. susceptible to attack"
+    ]
   },
   {
     "name": "sarcoma",
-    "trans": "肉瘤，恶性毒瘤"
+    "trans": [
+      "n. a usually malignant tumor arising from connective tissue (bone or muscle etc.); one of the four major types of cancer"
+    ]
   },
   {
     "name": "prostate",
-    "trans": "adj. 前列腺的n. 前列腺"
+    "trans": [
+      "n. a firm partly muscular chestnut sized gland in males at the neck of the urethra; produces a viscid secretion that is the fluid part of semen",
+      "adj. relating to the prostate gland"
+    ]
   },
   {
     "name": "nuclei",
-    "trans": "核心，核子；原子核"
+    "trans": [
+      "n. a part of the cell containing DNA and RNA and responsible for growth and reproduction; the positively charged dense center of an atom"
+    ]
   },
   {
     "name": "bud",
-    "trans": "芽，萌芽；蓓蕾vi. 发芽，萌芽 vt. 使发芽"
+    "trans": [
+      "n. a partially opened flower; a swelling on a plant stem consisting of overlapping immature leaves or petals",
+      "v. develop buds; start to grow or develop"
+    ]
   },
   {
     "name": "spindle",
-    "trans": "轴；纺锤，锭子adj. 细长的；锭子的 vt. 装锭子于vi. 变细长"
+    "trans": [
+      "n. (biology) tiny fibers that are seen in cell division; the fibers radiate from two poles and meet at the equator in the middle"
+    ]
   },
   {
     "name": "metastasis",
-    "trans": "转移；新陈代谢；[地质"
+    "trans": [
+      "n. the spreading of a disease (especially cancer) to another part of the body"
+    ]
   },
   {
     "name": "angiogenesis",
-    "trans": "血管生成；血管再生术"
+    "trans": [
+      "n. the formation of new blood vessels"
+    ]
   },
   {
     "name": "benign",
-    "trans": "adj. 良性的；吉利的；和蔼的，亲切的"
+    "trans": [
+      "adj. not dangerous to health; not recurrent or progressive (especially of a tumor)"
+    ]
   },
   {
     "name": "thrombospondin",
@@ -1909,71 +2754,105 @@
   },
   {
     "name": "vascular",
-    "trans": "adj. 血管的"
+    "trans": [
+      "adj. of or relating to or having vessels that conduct and circulate fluids"
+    ]
   },
   {
     "name": "endothelial",
-    "trans": "adj. 内皮的"
+    "trans": [
+      "adj. of or relating to or located in the endothelium"
+    ]
   },
   {
     "name": "oncogene",
-    "trans": "致癌基因"
+    "trans": [
+      "n. a gene that disposes normal cells to change into cancerous tumor cells"
+    ]
   },
   {
     "name": "avascular",
-    "trans": "adj. 无血管的"
+    "trans": [
+      "adj. without blood vessels"
+    ]
   },
   {
     "name": "retina",
-    "trans": "视网膜"
+    "trans": [
+      "n. the innermost light-sensitive membrane covering the back wall of the eyeball; it is continuous with the optic nerve"
+    ]
   },
   {
     "name": "lymph",
-    "trans": "node淋巴结"
+    "trans": [
+      "n. a thin coagulable fluid (similar to plasma but) containing white blood cells (lymphocytes) and chyle; is conveyed to the blood stream by lymphatic vessels"
+    ]
   },
   {
     "name": "suppression",
-    "trans": "抑制；镇压；压抑"
+    "trans": [
+      "n. the failure to develop some part or organ"
+    ]
   },
   {
     "name": "transducer",
-    "trans": "传感器，变换器，换能器"
+    "trans": [
+      "n. an electrical device that converts one form of energy into another"
+    ]
   },
   {
     "name": "leukemia",
-    "trans": "白血病"
+    "trans": [
+      "n. malignant neoplasm of blood-forming tissues; characterized by abnormal proliferation of leukocytes; one of the four major types of cancer"
+    ]
   },
   {
     "name": "identical",
-    "trans": "adj. 同一的；完全相同的n. 完全相同的事物"
+    "trans": [
+      "adj. exactly alike; incapable of being perceived as different; being the exact same one; not any other:"
+    ]
   },
   {
     "name": "mutant",
-    "trans": "突变体；突变异种adj. 突变的"
+    "trans": [
+      "n. (biology) an organism that has characteristics resulting from chromosomal alteration"
+    ]
   },
   {
     "name": "ribbon",
-    "trans": "缎带；带状物；带；绶带；勋表vi. 形成带状vt. 把…撕成条带"
+    "trans": [
+      "n. any long object resembling a thin line"
+    ]
   },
   {
     "name": "clamp",
-    "trans": "vt. 夹紧，固定住n. 夹钳，螺丝钳"
+    "trans": [
+      "v. fasten or fix with a clamp; impose or inflict forcefully"
+    ]
   },
   {
     "name": "antigen",
-    "trans": "抗原"
+    "trans": [
+      "n. any substance (as a toxin or enzyme) that stimulates an immune response in the body (especially the production of antibodies)"
+    ]
   },
   {
     "name": "cascade",
-    "trans": "小瀑布；喷流；层叠vi. 像瀑布般冲下或倾泻v. 使瀑布似地落下"
+    "trans": [
+      "v. rush down in big quantities, like a cascade"
+    ]
   },
   {
     "name": "retinoblastoma",
-    "trans": "成视网膜细胞瘤；眼癌"
+    "trans": [
+      "n. malignant ocular tumor of retinal cells; usually occurs before the third year of life; composed of primitive small round retinal cells"
+    ]
   },
   {
     "name": "laser",
-    "trans": "激光"
+    "trans": [
+      "n. an acronym for light amplification by stimulated emission of radiation; an optical device that produces an intense monochromatic beam of coherent light"
+    ]
   },
   {
     "name": "cryotreatment",
@@ -1981,27 +2860,39 @@
   },
   {
     "name": "retinal",
-    "trans": "adj. 视网膜的n. 视黄醛"
+    "trans": [
+      "adj. in or relating to the retina of the eye"
+    ]
   },
   {
     "name": "afflict",
-    "trans": "vt. 折磨；使痛苦；使苦恼"
+    "trans": [
+      "v. cause great unhappiness for; distress"
+    ]
   },
   {
     "name": "propelled",
-    "trans": "adj. 推进的v. 推动；驱使"
+    "trans": [
+      "v. cause to move forward with force"
+    ]
   },
   {
     "name": "tyrosine",
-    "trans": "酪氨酸"
+    "trans": [
+      "n. an amino acid found in most proteins; a precursor of several hormones"
+    ]
   },
   {
     "name": "neuroblastoma",
-    "trans": "成神经细胞瘤"
+    "trans": [
+      "n. malignant tumor containing embryonic nerve cells; usually metastasizes quickly"
+    ]
   },
   {
     "name": "epidermal",
-    "trans": "adj. 表皮的；外皮的"
+    "trans": [
+      "adj. of or relating to a cuticle or cuticula"
+    ]
   },
   {
     "name": "Herceptin",
@@ -2013,71 +2904,106 @@
   },
   {
     "name": "thyroid",
-    "trans": "甲状腺；甲状软骨；甲状腺剂adj. 甲状腺的；盾状的"
+    "trans": [
+      "n. located near the base of the neck"
+    ]
   },
   {
     "name": "bladder",
-    "trans": "膀胱；囊状物，可充气的囊袋"
+    "trans": [
+      "n. a distensible membranous sac (usually containing liquid or gas)"
+    ]
   },
   {
     "name": "ovarian",
-    "trans": "adj. 卵巢的；子房的"
+    "trans": [
+      "adj. of or involving the ovaries"
+    ]
   },
   {
     "name": "telomere",
-    "trans": "端粒"
+    "trans": [
+      "n. either (free) end of a eukaryotic chromosome"
+    ]
   },
   {
     "name": "senescence",
-    "trans": "衰老"
+    "trans": [
+      "n. the organic process of growing older and showing the effects of increasing age"
+    ]
   },
   {
     "name": "familial",
-    "trans": "adj. 家庭的；家族的；遗传的"
+    "trans": [
+      "adj. relating to or having the characteristics of a family"
+    ]
   },
   {
     "name": "sporadic",
-    "trans": "adj. 零星的；分散的；不定时发生的"
+    "trans": [
+      "adj. recurring in scattered and irregular or unpredictable instances"
+    ]
   },
   {
     "name": "succumb",
-    "trans": "vi. 屈服；被压垮；死"
+    "trans": [
+      "v. consent reluctantly"
+    ]
   },
   {
     "name": "colon",
-    "trans": "结肠；冒号（用于引语、说明、例证等之前)"
+    "trans": [
+      "n. the part of the large intestine between the cecum and the rectum; it extracts moisture from food residues before they are excreted"
+    ]
   },
   {
     "name": "preventive",
-    "trans": "预防药；预防法adj. 预防的，防止的"
+    "trans": [
+      "adj. preventing or contributing to the prevention of disease"
+    ]
   },
   {
     "name": "anchor",
-    "trans": "锚；靠山；抛锚停泊vt. 抛锚；使固定；主持vi. 抛锚adj. 末捧的"
+    "trans": [
+      "v. fix firmly and stably; secure a vessel with an anchor",
+      "n. a mechanical device that prevents a vessel from moving; a central cohesive source of support and stability"
+    ]
   },
   {
     "name": "intestine",
-    "trans": "adj. 内部的；国内的n. 肠"
+    "trans": [
+      "n. the part of the alimentary canal between the stomach and the anus"
+    ]
   },
   {
     "name": "menopause",
-    "trans": "更年期；活动终止期"
+    "trans": [
+      "n. the time in a woman's life in which the menstrual cycle ends"
+    ]
   },
   {
     "name": "melanoma",
-    "trans": "黑素瘤；胎记瘤"
+    "trans": [
+      "n. any of several malignant neoplasms (usually of the skin) consisting of melanocytes"
+    ]
   },
   {
     "name": "gallbladder",
-    "trans": "胆囊"
+    "trans": [
+      "n. a muscular sac attached to the liver that stores bile (secreted by the liver) until it is needed for digestion"
+    ]
   },
   {
     "name": "bile duct",
-    "trans": "胆道，胆管"
+    "trans": [
+      "n. a duct formed by the hepatic and cystic ducts; opens into the duodenum"
+    ]
   },
   {
     "name": "spontaneous",
-    "trans": "adj. 自发的；自然的；无意识的"
+    "trans": [
+      "adj. happening or arising without apparent external cause"
+    ]
   },
   {
     "name": "epstein-barr",
@@ -2085,7 +3011,9 @@
   },
   {
     "name": "mononucleosis",
-    "trans": "单核细胞增多症；单核白血球增多症"
+    "trans": [
+      "n. an acute disease characterized by fever and swollen lymph nodes and an abnormal increase of mononuclear leucocytes or monocytes in the bloodstream…"
+    ]
   },
   {
     "name": "alkylating",
@@ -2097,15 +3025,21 @@
   },
   {
     "name": "asbestos",
-    "trans": "石棉adj. 石棉的"
+    "trans": [
+      "n. a fibrous amphibole; used for making fireproof articles; inhaling fibers can cause asbestosis or lung cancer"
+    ]
   },
   {
     "name": "aromatic",
-    "trans": "adj. 芳香的，芬芳的；芳香族的n. 芳香植物；芳香剂"
+    "trans": [
+      "adj. (chemistry) of or relating to or containing one or more benzene rings"
+    ]
   },
   {
     "name": "cavity",
-    "trans": "洞，凹处；腔"
+    "trans": [
+      "n. a sizeable hole (usually in the ground)"
+    ]
   },
   {
     "name": "blader",
@@ -2113,39 +3047,57 @@
   },
   {
     "name": "esophagus",
-    "trans": "食管；食道"
+    "trans": [
+      "n. the passage between the pharynx and the stomach"
+    ]
   },
   {
     "name": "vinyl",
-    "trans": "乙烯基"
+    "trans": [
+      "n. a univalent chemical radical derived from ethylene"
+    ]
   },
   {
     "name": "angiosarcoma",
-    "trans": "血管肉瘤"
+    "trans": [
+      "n. a rare malignant neoplasm arising from vascular tissue…"
+    ]
   },
   {
     "name": "gastrointestinal",
-    "trans": "adj. 胃肠的"
+    "trans": [
+      "adj. of or relating to the stomach and intestines"
+    ]
   },
   {
     "name": "nitrate",
-    "trans": "硝酸盐vt. 用硝酸处理"
+    "trans": [
+      "n. any compound containing the nitrate group (such as a salt or ester of nitric acid)"
+    ]
   },
   {
     "name": "estrogen",
-    "trans": "雌性激素"
+    "trans": [
+      "n. a general term for female steroid sex hormones that are secreted by the ovary and responsible for typical female sexual characteristics"
+    ]
   },
   {
     "name": "diethylstilbestrol",
-    "trans": "己烯雌酚；乙芪酚"
+    "trans": [
+      "n. a potent estrogen used in medicine and in feed for livestock and poultry"
+    ]
   },
   {
     "name": "clinical",
-    "trans": "adj. 临床的；诊所的"
+    "trans": [
+      "adj. relating to a clinic or conducted in or as if in a clinic and depending on direct observation of patients; scientifically detached; unemotional"
+    ]
   },
   {
     "name": "agent",
-    "trans": "代理人，代理商；药剂；特工 vt. 由…作中介；由…代理adj. 代理的"
+    "trans": [
+      "n. an active and efficient cause; capable of producing a certain effect; a representative who acts on behalf of other persons or organizations"
+    ]
   },
   {
     "name": "a cast of thousands",
@@ -2157,27 +3109,40 @@
   },
   {
     "name": "blastocyst",
-    "trans": "囊胚；胚包"
+    "trans": [
+      "n. the blastula of a placental mammal in which some differentiation of cells has occurred"
+    ]
   },
   {
     "name": "hollow",
-    "trans": "adj. 空的；凹的；虚伪的n. 洞；山谷vi. 形成空洞adv. 无用地；彻底地"
+    "trans": [
+      "n. a cavity or space in something; a small valley between mountains",
+      "adj. not solid; having a space or gap or cavity; as if echoing in a hollow space"
+    ]
   },
   {
     "name": "pyknosis",
-    "trans": "固缩；细胞致密变化"
+    "trans": [
+      "n. a degenerative state of the cell nucleus"
+    ]
   },
   {
     "name": "bleb",
-    "trans": "疱疹；水泡；气泡"
+    "trans": [
+      "n. (pathology) an elevation of the skin filled with serous fluid"
+    ]
   },
   {
     "name": "shrinkage",
-    "trans": "收缩；减低"
+    "trans": [
+      "n. process or result of becoming less or smaller"
+    ]
   },
   {
     "name": "phagocyte",
-    "trans": "噬菌细胞"
+    "trans": [
+      "n. a cell that engulfs and digests debris and invading microorganisms"
+    ]
   },
   {
     "name": "lyse",
@@ -2185,58 +3150,87 @@
   },
   {
     "name": "ectoderm",
-    "trans": "外胚层，外细胞层"
+    "trans": [
+      "n. the outer germ layer that develops into skin and nervous tissue"
+    ]
   },
   {
     "name": "endoderm",
-    "trans": "内胚层；内皮层；下胚层"
+    "trans": [
+      "n. the inner germ layer that develops into the lining of the digestive and respiratory systems"
+    ]
   },
   {
     "name": "mesoderm",
-    "trans": "中胚层；中胚叶"
+    "trans": [
+      "n. the middle germ layer that develops into muscle and bone and cartilage and blood and connective tissue"
+    ]
   },
   {
     "name": "peripheral",
-    "trans": "adj. 外围的；次要的"
+    "trans": [
+      "adj. on or near an edge or constituting an outer boundary; the outer area; related to the key issue but not of central importance"
+    ]
   },
   {
     "name": "mammary",
-    "trans": "adj. 乳腺的；乳房的"
+    "trans": [
+      "adj. of or relating to the milk-giving gland of the female"
+    ]
   },
   {
     "name": "pituitary",
-    "trans": "垂体；脑垂体adj. 脑垂体的；脑垂体分泌失调引起的"
+    "trans": [
+      "n. the master gland of the endocrine system; located at the base of the brain"
+    ]
   },
   {
     "name": "enamel",
-    "trans": "珐琅；瓷釉；搪瓷；指甲油 vt. 涂以瓷釉；彩饰"
+    "trans": [
+      "n. hard white substance covering the crown of a tooth",
+      "v. coat, inlay, or surface with enamel"
+    ]
   },
   {
     "name": "cartilage",
-    "trans": "软骨"
+    "trans": [
+      "n. tough elastic tissue; mostly converted to bone in adults"
+    ]
   },
   {
     "name": "connective",
-    "trans": "adj. 连合的，连接的n. 连接词；连接物"
+    "trans": [
+      "adj. connecting or tending to connect"
+    ]
   },
   {
     "name": "morphological",
-    "trans": "adj. 形态学的"
+    "trans": [
+      "adj. relating to or concerned with the formation of admissible words in a language"
+    ]
   },
   {
     "name": "intricate",
-    "trans": "adj. 复杂的；错综的，缠结的"
+    "trans": [
+      "adj. having many complexly arranged elements; elaborate"
+    ]
   },
   {
     "name": "syndactyly",
-    "trans": "并指；并趾"
+    "trans": [
+      "n. birth defect in which there is partial or total webbing connecting two or more fingers or toes"
+    ]
   },
   {
     "name": "fused",
-    "trans": "adj. 装有保险丝的；熔化的，熔凝的 v. 混合；熔解"
+    "trans": [
+      "adj. joined together into a whole"
+    ]
   },
   {
     "name": "surgically",
-    "trans": "adv. 如外科手术般地"
+    "trans": [
+      "adv. in a surgical manner; by means of surgery"
+    ]
   }
 ]

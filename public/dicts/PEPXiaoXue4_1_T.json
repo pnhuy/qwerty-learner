@@ -2,7 +2,7 @@
     {
         "name": "classroom",
         "trans": [
-            "教室"
+            "n. a room in a school where lessons take place"
         ],
         "usphone": "'klæsrʊm",
         "ukphone": "'klɑːsruːm; -rʊm"
@@ -10,7 +10,7 @@
     {
         "name": "window",
         "trans": [
-            "窗户"
+            "n. a framework of wood or metal that contains a glass windowpane and is built into a wall or roof to admit light or air"
         ],
         "usphone": "'wɪndo",
         "ukphone": "'wɪndəʊ"
@@ -18,7 +18,7 @@
     {
         "name": "blackboard",
         "trans": [
-            "黑板"
+            "n. sheet of slate; for writing with chalk"
         ],
         "usphone": "'blækbɔrd",
         "ukphone": "'blækbɔːd"
@@ -26,7 +26,9 @@
     {
         "name": "light",
         "trans": [
-            "电灯"
+            "n. (physics) electromagnetic radiation that can produce a visual sensation; any device serving as a source of illumination",
+            "adj. of comparatively little physical weight or density; (used of color) having a relatively small amount of coloring agent",
+            "v. make lighter or brighter; begin to smoke"
         ],
         "usphone": "laɪt",
         "ukphone": "laɪt"
@@ -34,7 +36,8 @@
     {
         "name": "picture",
         "trans": [
-            "图画"
+            "n. a visual representation (of an object or scene or person or abstraction) produced on a surface",
+            "v. imagine; conceive of; see in one's mind; show in, or as in, a picture"
         ],
         "usphone": "'pɪktʃɚ",
         "ukphone": "'pɪktʃə"
@@ -42,7 +45,7 @@
     {
         "name": "door",
         "trans": [
-            "门"
+            "n. a swinging or sliding barrier that will close the entrance to a room or building or vehicle"
         ],
         "usphone": "dɔr",
         "ukphone": "dɔː"
@@ -58,7 +61,7 @@
     {
         "name": "computer",
         "trans": [
-            "计算机"
+            "n. a machine for performing calculations automatically"
         ],
         "usphone": "kəm'pjutɚ",
         "ukphone": "kəm'pjuːtə"
@@ -66,7 +69,8 @@
     {
         "name": "fan",
         "trans": [
-            "风扇"
+            "n. a device for creating a current of air by movement of a surface or surfaces; an enthusiastic devotee of sports",
+            "v. strike out (a batter), (of a pitcher); make (an emotion) fiercer"
         ],
         "usphone": "fæn",
         "ukphone": "fæn"
@@ -74,7 +78,7 @@
     {
         "name": "wall",
         "trans": [
-            "墙壁"
+            "n. an architectural partition with a height and length greater than its thickness; used to divide or enclose an area or to support another structure"
         ],
         "usphone": "wɔl",
         "ukphone": "wɔːl"
@@ -82,7 +86,7 @@
     {
         "name": "floor",
         "trans": [
-            "地板"
+            "n. the inside lower horizontal surface (as of a room, hallway, tent, or other structure)"
         ],
         "usphone": "flɔr",
         "ukphone": "flɔː"
@@ -90,7 +94,7 @@
     {
         "name": "really",
         "trans": [
-            "真的"
+            "adv. in accordance with truth or fact or reality; in actual fact"
         ],
         "usphone": "ˈriəˌli, ˈrili",
         "ukphone": "'rɪəlɪ"
@@ -98,7 +102,8 @@
     {
         "name": "near",
         "trans": [
-            "距离近"
+            "prep. / adv. at or to a short distance from",
+            "adj. close in space or time"
         ],
         "usphone": "nɪr",
         "ukphone": "nɪə"
@@ -106,7 +111,7 @@
     {
         "name": "TV",
         "trans": [
-            "电视"
+            "n. broadcasting visual images of stationary or moving objects; an electronic device that receives television signals and displays them on a screen"
         ],
         "usphone": "ˌti vi",
         "ukphone": "ˌti: ˈvi:"
@@ -114,7 +119,9 @@
     {
         "name": "clean",
         "trans": [
-            "打扫"
+            "v. make clean by removing dirt, filth, or unwanted substances from; remove unwanted substances from, such as feathers or pits",
+            "adj. free from dirt or impurities; or having clean habits; free of restrictions or qualifications",
+            "n. a weightlift in which the barbell is lifted to shoulder height and then jerked overhead"
         ],
         "usphone": "klin",
         "ukphone": "kliːn"
@@ -122,7 +129,8 @@
     {
         "name": "help",
         "trans": [
-            "帮助"
+            "v. give help or assistance; be of service; improve the condition of",
+            "n. the activity of contributing to the fulfillment of a need or furtherance of an effort or purpose"
         ],
         "usphone": "hɛlp",
         "ukphone": "help"
@@ -130,7 +138,7 @@
     {
         "name": "schoolbag",
         "trans": [
-            "书包"
+            "n. a bag for carrying school books and supplies"
         ],
         "usphone": "ˈskulˌbæɡ",
         "ukphone": "'skuːlbæɡ"
@@ -162,7 +170,7 @@
     {
         "name": "storybook",
         "trans": [
-            "故事书"
+            "n. a book containing a collection of stories (usually for children)"
         ],
         "usphone": "'stɔrɪ'bʊk",
         "ukphone": "'stɔːrɪbʊk"
@@ -170,7 +178,7 @@
     {
         "name": "candy",
         "trans": [
-            "糖果"
+            "n. a rich sweet made of flavored sugar and often combined with fruit or nuts"
         ],
         "usphone": "ˈkændɪ",
         "ukphone": "'kændɪ"
@@ -178,7 +186,7 @@
     {
         "name": "notebook",
         "trans": [
-            "笔记本"
+            "n. a book with blank pages for recording notes or memoranda"
         ],
         "usphone": "'notbʊk",
         "ukphone": "'nəʊtbʊk"
@@ -186,7 +194,7 @@
     {
         "name": "toy",
         "trans": [
-            "玩具"
+            "n. an artifact designed to be played with"
         ],
         "usphone": "tɔɪ",
         "ukphone": "tɒɪ"
@@ -194,7 +202,9 @@
     {
         "name": "key",
         "trans": [
-            "钥匙"
+            "n. metal device shaped in such a way that when it is inserted into the appropriate lock the lock's mechanism can be rotated; something crucial for explaining",
+            "adj. serving as an essential component",
+            "v. identify as in botany or biology, for example"
         ],
         "usphone": "",
         "ukphone": "kiː"
@@ -202,7 +212,8 @@
     {
         "name": "wow",
         "trans": [
-            "呀"
+            "n. a joke that seems extremely funny",
+            "v. impress greatly"
         ],
         "usphone": "wou",
         "ukphone": "waʊ"
@@ -210,7 +221,8 @@
     {
         "name": "lost",
         "trans": [
-            "丢失"
+            "adj. no longer in your possession or control; unable to be found or recovered; having lost your bearings; confused as to time or place or personal identity",
+            "n. people who are destined to die soon"
         ],
         "usphone": "lɔst",
         "ukphone": "lɒst"
@@ -226,7 +238,7 @@
     {
         "name": "cute",
         "trans": [
-            "可爱的"
+            "adj. attractive especially by means of smallness or prettiness or quaintness; obviously contrived to charm"
         ],
         "usphone": "kjʊt",
         "ukphone": "kjuːt"
@@ -234,7 +246,7 @@
     {
         "name": "strong",
         "trans": [
-            "强壮的"
+            "adj. having strength or power greater than average or expected; not faint or feeble"
         ],
         "usphone": "strɔŋ",
         "ukphone": "strɒŋ"
@@ -242,7 +254,7 @@
     {
         "name": "friendly",
         "trans": [
-            "友好的"
+            "adj. characteristic of or befitting a friend; inclined to help or support; not antagonistic or hostile"
         ],
         "usphone": "ˈfrɛndlɪ",
         "ukphone": "ˈfrendlɪ"
@@ -250,7 +262,9 @@
     {
         "name": "quiet",
         "trans": [
-            "安静的"
+            "adj. characterized by an absence or near absence of agitation or activity; free of noise or uproar; or making little if any sound",
+            "n. a period of calm weather; an untroubled state; free from disturbances",
+            "v. become quiet or quieter; make calm or still"
         ],
         "usphone": "'kwaɪət",
         "ukphone": "'kwaɪət"
@@ -258,7 +272,7 @@
     {
         "name": "hair",
         "trans": [
-            "头发"
+            "n. a covering for the body (or parts of it) consisting of a dense growth of threadlike structures (as on the human head); helps to prevent heat loss"
         ],
         "usphone": "hɛr",
         "ukphone": "heə"
@@ -266,7 +280,7 @@
     {
         "name": "shoe",
         "trans": [
-            "鞋"
+            "n. footwear shaped to fit the foot (below the ankle) with a flexible upper of leather or plastic and a sole and heel of heavier material"
         ],
         "usphone": "ʃu",
         "ukphone": "ʃuː"
@@ -274,7 +288,7 @@
     {
         "name": "glasses",
         "trans": [
-            "眼镜"
+            "n. optical instrument consisting of a frame that holds a pair of lenses for correcting defective vision"
         ],
         "usphone": "'glæsɪz",
         "ukphone": "'glɑːsɪz"
@@ -282,7 +296,8 @@
     {
         "name": "his",
         "trans": [
-            "他的"
+            "det. belonging to or associated with a male person previously mentioned",
+            "pron. the one(s) belonging to him"
         ],
         "usphone": "hɪz",
         "ukphone": "hɪz"
@@ -290,7 +305,7 @@
     {
         "name": "or",
         "trans": [
-            "或者"
+            "conj. used to link alternatives"
         ],
         "usphone": "ɔr",
         "ukphone": "ɔː"
@@ -298,7 +313,9 @@
     {
         "name": "right",
         "trans": [
-            "对的"
+            "n. an abstract idea of that which is due to a person or governmental body by law or tradition or nature",
+            "adj. being or located on or directed toward the side of the body to the east when facing north; free from error; especially conforming to fact or truth",
+            "adv. precisely, exactly; immediately"
         ],
         "usphone": "raɪt",
         "ukphone": "raɪt"
@@ -306,7 +323,8 @@
     {
         "name": "hat",
         "trans": [
-            "帽子"
+            "n. headdress that protects the head from bad weather; has shaped crown and usually a brim",
+            "v. put on or wear a hat"
         ],
         "usphone": "hæt",
         "ukphone": "hæt"
@@ -314,7 +332,8 @@
     {
         "name": "her",
         "trans": [
-            "她的"
+            "pron. a female person or animal, as the object of a verb or preposition",
+            "det. belonging to or associated with a female person previously mentioned"
         ],
         "usphone": "hɚ",
         "ukphone": "hɜː"
@@ -322,7 +341,7 @@
     {
         "name": "bedroom",
         "trans": [
-            "卧室"
+            "n. a room used primarily for sleeping"
         ],
         "usphone": "'bɛdrum",
         "ukphone": "'bedruːm; -rʊm"
@@ -330,7 +349,7 @@
     {
         "name": "living room",
         "trans": [
-            "客厅"
+            "n. a room in a private house or establishment where people can sit and talk and relax"
         ],
         "usphone": "'lɪvɪŋ rum",
         "ukphone": "'lɪvɪŋ ru:m"
@@ -338,7 +357,8 @@
     {
         "name": "study",
         "trans": [
-            "书房"
+            "n. a detailed critical inspection; applying the mind to learning and understanding a subject (especially by reading)",
+            "v. consider in detail and subject to an analysis in order to discover essential features or meaning"
         ],
         "usphone": "'stʌdi",
         "ukphone": "'stʌdɪ"
@@ -346,7 +366,7 @@
     {
         "name": "kitchen",
         "trans": [
-            "厨房"
+            "n. a room equipped for preparing meals"
         ],
         "usphone": "'kɪtʃɪn",
         "ukphone": "'kɪtʃɪn; -tʃ(ə)n"
@@ -354,7 +374,7 @@
     {
         "name": "bathroom",
         "trans": [
-            "浴室"
+            "n. a room (as in a residence) containing a bathtub or shower and usually a washbasin and toilet"
         ],
         "usphone": "'bæθrum",
         "ukphone": "'bɑːθruːm; -rʊm"
@@ -362,7 +382,7 @@
     {
         "name": "bed",
         "trans": [
-            "床"
+            "n. a piece of furniture that provides a place to sleep; a plot of ground in which plants are growing"
         ],
         "usphone": "bɛd",
         "ukphone": "bed"
@@ -370,7 +390,8 @@
     {
         "name": "phone",
         "trans": [
-            "电话"
+            "n. electronic equipment that converts sound into electrical signals that can be transmitted over distances and then converts received signals back into sounds",
+            "v. get or try to get into communication (with someone) by telephone"
         ],
         "usphone": "fon",
         "ukphone": "fəʊn"
@@ -378,7 +399,7 @@
     {
         "name": "table",
         "trans": [
-            "桌子"
+            "n. a set of data arranged in rows and columns; a piece of furniture having a smooth flat top that is usually supported by one or more vertical legs"
         ],
         "usphone": "'tebl",
         "ukphone": "'teɪb(ə)l"
@@ -386,7 +407,7 @@
     {
         "name": "sofa",
         "trans": [
-            "长沙发"
+            "n. an upholstered seat for more than one person"
         ],
         "usphone": "'sofə",
         "ukphone": "'səʊfə"
@@ -394,7 +415,7 @@
     {
         "name": "fridge",
         "trans": [
-            "冰箱"
+            "n. a refrigerator in which the coolant is pumped around by an electric motor"
         ],
         "usphone": "frɪdʒ",
         "ukphone": "frɪdʒ"
@@ -402,7 +423,7 @@
     {
         "name": "find",
         "trans": [
-            "找到"
+            "v. come upon, as if by accident; meet with; discover or determine the existence, presence, or fact of"
         ],
         "usphone": "faɪnd",
         "ukphone": "faɪnd"
@@ -410,7 +431,7 @@
     {
         "name": "them",
         "trans": [
-            "他们"
+            "pron. two or more people or things, as the object of a verb or preposition"
         ],
         "usphone": "ðɛm; ðəm",
         "ukphone": "ðem; ðəm"
@@ -418,7 +439,7 @@
     {
         "name": "beef",
         "trans": [
-            "牛肉"
+            "n. cattle that are reared for their meat; meat from an adult domestic bovine"
         ],
         "usphone": "bif",
         "ukphone": "biːf"
@@ -426,7 +447,7 @@
     {
         "name": "chicken",
         "trans": [
-            "鸡肉"
+            "n. the flesh of a chicken used for food; a domestic fowl bred for flesh or eggs; believed to have been developed from the red jungle fowl"
         ],
         "usphone": "ˈtʃɪkɪn",
         "ukphone": "'tʃɪkɪn"
@@ -434,7 +455,7 @@
     {
         "name": "noodles",
         "trans": [
-            "面条"
+            "n. a ribbonlike strip of pasta"
         ],
         "usphone": "ˈnudlz",
         "ukphone": "ˈnu:dlz"
@@ -442,7 +463,7 @@
     {
         "name": "soup",
         "trans": [
-            "汤"
+            "n. liquid food especially of meat or fish or vegetable stock often containing pieces of solid food"
         ],
         "usphone": "sup",
         "ukphone": "suːp"
@@ -450,7 +471,7 @@
     {
         "name": "vegetable",
         "trans": [
-            "蔬菜"
+            "n. edible seeds or roots or stems or leaves or bulbs or tubers or nonsweet fruits of any of numerous herbaceous plant"
         ],
         "usphone": "ˈvɛdʒtəbl",
         "ukphone": "ˈvedʒtəbl"
@@ -458,7 +479,7 @@
     {
         "name": "chopsticks",
         "trans": [
-            "筷子"
+            "n. one of a pair of slender sticks used as oriental tableware to eat food with"
         ],
         "usphone": "'tʃɑp,stɪks",
         "ukphone": "'tʃɒpstɪks"
@@ -466,7 +487,7 @@
     {
         "name": "bowl",
         "trans": [
-            "碗"
+            "n. a round vessel that is open at the top; used chiefly for holding food or liquids; a concave shape with an open top"
         ],
         "usphone": "bol",
         "ukphone": "bəʊl"
@@ -474,7 +495,7 @@
     {
         "name": "fork",
         "trans": [
-            "餐叉"
+            "n. cutlery used for serving and eating food; the act of branching out or dividing into branches"
         ],
         "usphone": "fɔrk",
         "ukphone": "fɔːk"
@@ -482,7 +503,7 @@
     {
         "name": "knife",
         "trans": [
-            "刀"
+            "n. edge tool used as a cutting instrument; has a pointed blade with a sharp edge and a handle; a weapon with a handle and blade with a sharp point"
         ],
         "usphone": "naɪf",
         "ukphone": "naɪf"
@@ -490,7 +511,7 @@
     {
         "name": "spoon",
         "trans": [
-            "匙,勺子"
+            "n. a piece of cutlery with a shallow bowl-shaped container and a handle; used to stir or serve or take up food"
         ],
         "usphone": "spun",
         "ukphone": "spuːn"
@@ -498,7 +519,7 @@
     {
         "name": "dinner",
         "trans": [
-            "正餐"
+            "n. the main meal of the day served in the evening or at midday; a party of people assembled to have dinner together"
         ],
         "usphone": "'dɪnɚ",
         "ukphone": "'dɪnə"
@@ -506,7 +527,9 @@
     {
         "name": "ready",
         "trans": [
-            "准备好"
+            "adj. completely prepared or in condition for immediate action or use or progress; (of especially money) immediately available",
+            "n. poised for action",
+            "v. prepare for eating by applying heat; make ready or suitable or equip in advance for a particular purpose or for some use, event, etc"
         ],
         "usphone": "'rɛdi",
         "ukphone": "'redɪ"
@@ -522,7 +545,8 @@
     {
         "name": "pass",
         "trans": [
-            "给"
+            "v. go across or through; move past",
+            "n. (baseball) an advance to first base by a batter who receives four balls; (military) a written leave of absence"
         ],
         "usphone": "pæs",
         "ukphone": "pɑːs"
@@ -530,7 +554,8 @@
     {
         "name": "try",
         "trans": [
-            "试"
+            "v. make an effort or attempt; put to the test, as for its quality, or give experimental use to",
+            "n. earnest and conscientious activity intended to do or accomplish something"
         ],
         "usphone": "traɪ",
         "ukphone": "traɪ"
@@ -538,7 +563,7 @@
     {
         "name": "parents",
         "trans": [
-            "父母"
+            "n. a father or mother; one who begets or one who gives birth to or nurtures and raises a child; a relative who plays the role of guardian"
         ],
         "usphone": "'pɛrənts",
         "ukphone": "'peərənts"
@@ -546,7 +571,7 @@
     {
         "name": "cousin",
         "trans": [
-            "同辈表亲"
+            "n. the child of your aunt or uncle"
         ],
         "usphone": "'kʌzn",
         "ukphone": "'kʌz(ə)n"
@@ -554,7 +579,7 @@
     {
         "name": "uncle",
         "trans": [
-            "叔叔"
+            "n. the brother of your father or mother; the husband of your aunt; a source of help and advice and encouragement"
         ],
         "usphone": "'ʌŋkl",
         "ukphone": "'ʌŋk(ə)l"
@@ -562,7 +587,7 @@
     {
         "name": "aunt",
         "trans": [
-            "阿姨"
+            "n. the sister of your father or mother; the wife of your uncle"
         ],
         "usphone": "ænt",
         "ukphone": "ɑːnt"
@@ -578,7 +603,8 @@
     {
         "name": "doctor",
         "trans": [
-            "医生"
+            "n. a licensed medical practitioner",
+            "v. alter and make impure, as with the intention to deceive; give medical treatment to"
         ],
         "usphone": "'dɑktɚ",
         "ukphone": "'dɒktə"
@@ -586,7 +612,8 @@
     {
         "name": "cook",
         "trans": [
-            "厨师"
+            "v. prepare a hot meal; prepare for eating by applying heat",
+            "n. someone who cooks food"
         ],
         "usphone": "kʊk",
         "ukphone": "kʊk"
@@ -594,7 +621,7 @@
     {
         "name": "driver",
         "trans": [
-            "司机"
+            "n. the operator of a motor vehicle"
         ],
         "usphone": "'draɪvɚ",
         "ukphone": "'draɪvə"
@@ -602,7 +629,7 @@
     {
         "name": "farmer",
         "trans": [
-            "农民"
+            "n. a person who operates a farm"
         ],
         "usphone": "'fɑmɚ",
         "ukphone": "'fɑːmə"
@@ -610,7 +637,8 @@
     {
         "name": "nurse",
         "trans": [
-            "护士"
+            "n. one skilled in caring for young children or the sick (usually under the supervision of a physician); a woman who is the custodian of children",
+            "v. try to cure by special care of treatment, of an illness or injury; maintain (a theory, thoughts, or feelings)"
         ],
         "usphone": "nɝs",
         "ukphone": "nɜːs"
@@ -618,7 +646,8 @@
     {
         "name": "people",
         "trans": [
-            "人们"
+            "n. (plural) any group of human beings (men or women or children) collectively; the body of citizens of a state or country",
+            "v. fill with people"
         ],
         "usphone": "'pipl",
         "ukphone": "'piːp(ə)l"
@@ -626,7 +655,8 @@
     {
         "name": "but",
         "trans": [
-            "但是"
+            "conj. used to introduce something contrasting with what has already been said",
+            "prep. except; apart from"
         ],
         "usphone": "bʌt",
         "ukphone": "bʌt; bət"
@@ -634,7 +664,9 @@
     {
         "name": "little",
         "trans": [
-            "小的"
+            "adj. limited or below average in number or quantity or magnitude or extent",
+            "adv. not much",
+            "n. a small amount or duration"
         ],
         "usphone": "'lɪtl",
         "ukphone": "'lɪt(ə)l"
@@ -642,7 +674,7 @@
     {
         "name": "puppy",
         "trans": [
-            "小狗"
+            "n. a young dog"
         ],
         "usphone": "'pʌpi",
         "ukphone": "'pʌpɪ"
@@ -650,7 +682,7 @@
     {
         "name": "football player",
         "trans": [
-            "足球运动员"
+            "n. an athlete who plays American football"
         ],
         "usphone": "",
         "ukphone": ""
@@ -658,7 +690,7 @@
     {
         "name": "job",
         "trans": [
-            "工作"
+            "n. the principal activity in your life that you do to earn money; a specific piece of work required to be done as a duty or for a specific fee"
         ],
         "usphone": "",
         "ukphone": "dʒɒb"
@@ -666,7 +698,7 @@
     {
         "name": "basketball",
         "trans": [
-            "篮球"
+            "n. a game played on a court by two opposing teams of 5 players; points are scored by throwing the ball through an elevated horizontal hoop"
         ],
         "usphone": "'bæskɪtbɔl",
         "ukphone": "'bɑːskɪtbɔːl"

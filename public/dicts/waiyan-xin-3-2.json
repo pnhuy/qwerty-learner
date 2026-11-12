@@ -2,25 +2,26 @@
   {
     "name": "song",
     "trans": [
-      "adv.歌曲"
+      "n. a short musical composition with words; a distinctive or characteristic sound"
     ]
   },
   {
     "name": "TV",
     "trans": [
-      "adv.电视台"
+      "n. broadcasting visual images of stationary or moving objects; an electronic device that receives television signals and displays them on a screen"
     ]
   },
   {
     "name": "favourite",
     "trans": [
-      "adv.最喜欢的"
+      "n. a competitor thought likely to win",
+      "adj. appealing to the general public"
     ]
   },
   {
     "name": "colour",
     "trans": [
-      "adv.颜色"
+      "adj. having or capable of producing colors"
     ]
   },
   {
@@ -32,7 +33,8 @@
   {
     "name": "they",
     "trans": [
-      "adv.他(她/它）们"
+      "pron. two or more people or things previously mentioned",
+      "pron. people in general; a person whose gender is unknown or not specified"
     ]
   },
   {
@@ -44,91 +46,94 @@
   {
     "name": "monkey",
     "trans": [
-      "adv.猴子"
+      "n. any of various long-tailed primates (excluding the prosimians)"
     ]
   },
   {
     "name": "baby",
     "trans": [
-      "adv.幼兽"
+      "n. a very young child (birth to 1 year) who has not yet begun to walk or talk; the youngest member of a group (not necessarily young)"
     ]
   },
   {
     "name": "all",
     "trans": [
-      "adv.每个，全体"
+      "adv. to a complete degree or to the full or entire extent ('whole' is often used informally for 'wholly')"
     ]
   },
   {
     "name": "zoo",
     "trans": [
-      "adv.动物园"
+      "n. the facility where wild animals are housed for exhibition"
     ]
   },
   {
     "name": "tiger",
     "trans": [
-      "adv.老虎"
+      "n. a fierce or audacious person; large feline of forests in most of Asia having a tawny coat with black stripes; endangered"
     ]
   },
   {
     "name": "lion",
     "trans": [
-      "adv.狮子"
+      "n. large gregarious predatory feline of Africa and India having a tawny coat with a shaggy mane in the male"
     ]
   },
   {
     "name": "elephant",
     "trans": [
-      "adv.大象"
+      "n. five-toed pachyderm"
     ]
   },
   {
     "name": "fat",
     "trans": [
-      "adv.胖的"
+      "adj. having an (over)abundance of flesh; having a relatively large diameter",
+      "n. a soft greasy substance occurring in organic tissue and consisting of a mixture of lipids (mostly triglycerides)"
     ]
   },
   {
     "name": "man",
     "trans": [
-      "adv.人，男人"
+      "n. an adult person who is male (as opposed to a woman); someone who serves in the armed forces; a member of a military force",
+      "v. take charge of a certain job; occupy a certain work place"
     ]
   },
   {
     "name": "short",
     "trans": [
-      "adv.矮的"
+      "adv. quickly and without warning"
     ]
   },
   {
     "name": "tall",
     "trans": [
-      "adv.高的"
+      "adj. great in vertical dimension; high in stature"
     ]
   },
   {
     "name": "small",
     "trans": [
-      "adv.小的"
+      "adv. on a small scale"
     ]
   },
   {
     "name": "thin",
     "trans": [
-      "adv.瘦的"
+      "adv. without viscosity"
     ]
   },
   {
     "name": "big",
     "trans": [
-      "adv.大的"
+      "adv. extremely well; in a boastful manner"
     ]
   },
   {
     "name": "like",
     "trans": [
-      "adv.喜欢"
+      "v. prefer or wish to do something; find enjoyable or agreeable",
+      "adj. resembling or similar; having the same or some of the same characteristics; often used in combination; equal in amount or value"
     ]
   },
   {
@@ -140,25 +145,25 @@
   {
     "name": "them",
     "trans": [
-      "adv.他(她/它）们"
+      "pron. two or more people or things, as the object of a verb or preposition"
     ]
   },
   {
     "name": "ouch",
     "trans": [
-      "adv.哎哟"
+      "int. expressing sudden pain"
     ]
   },
   {
     "name": "basketball",
     "trans": [
-      "adv.篮球"
+      "n. a game played on a court by two opposing teams of 5 players; points are scored by throwing the ball through an elevated horizontal hoop"
     ]
   },
   {
     "name": "table tennis",
     "trans": [
-      "adv.乒乓球"
+      "n. a game (trademark Ping-Pong) resembling tennis but played on a table with paddles and a light hollow ball"
     ]
   },
   {
@@ -170,103 +175,110 @@
   {
     "name": "ride",
     "trans": [
-      "adv.骑"
+      "v. sit and travel on the back of animal, usually while controlling its motions; be carried or travel on or in a vehicle",
+      "n. a journey in a vehicle (usually an automobile)"
     ]
   },
   {
     "name": "bike",
     "trans": [
-      "adv.自行车"
+      "n. a motor vehicle with two wheels and a strong frame",
+      "v. ride a bicycle"
     ]
   },
   {
     "name": "swim",
     "trans": [
-      "adv.游泳"
+      "v. travel through water; be afloat either on or below a liquid surface and not sink to the bottom"
     ]
   },
   {
     "name": "skip",
     "trans": [
-      "adv.跳绳"
+      "v. bypass; intentionally fail to attend"
     ]
   },
   {
     "name": "meat",
     "trans": [
-      "adv.肉"
+      "n. the flesh of animals (including fishes and birds and snails) used as food"
     ]
   },
   {
     "name": "pass",
     "trans": [
-      "adv.传递"
+      "v. go across or through; move past",
+      "n. (baseball) an advance to first base by a batter who receives four balls; (military) a written leave of absence"
     ]
   },
   {
     "name": "rice",
     "trans": [
-      "adv.米饭；米"
+      "n. grains used as food either unpolished or more often polished; annual or perennial rhizomatous marsh grasses; seed used for food; straw used for paper"
     ]
   },
   {
     "name": "mum",
     "trans": [
-      "adv.妈妈"
+      "adj. failing to speak or communicate etc when expected to"
     ]
   },
   {
     "name": "noodles",
     "trans": [
-      "adv.常复（面条）"
+      "n. a ribbonlike strip of pasta"
     ]
   },
   {
     "name": "fish",
     "trans": [
-      "adv.鱼肉；鱼"
+      "n. any of various mostly cold-blooded aquatic vertebrates usually having scales and breathing through gills; the flesh of fish used as food",
+      "v. seek indirectly; catch or try to catch fish or shellfish"
     ]
   },
   {
     "name": "but",
     "trans": [
-      "adv.但是"
+      "conj. used to introduce something contrasting with what has already been said",
+      "prep. except; apart from"
     ]
   },
   {
     "name": "milk",
     "trans": [
-      "adv.牛奶"
+      "n. a white nutritious liquid secreted by mammals and used as food by human beings; produced by mammary glands of female mammals for feeding their young",
+      "v. take milk from female mammals; exploit as much as possible"
     ]
   },
   {
     "name": "does ",
     "trans": [
-      "adv.do的第三人称单数形式"
+      "v. third person singular present of \"do\""
     ]
   },
   {
     "name": "orange",
     "trans": [
-      "adv.橙；柑；橘"
+      "n. round yellow to orange fruit of any of several citrus trees; orange color or pigment; any of a range of colors between red and yellow",
+      "adj. of the color between red and yellow; similar to the color of a ripe orange"
     ]
   },
   {
     "name": "apple",
     "trans": [
-      "adv.苹果"
+      "n. fruit with red or yellow or green skin and sweet to tart crisp whitish flesh"
     ]
   },
   {
     "name": "banana",
     "trans": [
-      "adv.香蕉"
+      "n. any of several tropical and subtropical treelike herbs of the genus Musa having a terminal crown of large entire leaves and usually bearing hanging clusters of…"
     ]
   },
   {
     "name": "pear",
     "trans": [
-      "adv.梨"
+      "n. sweet juicy gritty-textured fruit available in many varieties"
     ]
   },
   {
@@ -278,31 +290,35 @@
   {
     "name": "goes",
     "trans": [
-      "adv.go的第三人称单数形式 去，到"
+      "v. change location; move, travel, or proceed, also metaphorically; follow a procedure or take a course"
     ]
   },
   {
     "name": "on",
     "trans": [
-      "adv.在......的时候；"
+      "prep. touching and supported by the top surface of",
+      "prep. about; concerning; on a particular day",
+      "adv. continuing; in operation"
     ]
   },
   {
     "name": "Monday",
     "trans": [
-      "adv.星期一"
+      "n. the second day of the week; the first working day"
     ]
   },
   {
     "name": "play",
     "trans": [
-      "adv.参加（体育活动、比赛等）"
+      "v. participate in games or sport; act or have an effect in a specified way or with a specific effect or outcome",
+      "n. a dramatic work intended for performance by actors on a stage; a theatrical performance of a drama"
     ]
   },
   {
     "name": "phone",
     "trans": [
-      "adv.电话；电话机"
+      "n. electronic equipment that converts sound into electrical signals that can be transmitted over distances and then converts received signals back into sounds",
+      "v. get or try to get into communication (with someone) by telephone"
     ]
   },
   {
@@ -314,55 +330,59 @@
   {
     "name": "with",
     "trans": [
-      "adv.与......在一起，同，跟，和"
+      "prep. accompanied by; together with",
+      "prep. having; using; by means of"
     ]
   },
   {
     "name": "friend",
     "trans": [
-      "adv.朋友"
+      "n. a person you know well and regard with affection and trust; an associate who provides cooperation or assistance"
     ]
   },
   {
     "name": "at",
     "trans": [
-      "adv.在......"
+      "prep. indicating a point in space or time",
+      "prep. indicating a direction or target"
     ]
   },
   {
     "name": "home",
     "trans": [
-      "adv.家"
+      "adv. at or to or in the direction of one's home or family; on or to the point aimed at"
     ]
   },
   {
     "name": "at home",
     "trans": [
-      "adv.在家"
+      "adv. on the home team's field"
     ]
   },
   {
     "name": "who",
     "trans": [
-      "adv.谁"
+      "pron. what or which person or people",
+      "pron. introducing a clause that describes a person"
     ]
   },
   {
     "name": "only",
     "trans": [
-      "adv.只，仅仅"
+      "adv. and nothing more; without any others being included or involved"
     ]
   },
   {
     "name": "year",
     "trans": [
-      "adv.年龄，岁数"
+      "n. a period of time containing 365 (or 366) days; a period of time occupying a regular part of a calendar year that is used for some particular activity"
     ]
   },
   {
     "name": "work",
     "trans": [
-      "adv.工作地点"
+      "v. exert oneself by doing mental or physical work for a purpose or out of necessity; be employed",
+      "n. activity directed toward making or doing something; a product produced or accomplished through the effort or activity or agency of a person or thing"
     ]
   },
   {
@@ -374,127 +394,133 @@
   {
     "name": "saturday",
     "trans": [
-      "adv.星期六"
+      "n. the seventh and last day of the week; observed as the Sabbath by Jews and some Christians"
     ]
   },
   {
     "name": "shopping",
     "trans": [
-      "adv.购物"
+      "n. searching for or buying goods or services"
     ]
   },
   {
     "name": "go shopping",
     "trans": [
-      "adv.去购物"
+      "phr. to visit shops to buy things"
     ]
   },
   {
     "name": "dad",
     "trans": [
-      "adv.爸爸"
+      "n. an informal term for a father; probably derived from baby talk"
     ]
   },
   {
     "name": "do",
     "trans": [
-      "adv.做，干"
+      "v. to perform or carry out (an action or task)",
+      "aux. used to form questions and negatives and for emphasis"
     ]
   },
   {
     "name": "sunday",
     "trans": [
-      "adv.星期日"
+      "n. first day of the week; observed as a day of rest and worship by most Christians"
     ]
   },
   {
     "name": "swimming",
     "trans": [
-      "adv.游泳(运动）"
+      "n. the act of swimming; :"
     ]
   },
   {
     "name": "go swimming",
     "trans": [
-      "adv.去游泳"
+      "phr. to swim for pleasure"
     ]
   },
   {
     "name": "eat",
     "trans": [
-      "adv.吃"
+      "v. take in solid food; eat a meal; take a meal"
     ]
   },
   {
     "name": "in",
     "trans": [
-      "adv.在......期间，在......时候"
+      "prep. inside; contained by; during",
+      "adv. into a place; at home"
     ]
   },
   {
     "name": "sleep",
     "trans": [
-      "adv.睡觉"
+      "v. be asleep",
+      "n. a natural and periodic state of rest during which consciousness of the world is suspended; a torpid state resembling deep sleep"
     ]
   },
   {
     "name": "watch",
     "trans": [
-      "adv.观看"
+      "v. look attentively; follow with the eyes or the mind",
+      "n. a small portable timepiece; a period of time (4 or 2 hours) during which some of a ship's crew are on duty"
     ]
   },
   {
     "name": "watch TV",
     "trans": [
-      "adv.看电视"
+      "phr. to watch television"
     ]
   },
   {
     "name": "have",
     "trans": [
-      "adv.做，进行，从事"
+      "v. have or possess, either in a concrete or an abstract sense; have as a feature"
     ]
   },
   {
     "name": "class",
     "trans": [
-      "adv.课；班级"
+      "n. a collection of things sharing a common attribute; a body of students who are taught together",
+      "v. arrange or order by classes or categories"
     ]
   },
   {
     "name": "today",
     "trans": [
-      "adv.今天"
+      "adv. in these times; on this day as distinct from yesterday or tomorrow"
     ]
   },
   {
     "name": "music",
     "trans": [
-      "adv.音乐"
+      "n. an artistic form of auditory communication incorporating instrumental or vocal tones in a structured and continuous manner"
     ]
   },
   {
     "name": "has",
     "trans": [
-      "adv.have的第三人称单数形式 进行，从事"
+      "v. third person singular present of \"have\""
     ]
   },
   {
     "name": "Chinese",
     "trans": [
-      "adv.语文，汉语"
+      "adj. of or pertaining to China or its peoples or cultures",
+      "n. any of the Sino-Tibetan languages spoken in China…"
     ]
   },
   {
     "name": "maths",
     "trans": [
-      "adv.数学"
+      "n. a science (or group of related sciences) dealing with the logic of quantity and shape and arrangement"
     ]
   },
   {
     "name": "art",
     "trans": [
-      "adv.美术"
+      "n. the products of human creativity; works of art collectively; the creation of beautiful or significant things"
     ]
   },
   {
@@ -506,247 +532,264 @@
   {
     "name": "science",
     "trans": [
-      "adv.科学"
+      "n. a particular branch of scientific knowledge; ability to produce solutions in some problem domain"
     ]
   },
   {
     "name": "we",
     "trans": [
-      "adv.我们"
+      "pron. the speaker together with one or more other people"
     ]
   },
   {
     "name": "fly",
     "trans": [
-      "adv.放（风筝）"
+      "v. travel through the air; be airborne; move quickly or suddenly",
+      "n. two-winged insects characterized by active flight; flap consisting of a piece of canvas that can be drawn back to provide entrance to a tent"
     ]
   },
   {
     "name": "spring",
     "trans": [
-      "adv.春天"
+      "n. the season of growth; a metal elastic device that returns to its shape or position when pushed or pulled or pressed",
+      "v. move forward by leaps and bounds; develop into a distinctive entity"
     ]
   },
   {
     "name": "summer",
     "trans": [
-      "adv.夏天"
+      "n. the warmest season of the year; in the northern hemisphere it extends from the summer solstice to the autumnal equinox"
     ]
   },
   {
     "name": "season",
     "trans": [
-      "adv.季节"
+      "n. a period of the year marked by special events or activities in some field"
     ]
   },
   {
     "name": "nice",
     "trans": [
-      "adv.迷人的，令人愉快的"
+      "adj. pleasant or pleasing or agreeable in nature or appearance; socially or conventionally correct; refined or virtuous"
     ]
   },
   {
     "name": "warm",
     "trans": [
-      "adv.暖和的"
+      "adv. in a warm manner"
     ]
   },
   {
     "name": "hot",
     "trans": [
-      "adv.热的"
+      "adj. used of physical heat; having a high or higher than desirable temperature or giving off heat or feeling or causing a sensation of heat or burning"
     ]
   },
   {
     "name": "autumn",
     "trans": [
-      "adv.秋天"
+      "n. the season when the leaves fall from the trees"
     ]
   },
   {
     "name": "cool",
     "trans": [
-      "adv.凉爽的"
+      "adj. neither warm nor very cold; giving relief from heat; marked by calm self-control (especially in trying circumstances); unemotional",
+      "v. make cool or cooler; loose heat"
     ]
   },
   {
     "name": "winter",
     "trans": [
-      "adv.冬天"
+      "n. the coldest season of the year; in the northern hemisphere it extends from the winter solstice to the vernal equinox",
+      "v. spend the winter"
     ]
   },
   {
     "name": "cold",
     "trans": [
-      "adv.寒冷的"
+      "adj. having a low or inadequate temperature or feeling a sensation of coldness or having been made cold by e.g. ice or refrigeration",
+      "n. a mild viral infection involving the nose and respiratory passages (but not the lungs); the absence of heat"
     ]
   },
   {
     "name": "skating",
     "trans": [
-      "adv.滑冰"
+      "n. the sport of gliding on skates"
     ]
   },
   {
     "name": "go skating",
     "trans": [
-      "adv.去滑冰"
+      "phr. to skate for pleasure"
     ]
   },
   {
     "name": "play",
     "trans": [
-      "adv.玩，玩耍"
+      "v. participate in games or sport; act or have an effect in a specified way or with a specific effect or outcome",
+      "n. a dramatic work intended for performance by actors on a stage; a theatrical performance of a drama"
     ]
   },
   {
     "name": "snow",
     "trans": [
-      "adv.学；下雪"
+      "n. precipitation falling from clouds in the form of ice crystals; a layer of snowflakes (white crystals of frozen water) covering the ground",
+      "v. fall as snow"
     ]
   },
   {
     "name": "rain",
     "trans": [
-      "adv.雨；下雨"
+      "n. water falling in drops from vapor condensed in the atmosphere; drops of fresh water that fall as precipitation from clouds",
+      "v. precipitate as rain"
     ]
   },
   {
     "name": "sunny",
     "trans": [
-      "adv.晴朗的，阳光充足的"
+      "adj. bright and pleasant; promoting a feeling of cheer"
     ]
   },
   {
     "name": "windy",
     "trans": [
-      "adv.有风的，刮风的"
+      "adj. abounding in or exposed to the wind or breezes"
     ]
   },
   {
     "name": "very",
     "trans": [
-      "adv.很，非常"
+      "adv. used as intensifiers; 'real' is sometimes used informally for 'really'; 'rattling' is informal; precisely so"
     ]
   },
   {
     "name": "toy",
     "trans": [
-      "adv.玩具"
+      "n. an artifact designed to be played with"
     ]
   },
   {
     "name": "under",
     "trans": [
-      "adv.在......下面"
+      "prep. beneath; below; less than"
     ]
   },
   {
     "name": "for",
     "trans": [
-      "adv.为，给，对"
+      "prep. intended to belong to or be used by",
+      "prep. in order to help or benefit",
+      "prep. during (a period of time); in place of"
     ]
   },
   {
     "name": "box",
     "trans": [
-      "adv.盒子"
+      "n. a (usually rectangular) container; may have a lid; private area in a theater or grandstand where a small group can watch the performance",
+      "v. put into a box"
     ]
   },
   {
     "name": "behind",
     "trans": [
-      "adv.在......后面"
+      "prep. / adv. at or towards the back of"
     ]
   },
   {
     "name": "bedroom",
     "trans": [
-      "adv.卧室"
+      "n. a room used primarily for sleeping"
     ]
   },
   {
     "name": "flies",
     "trans": [
-      "adv.fly的第三人称单数形式"
+      "n. (theater) the space over the stage (out of view of the audience) used to store scenery (drop curtains)"
     ]
   },
   {
     "name": "park",
     "trans": [
-      "adv.公园"
+      "n. a large area of land preserved in its natural state as public property; a piece of open land for recreational use in an urban area",
+      "v. place temporarily; maneuver a vehicle into a parking space"
     ]
   },
   {
     "name": "lake",
     "trans": [
-      "adv.湖"
+      "n. a body of (usually fresh) water surrounded by land"
     ]
   },
   {
     "name": "tree",
     "trans": [
-      "adv.树"
+      "n. a tall perennial woody plant having a main trunk and branches forming a distinct elevated crown; includes both gymnosperms and angiosperms"
     ]
   },
   {
     "name": "fishing",
     "trans": [
-      "adv.捕鱼，钓鱼"
+      "n. the act of someone who fishes as a diversion"
     ]
   },
   {
     "name": "go fishing",
     "trans": [
-      "adv.去钓鱼"
+      "phr. to fish for pleasure"
     ]
   },
   {
     "name": "walk",
     "trans": [
-      "adv.行走，步行"
+      "v. use one's feet to advance; advance by steps; accompany or escort",
+      "n. the act of traveling by foot; (baseball) an advance to first base by a batter who receives four balls"
     ]
   },
   {
     "name": "have got",
     "trans": [
-      "adv.有"
+      "v. have or possess, either in a concrete or an abstract sense"
     ]
   },
   {
     "name": "sweater",
     "trans": [
-      "adv.毛绒衫"
+      "n. a crocheted or knitted garment covering the upper part of the body"
     ]
   },
   {
     "name": "bed",
     "trans": [
-      "adv.床"
+      "n. a piece of furniture that provides a place to sleep; a plot of ground in which plants are growing"
     ]
   },
   {
     "name": "line",
     "trans": [
-      "adv.线，金属丝"
+      "n. a formation of people or things one beside another; a mark that is long relative to its width",
+      "v. be in line with; form a line along; cover the interior of"
     ]
   },
   {
     "name": "about",
     "trans": [
-      "adv.关于"
+      "prep. on the subject of; concerning",
+      "adv. approximately; around"
     ]
   },
   {
     "name": "animal",
     "trans": [
-      "adv.动物"
+      "n. a living organism characterized by voluntary movement",
+      "adj. marked by the appetites and passions of the body"
     ]
   },
   {
     "name": "sport",
     "trans": [
-      "adv.运动"
+      "n. an active diversion requiring physical exertion and competition; the occupation of athletes who compete for pay",
+      "v. wear or display in an ostentatious or proud manner"
     ]
   },
   {
@@ -758,19 +801,21 @@
   {
     "name": "dress",
     "trans": [
-      "adv.连衣裙"
+      "v. put on clothes; provide with clothes or put clothes on",
+      "n. a one-piece garment for a woman; has skirt and bodice; clothing of a distinctive style or for a particular occasion"
     ]
   },
   {
     "name": "coat",
     "trans": [
-      "adv.外套"
+      "n. an outer garment that has sleeves and covers the body from shoulder down; worn outdoors; a thin layer covering something",
+      "v. put a coat on; cover the surface of; furnish with a surface; cover or provide with a coat"
     ]
   },
   {
     "name": "T-shirt",
     "trans": [
-      "adv.T恤衫"
+      "n. a close-fitting pullover shirt"
     ]
   },
   {
@@ -788,55 +833,60 @@
   {
     "name": "by",
     "trans": [
-      "adv.乘（交通工具）"
+      "prep. beside; next to",
+      "prep. through the action or means of",
+      "prep. not later than"
     ]
   },
   {
     "name": "bus",
     "trans": [
-      "adv.公共汽车"
+      "n. a vehicle carrying many passengers; used for public transport"
     ]
   },
   {
     "name": "car",
     "trans": [
-      "adv.汽车，轿车"
+      "n. a motor vehicle with four wheels; usually propelled by an internal combustion engine; a wheeled vehicle adapted to the rails of railroad"
     ]
   },
   {
     "name": "hat",
     "trans": [
-      "adv.帽子"
+      "n. headdress that protects the head from bad weather; has shaped crown and usually a brim",
+      "v. put on or wear a hat"
     ]
   },
   {
     "name": "come",
     "trans": [
-      "adv.来，来到"
+      "v. move toward, travel toward something or somebody or approach something or somebody; reach a destination; arrive by movement or progress"
     ]
   },
   {
     "name": "back",
     "trans": [
-      "adv.回到，返回"
+      "adv. in or to or toward a former location; at or to or toward the back or rear"
     ]
   },
   {
     "name": "come back",
     "trans": [
-      "adv.回来"
+      "v. be restored; go back to something earlier"
     ]
   },
   {
     "name": "clothes",
     "trans": [
-      "adv.(常复）衣服"
+      "n. clothing in general"
     ]
   },
   {
     "name": "open",
     "trans": [
-      "adv.打开"
+      "v. cause to open or to become open; start to operate or function or cause to start operating or functioning",
+      "adj. affording unobstructed entrance and exit; not shut or closed; affording free passage or access",
+      "n. a clear or unobstructed space or expanse of land or water; where the air is unconfined"
     ]
   },
   {
@@ -848,7 +898,7 @@
   {
     "name": "put on",
     "trans": [
-      "adv.穿上，戴上"
+      "v. put clothing on one's body; add to something existing"
     ]
   },
   {
@@ -860,49 +910,53 @@
   {
     "name": "party",
     "trans": [
-      "adv.聚会"
+      "n. an organization to gain political power; a group of people gathered together for pleasure"
     ]
   },
   {
     "name": "OK",
     "trans": [
-      "adv.好的"
+      "adv. an expression of agreement normally occurring at the beginning of a sentence"
     ]
   },
   {
     "name": "brown",
     "trans": [
-      "adv.褐色的，棕色的"
+      "adj. of a color similar to that of wood or earth",
+      "n. an orange of low brightness and saturation",
+      "v. fry in a pan until it changes color"
     ]
   },
   {
     "name": "trousers",
     "trans": [
-      "adv.(常复）裤子"
+      "n. (usually in the plural) a garment extending from the waist to the knee or ankle, covering each leg separately"
     ]
   },
   {
     "name": "orange",
     "trans": [
-      "adv.橙色的，橘黄色的"
+      "n. round yellow to orange fruit of any of several citrus trees; orange color or pigment; any of a range of colors between red and yellow",
+      "adj. of the color between red and yellow; similar to the color of a ripe orange"
     ]
   },
   {
     "name": "shirt",
     "trans": [
-      "adv.寸衫"
+      "n. a garment worn on the upper half of the body",
+      "v. put a shirt on"
     ]
   },
   {
     "name": "look at",
     "trans": [
-      "adv.看，朝......看"
+      "v. take into consideration for exemplifying purposes; look at carefully; study mentally"
     ]
   },
   {
     "name": "shoe",
     "trans": [
-      "adv.鞋子"
+      "n. footwear shaped to fit the foot (below the ankle) with a flexible upper of leather or plastic and a sole and heel of heavier material"
     ]
   },
   {
@@ -914,25 +968,28 @@
   {
     "name": "turn",
     "trans": [
-      "adv.（多人依次轮流时）轮到的机会"
+      "v. change orientation or direction, also in the abstract sense; undergo a transformation or a change of position or action",
+      "n. a circular segment of a curve; the act of changing or reversing the direction of the course"
     ]
   },
   {
     "name": "white",
     "trans": [
-      "adv.白色的"
+      "adj. being of the achromatic color of maximum lightness; having little or no hue owing to reflection of almost all incident light",
+      "n. a member of the Caucasoid race; the quality or state of the achromatic color of greatest lightness (bearing the least resemblance to black)"
     ]
   },
   {
     "name": "photo",
     "trans": [
-      "adv.照片"
+      "n. a representation of a person or scene in the form of a print or transparent slide; recorded by a camera on light-sensitive material"
     ]
   },
   {
     "name": "skirt",
     "trans": [
-      "adv.女裙，裙子"
+      "n. cloth covering that forms the part of a garment below the waist; a garment hanging from the waist; worn mainly by girls and women",
+      "v. avoid or try to avoid fulfilling, answering, or performing (duties, questions, or issues); pass around or about; move along the border"
     ]
   }
 ]

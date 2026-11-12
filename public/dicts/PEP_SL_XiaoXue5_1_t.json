@@ -2,7 +2,7 @@
     {
         "name": "clever",
         "trans": [
-            "聪明的"
+            "adj. showing self-interest and shrewdness in dealing with others; mentally quick and resourceful"
         ],
         "usphone": "ˈklɛvər",
         "ukphone": "ˈklɛvər"
@@ -10,7 +10,7 @@
     {
         "name": "careless",
         "trans": [
-            "粗心的"
+            "adj. marked by lack of attention or consideration or forethought or thoroughness; not careful; effortless and unstudied"
         ],
         "usphone": "ˈkɛrləs",
         "ukphone": "ˈkɛrləs"
@@ -18,7 +18,7 @@
     {
         "name": "polite",
         "trans": [
-            "有礼貌的"
+            "adj. showing regard for others in manners, speech, behavior, etc.; marked by refinement in taste and manners"
         ],
         "usphone": "pəˈlaɪt",
         "ukphone": "pəˈlaɪt"
@@ -26,7 +26,9 @@
     {
         "name": "quiet",
         "trans": [
-            "安静的"
+            "adj. characterized by an absence or near absence of agitation or activity; free of noise or uproar; or making little if any sound",
+            "n. a period of calm weather; an untroubled state; free from disturbances",
+            "v. become quiet or quieter; make calm or still"
         ],
         "usphone": "ˈkwaɪət",
         "ukphone": "ˈkwaɪət"
@@ -34,8 +36,7 @@
     {
         "name": "cute",
         "trans": [
-            "漂亮的",
-            "可爱的"
+            "adj. attractive especially by means of smallness or prettiness or quaintness; obviously contrived to charm"
         ],
         "usphone": "kjut",
         "ukphone": "kjuːt"
@@ -43,7 +44,7 @@
     {
         "name": "friendly",
         "trans": [
-            "友好的"
+            "adj. characteristic of or befitting a friend; inclined to help or support; not antagonistic or hostile"
         ],
         "usphone": "ˈfrɛndli",
         "ukphone": "ˈfrɛndli"
@@ -51,7 +52,7 @@
     {
         "name": "helpful",
         "trans": [
-            "肯帮忙的"
+            "adj. providing assistance or serving a useful function"
         ],
         "usphone": "ˈhɛlpfəl",
         "ukphone": "ˈhɛlpfəl"
@@ -59,7 +60,8 @@
     {
         "name": "active",
         "trans": [
-            "活跃的"
+            "adj. tending to become more severe or wider in scope; engaged in or ready for military or naval operations",
+            "n. chemical agent capable of activity"
         ],
         "usphone": "ˈæktɪv",
         "ukphone": "ˈæktɪv"
@@ -67,7 +69,7 @@
     {
         "name": "popular",
         "trans": [
-            "受欢迎的"
+            "adj. regarded with great favor, approval, or affection especially by the general public; carried on by or for the people (or citizens) at large"
         ],
         "usphone": "ˈpɑpjələr",
         "ukphone": "ˈpɒpjʊlər"
@@ -75,7 +77,8 @@
     {
         "name": "talk",
         "trans": [
-            "说话"
+            "v. exchange thoughts; talk with; express in speech",
+            "n. an exchange of ideas via conversation; discussion; ('talk about' is a less formal alternative for 'discussion of')"
         ],
         "usphone": "tɔk",
         "ukphone": "tɔːk"
@@ -83,7 +86,7 @@
     {
         "name": "party",
         "trans": [
-            "聚会"
+            "n. an organization to gain political power; a group of people gathered together for pleasure"
         ],
         "usphone": "ˈpɑrti",
         "ukphone": "ˈpɑːti"
@@ -91,7 +94,8 @@
     {
         "name": "all",
         "trans": [
-            "全部"
+            "adj. quantifier; used with either mass or count nouns to indicate the whole number or amount of or every one of a class; completely given to or absorbed by",
+            "adv. to a complete degree or to the full or entire extent ('whole' is often used informally for 'wholly')"
         ],
         "usphone": "ɔl",
         "ukphone": "ɔːl"
@@ -99,7 +103,8 @@
     {
         "name": "but",
         "trans": [
-            "但是"
+            "conj. used to introduce something contrasting with what has already been said",
+            "prep. except; apart from"
         ],
         "usphone": "bʌt",
         "ukphone": "bʌt"
@@ -107,7 +112,7 @@
     {
         "name": "sometimes",
         "trans": [
-            "有时"
+            "adv. on certain occasions or in certain cases but not always"
         ],
         "usphone": "ˈsʌmˌtaɪmz",
         "ukphone": "ˈsʌmˌtaɪmz"
@@ -115,7 +120,8 @@
     {
         "name": "bark",
         "trans": [
-            "吠，叫"
+            "n. tough protective covering of the woody stems and roots of trees and other woody plants; a noise resembling the bark of a dog",
+            "v. speak in an unfriendly tone"
         ],
         "usphone": "bɑrk",
         "ukphone": "bɑːrk"
@@ -123,7 +129,7 @@
     {
         "name": "forget",
         "trans": [
-            "忘记"
+            "v. dismiss from the mind; stop remembering; be unable to remember"
         ],
         "usphone": "fərˈɡɛt",
         "ukphone": "fəˈɡɛt"
@@ -131,7 +137,8 @@
     {
         "name": "with",
         "trans": [
-            "同……一起"
+            "prep. accompanied by; together with",
+            "prep. having; using; by means of"
         ],
         "usphone": "wɪð",
         "ukphone": "wɪð"
@@ -147,7 +154,7 @@
     {
         "name": "slim",
         "trans": [
-            "苗条的"
+            "adj. being of delicate or slender build"
         ],
         "usphone": "slɪm",
         "ukphone": "slɪm"
@@ -155,7 +162,7 @@
     {
         "name": "curly",
         "trans": [
-            "卷曲的"
+            "adj. (of hair) having curls or waves"
         ],
         "usphone": "ˈkɜrli",
         "ukphone": "ˈkɜːli"
@@ -163,7 +170,8 @@
     {
         "name": "straight",
         "trans": [
-            "直的"
+            "adj. successive (without a break); having no deviations",
+            "adv. without deviation; in a forthright manner; candidly or frankly"
         ],
         "usphone": "streɪt",
         "ukphone": "streɪt"
@@ -171,7 +179,7 @@
     {
         "name": "nice",
         "trans": [
-            "好的"
+            "adj. pleasant or pleasing or agreeable in nature or appearance; socially or conventionally correct; refined or virtuous"
         ],
         "usphone": "naɪs",
         "ukphone": "naɪs"
@@ -179,7 +187,8 @@
     {
         "name": "young",
         "trans": [
-            "年轻的"
+            "adj. (used of living things especially persons) in an early period of life or development or growth",
+            "n. any immature animal"
         ],
         "usphone": "jʌŋ",
         "ukphone": "jʌŋ"
@@ -187,7 +196,7 @@
     {
         "name": "teach",
         "trans": [
-            "教"
+            "v. impart skills or knowledge to; accustom gradually to some action or attitude"
         ],
         "usphone": "titʃ",
         "ukphone": "tiːtʃ"
@@ -195,7 +204,8 @@
     {
         "name": "guess",
         "trans": [
-            "猜"
+            "v. expect, believe, or suppose; put forward, of a guess, in spite of possible refutation",
+            "n. a message expressing an opinion based on incomplete evidence; an estimate based on little or no information"
         ],
         "usphone": "ɡɛs",
         "ukphone": "ɡɛs"
@@ -203,7 +213,7 @@
     {
         "name": "has",
         "trans": [
-            "有"
+            "v. third person singular present of \"have\""
         ],
         "usphone": "hæz",
         "ukphone": "hæz"
@@ -211,7 +221,8 @@
     {
         "name": "animal",
         "trans": [
-            "动物"
+            "n. a living organism characterized by voluntary movement",
+            "adj. marked by the appetites and passions of the body"
         ],
         "usphone": "ˈænɪməl",
         "ukphone": "ˈænɪməl"
@@ -219,7 +230,7 @@
     {
         "name": "elephant",
         "trans": [
-            "大象"
+            "n. five-toed pachyderm"
         ],
         "usphone": "ˈɛləfənt",
         "ukphone": "ˈɛlɪfənt"
@@ -227,7 +238,7 @@
     {
         "name": "panda",
         "trans": [
-            "熊猫"
+            "n. large black-and-white herbivorous mammal of bamboo forests of China and Tibet…"
         ],
         "usphone": "ˈpændə",
         "ukphone": "ˈpændə"
@@ -235,7 +246,7 @@
     {
         "name": "horse",
         "trans": [
-            "马"
+            "n. solid-hoofed herbivorous quadruped domesticated since prehistoric times; a padded gymnastic apparatus on legs"
         ],
         "usphone": "hɔrs",
         "ukphone": "hɔːs"
@@ -243,7 +254,7 @@
     {
         "name": "cow",
         "trans": [
-            "奶牛"
+            "n. female of domestic cattle:; mature female of mammals of which the male is called 'bull'"
         ],
         "usphone": "kaʊ",
         "ukphone": "kaʊ"
@@ -251,7 +262,7 @@
     {
         "name": "pig",
         "trans": [
-            "猪"
+            "n. domestic swine"
         ],
         "usphone": "pɪɡ",
         "ukphone": "pɪɡ"
@@ -259,7 +270,7 @@
     {
         "name": "sheep",
         "trans": [
-            "绵羊"
+            "n. woolly usually horned ruminant mammal related to the goat; a timid defenseless simpleton who is readily preyed upon"
         ],
         "usphone": "ʃip",
         "ukphone": "ʃiːp"
@@ -267,7 +278,7 @@
     {
         "name": "bee",
         "trans": [
-            "蜜蜂"
+            "n. any of numerous hairy-bodied insects including social and solitary species"
         ],
         "usphone": "bi",
         "ukphone": "biː"
@@ -275,7 +286,8 @@
     {
         "name": "farm",
         "trans": [
-            "农场"
+            "n. workplace consisting of farm buildings and cultivated land as a unit",
+            "v. be a farmer; work as a farmer"
         ],
         "usphone": "fɑrm",
         "ukphone": "fɑːm"
@@ -283,8 +295,9 @@
     {
         "name": "fast",
         "trans": [
-            "快的",
-            "迅速地"
+            "adj. acting or moving or capable of acting or moving quickly",
+            "adv. quickly or rapidly (often used as a combining form); firmly or closely",
+            "n. abstaining from food"
         ],
         "usphone": "fæst",
         "ukphone": "fɑːst"
@@ -292,7 +305,7 @@
     {
         "name": "why",
         "trans": [
-            "为什么"
+            "adv. for what reason or purpose"
         ],
         "usphone": "waɪ",
         "ukphone": "waɪ"
@@ -300,7 +313,7 @@
     {
         "name": "lovely",
         "trans": [
-            "可爱的"
+            "adj. appealing to the emotions as well as the eye; lovable especially in a childlike or naive way"
         ],
         "usphone": "ˈlʌvli",
         "ukphone": "ˈlʌvli"
@@ -308,7 +321,8 @@
     {
         "name": "butterfly",
         "trans": [
-            "蝴蝶"
+            "n. diurnal insect typically having a slender body with knobbed antennae and broad colorful wings",
+            "v. flutter like a butterfly"
         ],
         "usphone": "ˈbʌtərˌflaɪ",
         "ukphone": "ˈbʌtəflaɪ"
@@ -324,7 +338,7 @@
     {
         "name": "pencil sharpener",
         "trans": [
-            "铅笔刀"
+            "n. a rotary implement for sharpening the point on pencils"
         ],
         "usphone": "ˈpɛnsəl ˈʃɑrpənər",
         "ukphone": "ˈpɛnsəl ˈʃɑːpənər"
@@ -340,7 +354,7 @@
     {
         "name": "pencil box",
         "trans": [
-            "铅笔盒"
+            "n. a box for holding pencils"
         ],
         "usphone": "ˈpɛnsəl bɑks",
         "ukphone": "ˈpɛnsəl bɒks"
@@ -356,7 +370,7 @@
     {
         "name": "please",
         "trans": [
-            "请"
+            "v. give pleasure to or be pleasing to; be the will of or have the will (to)"
         ],
         "usphone": "pliːz",
         "ukphone": "pliːz"
@@ -364,8 +378,7 @@
     {
         "name": "only",
         "trans": [
-            "只",
-            "仅仅"
+            "adv. and nothing more; without any others being included or involved"
         ],
         "usphone": "ˈoʊnli",
         "ukphone": "ˈəʊnli"
@@ -373,7 +386,7 @@
     {
         "name": "also",
         "trans": [
-            "也"
+            "adv. in addition"
         ],
         "usphone": "ˈɔlsoʊ",
         "ukphone": "ˈɔːlsəʊ"
@@ -381,7 +394,7 @@
     {
         "name": "saleswoman",
         "trans": [
-            "女售货员"
+            "n. a woman salesperson"
         ],
         "usphone": "ˈseɪlzˌwʊmən",
         "ukphone": "ˈseɪlzˌwʊmən"
@@ -389,7 +402,7 @@
     {
         "name": "great",
         "trans": [
-            "好极了"
+            "adj. relatively large in size or number or extent; larger than others of its kind; of major significance or importance"
         ],
         "usphone": "ɡreɪt",
         "ukphone": "ɡreɪt"
@@ -397,7 +410,8 @@
     {
         "name": "love",
         "trans": [
-            "喜欢"
+            "v. have a great affection or liking for; get pleasure from",
+            "n. a strong positive emotion of regard and affection; any object of warm affection or devotion"
         ],
         "usphone": "lʌv",
         "ukphone": "lʌv"
@@ -405,7 +419,7 @@
     {
         "name": "how much",
         "trans": [
-            "（价钱）多少？"
+            "phr. used to ask about a quantity or a price"
         ],
         "usphone": "haʊ mʌtʃ",
         "ukphone": "haʊ mʌtʃ"
@@ -413,7 +427,7 @@
     {
         "name": "a lot",
         "trans": [
-            "很多"
+            "adv. to a very great degree or extent"
         ],
         "usphone": "ə lɑt",
         "ukphone": "ə lɒt"
@@ -421,7 +435,7 @@
     {
         "name": "wonderful",
         "trans": [
-            "精彩的"
+            "adj. extraordinarily good or great; used especially as intensifiers"
         ],
         "usphone": "ˈwʌndərfəl",
         "ukphone": "ˈwʌndəfʊl"
@@ -429,7 +443,8 @@
     {
         "name": "cool",
         "trans": [
-            "酷的"
+            "adj. neither warm nor very cold; giving relief from heat; marked by calm self-control (especially in trying circumstances); unemotional",
+            "v. make cool or cooler; loose heat"
         ],
         "usphone": "kul",
         "ukphone": "kuːl"
@@ -437,7 +452,7 @@
     {
         "name": "fantastic",
         "trans": [
-            "极好的"
+            "adj. ludicrously odd; extraordinarily good or great; used especially as intensifiers"
         ],
         "usphone": "fænˈtæstɪk",
         "ukphone": "fænˈtæstɪk"
@@ -445,7 +460,7 @@
     {
         "name": "cartoons",
         "trans": [
-            "动画片"
+            "n. a humorous or satirical drawing published in a newspaper or magazine"
         ],
         "usphone": "kɑrˈtunz",
         "ukphone": "kɑːˈtuːns"
@@ -453,7 +468,7 @@
     {
         "name": "news shows",
         "trans": [
-            "新闻节目"
+            "n. a program devoted to current events, often using interviews and commentary"
         ],
         "usphone": "nuz ʃoʊz",
         "ukphone": "njuːz ʃəʊz"
@@ -469,7 +484,7 @@
     {
         "name": "chore",
         "trans": [
-            "家务"
+            "n. a specific piece of work required to be done as a duty or for a specific fee"
         ],
         "usphone": "tʃɔr",
         "ukphone": "tʃɔː"
@@ -525,7 +540,8 @@
     {
         "name": "call",
         "trans": [
-            "打电话给……"
+            "v. assign a specified (usually proper) proper name to; ascribe a quality to or give a name of a common noun that reflects a quality",
+            "n. a telephone connection; a special disposition (as if from a divine source) to pursue a particular course"
         ],
         "usphone": "kɔl",
         "ukphone": "kɔːl"

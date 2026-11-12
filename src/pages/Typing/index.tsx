@@ -10,7 +10,6 @@ import WordPanel from './components/WordPanel'
 import { useConfetti } from './hooks/useConfetti'
 import { useWordList } from './hooks/useWordList'
 import { TypingContext, TypingStateActionType, initialState, typingReducer } from './store'
-import { DonateCard } from '@/components/DonateCard'
 import Header from '@/components/Header'
 import Tooltip from '@/components/Tooltip'
 import { idDictionaryMap } from '@/resources/dictionary'
@@ -38,17 +37,17 @@ const App: React.FC = () => {
   const isReviewMode = useAtomValue(isReviewModeAtom)
 
   useEffect(() => {
-    // 检测用户设备
+    // Warn users on non-desktop devices
     if (!IsDesktop()) {
       setTimeout(() => {
         alert(
-          ' Qwerty Learner 目的为提高键盘工作者的英语输入效率，目前暂未适配移动端，希望您使用桌面端浏览器访问。如您使用的是 Ipad 等平板电脑设备，可以使用外接键盘使用本软件。',
+          'Qwerty Learner is designed to improve English typing for keyboard users and is not yet adapted for mobile devices. Please use a desktop browser. On a tablet such as an iPad, you can connect an external keyboard.',
         )
       }, 500)
     }
   }, [])
 
-  // 在组件挂载和currentDictId改变时，检查当前字典是否存在，如果不存在，则将其重置为默认值
+  // On mount and whenever currentDictId changes, fall back to the default dictionary if the current one no longer exists
   useEffect(() => {
     const id = currentDictId
     if (!(id in idDictionaryMap)) {
@@ -104,7 +103,7 @@ const App: React.FC = () => {
   }, [words])
 
   useEffect(() => {
-    // 当用户完成章节后且完成 word Record 数据保存，记录 chapter Record 数据,
+    // Once the chapter is finished and all word records are saved, save the chapter record
     if (state.isFinished && !state.isSavingRecord) {
       chapterLogUploader()
       saveChapterRecord(state)
@@ -114,7 +113,7 @@ const App: React.FC = () => {
   }, [state.isFinished, state.isSavingRecord])
 
   useEffect(() => {
-    // 启动计时器
+    // Start the timer
     let intervalId: number
     if (state.isTyping) {
       intervalId = window.setInterval(() => {
@@ -128,7 +127,6 @@ const App: React.FC = () => {
 
   return (
     <TypingContext.Provider value={{ state: state, dispatch }}>
-      {state.isFinished && <DonateCard />}
       {state.isFinished && <ResultScreen />}
       <Layout>
         <Header>
@@ -136,7 +134,7 @@ const App: React.FC = () => {
           <PronunciationSwitcher />
           <Switcher />
           <StartButton isLoading={isLoading} />
-          <Tooltip content="跳过该词">
+          <Tooltip content="Skip this word">
             <button
               className={`${
                 state.isShowSkip ? 'bg-orange-400' : 'invisible w-0 bg-gray-300 px-0 opacity-0'

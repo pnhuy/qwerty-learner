@@ -2,587 +2,522 @@
     {
         "name": "a",
         "trans": [
-            "art.一(个)",
-            "每一(个)"
+            "art. one; any one (used before a singular noun)",
+            "art. per; for each (e.g. twice a day)"
         ],
         "pron": "[ei, ә]"
     },
     {
         "name": "able",
         "trans": [
-            "a.有能力的",
-            "出色的"
+            "adj. (usually followed by 'to') having the necessary means or skill or know-how or authority to do something; have the skills and qualifications to do things well"
         ],
         "pron": "['eibl]"
     },
     {
         "name": "about",
         "trans": [
-            "prep.关于",
-            "在…周围"
+            "prep. on the subject of; concerning",
+            "adv. approximately; around"
         ],
         "pron": "[ә'baut]"
     },
     {
         "name": "accept",
         "trans": [
-            "vt.vi.接受",
-            "同意"
+            "v. consider or hold as true; receive willingly something given or offered"
         ],
         "pron": "[әk'sept]"
     },
     {
         "name": "accord",
         "trans": [
-            "vt.使一致",
-            "给予"
+            "v. go together; allow to have"
         ],
         "pron": "[ә'kɔ:d]"
     },
     {
         "name": "according to",
         "trans": [
-            "根据…"
+            "prep. as stated by; in a way that agrees with"
         ],
         "pron": "[]"
     },
     {
         "name": "account",
         "trans": [
-            "n.记述",
-            "解释",
-            "帐目"
+            "n. a record or narrative description of past events; a short account of the news"
         ],
         "pron": "[ә'kaunt]"
     },
     {
         "name": "across",
         "trans": [
-            "prep.横过",
-            "在…对面"
+            "prep. / adv. from one side to the other of"
         ],
         "pron": "[ә'krɔs]"
     },
     {
         "name": "act",
         "trans": [
-            "vi.行动",
-            "见效 n.行为"
+            "v. perform an action, or work out or perform (an action); behave in a certain manner; show a certain behavior; conduct or comport oneself",
+            "n. a legal document codifying the result of deliberations of a committee or society or legislative body; something that people do or cause to happen"
         ],
         "pron": "[æ kt]"
     },
     {
         "name": "action",
         "trans": [
-            "n.行动",
-            "作用",
-            "功能"
+            "n. something done (usually as opposed to something said); the state of being active"
         ],
         "pron": "['æ kʃәn]"
     },
     {
         "name": "actually",
         "trans": [
-            "ad.实际上",
-            "竟然"
+            "adv. in actual fact; used to imply that one would expect the fact to be the opposite of that stated; surprisingly"
         ],
         "pron": "['æ ktjuәli]"
     },
     {
         "name": "add",
         "trans": [
-            "vt.添加",
-            "附加",
-            "掺加"
+            "v. make an addition (to); join or combine or unite with others; increase the quality, quantity, size or scope of; state or say further"
         ],
         "pron": "[æ d]"
     },
     {
         "name": "after",
         "trans": [
-            "prep.在…以后",
-            "次于"
+            "prep. / conj. later than; following",
+            "prep. behind; in pursuit of"
         ],
         "pron": "['a:ftә]"
     },
     {
         "name": "again",
         "trans": [
-            "ad.又一次",
-            "而且"
+            "adv. anew"
         ],
         "pron": "[ә'gein, ә'gen]"
     },
     {
         "name": "against",
         "trans": [
-            "prep.靠在",
-            "反对",
-            "对着"
+            "prep. in opposition to",
+            "prep. in contact with and pressing on"
         ],
         "pron": "[ә'geinst, ә'genst]"
     },
     {
         "name": "age",
         "trans": [
-            "n.年龄",
-            "时代 vt.变老"
+            "n. how long something has existed; an era of history having some distinctive feature",
+            "v. begin to seem older; get older; grow old or older"
         ],
         "pron": "[eidʒ]"
     },
     {
         "name": "ago",
         "trans": [
-            "ad.以前"
+            "adv. in the past"
         ],
         "pron": "[ә'gәu]"
     },
     {
         "name": "agree",
         "trans": [
-            "vi.同意",
-            "持相同意见"
+            "v. be in accord; be in agreement; consent or assent to a condition, or agree to do something"
         ],
         "pron": "[ә'gri:]"
     },
     {
         "name": "aid",
         "trans": [
-            "n.帮助",
-            "救护",
-            "助手"
+            "n. a resource; the activity of contributing to the fulfillment of a need or furtherance of an effort or purpose"
         ],
         "pron": "[eid]"
     },
     {
         "name": "air",
         "trans": [
-            "n.空气",
-            "空中",
-            "外观"
+            "n. a mixture of gases (especially oxygen) required for breathing; the stuff that the wind consists of; the region above the ground"
         ],
         "pron": "[ɛә]"
     },
     {
         "name": "all",
         "trans": [
-            "a.全部的 prep.全部"
+            "adj. quantifier; used with either mass or count nouns to indicate the whole number or amount of or every one of a class; completely given to or absorbed by"
         ],
         "pron": "[ɔ:l]"
     },
     {
         "name": "allow",
         "trans": [
-            "vt.允许",
-            "准许"
+            "v. make it possible through a specific action or lack of action for something to happen; consent to, give permission"
         ],
         "pron": "[ә'lau]"
     },
     {
         "name": "almost",
         "trans": [
-            "ad.几乎",
-            "差不多"
+            "adv. (of actions or states) slightly short of or not quite accomplished; all but"
         ],
         "pron": "['ɔ:lmәust]"
     },
     {
         "name": "along",
         "trans": [
-            "prep.沿着 ad.向前"
+            "prep. moving in a line from one end towards the other end of"
         ],
         "pron": "[ә'lɔŋ]"
     },
     {
         "name": "already",
         "trans": [
-            "ad.早已",
-            "已经"
+            "adv. prior to a specified or implied time"
         ],
         "pron": "[ɔ:l'redi]"
     },
     {
         "name": "also",
         "trans": [
-            "ad.亦",
-            "也",
-            "而且",
-            "还"
+            "adv. in addition"
         ],
         "pron": "['ɔ:lsәu]"
     },
     {
         "name": "although",
         "trans": [
-            "conj.尽管",
-            "虽然"
+            "conj. in spite of the fact that; even though"
         ],
         "pron": "[ɔ:l'ðәu]"
     },
     {
         "name": "always",
         "trans": [
-            "ad.总是",
-            "一直",
-            "永远"
+            "adv. at all times; all the time and on every occasion"
         ],
         "pron": "['ɔ:lweiz, 'ɔ:lwәz]"
     },
     {
         "name": "among",
         "trans": [
-            "prep.在…之中"
+            "prep. surrounded by; in the company of; between (more than two)"
         ],
         "pron": "[ә'mʌŋ]"
     },
     {
         "name": "and",
         "trans": [
-            "conj.和",
-            "又",
-            "并",
-            "则"
+            "conj. used to connect words, phrases or clauses; in addition to"
         ],
         "pron": "[æ nd, әnd]"
     },
     {
         "name": "announce",
         "trans": [
-            "vt.宣布",
-            "发表"
+            "v. make known; make an announcement; announce publicly or officially"
         ],
         "pron": "[ә'nauns]"
     },
     {
         "name": "another",
         "trans": [
-            "a.再一个的",
-            "别的"
+            "adj. any of various alternatives; some other"
         ],
         "pron": "[ә'nʌðә]"
     },
     {
         "name": "answer",
         "trans": [
-            "vt.回答",
-            "响应",
-            "适应"
+            "v. react verbally; respond to a signal"
         ],
         "pron": "['a:nsә]"
     },
     {
         "name": "any",
         "trans": [
-            "a.什么",
-            "一些",
-            "任何的"
+            "adj. one or some or every or all without specification"
         ],
         "pron": "['eni]"
     },
     {
         "name": "anything",
         "trans": [
-            "pron.任何事物",
-            "一切"
+            "pron. a thing of any kind"
         ],
         "pron": "['eniθiŋ]"
     },
     {
         "name": "appear",
         "trans": [
-            "vi.出现",
-            "来到",
-            "似乎"
+            "v. give a certain impression or have a certain outward aspect; come into sight or view"
         ],
         "pron": "[ә'piә]"
     },
     {
         "name": "area",
         "trans": [
-            "n.面积",
-            "地区",
-            "领域"
+            "n. a particular geographical region of indefinite boundary (usually serving some special purpose or distinguished by its people or culture or geography)"
         ],
         "pron": "['ɛәriә]"
     },
     {
         "name": "arm",
         "trans": [
-            "n.手臂",
-            "武器"
+            "n. a human limb; technically the part of the superior limb between the shoulder and the elbow but commonly used to refer to the whole superior limb"
         ],
         "pron": "[a:m]"
     },
     {
         "name": "army",
         "trans": [
-            "n.军队",
-            "陆军"
+            "n. a permanent organization of the military land forces of a nation or state; a large number of people united for some specific purpose"
         ],
         "pron": "['a:mi]"
     },
     {
         "name": "around",
         "trans": [
-            "prep.在…周围"
+            "prep. / adv. on every side of; surrounding",
+            "adv. approximately"
         ],
         "pron": "[ә'raund]"
     },
     {
         "name": "art",
         "trans": [
-            "n.艺术",
-            "美术"
+            "n. the products of human creativity; works of art collectively; the creation of beautiful or significant things"
         ],
         "pron": "[a:t]"
     },
     {
         "name": "as",
         "trans": [
-            "conj.当…的时候"
+            "conj. while; when; because",
+            "prep. in the role or function of",
+            "adv. to the same degree (as … as)"
         ],
         "pron": "[æ z, әz]"
     },
     {
         "name": "ask",
         "trans": [
-            "vt.问",
-            "要求",
-            "邀请"
+            "v. inquire about; make a request or demand for something to somebody"
         ],
         "pron": "[a:sk]"
     },
     {
         "name": "at",
         "trans": [
-            "prep.在…里",
-            "在…时"
+            "prep. indicating a point in space or time",
+            "prep. indicating a direction or target"
         ],
         "pron": "[æ t, әt]"
     },
     {
         "name": "attack",
         "trans": [
-            "vt.vi.n.攻击",
-            "进攻"
+            "v. launch an attack or assault on; begin hostilities or start warfare with; attack in speech or writing"
         ],
         "pron": "[ә'tæ k]"
     },
     {
         "name": "attempt",
         "trans": [
-            "vt.尝试",
-            "试图 n.企图"
+            "v. make an effort or attempt; enter upon an activity or enterprise",
+            "n. earnest and conscientious activity intended to do or accomplish something; the act of attacking"
         ],
         "pron": "[ә'tempt]"
     },
     {
         "name": "authority",
         "trans": [
-            "n.当局",
-            "官方",
-            "权力"
+            "n. the power or right to give orders or make decisions; (usually plural) persons who exercise (administrative) control over others"
         ],
         "pron": "[ɔ:'θɔriti]"
     },
     {
         "name": "available",
         "trans": [
-            "a.可利用的",
-            "通用的"
+            "adj. obtainable or accessible and ready for use or service"
         ],
         "pron": "[ә'veilәbl]"
     },
     {
         "name": "away",
         "trans": [
-            "ad.离开",
-            "远离",
-            "…去"
+            "adv. from a particular thing or place or position ('forth' is obsolete); from one's possession"
         ],
         "pron": "[ә'wei]"
     },
     {
         "name": "back",
         "trans": [
-            "ad.在后",
-            "向后 n.背后"
+            "adv. in or to or toward a former location; at or to or toward the back or rear",
+            "n. the posterior part of a human (or animal) body from the neck to the end of the spine; the side that goes last or is not normally seen"
         ],
         "pron": "[bæ k]"
     },
     {
         "name": "bad",
         "trans": [
-            "a.坏的",
-            "恶的",
-            "严重的"
+            "adj. having undesirable or negative qualities; very intense"
         ],
         "pron": "[bæ d]"
     },
     {
         "name": "bank",
         "trans": [
-            "n.银行",
-            "库",
-            "堤"
+            "n. sloping land (especially the slope beside a body of water); a financial institution that accepts deposits and channels the money into lending activities"
         ],
         "pron": "[bæŋk]"
     },
     {
         "name": "base",
         "trans": [
-            "n.基础",
-            "底层",
-            "基地"
+            "n. installation from which a military force initiates operations; lowest support of a structure"
         ],
         "pron": "[beis]"
     },
     {
         "name": "based",
         "trans": [
-            "v. 立基于",
-            "以...为基础"
+            "adj. having a base; having a base of operations (often used as a combining form)"
         ],
         "pron": "[]"
     },
     {
         "name": "be",
         "trans": [
-            "aux.v.vi.是",
-            "在",
-            "做"
+            "v. to exist; to have a quality, identity or condition",
+            "aux. used to form the passive and continuous tenses"
         ],
         "pron": "[bi:]"
     },
     {
         "name": "beat",
         "trans": [
-            "vt.vi.打",
-            "敲",
-            "打败"
+            "v. come out better in a competition, race, or conflict; give a beating to; subject to a beating, either as a punishment or as an act of aggression"
         ],
         "pron": "[bi:t]"
     },
     {
         "name": "because",
         "trans": [
-            "conj.由于",
-            "因为"
+            "conj. for the reason that; since"
         ],
         "pron": "[bi'kɔz]"
     },
     {
         "name": "become",
         "trans": [
-            "vi.变成",
-            "成为",
-            "变得"
+            "v. enter or assume a certain state or condition; undergo a change or development"
         ],
         "pron": "[bi'kʌm]"
     },
     {
         "name": "before",
         "trans": [
-            "prep.在…以前"
+            "prep. / conj. earlier than",
+            "prep. in front of"
         ],
         "pron": "[bi'fɔ:]"
     },
     {
         "name": "begin",
         "trans": [
-            "vi.开始 vt.开始"
+            "v. take the first step or steps in carrying out an action; have a beginning, in a temporal, spatial, or evaluative sense"
         ],
         "pron": "[bi'gin]"
     },
     {
         "name": "behind",
         "trans": [
-            "prep.在…后面"
+            "prep. / adv. at or towards the back of"
         ],
         "pron": "[bi'haind]"
     },
     {
         "name": "believe",
         "trans": [
-            "vt.相信",
-            "认为"
+            "v. accept as true; take to be true; judge or regard; look upon; judge"
         ],
         "pron": "[bi'li:v]"
     },
     {
         "name": "better",
         "trans": [
-            "a.较好的 ad.更好地"
+            "adj. (comparative of 'good') superior to another (of the same class or set or kind) in excellence or quality or desirability or suitability…",
+            "adv. comparative of 'well'; in a better or more excellent manner or more advantageously or attractively or to a greater degree etc."
         ],
         "pron": "['betә]"
     },
     {
         "name": "between",
         "trans": [
-            "prep.在…中间"
+            "prep. in the space or time separating two things"
         ],
         "pron": "[bi'twi:n]"
     },
     {
         "name": "big",
         "trans": [
-            "a.大的"
+            "adj. above average in size or number or quantity or magnitude or extent; significant"
         ],
         "pron": "[big]"
     },
     {
         "name": "billion",
         "trans": [
-            "num.十亿"
+            "adj. denoting a quantity consisting of one thousand million items or units in the United States",
+            "n. the number that is represented as a one followed by 12 zeros; in the United Kingdom the usage followed in the United States is frequently seen"
         ],
         "pron": "['biljәn]"
     },
     {
         "name": "bit",
         "trans": [
-            "n.一点",
-            "一些",
-            "小片"
+            "n. a small piece or quantity of something; a small fragment of something broken off from the whole"
         ],
         "pron": "[bit]"
     },
     {
         "name": "bite",
         "trans": [
-            "vt.咬",
-            "叮",
-            "螫"
+            "v. to grip, cut off, or tear with or as if with the teeth or jaws; cause a sharp or stinging pain or discomfort"
         ],
         "pron": "[bait]"
     },
     {
         "name": "black",
         "trans": [
-            "a.黑色的",
-            "黑暗的"
+            "adj. being of the achromatic color of maximum darkness; having little or no hue owing to absorption of almost all incident light"
         ],
         "pron": "[blæ k]"
     },
     {
         "name": "blue",
         "trans": [
-            "a.蓝色的 n.蓝色"
+            "adj. of the color intermediate between green and violet; having a color similar to that of a clear unclouded sky",
+            "n. blue color or pigment; resembling the color of the clear sky in the daytime; blue clothing"
         ],
         "pron": "[blu:]"
     },
     {
         "name": "body",
         "trans": [
-            "n.身体",
-            "主体",
-            "尸体"
+            "n. the entire structure of an organism (an animal, plant, or human being); a group of persons associated by some common tie or occupation and regarded as an entity"
         ],
         "pron": "['bɔdi]"
     },
     {
         "name": "Book",
         "trans": [
-            "n.书籍 vt.预定"
+            "n. a written work or composition that has been published (printed on pages bound together); physical objects consisting of a number of pages bound together",
+            "v. engage for a performance; arrange for and reserve (something for someone else) in advance"
         ],
         "pron": "[buk]"
     },
@@ -596,411 +531,368 @@
     {
         "name": "boy",
         "trans": [
-            "n.男孩",
-            "少年",
-            "家伙"
+            "n. a youthful male person; a friendly informal reference to a grown man"
         ],
         "pron": "[bɔi]"
     },
     {
         "name": "break",
         "trans": [
-            "vt.打破",
-            "损坏"
+            "v. terminate; become separated into pieces or fragments"
         ],
         "pron": "[breik]"
     },
     {
         "name": "bring",
         "trans": [
-            "vt.带来",
-            "引出",
-            "促使"
+            "v. take something or somebody with oneself somewhere; cause to come into a particular state or condition"
         ],
         "pron": "[briŋ]"
     },
     {
         "name": "brother",
         "trans": [
-            "n.兄弟"
+            "n. a male with the same parents as someone else; a male person who is a fellow member (of a fraternity or religion or other group)"
         ],
         "pron": "['brʌðә]"
     },
     {
         "name": "brown",
         "trans": [
-            "n.褐色",
-            "棕色"
+            "n. an orange of low brightness and saturation"
         ],
         "pron": "[braun]"
     },
     {
         "name": "build",
         "trans": [
-            "vt.建造",
-            "建立",
-            "创立"
+            "v. make by combining materials and parts; form or accumulate steadily"
         ],
         "pron": "[bild]"
     },
     {
         "name": "building",
         "trans": [
-            "n.建筑物",
-            "大楼"
+            "n. a structure that has a roof and walls and stands more or less permanently in one place; the act of constructing something"
         ],
         "pron": "['bildiŋ]"
     },
     {
         "name": "business",
         "trans": [
-            "n.商业",
-            "生意",
-            "事务"
+            "n. a commercial or industrial enterprise and the people who constitute it"
         ],
         "pron": "['biznis]"
     },
     {
         "name": "but",
         "trans": [
-            "conj.但是",
-            "可是"
+            "conj. used to introduce something contrasting with what has already been said",
+            "prep. except; apart from"
         ],
         "pron": "[bʌt]"
     },
     {
         "name": "buy",
         "trans": [
-            "vt.vi.购买"
+            "v. obtain by purchase; acquire by means of a financial transaction; make illegal payments to in exchange for favors or influence"
         ],
         "pron": "[bai]"
     },
     {
         "name": "by",
         "trans": [
-            "prep.在…旁",
-            "被",
-            "由"
+            "prep. beside; next to",
+            "prep. through the action or means of",
+            "prep. not later than"
         ],
         "pron": "[bai]"
     },
     {
         "name": "call",
         "trans": [
-            "vt.把…叫做",
-            "喊",
-            "打电话"
+            "v. assign a specified (usually proper) proper name to; ascribe a quality to or give a name of a common noun that reflects a quality"
         ],
         "pron": "[kɔ:l]"
     },
     {
         "name": "campaign",
         "trans": [
-            "n.战役",
-            "运动"
+            "n. a race between candidates for elective office; a series of actions advancing a principle or tending toward a particular end"
         ],
         "pron": "[kæ m'pein]"
     },
     {
         "name": "can",
         "trans": [
-            "aux.v.能",
-            "会",
-            "可能"
+            "aux. to be able to; to be allowed to",
+            "n. a metal container for food or drink"
         ],
         "pron": "[kæ n]"
     },
     {
         "name": "can't",
         "trans": [
-            "v. & aux. 不 能"
+            "aux. short for \"cannot\""
         ],
         "pron": "[ka:nt]"
     },
     {
         "name": "capital",
         "trans": [
-            "n.资本",
-            "资金",
-            "首都"
+            "n. assets available for use in the production of further assets"
         ],
         "pron": "['kæ pitl]"
     },
     {
         "name": "car",
         "trans": [
-            "n.轿车"
+            "n. a motor vehicle with four wheels; usually propelled by an internal combustion engine; a wheeled vehicle adapted to the rails of railroad"
         ],
         "pron": "[ka:]"
     },
     {
         "name": "care",
         "trans": [
-            "vi.关心",
-            "介意 n.小心"
+            "v. feel concern or interest; provide care for",
+            "n. the work of providing treatment for or attending to someone or something; judiciousness in avoiding harm or danger"
         ],
         "pron": "[kɛә]"
     },
     {
         "name": "carry",
         "trans": [
-            "vt.携带",
-            "运载",
-            "传送"
+            "v. move while supporting, either in a vehicle or in one's hands or on one's body; have with oneself; have on one's person"
         ],
         "pron": "['kæ ri]"
     },
     {
         "name": "case",
         "trans": [
-            "n.情况",
-            "事实",
-            "病例"
+            "n. an occurrence of something; a special set of circumstances"
         ],
         "pron": "[keis]"
     },
     {
         "name": "cause",
         "trans": [
-            "n.原因",
-            "理由"
+            "n. events that provide the generative force that is the origin of something; a justification for something existing or happening"
         ],
         "pron": "[kɔ:z]"
     },
     {
         "name": "central",
         "trans": [
-            "a.中心的",
-            "主要的"
+            "adj. serving as an essential component; in or near a center or constituting a center; the inner area"
         ],
         "pron": "['sentrәl]"
     },
     {
         "name": "centre",
         "trans": [
-            "n.中心",
-            "中枢 vt.集中"
+            "n. a low-lying region in central France",
+            "v. move into the center"
         ],
         "pron": "['sentә]"
     },
     {
         "name": "century",
         "trans": [
-            "n.世纪",
-            "百年"
+            "n. a period of 100 years"
         ],
         "pron": "['sentʃuri]"
     },
     {
         "name": "chance",
         "trans": [
-            "n.机会",
-            "机遇",
-            "可能性"
+            "n. a possibility due to a favorable combination of circumstances…"
         ],
         "pron": "[tʃa:ns]"
     },
     {
         "name": "change",
         "trans": [
-            "n.变化",
-            "零钱 vt.改变"
+            "n. an event that occurs when something passes from one state or phase to another",
+            "v. cause to change; make different; cause a transformation; undergo a change; become different in essence; losing one's or its original nature"
         ],
         "pron": "[tʃeindʒ]"
     },
     {
         "name": "charge",
         "trans": [
-            "vt.索价",
-            "控告 n.费用"
+            "v. to make a rush at or sudden attack upon, as in battle; blame for, make a claim of wrongdoing or misbehavior against",
+            "n. an impetuous rush toward someone or something; (criminal law) a pleading describing some wrong or offense"
         ],
         "pron": "[tʃa:dʒ]"
     },
     {
         "name": "chief",
         "trans": [
-            "a.主要的",
-            "首席的"
+            "adj. most important element"
         ],
         "pron": "[tʃi:f]"
     },
     {
         "name": "child",
         "trans": [
-            "n.小孩"
+            "n. a young person of either sex; a human offspring (son or daughter) of any age"
         ],
         "pron": "[tʃaild]"
     },
     {
         "name": "city",
         "trans": [
-            "n.城市"
+            "n. a large and densely populated urban area; may include several independent administrative districts"
         ],
         "pron": "['siti]"
     },
     {
         "name": "claim",
         "trans": [
-            "vt.声称",
-            "主张",
-            "索取"
+            "v. assert or affirm strongly; state to be true or existing; demand as being one's due or property; assert one's right or title to"
         ],
         "pron": "[kleim]"
     },
     {
         "name": "class",
         "trans": [
-            "n.班级",
-            "阶级"
+            "n. a collection of things sharing a common attribute; a body of students who are taught together"
         ],
         "pron": "[kla:s]"
     },
     {
         "name": "clear",
         "trans": [
-            "a.清晰的 vt.清除"
+            "adj. readily apparent to the mind; free from confusion or doubt",
+            "v. rid of obstructions; make a way or path by removing objects"
         ],
         "pron": "[kliә]"
     },
     {
         "name": "close",
         "trans": [
-            "vt.关闭",
-            "结束"
+            "v. move so that an opening or passage is obstructed; make shut; become closed"
         ],
         "pron": "[klәuz, klәus]"
     },
     {
         "name": "club",
         "trans": [
-            "n.俱乐部",
-            "夜总会"
+            "n. a team of professional baseball players who play and travel together; a formal association of people with similar interests"
         ],
         "pron": "[klʌb]"
     },
     {
         "name": "colour",
         "trans": [
-            "n.颜色"
+            "n. any material used for its color"
         ],
         "pron": "['kʌlә]"
     },
     {
         "name": "come",
         "trans": [
-            "vi.来",
-            "来到",
-            "出现"
+            "v. move toward, travel toward something or somebody or approach something or somebody; reach a destination; arrive by movement or progress"
         ],
         "pron": "[kʌm]"
     },
     {
         "name": "coming",
         "trans": [
-            "n.来 临"
+            "n. the act of drawing spatially closer to something; arrival that has been awaited (especially of something momentous)"
         ],
         "pron": "['kʌmiŋ]"
     },
     {
         "name": "committee",
         "trans": [
-            "n.委员会"
+            "n. a special group delegated to consider some matter; a self-constituted organization to promote something"
         ],
         "pron": "[kә'miti]"
     },
     {
         "name": "common",
         "trans": [
-            "a.普通的",
-            "共同的"
+            "adj. belonging to or participated in by a community as a whole; public"
         ],
         "pron": "['kɔmәn]"
     },
     {
         "name": "community",
         "trans": [
-            "n.社区"
+            "n. a group of people living in a particular local area; common ownership"
         ],
         "pron": "[kә'mju:niti]"
     },
     {
         "name": "company",
         "trans": [
-            "n.公司 vt.陪伴"
+            "n. an institution created to conduct business; small military unit; usually two or three platoons",
+            "v. be a companion to somebody"
         ],
         "pron": "['kʌmpәni]"
     },
     {
         "name": "complete",
         "trans": [
-            "a.完整的",
-            "完成的"
+            "adj. having every necessary or normal part or component or step; perfect and complete in every respect; having all necessary qualities"
         ],
         "pron": "[kәm'pli:t]"
     },
     {
         "name": "concern",
         "trans": [
-            "n.关心",
-            "挂念",
-            "关系"
+            "n. something that interests you because it is important or affects you; an anxious feeling"
         ],
         "pron": "[kәn'sә:n]"
     },
     {
         "name": "condition",
         "trans": [
-            "n.状况",
-            "条件",
-            "环境"
+            "n. a state at a particular time; an assumption on which rests the validity or effect of something else"
         ],
         "pron": "[kәn'diʃәn]"
     },
     {
         "name": "conference",
         "trans": [
-            "n.会议",
-            "讨论会"
+            "n. a prearranged meeting for consultation or exchange of information or discussion (especially one with a formal agenda)"
         ],
         "pron": "['kɔnfәrәns]"
     },
     {
         "name": "consider",
         "trans": [
-            "vt.认为",
-            "考虑",
-            "关心"
+            "v. deem to be; give careful consideration to"
         ],
         "pron": "[kәn'sidә]"
     },
     {
         "name": "continue",
         "trans": [
-            "vt.继续"
+            "v. continue a certain state, condition, or activity; continue talking; he continued,"
         ],
         "pron": "[kәn'tinju(:)]"
     },
     {
         "name": "control",
         "trans": [
-            "vt.控制",
-            "克制 n.控制"
+            "v. exercise authoritative control or power over; lessen the intensity of; temper; hold in restraint; hold or keep within limits",
+            "n. power to direct or determine; a relation of constraint of one entity (thing or person or group) by another"
         ],
         "pron": "[kәn'trәul]"
     },
     {
         "name": "cost",
         "trans": [
-            "n.价格",
-            "代价",
-            "成本"
+            "n. the total spent for goods or services including money and time and labor"
         ],
         "pron": "[kɔst]"
     },
     {
         "name": "could",
         "trans": [
-            "aux.v.能够(can 的过去式)"
+            "aux. past form of \"can\"; used to express possibility or a polite request"
         ],
         "pron": "[kud, kәd]"
     },
@@ -1014,164 +906,143 @@
     {
         "name": "council",
         "trans": [
-            "n.理事会",
-            "委员会"
+            "n. a body serving in an administrative capacity"
         ],
         "pron": "['kaunsil]"
     },
     {
         "name": "Country",
         "trans": [
-            "n.国家"
+            "n. a politically organized body of people under a single government; the territory occupied by a nation"
         ],
         "pron": "['kʌntri]"
     },
     {
         "name": "course",
         "trans": [
-            "n.课程",
-            "过程",
-            "一道菜"
+            "n. education imparted in a series of lessons or meetings; a connected series of events or actions or developments"
         ],
         "pron": "[kɔ:s]"
     },
     {
         "name": "court",
         "trans": [
-            "n.法庭"
+            "n. an assembly (including one or more judges) to conduct judicial business; a room in which a lawcourt sits"
         ],
         "pron": "[kɔ:t]"
     },
     {
         "name": "cover",
         "trans": [
-            "vt.盖住",
-            "包括 n.盖子"
+            "v. provide with a covering or cause to be covered; form a cover over",
+            "n. a covering that serves to conceal or shelter something; bedding that keeps a person warm in bed"
         ],
         "pron": "['kʌvә]"
     },
     {
         "name": "create",
         "trans": [
-            "vt.创造",
-            "引起",
-            "产生"
+            "v. make or cause to be or to become; bring into existence"
         ],
         "pron": "[kri(:)'eit]"
     },
     {
         "name": "cup",
         "trans": [
-            "n.杯子"
+            "n. a small open container usually used for drinking; usually has a handle; the quantity a cup will hold"
         ],
         "pron": "[kʌp]"
     },
     {
         "name": "current",
         "trans": [
-            "a.当前的",
-            "通用的"
+            "adj. occurring in or belonging to the present time"
         ],
         "pron": "['kʌrәnt]"
     },
     {
         "name": "cut",
         "trans": [
-            "vt.切",
-            "割",
-            "剪",
-            "减少"
+            "v. separate with or as if with an instrument; cut down on; make a reduction in"
         ],
         "pron": "[kʌt]"
     },
     {
         "name": "daughter",
         "trans": [
-            "n.女儿"
+            "n. a female human offspring"
         ],
         "pron": "['dɔ:tә]"
     },
     {
         "name": "day",
         "trans": [
-            "n.一天",
-            "白昼"
+            "n. time for Earth to make a complete rotation on its axis; some point or period in time"
         ],
         "pron": "[dei]"
     },
     {
         "name": "deal",
         "trans": [
-            "n.交易 vi.处理"
+            "n. a particular instance of buying or selling; an agreement between parties (usually arrived at after discussion) fixing obligations of each",
+            "v. act on verbally or in some form of artistic expression; take into consideration for exemplifying purposes"
         ],
         "pron": "[di:l]"
     },
     {
         "name": "decide",
         "trans": [
-            "vt.决定"
+            "v. reach, make, or come to a decision about something; bring to an end; settle conclusively"
         ],
         "pron": "[di'said]"
     },
     {
         "name": "decision",
         "trans": [
-            "n.决定",
-            "决心"
+            "n. the act of making up your mind about something; a position or opinion or judgment reached after consideration"
         ],
         "pron": "[di'siʒәn]"
     },
     {
         "name": "demand",
         "trans": [
-            "vt.要求",
-            "需要"
+            "v. request urgently and forcefully; require as useful, just, or proper"
         ],
         "pron": "[di'ma:nd]"
     },
     {
         "name": "department",
         "trans": [
-            "n.部",
-            "司",
-            "局",
-            "处",
-            "系"
+            "n. a specialized division of a large organization"
         ],
         "pron": "[di'pa:tmәnt]"
     },
     {
         "name": "describe",
         "trans": [
-            "vt.形容",
-            "描写",
-            "描绘"
+            "v. give a description of; to give an account or representation of in words"
         ],
         "pron": "[dis'kraib]"
     },
     {
         "name": "design",
         "trans": [
-            "vt.设计 n.设计",
-            "图样"
+            "v. make or work out a plan for; devise; plan something for a specific role or purpose or effect",
+            "n. the act of working out the form of something (as by making a sketch or outline or plan); an arrangement scheme"
         ],
         "pron": "[di'zain]"
     },
     {
         "name": "develop",
         "trans": [
-            "vt.发展",
-            "形成",
-            "开发"
+            "v. make something new, such as a product or a mental or artistic creation; work out"
         ],
         "pron": "[di'velәp]"
     },
     {
         "name": "development",
         "trans": [
-            "n.发展",
-            "开发",
-            "生长"
+            "n. act of improving by expanding or enlarging or refining"
         ],
         "pron": "[di'velәpmәnt]"
     },
@@ -1185,46 +1056,43 @@
     {
         "name": "die",
         "trans": [
-            "vi.死亡"
+            "v. pass from physical life and lose all bodily attributes and functions necessary to sustain life; suffer or face the pain of death"
         ],
         "pron": "[dai]"
     },
     {
         "name": "different",
         "trans": [
-            "a.不同的"
+            "adj. unlike in nature or quality or form or degree; distinctly separate from the first"
         ],
         "pron": "['difrәnt]"
     },
     {
         "name": "difficult",
         "trans": [
-            "a.困难的"
+            "adj. not easy; requiring great physical or mental effort to accomplish or comprehend or endure"
         ],
         "pron": "['difikәlt]"
     },
     {
         "name": "direct",
         "trans": [
-            "a.直接的",
-            "直率的"
+            "adj. direct in spatial dimensions; proceeding without deviation or interruption; straight and short; having no intervening persons, agents, conditions"
         ],
         "pron": "[di'rekt]"
     },
     {
         "name": "director",
         "trans": [
-            "n.董事长",
-            "导演"
+            "n. someone who controls resources and expenditures; member of a board of directors"
         ],
         "pron": "[di'rektә]"
     },
     {
         "name": "do",
         "trans": [
-            "aux.v.vt.做",
-            "干",
-            "办"
+            "v. to perform or carry out (an action or task)",
+            "aux. used to form questions and negatives and for emphasis"
         ],
         "pron": "[du:, du]"
     },
@@ -1238,7 +1106,7 @@
     {
         "name": "dollar",
         "trans": [
-            "n.美元"
+            "n. the basic monetary unit in many countries; equal to 100 cents; a piece of paper money worth one dollar"
         ],
         "pron": "['dɔlә]"
     },
@@ -1252,831 +1120,747 @@
     {
         "name": "door",
         "trans": [
-            "n.门"
+            "n. a swinging or sliding barrier that will close the entrance to a room or building or vehicle"
         ],
         "pron": "[dɔ:]"
     },
     {
         "name": "down",
         "trans": [
-            "ad.向下",
-            "在下面"
+            "adv. spatially or metaphorically from a higher to a lower level or position; away from a more central or a more northerly place"
         ],
         "pron": "[daun]"
     },
     {
         "name": "draw",
         "trans": [
-            "vt.画",
-            "拖",
-            "拨出"
+            "v. cause to move by pulling; get or derive"
         ],
         "pron": "[drɔ:]"
     },
     {
         "name": "drive",
         "trans": [
-            "vt.驾驶",
-            "驱使"
+            "v. operate or control a vehicle; travel or be transported in a vehicle"
         ],
         "pron": "[draiv]"
     },
     {
         "name": "drug",
         "trans": [
-            "n.药物",
-            "毒品"
+            "n. a substance that is used as a medicine or narcotic"
         ],
         "pron": "[drʌg]"
     },
     {
         "name": "effort",
         "trans": [
-            "n.努力"
+            "n. earnest and conscientious activity intended to do or accomplish something; use of physical or mental energy; hard work"
         ],
         "pron": "['efәt]"
     },
     {
         "name": "eight",
         "trans": [
-            "num.八",
-            "八个",
-            "第八"
+            "adj. being one more than seven"
         ],
         "pron": "[eit]"
     },
     {
         "name": "eighteen",
         "trans": [
-            "num.十八",
-            "十八个"
+            "adj. being one more than seventeen"
         ],
         "pron": "['ei'ti:n]"
     },
     {
         "name": "eighty",
         "trans": [
-            "num.八十",
-            "八十个"
+            "adj. being ten more than seventy"
         ],
         "pron": "['eiti]"
     },
     {
         "name": "either",
         "trans": [
-            "pron.(两者)任何一个"
+            "pron. One of two; the one or the other"
         ],
         "pron": "['aiðә, 'i:ðә]"
     },
     {
         "name": "election",
         "trans": [
-            "n.选举",
-            "选举权",
-            "当选"
+            "n. a vote to select the winner of a position or political office; the act of selecting someone or something; the exercise of deliberate choice"
         ],
         "pron": "[i'lekʃәn]"
     },
     {
         "name": "eleven",
         "trans": [
-            "num.十一",
-            "十一个"
+            "adj. being one more than ten"
         ],
         "pron": "[i'levn]"
     },
     {
         "name": "else",
         "trans": [
-            "ad.其它",
-            "另外 a.别的"
+            "adv. in addition; besides; different"
         ],
         "pron": "[els]"
     },
     {
         "name": "end",
         "trans": [
-            "n.末端",
-            "目标 vt.结束"
+            "n. either extremity of something that has length; the point in time at which something ends",
+            "v. have an end, in a temporal, spatial, or quantitative sense; either spatial or metaphorical; bring to an end or halt"
         ],
         "pron": "[end]"
     },
     {
         "name": "enough",
         "trans": [
-            "a.足够的 ad.足够地"
+            "adj. sufficient for the purpose",
+            "adv. as much as necessary; ('plenty' is nonstandard)"
         ],
         "pron": "[i'nʌf]"
     },
     {
         "name": "even",
         "trans": [
-            "a.均匀的",
-            "平的"
+            "adj. divisible by two; equal in degree or extent or amount; or equally matched or balanced"
         ],
         "pron": "['i:vәn]"
     },
     {
         "name": "event",
         "trans": [
-            "n.事件",
-            "事变"
+            "n. something that happens at a given place and time; a special set of circumstances"
         ],
         "pron": "[i'vent]"
     },
     {
         "name": "ever",
         "trans": [
-            "ad.在任何时候",
-            "曾经"
+            "adv. at any time; at all times; all the time and on every occasion"
         ],
         "pron": "['evә]"
     },
     {
         "name": "every",
         "trans": [
-            "a.每个",
-            "每一",
-            "每隔…的"
+            "adj. (used of count nouns) each and all of the members of a group considered singly and without exception"
         ],
         "pron": "['evri]"
     },
     {
         "name": "everything",
         "trans": [
-            "pron.每件事",
-            "事事"
+            "pron. all things; all that is important"
         ],
         "pron": "['evriθiŋ]"
     },
     {
         "name": "example",
         "trans": [
-            "n.例子",
-            "实例",
-            "模范"
+            "n. an item of information that is typical of a class or group; a representative form or pattern"
         ],
         "pron": "[ig'za:mpl]"
     },
     {
         "name": "expect",
         "trans": [
-            "vt.预料",
-            "预期",
-            "等待"
+            "v. regard something as probable or likely; consider obligatory; request and expect"
         ],
         "pron": "[iks'pekt]"
     },
     {
         "name": "experience",
         "trans": [
-            "n.经验",
-            "感受",
-            "经历"
+            "n. the accumulation of knowledge or skill that results from direct participation in events or activities"
         ],
         "pron": "[iks'piәriәns]"
     },
     {
         "name": "eye",
         "trans": [
-            "n.眼睛"
+            "n. the organ of sight; good discernment (either visually or as if visually)"
         ],
         "pron": "[ai]"
     },
     {
         "name": "face",
         "trans": [
-            "n.脸",
-            "表面",
-            "外表"
+            "n. the front of the human head from the forehead to the chin and ear to ear; the feelings expressed on a person's face"
         ],
         "pron": "[feis]"
     },
     {
         "name": "fact",
         "trans": [
-            "n.事实",
-            "实际",
-            "实情"
+            "n. a piece of information about circumstances that exist or events that have occurred"
         ],
         "pron": "[fæ kt]"
     },
     {
         "name": "fail",
         "trans": [
-            "vi.失败",
-            "失灵",
-            "不能"
+            "v. fail to do something; leave something undone; be unsuccessful"
         ],
         "pron": "[feil]"
     },
     {
         "name": "fall",
         "trans": [
-            "vi.落下",
-            "跌倒",
-            "陷落"
+            "v. descend in free fall under the influence of gravity; move downward and lower, but not necessarily all the way"
         ],
         "pron": "[fɔ:l]"
     },
     {
         "name": "family",
         "trans": [
-            "n.家庭",
-            "家族"
+            "n. a social unit living together; primary social group; parents and children"
         ],
         "pron": "['fæ mili]"
     },
     {
         "name": "far",
         "trans": [
-            "a.远的 ad.远",
-            "遥远"
+            "adj. located at a great distance in time or space or degree; being of a considerable distance or length",
+            "adv. to a considerable degree; very much; at or to or from a great distance in space"
         ],
         "pron": "[fa:]"
     },
     {
         "name": "father",
         "trans": [
-            "n.父亲",
-            "神父",
-            "创始人"
+            "n. a male parent (also used as a term of address to your father); the founder of a family"
         ],
         "pron": "['fa:ðә]"
     },
     {
         "name": "fear",
         "trans": [
-            "n.害怕",
-            "担心 vt.害怕"
+            "n. an emotion experienced in anticipation of some specific pain or danger (usually accompanied by a desire to flee or fight); an anxious feeling",
+            "v. be afraid or feel anxious or apprehensive about a possible or probable situation or event; be afraid or scared of; be frightened of"
         ],
         "pron": "[fiә]"
     },
     {
         "name": "feel",
         "trans": [
-            "vt.n.感觉",
-            "觉得",
-            "触摸"
+            "v. undergo an emotional sensation or be in a particular state of mind; come to believe on the basis of emotion, intuitions, or indefinite grounds"
         ],
         "pron": "[fi:l]"
     },
     {
         "name": "few",
         "trans": [
-            "a.很少的",
-            "少数的"
+            "adj. a quantifier that can be used with count nouns and is often preceded by 'a'; a small but indefinite number"
         ],
         "pron": "[fju:]"
     },
     {
         "name": "fifteen",
         "trans": [
-            "num.十五",
-            "十五个"
+            "adj. being one more than fourteen",
+            "n. the cardinal number that is the sum of fourteen and one"
         ],
         "pron": "['fif'ti:n]"
     },
     {
         "name": "fifty",
         "trans": [
-            "num.五十",
-            "五十个"
+            "adj. being ten more than forty",
+            "n. the cardinal number that is the product of ten and five"
         ],
         "pron": "['fifti]"
     },
     {
         "name": "fight",
         "trans": [
-            "vi.打(仗)",
-            "斗争"
+            "v. be engaged in a fight; carry on a fight; fight against or resist strongly"
         ],
         "pron": "[fait]"
     },
     {
         "name": "figure",
         "trans": [
-            "n.数字",
-            "外形",
-            "人物"
+            "n. a diagram or picture illustrating textual material; alternative names for the body of a human being"
         ],
         "pron": "['figә]"
     },
     {
         "name": "film",
         "trans": [
-            "n.影片",
-            "胶卷",
-            "薄层"
+            "n. a form of entertainment that enacts a story by sound and a sequence of images giving the illusion of continuous movement"
         ],
         "pron": "[film]"
     },
     {
         "name": "final",
         "trans": [
-            "a.最后的",
-            "决定性的"
+            "adj. occurring at or forming an end or termination; conclusive in a process or progression"
         ],
         "pron": "['fainl]"
     },
     {
         "name": "financial",
         "trans": [
-            "a.财政的",
-            "金融的"
+            "adj. involving financial matters"
         ],
         "pron": "[fai'næ nʃәl, fi-]"
     },
     {
         "name": "find",
         "trans": [
-            "vt.找到",
-            "发觉",
-            "找出"
+            "v. come upon, as if by accident; meet with; discover or determine the existence, presence, or fact of"
         ],
         "pron": "[faind]"
     },
     {
         "name": "firm",
         "trans": [
-            "a.坚定的 n.公司",
-            "商号"
+            "adj. marked by firm determination or resolution; not shakable; not soft or yielding to pressure",
+            "n. the members of a business organization that owns or operates one or more establishments"
         ],
         "pron": "[fә:m]"
     },
     {
         "name": "first",
         "trans": [
-            "num.第一 ad.最初"
+            "adv. before anything else; the initial time"
         ],
         "pron": "[fә:st]"
     },
     {
         "name": "five",
         "trans": [
-            "num.五",
-            "五个",
-            "第五"
+            "adj. being one more than four",
+            "n. the cardinal number that is the sum of four and one"
         ],
         "pron": "[faiv]"
     },
     {
         "name": "fly",
         "trans": [
-            "n.苍蝇 vi.飞行"
+            "n. two-winged insects characterized by active flight; flap consisting of a piece of canvas that can be drawn back to provide entrance to a tent",
+            "v. travel through the air; be airborne; move quickly or suddenly"
         ],
         "pron": "[flai]"
     },
     {
         "name": "follow",
         "trans": [
-            "vt.跟随",
-            "结果是"
+            "v. to travel behind, go after, come after; be later in time"
         ],
         "pron": "['fɔlәu]"
     },
     {
         "name": "food",
         "trans": [
-            "n.食物"
+            "n. any substance that can be metabolized by an animal to give energy and build tissue"
         ],
         "pron": "[fu:d]"
     },
     {
         "name": "foot",
         "trans": [
-            "n.脚",
-            "英尺"
+            "n. the part of the leg of a human being below the ankle joint; a linear unit of length equal to 12 inches or a third of a yard"
         ],
         "pron": "[fut]"
     },
     {
         "name": "for",
         "trans": [
-            "prep.为",
-            "给",
-            "因为"
+            "prep. intended to belong to or be used by",
+            "prep. in order to help or benefit",
+            "prep. during (a period of time); in place of"
         ],
         "pron": "[fɔ:, fә]"
     },
     {
         "name": "force",
         "trans": [
-            "vt.强迫 n.力",
-            "力量"
+            "v. to cause to do through pressure or necessity, by physical, moral or intellectual means :; urge or force (a person) to an action; constrain or motivate",
+            "n. a powerful effect or influence; (physics) the influence that produces a change in a physical quantity"
         ],
         "pron": "[fɔ:s]"
     },
     {
         "name": "foreign",
         "trans": [
-            "a.外国的",
-            "外来的"
+            "adj. of concern to or concerning the affairs of other nations (other than your own)"
         ],
         "pron": "['fɔrin]"
     },
     {
         "name": "form",
         "trans": [
-            "n.形式",
-            "形状 vt.形成"
+            "n. the phonological or orthographic sound or appearance of a word that can be used to describe or identify something",
+            "v. create (as an entity); to compose or represent:"
         ],
         "pron": "[fɔ:m]"
     },
     {
         "name": "former",
         "trans": [
-            "a.在前的 n.前者"
+            "adj. referring to the first of two things or persons mentioned (or the earlier one or ones of several); belonging to some prior time",
+            "n. the first of two or the first mentioned of two"
         ],
         "pron": "['fɔ:mә]"
     },
     {
         "name": "forty",
         "trans": [
-            "num.四十",
-            "第四十"
+            "adj. being ten more than thirty"
         ],
         "pron": "['fɔ:ti]"
     },
     {
         "name": "during",
         "trans": [
-            "prep.在…期间"
+            "prep. throughout the course of; at some point in"
         ],
         "pron": "['djuәriŋ]"
     },
     {
         "name": "each",
         "trans": [
-            "pron.各",
-            "各自 a.ad.每个"
+            "adj. (used of count nouns) every one considered individually"
         ],
         "pron": "[i:tʃ]"
     },
     {
         "name": "early",
         "trans": [
-            "ad.早 a.早的",
-            "早期的"
+            "adv. during an early stage; before the usual time or the time expected",
+            "adj. at or near the beginning of a period of time or course of events or before the usual or expected time; being or occurring at an early stage of development"
         ],
         "pron": "['ә:li]"
     },
     {
         "name": "east",
         "trans": [
-            "n.东",
-            "东部 ad.在东方"
+            "n. the cardinal compass point that is at 90 degrees; the countries of Asia",
+            "adv. to, toward, or in the east"
         ],
         "pron": "[i:st]"
     },
     {
         "name": "easy",
         "trans": [
-            "a.容易的",
-            "安逸的"
+            "adj. posing no difficulty; requiring little effort; not hurried or forced"
         ],
         "pron": "['i:zi]"
     },
     {
         "name": "economic",
         "trans": [
-            "a.经济的",
-            "经济学的"
+            "adj. of or relating to an economy, the system of production and management of material wealth; of or relating to the science of economics"
         ],
         "pron": "[i:kә'nɔmik]"
     },
     {
         "name": "economy",
         "trans": [
-            "n.经济",
-            "节约",
-            "节省"
+            "n. the system of production and distribution and consumption; the efficient use of resources"
         ],
         "pron": "[i(:)'kɔnәmi]"
     },
     {
         "name": "education",
         "trans": [
-            "n.教育",
-            "训导",
-            "教育学"
+            "n. the activities of educating or instructing; activities that impart knowledge or skill; knowledge acquired by learning and instruction"
         ],
         "pron": "[edju:'keiʃәn]"
     },
     {
         "name": "effect",
         "trans": [
-            "n.效果",
-            "效力"
+            "n. a phenomenon that follows and is caused by some previous phenomenon; an outward appearance"
         ],
         "pron": "[i'fekt]"
     },
     {
         "name": "four",
         "trans": [
-            "num.四",
-            "四个",
-            "第四"
+            "prep. intended to belong to or be used by",
+            "prep. in order to help or benefit",
+            "prep. during (a period of time); in place of"
         ],
         "pron": "[fɔ:]"
     },
     {
         "name": "fourteen",
         "trans": [
-            "num.十四",
-            "第十四"
+            "adj. being one more than thirteen",
+            "n. the cardinal number that is the sum of thirteen and one"
         ],
         "pron": "['fɔ:'ti:n]"
     },
     {
         "name": "free",
         "trans": [
-            "a.自由的",
-            "空闲的"
+            "adj. able to act at will; not hampered; not under compulsion or restraint"
         ],
         "pron": "[fri:]"
     },
     {
         "name": "friend",
         "trans": [
-            "n.朋友"
+            "n. a person you know well and regard with affection and trust; an associate who provides cooperation or assistance"
         ],
         "pron": "[frend]"
     },
     {
         "name": "from",
         "trans": [
-            "prep.从…来",
-            "根据"
+            "prep. indicating the starting point, source or origin"
         ],
         "pron": "[frɔm, frәm, frm]"
     },
     {
         "name": "front",
         "trans": [
-            "a.前面的 n.前部"
+            "adj. relating to or located in the front",
+            "n. the side that is forward or prominent; the line along which opposing armies face each other"
         ],
         "pron": "[frʌnt]"
     },
     {
         "name": "full",
         "trans": [
-            "a.满的",
-            "完全的"
+            "adj. containing as much or as many as is possible or normal; constituting the full quantity or extent; complete"
         ],
         "pron": "[ful]"
     },
     {
         "name": "fund",
         "trans": [
-            "n.资金",
-            "基金",
-            "存款"
+            "n. a reserve of money set aside for some purpose; a supply of something available for future use"
         ],
         "pron": "[fʌnd]"
     },
     {
         "name": "further",
         "trans": [
-            "ad.更进一步"
+            "adv. to or at a greater extent or degree or a more advanced stage ('further' is used more often than 'farther' in this abstract sense); in addition or furthermore"
         ],
         "pron": "['fә:ðә]"
     },
     {
         "name": "future",
         "trans": [
-            "n.未来"
+            "n. the time yet to come; a verb tense that expresses actions or states in the future"
         ],
         "pron": "['fju:tʃә]"
     },
     {
         "name": "game",
         "trans": [
-            "n.游戏",
-            "比赛"
+            "n. a contest with rules to determine a winner; a single play of a sport or other contest"
         ],
         "pron": "[geim]"
     },
     {
         "name": "general",
         "trans": [
-            "a.总的",
-            "一般的n.将军"
+            "adj. applying to all or most members of a category or group; not specialized or limited to one class of things"
         ],
         "pron": "['dʒenәrәl]"
     },
     {
         "name": "get",
         "trans": [
-            "vi.变得",
-            "成为",
-            "到达"
+            "v. come into the possession of something concrete or abstract; enter or assume a certain state or condition"
         ],
         "pron": "[get]"
     },
     {
         "name": "girl",
         "trans": [
-            "n.女孩子"
+            "n. a young woman; a youthful female person"
         ],
         "pron": "[gә:l]"
     },
     {
         "name": "give",
         "trans": [
-            "vt.做",
-            "作",
-            "送给"
+            "v. cause to have, in the abstract sense or physical sense; be the cause or source of"
         ],
         "pron": "[giv]"
     },
     {
         "name": "go",
         "trans": [
-            "vi.去",
-            "走",
-            "变为"
+            "v. change location; move, travel, or proceed, also metaphorically; follow a procedure or take a course"
         ],
         "pron": "[gәu]"
     },
     {
         "name": "going",
         "trans": [
-            "n.去",
-            "离去",
-            "工作情况",
-            "行为"
+            "n. the act of departing"
         ],
         "pron": "['^әuiŋ]"
     },
     {
         "name": "good",
         "trans": [
-            "a.好的"
+            "adj. having desirable or positive qualities especially those suitable for a thing specified; having the normally expected amount"
         ],
         "pron": "[gud]"
     },
     {
         "name": "got",
         "trans": [
-            "vbl. get 的过去式"
+            "v. come into the possession of something concrete or abstract; enter or assume a certain state or condition"
         ],
         "pron": "[gCt]"
     },
     {
         "name": "government",
         "trans": [
-            "n.政府"
+            "n. the organization that is the governing authority of a political unit; the act of governing; exercising authority"
         ],
         "pron": "['gʌvәnmәnt]"
     },
     {
         "name": "great",
         "trans": [
-            "a.大的",
-            "伟大的"
+            "adj. relatively large in size or number or extent; larger than others of its kind; of major significance or importance"
         ],
         "pron": "[greit]"
     },
     {
         "name": "green",
         "trans": [
-            "a.绿色的 n.绿色"
+            "adj. of the color between blue and yellow in the color spectrum; similar to the color of fresh grass",
+            "n. green color or pigment; resembling the color of growing grass; a piece of open land for recreational use in an urban area"
         ],
         "pron": "[gri:n]"
     },
     {
         "name": "grey",
         "trans": [
-            "n./a.灰色(的)"
+            "n. United States writer of western adventure novels (1875-1939)"
         ],
         "pron": "[grei]"
     },
     {
         "name": "ground",
         "trans": [
-            "n.地",
-            "场地"
+            "n. the solid part of the earth's surface; a rational motive for a belief or action"
         ],
         "pron": "[graund]"
     },
     {
         "name": "group",
         "trans": [
-            "n.小组",
-            "群 vi.聚集"
+            "n. any number of entities (members) considered as a unit; (chemistry) two or more atoms bound together as a single unit and forming part of a molecule",
+            "v. arrange into a group or groups; form a group or group together"
         ],
         "pron": "[gru:p]"
     },
     {
         "name": "grow",
         "trans": [
-            "vi.生长",
-            "增长"
+            "v. pass into a condition gradually, take on a specific property or attribute; become; become larger, greater, or bigger; expand or gain"
         ],
         "pron": "[grәu]"
     },
     {
         "name": "half",
         "trans": [
-            "n.半",
-            "一半 a.一半的"
+            "n. one of two equal parts of a divisible whole",
+            "adj. consisting of one of two equivalent parts in value or quantity; partial"
         ],
         "pron": "[ha:f]"
     },
     {
         "name": "hand",
         "trans": [
-            "n.手",
-            "人手"
+            "n. the (prehensile) extremity of the superior limb; a hired laborer on a farm or ranch"
         ],
         "pron": "[hæ nd]"
     },
     {
         "name": "happen",
         "trans": [
-            "vi.发生",
-            "碰巧",
-            "恰好"
+            "v. come to pass; happen, occur, or be the case in the course of events or by chance; (Santayana)"
         ],
         "pron": "['hæ pәn]"
     },
     {
         "name": "hard",
         "trans": [
-            "a.硬的",
-            "困难的"
+            "adj. not easy; requiring great physical or mental effort to accomplish or comprehend or endure; dispassionate"
         ],
         "pron": "['ha:d]"
     },
     {
         "name": "have",
         "trans": [
-            "v.aux.已经 vt.有",
-            "吃"
+            "v. have or possess, either in a concrete or an abstract sense; have as a feature"
         ],
         "pron": "[hæ v, hәv]"
     },
     {
         "name": "he",
         "trans": [
-            "pron.(主格)他"
+            "pron. a male person or animal previously mentioned"
         ],
         "pron": "[hi:]"
     },
     {
         "name": "head",
         "trans": [
-            "n.头",
-            "前端",
-            "领导 vi.出发"
+            "n. the upper part of the human body or the front part of the body in animals; contains the face and brains; a single domestic animal",
+            "v. to go or travel towards; be in charge of"
         ],
         "pron": "[hed]"
     },
     {
         "name": "health",
         "trans": [
-            "n.健康",
-            "健康状况"
+            "n. a healthy state of wellbeing free from disease"
         ],
         "pron": "[helθ]"
     },
     {
         "name": "hear",
         "trans": [
-            "vt.听见",
-            "听说"
+            "v. perceive (sound) via the auditory sense; get to know or become aware of, usually accidentally"
         ],
         "pron": "[hiә]"
     },
     {
         "name": "help",
         "trans": [
-            "vt.帮助 n.帮手"
+            "v. give help or assistance; be of service; improve the condition of",
+            "n. the activity of contributing to the fulfillment of a need or furtherance of an effort or purpose"
         ],
         "pron": "[help]"
     },
     {
         "name": "her",
         "trans": [
-            "pron.(宾格)她",
-            "她的"
+            "pron. a female person or animal, as the object of a verb or preposition",
+            "det. belonging to or associated with a female person previously mentioned"
         ],
         "pron": "[hә:, hә]"
     },
     {
         "name": "here",
         "trans": [
-            "ad.这里",
-            "向这里"
+            "adv. in or at this place; where the speaker or writer is; in this circumstance or respect or on this point or detail"
         ],
         "pron": "[hiә]"
     },
     {
         "name": "herself",
         "trans": [
-            "pron.她自己",
-            "她亲自"
+            "pron. reflexive or emphatic form of \"she\" / \"her\""
         ],
         "pron": "[hә:'self]"
     },
@@ -2090,141 +1874,133 @@
     {
         "name": "high",
         "trans": [
-            "a.高的",
-            "高级的 ad.高"
+            "adj. greater than normal in degree or intensity or amount",
+            "adv. at a great altitude; in or to a high position, amount, or degree"
         ],
         "pron": "[hai]"
     },
     {
         "name": "him",
         "trans": [
-            "pron.(宾格)他"
+            "pron. a male person or animal, as the object of a verb or preposition"
         ],
         "pron": "[him]"
     },
     {
         "name": "himself",
         "trans": [
-            "pron.他自己",
-            "他亲自"
+            "pron. reflexive or emphatic form of \"he\" / \"him\""
         ],
         "pron": "[him'self]"
     },
     {
         "name": "his",
         "trans": [
-            "pron.他的",
-            "他的东西"
+            "det. belonging to or associated with a male person previously mentioned",
+            "pron. the one(s) belonging to him"
         ],
         "pron": "[his]"
     },
     {
         "name": "history",
         "trans": [
-            "n.历史",
-            "个人经历"
+            "n. the aggregate of past events; a record or narrative description of past events"
         ],
         "pron": "['histәri]"
     },
     {
         "name": "hit",
         "trans": [
-            "vt.打",
-            "碰撞 n.击"
+            "v. cause to move by striking; hit against; come into sudden contact with",
+            "n. (baseball) a successful stroke in an athletic contest (especially in baseball); the act of contacting one thing with another"
         ],
         "pron": "[hit]"
     },
     {
         "name": "hold",
         "trans": [
-            "vt.拿住",
-            "掌握",
-            "拥有"
+            "v. keep in a certain state, position, or activity; e.g.,; have or hold in one's hands or grip"
         ],
         "pron": "[hәuld]"
     },
     {
         "name": "home",
         "trans": [
-            "n.家",
-            "家乡 a.家庭的"
+            "n. where you live at a particular time; housing that someone is living in",
+            "adj. used of your own ground; relating to or being where one lives or where one's roots are"
         ],
         "pron": "[hәum]"
     },
     {
         "name": "hope",
         "trans": [
-            "n.vt.vi.希望"
+            "n. a specific instance of feeling hopeful; the general feeling that some desire will be fulfilled"
         ],
         "pron": "[hәup]"
     },
     {
         "name": "hospital",
         "trans": [
-            "n.医院"
+            "n. a health facility where patients receive treatment"
         ],
         "pron": "['hɔspitl]"
     },
     {
         "name": "host",
         "trans": [
-            "n.主人",
-            "东道主"
+            "n. a person who invites guests to a social event (such as a party in his or her own home) and who is responsible for them while they are there; a vast multitude"
         ],
         "pron": "[hәust]"
     },
     {
         "name": "hour",
         "trans": [
-            "n.小时"
+            "n. a period of time equal to 1/24th of a day; clock time"
         ],
         "pron": "['auә]"
     },
     {
         "name": "house",
         "trans": [
-            "n.房屋",
-            "住宅"
+            "n. a dwelling that serves as living quarters for one or more families; the members of a business organization that owns or operates one or more establishments"
         ],
         "pron": "[haus]"
     },
     {
         "name": "how",
         "trans": [
-            "ad.怎么",
-            "怎样",
-            "多少"
+            "adv. in what way or manner; by what means",
+            "adv. to what extent or degree"
         ],
         "pron": "[hau]"
     },
     {
         "name": "however",
         "trans": [
-            "ad.然而",
-            "不管怎样"
+            "adv. despite anything to the contrary (usually following a concession); by contrast; on the other hand"
         ],
         "pron": "[hau'evә]"
     },
     {
         "name": "human",
         "trans": [
-            "a.人的",
-            "人类的 n.人"
+            "adj. characteristic of humanity; relating to a person",
+            "n. any living or extinct member of the family Hominidae characterized by superior intelligence, articulate speech, and erect carriage"
         ],
         "pron": "['hju:mәn]"
     },
     {
         "name": "hundred",
         "trans": [
-            "num.百",
-            "百个"
+            "adj. being ten more than ninety",
+            "n. ten 10s"
         ],
         "pron": "['hʌndrid]"
     },
     {
         "name": "I",
         "trans": [
-            "pron.(主格)我"
+            "pron. the speaker or writer, used as the subject of a verb"
         ],
         "pron": "[ai]"
     },
@@ -2238,51 +2014,42 @@
     {
         "name": "independent",
         "trans": [
-            "a.独立的",
-            "自主的"
+            "adj. free from external control and constraint; (of political bodies) not controlled by outside forces"
         ],
         "pron": "[indi'pendәnt]"
     },
     {
         "name": "industry",
         "trans": [
-            "n.工业",
-            "产业",
-            "勤劳"
+            "n. the people or companies engaged in a particular kind of commercial enterprise; the organized action of making of goods and services for sale"
         ],
         "pron": "['indәstri]"
     },
     {
         "name": "information",
         "trans": [
-            "n.消息",
-            "信息",
-            "通知"
+            "n. a message received and understood; knowledge acquired through study or experience or instruction"
         ],
         "pron": "[infә'meiʃәn]"
     },
     {
         "name": "interest",
         "trans": [
-            "n.兴趣",
-            "利益",
-            "利息"
+            "n. a sense of concern with and curiosity about someone or something; a reason for wanting something done"
         ],
         "pron": "['intrist]"
     },
     {
         "name": "international",
         "trans": [
-            "a.国际的"
+            "adj. concerning or belonging to all or at least two or more nations; from or between other countries"
         ],
         "pron": "[intә(:)'næ ʃәnl]"
     },
     {
         "name": "into",
         "trans": [
-            "prep.进",
-            "入",
-            "进入到"
+            "prep. to the inside of; so as to become"
         ],
         "pron": "['intu, 'intә]"
     },
@@ -2296,24 +2063,23 @@
     {
         "name": "issue",
         "trans": [
-            "n.问题",
-            "发行 vt.发行"
+            "n. an important question that is in dispute and must be settled; one of a series published periodically",
+            "v. prepare and issue for public distribution or sale; circulate or distribute or equip with"
         ],
         "pron": "['iʃu:]"
     },
     {
         "name": "it",
         "trans": [
-            "pron.这",
-            "那",
-            "它"
+            "pron. a thing, animal or situation previously mentioned or easily identified",
+            "pron. used as an empty subject (e.g. it is raining)"
         ],
         "pron": "[it]"
     },
     {
         "name": "its",
         "trans": [
-            "pron.它的"
+            "det. belonging to or associated with a thing or animal previously mentioned"
         ],
         "pron": "[its]"
     },
@@ -2327,8 +2093,7 @@
     {
         "name": "itself",
         "trans": [
-            "pron.它自己",
-            "自身"
+            "pron. reflexive or emphatic form of \"it\""
         ],
         "pron": "[it'self]"
     },
@@ -2342,268 +2107,252 @@
     {
         "name": "job",
         "trans": [
-            "n.职业",
-            "工作"
+            "n. the principal activity in your life that you do to earn money; a specific piece of work required to be done as a duty or for a specific fee"
         ],
         "pron": "[dʒɔb]"
     },
     {
         "name": "join",
         "trans": [
-            "vt.参加",
-            "连接"
+            "v. become part of; become a member of a group or organization; cause to become joined or linked"
         ],
         "pron": "[dʒɔin]"
     },
     {
         "name": "just",
         "trans": [
-            "ad.刚才",
-            "只是",
-            "正好"
+            "adv. and nothing more; indicating exactness or preciseness"
         ],
         "pron": "[dʒʌst]"
     },
     {
         "name": "keep",
         "trans": [
-            "vi.保持",
-            "坚持"
+            "v. keep in a certain state, position, or activity; e.g.,; continue a certain state, condition, or activity"
         ],
         "pron": "[ki:p]"
     },
     {
         "name": "kill",
         "trans": [
-            "vi.杀死",
-            "扼杀",
-            "消磨"
+            "v. cause to die; put to death, usually intentionally or knowingly; thwart the passage of"
         ],
         "pron": "[kil]"
     },
     {
         "name": "kind",
         "trans": [
-            "a.仁慈的，友好的 n.种类"
+            "adj. having or showing a tender and considerate and helpful nature; used especially of persons and their behavior",
+            "n. a category of things distinguished by some common characteristic or quality"
         ],
         "pron": "[kaind]"
     },
     {
         "name": "know",
         "trans": [
-            "n.知道，了解；会，懂；认识，熟悉"
+            "n. the fact of being aware of information that is known to few people"
         ],
         "pron": "[nәu]"
     },
     {
         "name": "labour",
         "trans": [
-            "v. 困难地做，太冗长地解释"
+            "v. work hard"
         ],
         "pron": "['leibә]"
     },
     {
         "name": "land",
         "trans": [
-            "n.陆地",
-            "土地vi.着陆"
+            "n. the land on which real estate is located"
         ],
         "pron": "[læ nd]"
     },
     {
         "name": "large",
         "trans": [
-            "a.巨大的"
+            "adj. above average in size or number or quantity or magnitude or extent; fairly large or important in effect; influential"
         ],
         "pron": "[la:dʒ]"
     },
     {
         "name": "last",
         "trans": [
-            "vi.持续 a.最后的ad.最后n.最后",
-            "末尾"
+            "v. persist for a specified period of time; continue to live through hardship or adversity",
+            "adj. immediately past; coming after all others in time or space or degree or being the only one remaining"
         ],
         "pron": "[la:st]"
     },
     {
         "name": "late",
         "trans": [
-            "a.迟的;晚(期)的;已故的ad.迟",
-            "晚"
+            "adj. being or occurring at an advanced period of time or after a usual or expected time; after the expected or usual time; delayed"
         ],
         "pron": "[leit]"
     },
     {
         "name": "later",
         "trans": [
-            "ad.后来"
+            "adv. happening at a time subsequent to a reference time; at some eventual time in the future"
         ],
         "pron": "['leitә]"
     },
     {
         "name": "laugh",
         "trans": [
-            "vi.笑 n.笑"
+            "v. produce laughter",
+            "n. the sound of laughing; a facial expression characteristic of a person laughing"
         ],
         "pron": "[la:f]"
     },
     {
         "name": "law",
         "trans": [
-            "n.法律",
-            "法令"
+            "n. the collection of rules imposed by authority; legal document setting forth rules governing a particular kind of activity"
         ],
         "pron": "[lɔ:]"
     },
     {
         "name": "lead",
         "trans": [
-            "vt.为…带路；领导vi.带路；导致n.领先；领导"
+            "v. take somebody somewhere; have as a result or residue"
         ],
         "pron": "[li:d]"
     },
     {
         "name": "leader",
         "trans": [
-            "n.领袖",
-            "首领"
+            "n. a person who rules or guides or inspires others"
         ],
         "pron": "['li:dә]"
     },
     {
         "name": "learn",
         "trans": [
-            "vt.学习;听到vi.学会;获悉",
-            "知道"
+            "v. gain knowledge or skills; get to know or become aware of, usually accidentally"
         ],
         "pron": "[lә:n]"
     },
     {
         "name": "least",
         "trans": [
-            "a.最少的 ad.最少"
+            "adj. the superlative of 'little' that can be used with mass nouns and is usually preceded by 'the'; a quantifier meaning smallest in amount or extent or degree",
+            "adv. used to form the superlative"
         ],
         "pron": "[li:st]"
     },
     {
         "name": "leave",
         "trans": [
-            "vi.离去vt.离开;留下，遗忘n.请假"
+            "v. go away from a place; go and leave behind, either intentionally or by neglect or forgetfulness"
         ],
         "pron": "[li:v]"
     },
     {
         "name": "left",
         "trans": [
-            "a.左边的 ad.在左边n.左边，左侧"
+            "adj. being or located on or directed toward the side of the body to the west when facing north; not used up",
+            "adv. toward or on the left; also used figuratively"
         ],
         "pron": "[left]"
     },
     {
         "name": "less",
         "trans": [
-            "a.更少的ad.更少地"
+            "adj. (comparative of 'little' usually used with mass nouns) a quantifier meaning not as great in amount or degree"
         ],
         "pron": "[les]"
     },
     {
         "name": "let",
         "trans": [
-            "vt.允许",
-            "让;出租"
+            "v. make it possible through a specific action or lack of action for something to happen; actively cause something to happen"
         ],
         "pron": "[let]"
     },
     {
         "name": "letter",
         "trans": [
-            "n.信;字母"
+            "n. a written message addressed to a person or organization; the conventional characters of the alphabet used to represent speech"
         ],
         "pron": "['letә]"
     },
     {
         "name": "level",
         "trans": [
-            "n.水平",
-            "水准 a.水平的"
+            "n. a position on a scale of intensity or amount or quality; a relative position or degree of value in a graded group",
+            "adj. having a surface without slope, tilt in which no part is higher or lower than another; not showing abrupt variations"
         ],
         "pron": "['levl]"
     },
     {
         "name": "life",
         "trans": [
-            "n.生命",
-            "一生；寿命"
+            "n. a characteristic state or mode of living; the experience of being alive; the course of human events and activities"
         ],
         "pron": "[laif]"
     },
     {
         "name": "like",
         "trans": [
-            "n.爱好a.相似的",
-            "同样的vt.喜欢vi.喜欢prep.  象",
-            "如同"
+            "n. a similar kind; ,"
         ],
         "pron": "[laik]"
     },
     {
         "name": "likely",
         "trans": [
-            "a.可能的ad.很可能"
+            "adj. has a good chance of being the case or of coming about; likely but not certain to be or become true or real"
         ],
         "pron": "['laikli]"
     },
     {
         "name": "line",
         "trans": [
-            "n.线，线条；排；路线"
+            "n. a formation of people or things one beside another; a mark that is long relative to its width"
         ],
         "pron": "[lain]"
     },
     {
         "name": "list",
         "trans": [
-            "n.名单；列表；目录vt.列出"
+            "n. a database containing an ordered array of items (names or topics); the property possessed by a line or surface that departs from the vertical"
         ],
         "pron": "[list]"
     },
     {
         "name": "little",
         "trans": [
-            "a.小的",
-            "幼小的ad.一点",
-            "稍许;几乎不n.一会儿"
+            "adj. limited or below average in number or quantity or magnitude or extent"
         ],
         "pron": "['litl]"
     },
     {
         "name": "live",
         "trans": [
-            "vi.居住;活vt.过着a.活的;实况转播的"
+            "v. inhabit or live in; be an inhabitant of; lead a certain kind of life; live in a certain style"
         ],
         "pron": "[liv laiv]"
     },
     {
         "name": "local",
         "trans": [
-            "a.地方的n.局部"
+            "adj. relating to or applicable to or concerned with the administration of a city or town or district rather than a larger area"
         ],
         "pron": "['lәukәl]"
     },
     {
         "name": "idea",
         "trans": [
-            "n.想法",
-            "思想",
-            "意见"
+            "n. the content of cognition; the main thing you are thinking about; your intention; what you intend to do"
         ],
         "pron": "[ai'diә]"
     },
     {
         "name": "if",
         "trans": [
-            "conj.假如",
-            "如果"
+            "conj. on the condition that; in the event that",
+            "conj. whether"
         ],
         "pron": "[if]"
     },
@@ -2624,1853 +2373,1789 @@
     {
         "name": "important",
         "trans": [
-            "a.重要的"
+            "adj. of great significance or value; important in effect or meaning"
         ],
         "pron": "[im'pɔ:tәnt]"
     },
     {
         "name": "in",
         "trans": [
-            "prep.在…里ad.进",
-            "入"
+            "prep. inside; contained by; during",
+            "adv. into a place; at home"
         ],
         "pron": "[in]"
     },
     {
         "name": "include",
         "trans": [
-            "vt.包括",
-            "包含"
+            "v. have as a part, be made up out of; consider as part of something"
         ],
         "pron": "[in'klu:d]"
     },
     {
         "name": "including",
         "trans": [
-            "vbl. 包 括"
+            "v. have as a part, be made up out of; consider as part of something"
         ],
         "pron": "[in'klu:diŋ]"
     },
     {
         "name": "increase",
         "trans": [
-            "vt.vi.n.增加"
+            "v. become bigger or greater in amount; make bigger or more"
         ],
         "pron": "[in'kri:s, 'inkri:s]"
     },
     {
         "name": "long",
         "trans": [
-            "a.长的",
-            "远的；长期的ad.长久vi.渴望"
+            "adj. primarily temporal sense; being or indicating a relatively great or greater than average duration or passage of time or a duration as specified"
         ],
         "pron": "[lɔŋ]"
     },
     {
         "name": "look",
         "trans": [
-            "n.看;面容",
-            "外表vi.看;显得vt.打量",
-            "注视"
+            "n. the feelings expressed on a person's face; the act of directing the eyes toward something and perceiving it visually"
         ],
         "pron": "[luk]"
     },
     {
         "name": "lose",
         "trans": [
-            "vt.失去",
-            "错过;迷路"
+            "v. fail to keep or to maintain; cease to have, either physically or in an abstract sense; fail to win"
         ],
         "pron": "[lu:z]"
     },
     {
         "name": "lot",
         "trans": [
-            "n.许多",
-            "大量；抽签"
+            "n. (often followed by 'of') a large number or amount or extent; a parcel of land having fixed boundaries"
         ],
         "pron": "[lɔt]"
     },
     {
         "name": "love",
         "trans": [
-            "vt.爱；喜欢n.爱情；喜爱"
+            "v. have a great affection or liking for; get pleasure from"
         ],
         "pron": "[lʌv]"
     },
     {
         "name": "low",
         "trans": [
-            "a.低的",
-            "矮的;低下的",
-            "卑贱的"
+            "adj. less than normal in degree or intensity or amount; literal meanings; being at or having a relatively small elevation or upward extension"
         ],
         "pron": "[lәu]"
     },
     {
         "name": "main",
         "trans": [
-            "a.主要的n.主体，要点"
+            "adj. most important element"
         ],
         "pron": "[mein]"
     },
     {
         "name": "major",
         "trans": [
-            "vi.主修，专攻a.主要的",
-            "多数的n.专业"
+            "v. have as one's principal field of study"
         ],
         "pron": "['meidʒә]"
     },
     {
         "name": "make",
         "trans": [
-            "vt.使得；做",
-            "制造 n.制造"
+            "v. engage in; give certain properties to something",
+            "n. a recognizable kind"
         ],
         "pron": "[meik]"
     },
     {
         "name": "man",
         "trans": [
-            "n.人",
-            "人类"
+            "n. an adult person who is male (as opposed to a woman); someone who serves in the armed forces; a member of a military force"
         ],
         "pron": "[mæ n]"
     },
     {
         "name": "many",
         "trans": [
-            "a.许多的pron.许多人"
+            "adj. a quantifier that can be used with count nouns and is often preceded by 'as' or 'too' or 'so' or 'that'; amounting to a large but indefinite number"
         ],
         "pron": "['meni]"
     },
     {
         "name": "market",
         "trans": [
-            "n.市场",
-            "集市"
+            "n. the world of commercial activity where goods and services are bought and sold; the customers for a particular product or service"
         ],
         "pron": "['ma:kit]"
     },
     {
         "name": "office",
         "trans": [
-            "n.办公室"
+            "n. place of business where professional or clerical duties are performed; an administrative unit of government"
         ],
         "pron": "['ɔfis]"
     },
     {
         "name": "officer",
         "trans": [
-            "n.官员",
-            "军官"
+            "n. any person in the armed services who holds a position of authority or command…"
         ],
         "pron": "['ɔfisә]"
     },
     {
         "name": "match",
         "trans": [
-            "vi.相称",
-            "匹配 n.比赛;匹配;火柴"
+            "v. be compatible, similar or consistent; coincide in their characteristics; provide funds complementary to",
+            "n. lighter consisting of a thin piece of wood or cardboard tipped with combustible chemical; ignites with friction"
         ],
         "pron": "[mæ tʃ]"
     },
     {
         "name": "matter",
         "trans": [
-            "n.事情；物质vi.要紧，有关系"
+            "n. a vaguely specified concern; some situation or event that is thought about"
         ],
         "pron": "['mæ tә]"
     },
     {
         "name": "may",
         "trans": [
-            "aux.也许;可以;祝愿n.五月"
+            "aux. expressing possibility or permission",
+            "n. the fifth month of the year (May)"
         ],
         "pron": "[mei]"
     },
     {
         "name": "me",
         "trans": [
-            "pron.我"
+            "pron. the speaker or writer, used as the object of a verb or preposition"
         ],
         "pron": "[mi:, mi]"
     },
     {
         "name": "mean",
         "trans": [
-            "vt.意思是a.自私的",
-            "吝啬的"
+            "v. mean or intend to express or convey; have as a logical consequence"
         ],
         "pron": "[mi:n]"
     },
     {
         "name": "meet",
         "trans": [
-            "vt.遇见；满足vi.相遇；集合"
+            "v. come together; get together socially or for a specific purpose"
         ],
         "pron": "[mi:t]"
     },
     {
         "name": "meeting",
         "trans": [
-            "n.会合；会议"
+            "n. a formally arranged gathering; a small informal social gathering"
         ],
         "pron": "[mi:tiŋ]"
     },
     {
         "name": "member",
         "trans": [
-            "n.成员",
-            "会员"
+            "n. one of the persons who compose a social group (especially individuals who have joined and participate in a group organization)"
         ],
         "pron": "['membә]"
     },
     {
         "name": "middle",
         "trans": [
-            "n.中部 a.中部的"
+            "n. an area that is approximately central within some larger region; an intermediate part or section",
+            "adj. being neither at the beginning nor at the end in a series; equally distant from the extremes"
         ],
         "pron": "['midl]"
     },
     {
         "name": "might",
         "trans": [
-            "aux.可以 n.力量",
-            "权力"
+            "aux. past form of \"may\"; expressing weaker possibility",
+            "n. great power or strength"
         ],
         "pron": "[mait]"
     },
     {
         "name": "military",
         "trans": [
-            "a.军事的"
+            "adj. of or relating to the study of the principles of warfare; characteristic of or associated with soldiers or the military"
         ],
         "pron": "['militәri]"
     },
     {
         "name": "million",
         "trans": [
-            "num.百万"
+            "adj. (in Roman numerals, M written with a macron over it) denoting a quantity consisting of 1,000,000 items or units",
+            "n. the number that is represented as a one followed by 6 zeros"
         ],
         "pron": "['miljәn]"
     },
     {
         "name": "mind",
         "trans": [
-            "n.头脑",
-            "理智vt.注意",
-            "留心;介意",
-            "反对"
+            "n. that which is responsible for one's thoughts and feelings; the seat of the faculty of reason; recall or remembrance"
         ],
         "pron": "[maind]"
     },
     {
         "name": "mine",
         "trans": [
-            "pron.我的 n.矿，矿山；地雷，水雷 vt.开采"
+            "pron. the one(s) belonging to me",
+            "n. an excavation in the earth for extracting coal, metal or other minerals",
+            "n. an explosive device placed in the ground or water"
         ],
         "pron": "[main]"
     },
     {
         "name": "minister",
         "trans": [
-            "n.部长",
-            "大臣"
+            "n. a person authorized to conduct religious worship"
         ],
         "pron": "['ministә]"
     },
     {
         "name": "minute",
         "trans": [
-            "n.分钟；片刻"
+            "n. a unit of time equal to 60 seconds or 1/60th of an hour; an indefinitely short time"
         ],
         "pron": "['minit, mai'nju:t]"
     },
     {
         "name": "moment",
         "trans": [
-            "n.片刻；时刻"
+            "n. a particular point in time; an indefinitely short time"
         ],
         "pron": "['mәumәnt]"
     },
     {
         "name": "money",
         "trans": [
-            "n.金钱",
-            "财富"
+            "n. the most common medium of exchange; functions as legal tender; wealth reckoned in terms of money"
         ],
         "pron": "['mʌni]"
     },
     {
         "name": "month",
         "trans": [
-            "n.月",
-            "月份"
+            "n. one of the twelve divisions of the calendar year; a time unit of approximately 30 days"
         ],
         "pron": "[mʌnθ]"
     },
     {
         "name": "more",
         "trans": [
-            "a.更多的 ad.更 n.更多的东西"
+            "adj. (comparative of 'much' used with mass nouns) a quantifier meaning greater in size or amount or extent or degree",
+            "adv. used to form the comparative of some adjectives and adverbs; comparative of much; to a greater degree or extent",
+            "n. English statesman who opposed Henry VIII's divorce from Catherine of Aragon and was imprisoned and beheaded; recalled for his concept of Utopia, the ideal state"
         ],
         "pron": "[mɔ:]"
     },
     {
         "name": "morning",
         "trans": [
-            "n.上午"
+            "n. the time period between dawn and noon; a conventional expression of greeting or farewell"
         ],
         "pron": "['mɔ:niŋ]"
     },
     {
         "name": "most",
         "trans": [
-            "a.最多的；大多数的ad.最",
-            "很n.大多数"
+            "adj. (superlative of 'many' used with count nouns and often preceded by 'the') quantifier meaning the greatest in number"
         ],
         "pron": "[mәust]"
     },
     {
         "name": "mother",
         "trans": [
-            "n.母亲"
+            "n. a woman who has given birth to a child (also used as a term of address to your mother)"
         ],
         "pron": "['mʌðә]"
     },
     {
         "name": "move",
         "trans": [
-            "vt.移动;感动vi.移动；搬家n.动作；行动"
+            "v. change location; move, travel, or proceed, also metaphorically; cause to move or shift into a new position or place, both in a concrete and in an abstract sense"
         ],
         "pron": "[mu:v]"
     },
     {
         "name": "Mr",
         "trans": [
-            "维护与修理"
+            "n. a form of address for a man"
         ],
         "pron": "[]"
     },
     {
         "name": "Mrs",
         "trans": [
-            "夫人"
+            "n. a form of address for a married woman"
         ],
         "pron": "['misiz]"
     },
     {
         "name": "Ms",
         "trans": [
-            "n. 美国微软公司"
+            "n. a chronic progressive nervous disorder involving loss of myelin sheath around certain nerve fibers"
         ],
         "pron": "[]"
     },
     {
         "name": "much",
         "trans": [
-            "ad.非常",
-            "很a.许多的n.多，大量"
+            "adv. to a great degree or extent; very"
         ],
         "pron": "[mʌtʃ]"
     },
     {
         "name": "music",
         "trans": [
-            "n.音乐"
+            "n. an artistic form of auditory communication incorporating instrumental or vocal tones in a structured and continuous manner"
         ],
         "pron": "['mju:zik]"
     },
     {
         "name": "must",
         "trans": [
-            "aux.必须;一定"
+            "aux. to be obliged to; to be certainly",
+            "n. something that should not be missed"
         ],
         "pron": "[mʌst]"
     },
     {
         "name": "my",
         "trans": [
-            "pron.我的"
+            "det. belonging to or associated with the speaker"
         ],
         "pron": "[mai]"
     },
     {
         "name": "name",
         "trans": [
-            "n.名字;名誉vt.说出；取名"
+            "n. a language unit by which a person or thing is known; a person's reputation"
         ],
         "pron": "['neim]"
     },
     {
         "name": "nation",
         "trans": [
-            "n.民族",
-            "国家"
+            "n. a politically organized body of people under a single government; the people who live in a nation or country"
         ],
         "pron": "['neiʃәn]"
     },
     {
         "name": "national",
         "trans": [
-            "a.民族的",
-            "国家的"
+            "adj. of or relating to or belonging to a nation or country; limited to or in the interests of a particular nation"
         ],
         "pron": "['næ ʃәnl]"
     },
     {
         "name": "near",
         "trans": [
-            "prep.靠近ad.接近a.近的"
+            "prep. / adv. at or to a short distance from",
+            "adj. close in space or time"
         ],
         "pron": "[niә]"
     },
     {
         "name": "need",
         "trans": [
-            "vt.需要aux.需要n.需要；必需品"
+            "v. require as useful, just, or proper; have need of"
         ],
         "pron": "[ni:d]"
     },
     {
         "name": "never",
         "trans": [
-            "ad.决不，从不；千万不要"
+            "adv. not ever; at no time in the past or future"
         ],
         "pron": "['nevә]"
     },
     {
         "name": "new",
         "trans": [
-            "a.新的"
+            "adj. not of long duration; having just (or relatively recently) come into being or been made or acquired or discovered; original and of a kind not seen before"
         ],
         "pron": "[nju:]"
     },
     {
         "name": "news",
         "trans": [
-            "n.新闻",
-            "消息"
+            "n. information about recent and important events; information reported in a newspaper or news magazine"
         ],
         "pron": "[nju:z]"
     },
     {
         "name": "next",
         "trans": [
-            "n.下一个a.下次的;其次的；邻近的ad.下一次;其次"
+            "adj. nearest in space or position; immediately adjoining without intervening space; (of elected officers) elected but not yet serving",
+            "adv. at the time or occasion immediately following"
         ],
         "pron": "[nekst]"
     },
     {
         "name": "night",
         "trans": [
-            "n.夜晚"
+            "n. the time after sunset and before sunrise while it is dark outside; a period of ignorance or backwardness or gloom"
         ],
         "pron": "[nait]"
     },
     {
         "name": "nine",
         "trans": [
-            "num.九"
+            "adj. denoting a quantity consisting of one more than eight and one less than ten",
+            "n. the cardinal number that is the sum of eight and one"
         ],
         "pron": "[nain]"
     },
     {
         "name": "nineteen",
         "trans": [
-            "num.十九"
+            "adj. being one more than eighteen",
+            "n. the cardinal number that is the sum of eighteen and one"
         ],
         "pron": "['nain'ti:n]"
     },
     {
         "name": "ninety",
         "trans": [
-            "num.九十"
+            "adj. being ten more than eighty"
         ],
         "pron": "['nainti]"
     },
     {
         "name": "no",
         "trans": [
-            "ad.不",
-            "并不a.没有的"
+            "det. not any",
+            "adv. used to give a negative answer"
         ],
         "pron": "[nәu]"
     },
     {
         "name": "north",
         "trans": [
-            "n.北",
-            "北方a.北方的"
+            "n. the region of the United States lying to the north of the Mason-Dixon line; the United States (especially the northern states during the American Civil War)"
         ],
         "pron": "[nɔ:θ]"
     },
     {
         "name": "not",
         "trans": [
-            "ad.不",
-            "没有"
+            "adv. used to make a word, phrase or sentence negative"
         ],
         "pron": "[nɔt]"
     },
     {
         "name": "nothing",
         "trans": [
-            "pron.没有东西 ad.毫不 n.无关紧要 的人（事物）"
+            "pron. not anything; no single thing"
         ],
         "pron": "['nʌθiŋ]"
     },
     {
         "name": "now",
         "trans": [
-            "n.现在conj.既然ad.现在",
-            "立刻"
+            "n. the momentary present"
         ],
         "pron": "[nau]"
     },
     {
         "name": "number",
         "trans": [
-            "n.数字",
-            "号码"
+            "n. the property possessed by a sum or total or indefinite quantity of units or individuals; a concept of quantity involving zero and units"
         ],
         "pron": "['nʌmbә]"
     },
     {
         "name": "of",
         "trans": [
-            "prep.属于…的"
+            "prep. belonging to; relating to; made from",
+            "prep. indicating the relationship between a part and the whole"
         ],
         "pron": "[ɔv, әv]"
     },
     {
         "name": "of course",
         "trans": [
-            "adv.当 然"
+            "adv. as might be expected"
         ],
         "pron": "[әv'kɔ:s]"
     },
     {
         "name": "off",
         "trans": [
-            "ad.(离)开;(停)止prep.从...离开;脱离"
+            "adv. from a particular thing or place or position ('forth' is obsolete); at a distance in space or time"
         ],
         "pron": "[ɔ:f]"
     },
     {
         "name": "offer",
         "trans": [
-            "vt.提供n.出价;提议"
+            "v. make available or accessible, provide or furnish; present for acceptance or rejection"
         ],
         "pron": "['ɔfә]"
     },
     {
         "name": "official",
         "trans": [
-            "a.官方的 n.官员，行政人员"
+            "adj. having official authority or sanction; of or relating to an office",
+            "n. a worker who holds or is invested with an office; someone who administers the rules of a game or sport"
         ],
         "pron": "[ә'fiʃәl]"
     },
     {
         "name": "often",
         "trans": [
-            "ad.经常",
-            "通常"
+            "adv. many times at short intervals; frequently or in great quantities"
         ],
         "pron": "['ɔ:fn]"
     },
     {
         "name": "oh",
         "trans": [
-            "int.哦"
+            "n. a midwestern state in north central United States in the Great Lakes region"
         ],
         "pron": "[әu]"
     },
     {
         "name": "oil",
         "trans": [
-            "n.油",
-            "石油vt.加油于"
+            "n. a slippery or viscous liquid or liquefiable substance not miscible with water; oil paint containing pigment that is used by an artist"
         ],
         "pron": "[ɔil]"
     },
     {
         "name": "old",
         "trans": [
-            "a.老的;…岁的"
+            "adj. (used especially of persons) having lived for a relatively long time or attained a specific age; of long duration; not new"
         ],
         "pron": "[әuld]"
     },
     {
         "name": "on",
         "trans": [
-            "prep.在…上;关于ad.继续"
+            "prep. touching and supported by the top surface of",
+            "prep. about; concerning; on a particular day",
+            "adv. continuing; in operation"
         ],
         "pron": "[ɔn]"
     },
     {
         "name": "once",
         "trans": [
-            "ad.一次；曾经conj.一旦n.一次"
+            "adv. on one occasion; as soon as"
         ],
         "pron": "[wʌns]"
     },
     {
         "name": "one",
         "trans": [
-            "a.一个的，某一个的num.一pron.一个(人)"
+            "adj. used of a single unit or thing; not two or more; having the indivisible character of a unit"
         ],
         "pron": "[wʌn]"
     },
     {
         "name": "only",
         "trans": [
-            "ad.仅仅a.唯一的conj.可是，不过"
+            "adv. and nothing more; without any others being included or involved"
         ],
         "pron": "['әunli]"
     },
     {
         "name": "open",
         "trans": [
-            "a.(敞)开的;开放的",
-            "公开的vt.打开"
+            "adj. affording unobstructed entrance and exit; not shut or closed; affording free passage or access"
         ],
         "pron": "['әupәn]"
     },
     {
         "name": "operate",
         "trans": [
-            "vi.操作;施行手术"
+            "v. direct or control; projects, businesses, etc.; perform as expected when applied"
         ],
         "pron": "['ɔpәreit]"
     },
     {
         "name": "operation",
         "trans": [
-            "n.操作;经营;手术"
+            "n. the state of being in effect or being operative; a business especially one run on a large scale"
         ],
         "pron": "[ɔpә'reiʃәn]"
     },
     {
         "name": "or",
         "trans": [
-            "conj.或",
-            "或者"
+            "conj. used to link alternatives"
         ],
         "pron": "[ɔ:, ә]"
     },
     {
         "name": "order",
         "trans": [
-            "n.命令;次序；治安，秩序vt.命令;定购"
+            "n. (often plural) a command given by a superior (e.g., a military or law enforcement officer) that must be obeyed; a degree in a continuum of size or quantity"
         ],
         "pron": "['ɔ:dә]"
     },
     {
         "name": "other",
         "trans": [
-            "pron.其他的",
-            "他人a.另外的",
-            "其余的"
+            "pron. Otherwise"
         ],
         "pron": "['ʌðә]"
     },
     {
         "name": "our",
         "trans": [
-            "pron.我们的"
+            "det. belonging to or associated with the speaker and one or more others"
         ],
         "pron": "['auә]"
     },
     {
         "name": "out",
         "trans": [
-            "a.外面的ad.在外；向外；出于n.外面",
-            "外出"
+            "adj. not allowed to continue to bat or run; being out or having grown cold"
         ],
         "pron": "[aut]"
     },
     {
         "name": "outside",
         "trans": [
-            "n.外部",
-            "外表 ad.在外面，向外面 a.  外部的"
+            "n. the region that is outside of something; the outer side or surface of something",
+            "adv. outside a building; on the outside",
+            "adj. relating to or being on or near the outer side or limit; coming from the outside"
         ],
         "pron": "['aut'said]"
     },
     {
         "name": "over",
         "trans": [
-            "a.结束的prep.高于，超过;在对面ad.全部地"
+            "prep. above; across; more than",
+            "adv. finished; ended"
         ],
         "pron": "['әuvә]"
     },
     {
         "name": "own",
         "trans": [
-            "a.自己的vt.有",
-            "拥有"
+            "adj. belonging to or on behalf of a specified person (especially yourself); preceded by a possessive"
         ],
         "pron": "[әun]"
     },
     {
         "name": "page",
         "trans": [
-            "n.页"
+            "n. one side of one leaf (of a book or magazine or newspaper or letter etc.) or the written or pictorial matter it contains"
         ],
         "pron": "[peidʒ]"
     },
     {
         "name": "paper",
         "trans": [
-            "n.纸",
-            "报纸;文件",
-            "论文;考卷"
+            "n. a material made of cellulose pulp derived mainly from wood or rags or certain grasses; an essay (especially one written as an assignment)"
         ],
         "pron": "['peipә]"
     },
     {
         "name": "parent",
         "trans": [
-            "n.父母亲"
+            "n. a father or mother; one who begets or one who gives birth to or nurtures and raises a child; a relative who plays the role of guardian"
         ],
         "pron": "['pɛәrәnt]"
     },
     {
         "name": "part",
         "trans": [
-            "vt.分开，拆散n.一部分;零件；角色"
+            "v. go one's own way; move apart; discontinue an association or relation; go different ways"
         ],
         "pron": "[pa:t]"
     },
     {
         "name": "party",
         "trans": [
-            "n.党派;聚会；一方，当事人"
+            "n. an organization to gain political power; a group of people gathered together for pleasure"
         ],
         "pron": "['pa:ti]"
     },
     {
         "name": "pass",
         "trans": [
-            "vt.经过；度过；传递vi.流逝n.通行证；通道"
+            "v. go across or through; move past"
         ],
         "pron": "[pa:s]"
     },
     {
         "name": "past",
         "trans": [
-            "a.过去的n.过去prep.经过;超过"
+            "adj. earlier than the present time; no longer current; of a person who has held and relinquished a position or office"
         ],
         "pron": "[past]"
     },
     {
         "name": "pay",
         "trans": [
-            "vt.支付",
-            "付给vi.付款；付出代价n.工资，薪金"
+            "v. give money, usually in exchange for goods or services; convey, as of a compliment, regards, attention, etc.; bestow"
         ],
         "pron": "[pei]"
     },
     {
         "name": "peace",
         "trans": [
-            "n.和平",
-            "和睦；平静"
+            "n. the state prevailing during the absence of war; harmonious relations; freedom from disputes"
         ],
         "pron": "[pi:s]"
     },
     {
         "name": "people",
         "trans": [
-            "n.人民；人；民族"
+            "n. (plural) any group of human beings (men or women or children) collectively; the body of citizens of a state or country"
         ],
         "pron": "['pi:pl]"
     },
     {
         "name": "percent",
         "trans": [
-            "n.百分比",
-            "百分数"
+            "n. a proportion in relation to a whole (which is usually the amount per hundred)"
         ],
         "pron": "[pә'sent]"
     },
     {
         "name": "perhaps",
         "trans": [
-            "ad.也许",
-            "可能"
+            "adv. by chance"
         ],
         "pron": "[pә'hæ ps]"
     },
     {
         "name": "person",
         "trans": [
-            "n.人"
+            "n. a human being; a human body (usually including the clothing)"
         ],
         "pron": "['pә:sn]"
     },
     {
         "name": "photo",
         "trans": [
-            "n.照片"
+            "n. a representation of a person or scene in the form of a print or transparent slide; recorded by a camera on light-sensitive material"
         ],
         "pron": "['fәutәu]"
     },
     {
         "name": "place",
         "trans": [
-            "n.地点；住所vt.放置"
+            "n. a point located with respect to surface features of some region; any area set aside for a particular purpose"
         ],
         "pron": "[pleis]"
     },
     {
         "name": "plan",
         "trans": [
-            "n.计划 vt.计划",
-            "打算vi.订计划"
+            "n. a series of steps to be carried out or goals to be accomplished; an arrangement scheme",
+            "v. have the will and intention to carry out some action; make plans for something"
         ],
         "pron": "[plæ n]"
     },
     {
         "name": "plant",
         "trans": [
-            "n.植物;工厂vt.栽种"
+            "n. buildings for carrying on industrial labor; (botany) a living organism lacking the power of locomotion"
         ],
         "pron": "[pla:nt]"
     },
     {
         "name": "play",
         "trans": [
-            "vt.玩;演奏;扮演(角色)vi.玩;演奏;播放n.游戏;  比赛"
+            "v. participate in games or sport; act or have an effect in a specified way or with a specific effect or outcome"
         ],
         "pron": "[plei]"
     },
     {
         "name": "player",
         "trans": [
-            "n.表演者",
-            "比赛者"
+            "n. a person who participates in or is skilled at some game; someone who plays a musical instrument (as a profession)"
         ],
         "pron": "['pleiә]"
     },
     {
         "name": "point",
         "trans": [
-            "vi.指向 n.小数点；要点;分数；尖端，尖"
+            "v. indicate a place, direction, person, or thing; either spatially or figuratively; be oriented",
+            "n. a geometric element that has position but no extension; the precise location of something; a spatially limited location"
         ],
         "pron": "[pɔint]"
     },
     {
         "name": "police",
         "trans": [
-            "n.警察",
-            "警方"
+            "n. the force of policemen and officers"
         ],
         "pron": "[pә'li:s]"
     },
     {
         "name": "policy",
         "trans": [
-            "n.政策",
-            "方针"
+            "n. a plan of action adopted by an individual or social group; a line of argument rationalizing the course of action of a government"
         ],
         "pron": "['pɔlisi]"
     },
     {
         "name": "political",
         "trans": [
-            "a.政治上的"
+            "adj. involving or characteristic of politics or parties or politicians; of or relating to your views about social relationships involving authority or power"
         ],
         "pron": "[pә'litikәl]"
     },
     {
         "name": "position",
         "trans": [
-            "n.位置;职位"
+            "n. the particular portion of space occupied by something; a point occupied by troops for tactical reasons"
         ],
         "pron": "[pә'ziʃәn]"
     },
     {
         "name": "possible",
         "trans": [
-            "a.可能的"
+            "adj. capable of happening or existing; existing in possibility"
         ],
         "pron": "['pɔsәbl]"
     },
     {
         "name": "pound",
         "trans": [
-            "n.磅",
-            "英磅vt.连续敲打vi.连续重击"
+            "n. 16 ounces avoirdupois; the basic unit of money in Great Britain and Northern Ireland; equal to 100 pence"
         ],
         "pron": "[paund]"
     },
     {
         "name": "power",
         "trans": [
-            "n.能力;电力;权力"
+            "n. possession of controlling influence; (physics) the rate of doing work; measured in watts (= joules/second)"
         ],
         "pron": "['pauә]"
     },
     {
         "name": "president",
         "trans": [
-            "n.总统",
-            "校长"
+            "n. an executive officer of a firm or corporation; the person who holds the office of head of state of the United States government"
         ],
         "pron": "['prezidәnt]"
     },
     {
         "name": "press",
         "trans": [
-            "vi.压",
-            "按vt.压；压榨n.印刷;新闻，报刊；出版社"
+            "v. exert pressure or force to or upon; force or impel in an indicated direction"
         ],
         "pron": "[pres]"
     },
     {
         "name": "pressure",
         "trans": [
-            "n.压力"
+            "n. the force applied to a unit area of surface; measured in pascals (SI unit) or in dynes (cgs unit); a force that compels"
         ],
         "pron": "['preʃә]"
     },
     {
         "name": "price",
         "trans": [
-            "vt.定价，标价n.价格；代价"
+            "v. determine the price of"
         ],
         "pron": "[prais]"
     },
     {
         "name": "probably",
         "trans": [
-            "ad.或许",
-            "大概"
+            "adv. with considerable certainty; without much doubt"
         ],
         "pron": "['prɔbәbli]"
     },
     {
         "name": "problem",
         "trans": [
-            "n.问题，疑难"
+            "n. a state of difficulty that needs to be resolved; a question raised for consideration or solution"
         ],
         "pron": "['prɔblәm]"
     },
     {
         "name": "process",
         "trans": [
-            "n.过程vt.处理"
+            "n. a particular course of action intended to achieve a result"
         ],
         "pron": "['prәuses]"
     },
     {
         "name": "serious",
         "trans": [
-            "a.严肃的；严重的"
+            "adj. concerned with work or important matters rather than play or trivialities; of great consequence"
         ],
         "pron": "['siәriәs]"
     },
     {
         "name": "service",
         "trans": [
-            "n.服务;行政部门"
+            "n. work done by one person or group that benefits another; an act of help or assistance"
         ],
         "pron": "['sә:vis]"
     },
     {
         "name": "produce",
         "trans": [
-            "vt.生产；产生"
+            "v. bring forth or yield; create or manufacture a man-made product"
         ],
         "pron": "[prә'dju:s, 'prɔdju:s]"
     },
     {
         "name": "product",
         "trans": [
-            "n.产品；成果；作品"
+            "n. commodities offered for sale; an artifact that has been created by someone or some process"
         ],
         "pron": "['prɔdәkt]"
     },
     {
         "name": "programme",
         "trans": [
-            "v.编程序 n.程序"
+            "v. write a computer program",
+            "n. an announcement of the events that will occur as part of a theatrical or sporting event"
         ],
         "pron": "['prәugræ m]"
     },
     {
         "name": "provide",
         "trans": [
-            "vt.提供；装备；规定"
+            "v. give something useful or necessary to; give what is desired or needed, especially support, food or sustenance"
         ],
         "pron": "[prә'vaid]"
     },
     {
         "name": "public",
         "trans": [
-            "a.公众的；公开的n.公众"
+            "adj. not private; open to or concerning the people as a whole; affecting the people or community as a whole"
         ],
         "pron": "['pʌblik]"
     },
     {
         "name": "put",
         "trans": [
-            "vt.放",
-            "摆；写下"
+            "v. put into a certain place or abstract location; cause to be in a certain state; cause to be in a certain relation"
         ],
         "pron": "[put]"
     },
     {
         "name": "question",
         "trans": [
-            "vt.询问；怀疑 n.问题",
-            "疑问"
+            "v. challenge the accuracy, probity, or propriety of; pose a series of questions to",
+            "n. an instance of questioning; the subject matter at issue"
         ],
         "pron": "['kwestʃәn]"
     },
     {
         "name": "quick",
         "trans": [
-            "a.快的"
+            "adj. accomplished rapidly and without delay; hurried and brief"
         ],
         "pron": "[kwik]"
     },
     {
         "name": "quite",
         "trans": [
-            "ad.完全",
-            "相当"
+            "adv. to a degree (not used with a negative); to the greatest extent; completely"
         ],
         "pron": "[kwait]"
     },
     {
         "name": "race",
         "trans": [
-            "vi.竞赛 n.种族",
-            "人种"
+            "v. move fast; compete in a race",
+            "n. any competition; a contest of speed"
         ],
         "pron": "[reis]"
     },
     {
         "name": "radio",
         "trans": [
-            "n.收音机"
+            "n. medium for communication; an electronic receiver that detects and demodulates and amplifies transmitted signals"
         ],
         "pron": "['reidiәu]"
     },
     {
         "name": "raise",
         "trans": [
-            "vt.举起；养育，饲养；提出"
+            "v. raise the level or amount of something; raise from a lower to a higher position"
         ],
         "pron": "['reiz]"
     },
     {
         "name": "rate",
         "trans": [
-            "n.比率;速度;价格 vt.评价，估价"
+            "n. a magnitude or frequency relative to a time unit; amount of a charge or payment relative to some basis",
+            "v. assign a rank or rating to; be worthy of or have a certain rating"
         ],
         "pron": "[reit]"
     },
     {
         "name": "rather",
         "trans": [
-            "ad.宁可",
-            "宁愿;相当"
+            "adv. on the contrary; to some (great or small) extent"
         ],
         "pron": "['ra:ðә]"
     },
     {
         "name": "reach",
         "trans": [
-            "vt.抵达；够到 vi.达到；伸出手n.能达到的范围"
+            "v. reach a destination, either real or abstract; reach a point in time, or a certain state or level"
         ],
         "pron": "[ri:tʃ]"
     },
     {
         "name": "read",
         "trans": [
-            "vt.读;写着vi.阅读",
-            "朗读"
+            "v. interpret something that is written or printed; have or contain a certain wording or form"
         ],
         "pron": "[ri:d]"
     },
     {
         "name": "real",
         "trans": [
-            "a.真的；现实的"
+            "adj. being or occurring in fact or actuality; having verified existence; not illusory; no less than what is stated; worthy of the name"
         ],
         "pron": "[riәl]"
     },
     {
         "name": "really",
         "trans": [
-            "ad.真正地"
+            "adv. in accordance with truth or fact or reality; in actual fact"
         ],
         "pron": "['riәli]"
     },
     {
         "name": "reason",
         "trans": [
-            "n.理由；理性 vt.推理vi.劝说"
+            "n. a rational motive for a belief or action; an explanation of the cause of some phenomenon",
+            "v. decide by reasoning; draw or come to a conclusion; present reasons and arguments"
         ],
         "pron": "['ri:zn]"
     },
     {
         "name": "receive",
         "trans": [
-            "vt.收到",
-            "得到；收听，收看"
+            "v. get something; come into possession of; receive a specified treatment (abstract)"
         ],
         "pron": "[ri'si:v]"
     },
     {
         "name": "recent",
         "trans": [
-            "a.最近的"
+            "adj. new; of the immediate past or just previous to the present time"
         ],
         "pron": "['ri:snt]"
     },
     {
         "name": "record",
         "trans": [
-            "n.记录，档案；履历；唱片vt.  记录；录音"
+            "n. anything (such as a document or a phonograph record or a photograph) providing permanent evidence of or information about past events"
         ],
         "pron": "['rekɔ:d, ri'kɔ:d]"
     },
     {
         "name": "red",
         "trans": [
-            "a.红色的n.红色"
+            "adj. of a color at the end of the color spectrum (next to orange); resembling the color of blood or cherries or tomatoes or rubies"
         ],
         "pron": "[red]"
     },
     {
         "name": "release",
         "trans": [
-            "vt.释放;发布"
+            "v. release, as from one's grip; grant freedom to; free from confinement"
         ],
         "pron": "[ri'li:s]"
     },
     {
         "name": "remain",
         "trans": [
-            "vi.剩下;保持n.残余；遗迹"
+            "v. stay the same; remain in a certain state; continue in a place, position, or situation"
         ],
         "pron": "[ri'mein]"
     },
     {
         "name": "remember",
         "trans": [
-            "vt.记得，记住"
+            "v. recall knowledge from memory; have a recollection; keep in mind for attention or consideration"
         ],
         "pron": "[ri'membә]"
     },
     {
         "name": "report",
         "trans": [
-            "vt.报告",
-            "汇报；报导vi.报告",
-            "汇报n.报告；报导"
+            "v. to give an account or representation of in words; announce as the result of an investigation or experience or finding"
         ],
         "pron": "[ri'pɔ:t]"
     },
     {
         "name": "research",
         "trans": [
-            "n.调查",
-            "探究"
+            "n. systematic investigation to establish facts; a search for knowledge"
         ],
         "pron": "[ri'sә:tʃ]"
     },
     {
         "name": "result",
         "trans": [
-            "n.成果;结果vi.结果",
-            "导致"
+            "n. a phenomenon that follows and is caused by some previous phenomenon; a statement that solves a problem or explains how to solve the problem"
         ],
         "pron": "[ri'zʌlt]"
     },
     {
         "name": "return",
         "trans": [
-            "vi.回来",
-            "返回 vt.归还；回报n.返回；偿还，归还"
+            "v. go or come back to place, condition, or activity where one has been before; give back"
         ],
         "pron": "[ri'tә:n]"
     },
     {
         "name": "right",
         "trans": [
-            "a.正确的;右边的ad.对；正好；径直n.正确；权利；右面"
+            "adj. being or located on or directed toward the side of the body to the east when facing north; free from error; especially conforming to fact or truth"
         ],
         "pron": "[rait]"
     },
     {
         "name": "rise",
         "trans": [
-            "vi.起立;升起;上涨；起义n.上涨；起源，发生"
+            "v. move upward; increase in value or to a higher point"
         ],
         "pron": "[raiz]"
     },
     {
         "name": "road",
         "trans": [
-            "n.路",
-            "道路"
+            "n. an open way (generally public) for travel or transportation; a way or means to achieve something"
         ],
         "pron": "[rәud]"
     },
     {
         "name": "role",
         "trans": [
-            "n.角色"
+            "n. the actions and activities assigned to or required or expected of a person or group; an actor's portrayal of someone in a play"
         ],
         "pron": "[rәul]"
     },
     {
         "name": "room",
         "trans": [
-            "n.房间；余地"
+            "n. an area within a building enclosed by walls and floor and ceiling; space for movement"
         ],
         "pron": "[ru:m, rum]"
     },
     {
         "name": "rule",
         "trans": [
-            "vt.统治，支配 n.统治;规定"
+            "v. exercise authority over; as of nations; decide with authority",
+            "n. a principle or condition that customarily governs behavior; something regarded as a normative example"
         ],
         "pron": "[ru:l]"
     },
     {
         "name": "run",
         "trans": [
-            "vi.跑;运行vt.经营；操纵n.运行，运转"
+            "v. move fast by using one's feet, with one foot off the ground at any given time; flee; take to one's heels; cut and run"
         ],
         "pron": "[rʌn]"
     },
     {
         "name": "sale",
         "trans": [
-            "n.卖",
-            "拍卖;销售额"
+            "n. a particular instance of selling; the general activity of selling"
         ],
         "pron": "[seil]"
     },
     {
         "name": "same",
         "trans": [
-            "a.相同的pron.同样的人（事物）"
+            "adj. same in identity; closely similar or comparable in kind or quality or quantity or degree"
         ],
         "pron": "[seim]"
     },
     {
         "name": "save",
         "trans": [
-            "vt.救；积攒，储蓄"
+            "v. save from ruin, destruction, or harm; to keep up and reserve for personal or special use"
         ],
         "pron": "[seiv]"
     },
     {
         "name": "say",
         "trans": [
-            "vt.说;比如说n.话语;发言权"
+            "v. express in words; report or maintain"
         ],
         "pron": "[sei]"
     },
     {
         "name": "school",
         "trans": [
-            "n.学校",
-            "学院;学派"
+            "n. an educational institution; a building where young people receive education"
         ],
         "pron": "[sku:l]"
     },
     {
         "name": "season",
         "trans": [
-            "n.季节;时节"
+            "n. a period of the year marked by special events or activities in some field"
         ],
         "pron": "['si:zn]"
     },
     {
         "name": "second",
         "trans": [
-            "n.秒 num.第二 a.另一个"
+            "n. 1/60 of a minute; the basic unit of time adopted under the Systeme International d'Unites; an indefinitely short time",
+            "adj. coming next after the first in position in space or time or degree or magnitude"
         ],
         "pron": "['sekәnd]"
     },
     {
         "name": "secretary",
         "trans": [
-            "n.秘书",
-            "书记"
+            "n. a person who is head of an administrative department of government; an assistant who handles correspondence and clerical work for a boss or an organization"
         ],
         "pron": "['sekrәtri]"
     },
     {
         "name": "security",
         "trans": [
-            "n.安全"
+            "n. the state of being free from danger or injury; defense against financial failure; financial independence"
         ],
         "pron": "[si'kjuәriti]"
     },
     {
         "name": "see",
         "trans": [
-            "vt.看见",
-            "注意;看出",
-            "领会vi.看见；理解"
+            "v. perceive by sight or have the power to perceive by sight; perceive (an idea or situation) mentally"
         ],
         "pron": "[si:]"
     },
     {
         "name": "seek",
         "trans": [
-            "vt.寻找",
-            "探索"
+            "v. try to get or reach; try to locate or discover, or try to establish the existence of"
         ],
         "pron": "[si:k]"
     },
     {
         "name": "seem",
         "trans": [
-            "vi.好像",
-            "似乎"
+            "v. give a certain impression or have a certain outward aspect; seem to be true, probable, or apparent"
         ],
         "pron": "[si:m]"
     },
     {
         "name": "sell",
         "trans": [
-            "vt.卖",
-            "销售"
+            "v. exchange or deliver for money or its equivalent; be sold at a certain price or in a certain way"
         ],
         "pron": "[sel]"
     },
     {
         "name": "send",
         "trans": [
-            "vt.送",
-            "寄；派遣"
+            "v. cause to go somewhere; to cause or order to be taken, directed, or transmitted to another place"
         ],
         "pron": "[send]"
     },
     {
         "name": "sense",
         "trans": [
-            "vt.意识到 n.感官；意思，意义"
+            "v. perceive by a physical sensation, e.g., coming from the skin or muscles",
+            "n. a general conscious awareness; the meaning of a word or expression; the way in which a word or expression or situation can be interpreted"
         ],
         "pron": "[sens]"
     },
     {
         "name": "set",
         "trans": [
-            "vt.放",
-            "安置;点燃",
-            "放(火)n.一套a.固定的"
+            "v. put into a certain place or abstract location; fix conclusively or authoritatively"
         ],
         "pron": "[set]"
     },
     {
         "name": "seven",
         "trans": [
-            "num.七"
+            "adj. being one more than six",
+            "n. the cardinal number that is the sum of six and one"
         ],
         "pron": "['seven]"
     },
     {
         "name": "seventeen",
         "trans": [
-            "num.十七"
+            "adj. being one more than sixteen"
         ],
         "pron": "['sevәn'ti:n]"
     },
     {
         "name": "seventy",
         "trans": [
-            "num.七十"
+            "adj. being ten more than sixty"
         ],
         "pron": "[sevnti]"
     },
     {
         "name": "several",
         "trans": [
-            "a.几个，若干"
+            "adj. considered individually; distinct and individual"
         ],
         "pron": "['sevrәl]"
     },
     {
         "name": "share",
         "trans": [
-            "vt.分享",
-            "共享 n.份额",
-            "股份"
+            "v. have in common; use jointly or in common",
+            "n. assets belonging to or due to or contributed by an individual person or group"
         ],
         "pron": "[ʃɛә]"
     },
     {
         "name": "she",
         "trans": [
-            "pron.她"
+            "pron. a female person or animal previously mentioned"
         ],
         "pron": "[ʃi:, ʃi]"
     },
     {
         "name": "short",
         "trans": [
-            "a.短的;短期的；缺乏的，不足的n.短裤"
+            "adj. primarily temporal sense; indicating or being or seeming to be limited in duration; (primarily spatial sense) having little length or lacking in length"
         ],
         "pron": "[ʃɔ:t]"
     },
     {
         "name": "should",
         "trans": [
-            "aux.应该;将要"
+            "aux. used to indicate obligation, duty or correctness",
+            "aux. used to indicate what is probable"
         ],
         "pron": "[ʃud, ʃәd]"
     },
     {
         "name": "show",
         "trans": [
-            "vt.给…看;表明vi.显现，露面n.表示;展览;  炫耀"
+            "v. give an exhibition of to an interested audience; establish the validity of something, as by an example, explanation or experiment"
         ],
         "pron": "[ʃәu]"
     },
     {
         "name": "side",
         "trans": [
-            "vi.支持n.边",
-            "旁边;一方"
+            "v. take sides for or against; m siding against the current candidate\""
         ],
         "pron": "[said]"
     },
     {
         "name": "sign",
         "trans": [
-            "n.符号；征兆vt.签名"
+            "n. a perceptible indication of something not immediately apparent (as a visible clue that something has happened); a public display of a message"
         ],
         "pron": "[sain]"
     },
     {
         "name": "since",
         "trans": [
-            "conj.从…以来;因为;既然ad.以后",
-            "后来"
+            "prep. / conj. from a past time until now",
+            "conj. because; as"
         ],
         "pron": "[sins]"
     },
     {
         "name": "single",
         "trans": [
-            "a.单一的;独身的"
+            "adj. being or characteristic of a single thing or person"
         ],
         "pron": "['siŋgl]"
     },
     {
         "name": "sir",
         "trans": [
-            "n.先生"
+            "n. term of address for a man"
         ],
         "pron": "[sә:]"
     },
     {
         "name": "sister",
         "trans": [
-            "n.姐妹"
+            "n. a female person who has the same parents as another person"
         ],
         "pron": "[sistә]"
     },
     {
         "name": "sit",
         "trans": [
-            "vi.坐，就坐"
+            "v. be seated; be around, often idly or without specific purpose"
         ],
         "pron": "[sit]"
     },
     {
         "name": "situation",
         "trans": [
-            "n.处境",
-            "形势"
+            "n. the general state of things; the combination of circumstances at a given time; a condition or position in which you find yourself"
         ],
         "pron": "[sitju'eiʃәn]"
     },
     {
         "name": "six",
         "trans": [
-            "num.六"
+            "adj. denoting a quantity consisting of six items or units",
+            "n. the cardinal number that is the sum of five and one"
         ],
         "pron": "[siks]"
     },
     {
         "name": "sixteen",
         "trans": [
-            "num.十六"
+            "adj. being one more than fifteen"
         ],
         "pron": "['siks'ti:n]"
     },
     {
         "name": "sixty",
         "trans": [
-            "num.六十"
+            "adj. being ten more than fifty"
         ],
         "pron": "['siksti]"
     },
     {
         "name": "small",
         "trans": [
-            "a.小的",
-            "少的"
+            "adj. limited or below average in number or quantity or magnitude or extent; limited in size or scope"
         ],
         "pron": "[smɔ:l]"
     },
     {
         "name": "So",
         "trans": [
-            "conj.因而",
-            "所以ad.如此",
-            "那么;非常",
-            "十分"
+            "adv. to such a great extent; very",
+            "conj. and for this reason; therefore"
         ],
         "pron": "[sәu]"
     },
     {
         "name": "social",
         "trans": [
-            "a.社会的;社交的"
+            "adj. relating to human society and its members; living together or enjoying life in communities or organized groups"
         ],
         "pron": "['sәuʃәl]"
     },
     {
         "name": "society",
         "trans": [
-            "n.社会"
+            "n. an extended social group having a distinctive cultural and economic organization; a formal association of people with similar interests"
         ],
         "pron": "[sә'saiәti]"
     },
     {
         "name": "some",
         "trans": [
-            "a.一些；某一个pron.一些",
-            "若干ad.大约；稍微"
+            "adj. quantifier; used with either mass nouns or plural count nouns to indicate an unspecified number or quantity; relatively many but unspecified in number"
         ],
         "pron": "[sʌm]"
     },
     {
         "name": "something",
         "trans": [
-            "pron.某事",
-            "某物"
+            "pron. a thing that is unknown or not specified"
         ],
         "pron": "['sʌmθiŋ]"
     },
     {
         "name": "son",
         "trans": [
-            "n.儿子"
+            "n. a male human offspring; the divine word of God; the second person in the Trinity (incarnate in Jesus)"
         ],
         "pron": "[sʌn]"
     },
     {
         "name": "soon",
         "trans": [
-            "ad.不久",
-            "快"
+            "adv. in the near future"
         ],
         "pron": "[su:n]"
     },
     {
         "name": "sort",
         "trans": [
-            "n.种类",
-            "类别 vt.排序"
+            "n. a category of things distinguished by some common characteristic or quality; an approximate definition or example",
+            "v. examine in order to test suitability"
         ],
         "pron": "[sɔ:t]"
     },
     {
         "name": "sound",
         "trans": [
-            "n.响声vi.听起来a.健康的；正当的"
+            "n. the particular auditory effect produced by a given cause; the subjective sensation of hearing something"
         ],
         "pron": "[saund]"
     },
     {
         "name": "south",
         "trans": [
-            "n.南",
-            "南方a.南方的"
+            "n. the region of the United States lying to the south of the Mason-Dixon line; the southern states that seceded from the United States in 1861"
         ],
         "pron": "[sauθ]"
     },
     {
         "name": "speak",
         "trans": [
-            "vi.说话；发言，演说vt.说"
+            "v. express in speech; exchange thoughts; talk with"
         ],
         "pron": "[spi:k]"
     },
     {
         "name": "special",
         "trans": [
-            "a.特殊的",
-            "专门的"
+            "adj. unique or specific to a person or thing or category; for a special service or occasion"
         ],
         "pron": "['speʃәl]"
     },
     {
         "name": "spend",
         "trans": [
-            "vt.用钱",
-            "花费;度过"
+            "v. pass time in a specific way; pay out"
         ],
         "pron": "[spend]"
     },
     {
         "name": "staff",
         "trans": [
-            "n.全体工作人员"
+            "n. personnel who assist their superior in carrying out an assigned task; a strong rod or stick with a specialized utilitarian purpose"
         ],
         "pron": "[sta:f]"
     },
     {
         "name": "stage",
         "trans": [
-            "n.舞台;阶段，时期"
+            "n. any distinct time period in a sequence of events; a specific identifiable position in a continuum or series or especially in a process"
         ],
         "pron": "[steidʒ]"
     },
     {
         "name": "stand",
         "trans": [
-            "vi.站立;坐落vt.容忍 n.架",
-            "台"
+            "v. be standing; be upright; be in some specified state or condition",
+            "n. a support or foundation; the position where a thing or person stands"
         ],
         "pron": "[stæ nd]"
     },
     {
         "name": "star",
         "trans": [
-            "n.星星;明星"
+            "n. (astronomy) a celestial body of hot gases that radiates energy derived from thermonuclear reactions in the interior"
         ],
         "pron": "[sta:]"
     },
     {
         "name": "start",
         "trans": [
-            "vi.出发",
-            "开始;吃惊 vt.开始；发动，创办n.  开端；吃惊"
+            "v. take the first step or steps in carrying out an action; set in motion, cause to start"
         ],
         "pron": "[sta:t]"
     },
     {
         "name": "State",
         "trans": [
-            "vt.陈述",
-            "阐明n.状态;国家；州"
+            "v. express in words; put before"
         ],
         "pron": "[steit]"
     },
     {
         "name": "stay",
         "trans": [
-            "vi.停留;住；保持n.逗留"
+            "v. stay the same; remain in a certain state; stay put (in a certain place)"
         ],
         "pron": "[stei]"
     },
     {
         "name": "step",
         "trans": [
-            "n.脚步;步骤；台阶vi.走；踩到"
+            "n. any maneuver made as part of progress toward a goal; the distance covered by a step"
         ],
         "pron": "[step]"
     },
     {
         "name": "still",
         "trans": [
-            "ad.仍旧，还要a.静止的n.寂静"
+            "adv. with reference to action or condition; without change, interruption, or cessation; despite anything to the contrary (usually following a concession)"
         ],
         "pron": "[stil]"
     },
     {
         "name": "stock",
         "trans": [
-            "vt.储备 n.原料;库存品;股票"
+            "v. have on hand",
+            "n. the capital raised by a corporation through the issue of shares entitling holders to an ownership interest (equity); the merchandise that a shop has on hand"
         ],
         "pron": "[stɔk]"
     },
     {
         "name": "stop",
         "trans": [
-            "vt.阻止；中断vi.停止；逗留n.停车站；停止"
+            "v. come to a halt, stop moving; put an end to a state or an activity"
         ],
         "pron": "[stɔp]"
     },
     {
         "name": "Story",
         "trans": [
-            "n.故事",
-            "小说"
+            "n. a message that tells the particulars of an act or occurrence or course of events; presented in writing or drama or cinema or as a radio or television program"
         ],
         "pron": "['stɔ:ri]"
     },
     {
         "name": "street",
         "trans": [
-            "n.街道 a.街上的"
+            "n. a thoroughfare (usually including sidewalks) that is lined with buildings"
         ],
         "pron": "['stri:t]"
     },
     {
         "name": "strong",
         "trans": [
-            "a.强壮的；浓的"
+            "adj. having strength or power greater than average or expected; not faint or feeble"
         ],
         "pron": "[strɔŋ]"
     },
     {
         "name": "student",
         "trans": [
-            "n.学生"
+            "n. a learner who is enrolled in an educational institution"
         ],
         "pron": "['stju:dәnt]"
     },
     {
         "name": "study",
         "trans": [
-            "n.学习",
-            "研究;书房vt.学习",
-            "研究"
+            "n. a detailed critical inspection; applying the mind to learning and understanding a subject (especially by reading)"
         ],
         "pron": "['stʌdi]"
     },
     {
         "name": "such",
         "trans": [
-            "ad.那么 pron.这样的人（事物）a.这样的",
-            "如此的…"
+            "adv. to so extreme a degree"
         ],
         "pron": "[sʌtʃ]"
     },
     {
         "name": "suggest",
         "trans": [
-            "vt.建议;暗示",
-            "启发"
+            "v. make a proposal, declare a plan for something; drop a hint; intimate by a hint"
         ],
         "pron": "[sә'dʒest]"
     },
     {
         "name": "support",
         "trans": [
-            "vt.支持;供养；承受"
+            "v. give moral or psychological support, aid, or courage to; support materially or financially"
         ],
         "pron": "[sә'pɔ:t]"
     },
     {
         "name": "sure",
         "trans": [
-            "a.确信的",
-            "确实的"
+            "adj. having or feeling no doubt or uncertainty; confident and assured; exercising or taking care great enough to bring assurance"
         ],
         "pron": "[ʃuә]"
     },
     {
         "name": "surprise",
         "trans": [
-            "vt.使惊奇n.使人惊奇的事"
+            "v. cause to be surprised; come upon or take unawares"
         ],
         "pron": "[sә'praiz]"
     },
     {
         "name": "system",
         "trans": [
-            "n.系统；制度"
+            "n. instrumentality that combines interrelated interacting artifacts designed to work as a coherent entity"
         ],
         "pron": "['sistim]"
     },
     {
         "name": "take",
         "trans": [
-            "vt.拿;接受；需要",
-            "花费；采取(某一动作)"
+            "v. carry out; require (time or space)"
         ],
         "pron": "[teik]"
     },
     {
         "name": "talk",
         "trans": [
-            "vi.讲话vt.谈论n.谈论；讲话"
+            "v. exchange thoughts; talk with; express in speech"
         ],
         "pron": "[tɔ:k]"
     },
     {
         "name": "tax",
         "trans": [
-            "n.税（款）vt.征税"
+            "n. charge against a citizen's person or property or activity for the support of government"
         ],
         "pron": "[tæ ks]"
     },
     {
         "name": "team",
         "trans": [
-            "n.队",
-            "组"
+            "n. a cooperative unit (especially in sports); two or more draft animals that work together to pull something"
         ],
         "pron": "[ti:m]"
     },
     {
         "name": "tell",
         "trans": [
-            "vt.讲述；吩咐；辨别"
+            "v. express in words; let something be known"
         ],
         "pron": "[tel]"
     },
     {
         "name": "ten",
         "trans": [
-            "num.十"
+            "adj. being one more than nine",
+            "n. the cardinal number that is the sum of nine and one; the base of the decimal system"
         ],
         "pron": "[ten]"
     },
     {
         "name": "term",
         "trans": [
-            "n.学期;条件;术语"
+            "n. a word or expression used for some particular thing; a limited period of time"
         ],
         "pron": "[tә:m]"
     },
     {
         "name": "test",
         "trans": [
-            "n.试验；考验vt.试验",
-            "检验；考验"
+            "n. trying something to find out about it; any standardized procedure for measuring sensitivity or memory or intelligence or aptitude or personality etc"
         ],
         "pron": "[test]"
     },
     {
         "name": "than",
         "trans": [
-            "conj.(比较级)比"
+            "conj. / prep. used to introduce the second part of a comparison"
         ],
         "pron": "[ðæ n, ðәn]"
     },
     {
         "name": "thank",
         "trans": [
-            "vt.谢谢",
-            "感谢n.感谢"
+            "v. express gratitude or show appreciation to"
         ],
         "pron": "[θæŋk]"
     },
     {
         "name": "that",
         "trans": [
-            "a.那 pron.那ad.那样"
+            "det. / pron. the person or thing farther away or already mentioned",
+            "conj. introducing a clause (e.g. I know that he left)",
+            "adv. to that degree; so"
         ],
         "pron": "[ðæ t]"
     },
@@ -4484,57 +4169,57 @@
     {
         "name": "the",
         "trans": [
-            "art.这",
-            "那"
+            "art. used before a noun to refer to a particular, known or unique person or thing"
         ],
         "pron": "[ðә, ði]"
     },
     {
         "name": "their",
         "trans": [
-            "pron.他(她，它)们的"
+            "det. belonging to or associated with the people or things previously mentioned"
         ],
         "pron": "[ðɛә, ðәr]"
     },
     {
         "name": "them",
         "trans": [
-            "pron.(宾格)他（她，它）们"
+            "pron. two or more people or things, as the object of a verb or preposition"
         ],
         "pron": "[ðem, ðәm]"
     },
     {
         "name": "themselves",
         "trans": [
-            "pron.他们自己"
+            "pron. reflexive or emphatic form of \"they\" / \"them\""
         ],
         "pron": "[ðәm'selvz]"
     },
     {
         "name": "then",
         "trans": [
-            "ad.当时;然后；再者"
+            "adv. subsequently or soon afterward (often used as sentence connectors); in that case or as a consequence"
         ],
         "pron": "[ðen]"
     },
     {
         "name": "there",
         "trans": [
-            "ad.在那里;在那点上"
+            "adv. in or at that place; in that matter"
         ],
         "pron": "[ðɛә, ðә]"
     },
     {
         "name": "these",
         "trans": [
-            "a.这些pron.这些"
+            "det. / pron. plural of \"this\"; the people or things near the speaker"
         ],
         "pron": "[ði:z]"
     },
     {
         "name": "they",
         "trans": [
-            "pron.(主格)他(她)们"
+            "pron. two or more people or things previously mentioned",
+            "pron. people in general; a person whose gender is unknown or not specified"
         ],
         "pron": "[ðei]"
     },
@@ -4548,338 +4233,330 @@
     {
         "name": "thing",
         "trans": [
-            "n.东西",
-            "事情"
+            "n. a special situation; an action"
         ],
         "pron": "[θiŋ]"
     },
     {
         "name": "think",
         "trans": [
-            "vt.想；认为；打算"
+            "v. judge or regard; look upon; judge; expect, believe, or suppose"
         ],
         "pron": "[θiŋk]"
     },
     {
         "name": "thirteen",
         "trans": [
-            "num.十三"
+            "adj. being one more than twelve",
+            "n. the cardinal number that is the sum of twelve and one"
         ],
         "pron": "['θә:'ti:n]"
     },
     {
         "name": "thirty",
         "trans": [
-            "num.三十"
+            "adj. being ten more than twenty",
+            "n. the cardinal number that is the product of ten and three"
         ],
         "pron": "['θә:ti]"
     },
     {
         "name": "this",
         "trans": [
-            "a.这;今 pron.这"
+            "det. / pron. the person or thing near the speaker or just mentioned",
+            "adv. to this degree; so"
         ],
         "pron": "[ðis]"
     },
     {
         "name": "those",
         "trans": [
-            "pron.那些"
+            "det. / pron. plural of \"that\"; the people or things farther away or already mentioned"
         ],
         "pron": "[ðәuz]"
     },
     {
         "name": "though",
         "trans": [
-            "conj.虽然 ad.可是；即使"
+            "conj. despite the fact that; although",
+            "adv. however; nevertheless"
         ],
         "pron": "[ðәu]"
     },
     {
         "name": "thought",
         "trans": [
-            "n.思想",
-            "思维;想法"
+            "n. the content of cognition; the main thing you are thinking about; the process of using your mind to consider something carefully"
         ],
         "pron": "[θɔ:t]"
     },
     {
         "name": "thousand",
         "trans": [
-            "num.千",
-            "千个n.无数，成千上万"
+            "n. the cardinal number that is the product of 10 and 100",
+            "adj. denoting a quantity consisting of 1,000 items or units"
         ],
         "pron": "['θauzәnd]"
     },
     {
         "name": "three",
         "trans": [
-            "num.三个"
+            "adj. being one more than two",
+            "n. the cardinal number that is the sum of one and one and one"
         ],
         "pron": "[θri:]"
     },
     {
         "name": "through",
         "trans": [
-            "prep.穿过ad.从头到尾"
+            "prep. moving in one side and out of the other side of",
+            "prep. by means of; because of"
         ],
         "pron": "[θru:]"
     },
     {
         "name": "time",
         "trans": [
-            "n.时间;时机;次",
-            "回；倍；时代vt.安排时间；计时"
+            "n. an instance or single occasion for some event; a period of time considered as a resource under your control and sufficient to accomplish something"
         ],
         "pron": "[taim]"
     },
     {
         "name": "to",
         "trans": [
-            "prep.到",
-            "向;达到；对于"
+            "prep. in the direction of; towards",
+            "prep. used before a verb to form the infinitive"
         ],
         "pron": "[tu:, tu, tә]"
     },
     {
         "name": "today",
         "trans": [
-            "n.今天；当代"
+            "n. the present time or age; the day that includes the present moment (as opposed to yesterday or tomorrow)"
         ],
         "pron": "[tә'dei]"
     },
     {
         "name": "together",
         "trans": [
-            "ad.共同",
-            "一起；合计，共计"
+            "adv. in contact with each other or in proximity; assembled in one place"
         ],
         "pron": "[tә'geðә]"
     },
     {
         "name": "too",
         "trans": [
-            "ad.也",
-            "还;太"
+            "adv. to a degree exceeding normal or proper limits; in addition"
         ],
         "pron": "[tu:]"
     },
     {
         "name": "top",
         "trans": [
-            "n.顶，上端；首位a.最高的"
+            "n. the upper part of anything; the highest or uppermost side of anything"
         ],
         "pron": "[tɔp]"
     },
     {
         "name": "total",
         "trans": [
-            "a.总的vi.合计",
-            "总共"
+            "adj. constituting the full quantity or extent; complete; complete in extent or degree and in every particular"
         ],
         "pron": "['tәutl]"
     },
     {
         "name": "towards",
         "trans": [
-            "prep.向着"
+            "prep. in the direction of; in relation to"
         ],
         "pron": "[tә'wɔ:dz]"
     },
     {
         "name": "town",
         "trans": [
-            "n.市镇",
-            "城镇"
+            "n. an urban area with a fixed boundary that is smaller than a city; the people living in a municipality smaller than a city"
         ],
         "pron": "[taun]"
     },
     {
         "name": "trade",
         "trans": [
-            "n.贸易vi.交易"
+            "n. the commercial exchange (buying and selling on domestic or international markets) of goods and services; the skilled practice of a practical occupation"
         ],
         "pron": "[treid]"
     },
     {
         "name": "try",
         "trans": [
-            "vi.尝试；努力；审讯vt.努力；尝试"
+            "v. make an effort or attempt; put to the test, as for its quality, or give experimental use to"
         ],
         "pron": "[trai]"
     },
     {
         "name": "turn",
         "trans": [
-            "vt.转",
-            "翻vi.转动n.转动；轮流，轮班"
+            "v. change orientation or direction, also in the abstract sense; undergo a transformation or a change of position or action"
         ],
         "pron": "[tә:n]"
     },
     {
         "name": "twelve",
         "trans": [
-            "num.十二"
+            "adj. denoting a quantity consisting of 12 items or units",
+            "n. the cardinal number that is the sum of eleven and one"
         ],
         "pron": "[twelv]"
     },
     {
         "name": "twenty",
         "trans": [
-            "num.二十"
+            "adj. denoting a quantity consisting of 20 items or units",
+            "n. the cardinal number that is the sum of nineteen and one"
         ],
         "pron": "['twenti]"
     },
     {
         "name": "twice",
         "trans": [
-            "ad.两次",
-            "两倍"
+            "adv. two times; to double the degree"
         ],
         "pron": "[twais]"
     },
     {
         "name": "two",
         "trans": [
-            "num.二"
+            "adj. being one more than one",
+            "n. the cardinal number that is the sum of one and one or a numeral representing this number"
         ],
         "pron": "[tu:]"
     },
     {
         "name": "under",
         "trans": [
-            "prep.在…下面；在...的情况下"
+            "prep. beneath; below; less than"
         ],
         "pron": "['ʌndә]"
     },
     {
         "name": "understand",
         "trans": [
-            "vt.理解",
-            "明白"
+            "v. know and comprehend the nature or meaning of; perceive (an idea or situation) mentally"
         ],
         "pron": "[ʌndә'stæ nd]"
     },
     {
         "name": "union",
         "trans": [
-            "n.联合",
-            "团结;协会"
+            "n. an organization of employees formed to bargain with the employer; the United States (especially the northern states during the American Civil War)"
         ],
         "pron": "['ju:njәn]"
     },
     {
         "name": "university",
         "trans": [
-            "n.大学"
+            "n. the body of faculty and students at a university"
         ],
         "pron": "[ju:ni'vә:siti]"
     },
     {
         "name": "until",
         "trans": [
-            "prep.到…为止conj.直到…为止"
+            "prep. / conj. up to the time that; till"
         ],
         "pron": "[әn'til]"
     },
     {
         "name": "up",
         "trans": [
-            "ad.向上;用完;提高",
-            "增强 prep在高处a.  起床的"
+            "adv. spatially or metaphorically from a lower to a higher position"
         ],
         "pron": "[ʌp]"
     },
     {
         "name": "us",
         "trans": [
-            "pron.我们"
+            "pron. the speaker and one or more others, as the object of a verb or preposition"
         ],
         "pron": "[ʌs, әs]"
     },
     {
         "name": "use",
         "trans": [
-            "vt.用",
-            "使用 n.使用",
-            "利用;用途"
+            "v. put into service; make work or employ for a particular purpose or for its inherent or natural purpose; take or consume (regularly or habitually)",
+            "n. the act of using; what something is used for"
         ],
         "pron": "[ju:z, ju:s]"
     },
     {
         "name": "value",
         "trans": [
-            "n.价值",
-            "价格vt.评价"
+            "n. a numerical quantity measured or assigned or computed; the quality (positive or negative) that renders something desirable or valuable"
         ],
         "pron": "['væ lju:]"
     },
     {
         "name": "very",
         "trans": [
-            "ad.很",
-            "非常a.正是那个"
+            "adv. used as intensifiers; 'real' is sometimes used informally for 'really'; 'rattling' is informal; precisely so"
         ],
         "pron": "['veri]"
     },
     {
         "name": "view",
         "trans": [
-            "vt.看待；看 n.见解;风景"
+            "v. deem to be; look at carefully; study mentally",
+            "n. a way of regarding situations or topics etc.; the visual percept of a region"
         ],
         "pron": "[vju:]"
     },
     {
         "name": "visit",
         "trans": [
-            "vt.访问",
-            "参观 n.访问",
-            "参观"
+            "v. go to see a place, as for entertainment; go to certain places as for sightseeing",
+            "n. the act of going to see some person or place or thing for a short time"
         ],
         "pron": "['vizit]"
     },
     {
         "name": "vote",
         "trans": [
-            "n.选举",
-            "投票"
+            "n. a choice that is made by counting the number of people in favor of each alternative; the opinion of a group as determined by voting"
         ],
         "pron": "[vәut]"
     },
     {
         "name": "wait",
         "trans": [
-            "vi.等待n.等待"
+            "v. stay in one place and anticipate or expect something; wait before acting"
         ],
         "pron": "[weit]"
     },
     {
         "name": "walk",
         "trans": [
-            "vi.走 n.走",
-            "步行"
+            "v. use one's feet to advance; advance by steps; accompany or escort",
+            "n. the act of traveling by foot; (baseball) an advance to first base by a batter who receives four balls"
         ],
         "pron": "[wɔ:k]"
     },
     {
         "name": "wall",
         "trans": [
-            "n.墙壁",
-            "围墙"
+            "n. an architectural partition with a height and length greater than its thickness; used to divide or enclose an area or to support another structure"
         ],
         "pron": "[wɔ:l]"
     },
     {
         "name": "want",
         "trans": [
-            "vt.想要n.需要；缺乏"
+            "v. feel or have a desire for; want strongly; have need of"
         ],
         "pron": "[wɔnt]"
     },
     {
         "name": "war",
         "trans": [
-            "n.战争"
+            "n. the waging of armed conflict against an enemy"
         ],
         "pron": "[wɔ:]"
     },
@@ -4893,43 +4570,42 @@
     {
         "name": "watch",
         "trans": [
-            "vt.观看；监视vi.观看n.手表"
+            "v. look attentively; follow with the eyes or the mind"
         ],
         "pron": "[wɔtʃ]"
     },
     {
         "name": "water",
         "trans": [
-            "n.水vt.灌溉"
+            "n. binary compound that occurs at room temperature as a clear colorless odorless tasteless liquid…"
         ],
         "pron": "['wɔ:tә]"
     },
     {
         "name": "way",
         "trans": [
-            "n.路;路线;办法"
+            "n. how something is done or how it happens; how a result is obtained or an end is achieved"
         ],
         "pron": "[wei]"
     },
     {
         "name": "we",
         "trans": [
-            "pron.我们"
+            "pron. the speaker together with one or more other people"
         ],
         "pron": "[wi:]"
     },
     {
         "name": "week",
         "trans": [
-            "n.星期"
+            "n. any period of seven consecutive days; hours or days of work in a calendar week"
         ],
         "pron": "[wi:k]"
     },
     {
         "name": "well",
         "trans": [
-            "ad.好;完全地a.健康的int.喔",
-            "嗯n.井"
+            "adv. (often used as a combining form) in a good or proper or satisfactory manner or to a high standard ('good' is a nonstandard dialectal variant for 'well')"
         ],
         "pron": "[wel]"
     },
@@ -4943,7 +4619,8 @@
     {
         "name": "west",
         "trans": [
-            "n.西边 a.西方的"
+            "n. the countries of (originally) Europe and (now including) North America and South America; the cardinal compass point that is a 270 degrees",
+            "adj. situated in or facing or moving toward the west"
         ],
         "pron": "[west]"
     },
@@ -4957,137 +4634,142 @@
     {
         "name": "what",
         "trans": [
-            "pron.什么"
+            "pron. / det. asking for information about something",
+            "pron. the thing(s) that"
         ],
         "pron": "[wCt]"
     },
     {
         "name": "when",
         "trans": [
-            "ad.什么时候pron.当…的时候"
+            "adv. at what time",
+            "conj. at the time that; whenever"
         ],
         "pron": "[wen]"
     },
     {
         "name": "where",
         "trans": [
-            "ad.在哪里pron.哪里"
+            "adv. in or to what place",
+            "conj. at, in or to the place in which"
         ],
         "pron": "[wɛә]"
     },
     {
         "name": "whether",
         "trans": [
-            "conj.是否"
+            "conj. expressing a doubt or choice between alternatives (if)"
         ],
         "pron": "['weðә]"
     },
     {
         "name": "which",
         "trans": [
-            "pron.哪一个a.哪一个"
+            "pron. / det. asking for a choice from a definite set",
+            "pron. introducing a clause that describes a thing"
         ],
         "pron": "['witʃ]"
     },
     {
         "name": "while",
         "trans": [
-            "conj.当…的时候;而"
+            "conj. during the time that; whereas",
+            "n. a period of time"
         ],
         "pron": "[wail]"
     },
     {
         "name": "white",
         "trans": [
-            "a.白的n.白色"
+            "adj. being of the achromatic color of maximum lightness; having little or no hue owing to reflection of almost all incident light"
         ],
         "pron": "[wait]"
     },
     {
         "name": "who",
         "trans": [
-            "pron.谁"
+            "pron. what or which person or people",
+            "pron. introducing a clause that describes a person"
         ],
         "pron": "[hu:]"
     },
     {
         "name": "whole",
         "trans": [
-            "a.完整的；全体的n.全部"
+            "adj. including all components without exception; being one unit or constituting the full amount or extent or duration; complete"
         ],
         "pron": "[hәul]"
     },
     {
         "name": "whose",
         "trans": [
-            "pron.谁的"
+            "det. / pron. belonging to which person; of whom or of which"
         ],
         "pron": "[hu:z]"
     },
     {
         "name": "why",
         "trans": [
-            "ad.为什么"
+            "adv. for what reason or purpose"
         ],
         "pron": "[wai]"
     },
     {
         "name": "wide",
         "trans": [
-            "a.宽阔的 ad.全部地"
+            "adj. having great (or a certain) extent from one side to the other; broad in scope or content",
+            "adv. with or by a broad space; to the fullest extent possible"
         ],
         "pron": "[waid]"
     },
     {
         "name": "wife",
         "trans": [
-            "n.妻子"
+            "n. a married woman; a man's partner in marriage"
         ],
         "pron": "[waif]"
     },
     {
         "name": "will",
         "trans": [
-            "aux.将要",
-            "会;愿意n.意志；遗嘱"
+            "aux. expressing the future tense or willingness",
+            "n. the faculty of deciding and choosing; a legal document disposing of property after death"
         ],
         "pron": "[wil]"
     },
     {
         "name": "win",
         "trans": [
-            "vi.获胜",
-            "赢vt.赢得"
+            "v. be the winner in a contest or competition; be victorious; win something through one's efforts"
         ],
         "pron": "[win]"
     },
     {
         "name": "with",
         "trans": [
-            "prep.和…一起；随着"
+            "prep. accompanied by; together with",
+            "prep. having; using; by means of"
         ],
         "pron": "[wið]"
     },
     {
         "name": "within",
         "trans": [
-            "prep.在…里面；不超过"
+            "prep. inside; not beyond (a limit or time)"
         ],
         "pron": "[wi'ðin]"
     },
     {
         "name": "without",
         "trans": [
-            "prep.无",
-            "没有"
+            "prep. not having; in the absence of"
         ],
         "pron": "[wið'aut]"
     },
     {
         "name": "woman",
         "trans": [
-            "n.妇女",
-            "女性"
+            "n. an adult female person (as opposed to a man); a female person who plays a significant role (wife or mistress or girlfriend) in the life of a particular man"
         ],
         "pron": "['wumәn]"
     },
@@ -5101,47 +4783,42 @@
     {
         "name": "word",
         "trans": [
-            "n.词",
-            "话"
+            "n. a unit of language that native speakers can identify; a brief statement"
         ],
         "pron": "[wә:d]"
     },
     {
         "name": "work",
         "trans": [
-            "n.工作",
-            "职业；著作vi.工作；运转",
-            "起作用"
+            "n. activity directed toward making or doing something; a product produced or accomplished through the effort or activity or agency of a person or thing"
         ],
         "pron": "[wә:k]"
     },
     {
         "name": "worker",
         "trans": [
-            "n.工人"
+            "n. a person who works at a specific occupation; a member of the working class (not necessarily employed)"
         ],
         "pron": "['wә:kә]"
     },
     {
         "name": "working",
         "trans": [
-            "n. 工作",
-            "作用",
-            "劳动"
+            "n. a mine or quarry that is being or has been worked"
         ],
         "pron": "['wә:kiŋ]"
     },
     {
         "name": "world",
         "trans": [
-            "n.世界"
+            "n. everything that exists anywhere; people in general; especially a distinctive group of people with some shared interest"
         ],
         "pron": "[wә:ld]"
     },
     {
         "name": "would",
         "trans": [
-            "aux.将;愿意"
+            "aux. past form of \"will\"; expressing a conditional or polite request"
         ],
         "pron": "[wud,wәd]"
     },
@@ -5155,59 +4832,59 @@
     {
         "name": "write",
         "trans": [
-            "vt.写 vi.书写；写作；写信"
+            "v. produce a literary work; communicate or express by writing"
         ],
         "pron": "[rait]"
     },
     {
         "name": "year",
         "trans": [
-            "n.年；岁数"
+            "n. a period of time containing 365 (or 366) days; a period of time occupying a regular part of a calendar year that is used for some particular activity"
         ],
         "pron": "[jә:, jiә]"
     },
     {
         "name": "yes",
         "trans": [
-            "ad.是",
-            "是的"
+            "adv. used to give an affirmative answer"
         ],
         "pron": "[jes]"
     },
     {
         "name": "yesterday",
         "trans": [
-            "n.昨天 ad.昨日"
+            "n. the day immediately before today",
+            "adv. on the day preceding today"
         ],
         "pron": "['jestәdi]"
     },
     {
         "name": "yet",
         "trans": [
-            "ad.还;已经conj.而"
+            "adv. up until now; still",
+            "conj. but at the same time; nevertheless"
         ],
         "pron": "[jet]"
     },
     {
         "name": "you",
         "trans": [
-            "pron.你",
-            "你们"
+            "pron. the person or people being addressed",
+            "pron. any person; people in general"
         ],
         "pron": "[ju:, ju]"
     },
     {
         "name": "young",
         "trans": [
-            "a.年轻的n.青年们"
+            "adj. (used of living things especially persons) in an early period of life or development or growth"
         ],
         "pron": "[jʌŋ]"
     },
     {
         "name": "your",
         "trans": [
-            "pron.你的",
-            "你们的"
+            "det. belonging to or associated with the person or people being addressed"
         ],
         "pron": "[jɔ:]"
     },

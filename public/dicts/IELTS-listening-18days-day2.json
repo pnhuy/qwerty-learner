@@ -1,310 +1,464 @@
 [
     {
         "name": "gym",
-        "trans": ["n. 健身房"]
+        "trans": [
+            "n. athletic facility equipped for sports or physical training"
+        ]
     },
     {
         "name": "laundry",
-        "trans": ["n. 洗衣店"]
+        "trans": [
+            "n. garments or white goods that can be cleaned by laundering"
+        ]
     },
     {
         "name": "harbour",
-        "trans": ["n. 海港"]
+        "trans": [
+            "n. a sheltered port where ships can take on or discharge cargo"
+        ]
     },
     {
         "name": "balcony",
-        "trans": ["n. 阳台"]
+        "trans": [
+            "n. an upper floor projecting from the rear over the main floor in an auditorium"
+        ]
     },
     {
         "name": "intermediate",
-        "trans": ["adj. 中级的"]
+        "trans": [
+            "adj. lying between two extremes in time or space or state; around the middle of a scale of evaluation"
+        ]
     },
     {
         "name": "electricity",
-        "trans": ["n. 电力"]
+        "trans": [
+            "n. a physical phenomenon associated with stationary or moving electrons and protons; energy made available by the flow of electric charge through a conductor"
+        ]
     },
     {
         "name": "Africa",
-        "trans": ["n. 非洲"]
+        "trans": [
+            "n. the second largest continent; located to the south of Europe and bordered to the west by the South Atlantic and to the east by the Indian Ocean"
+        ]
     },
     {
         "name": "vegetarian",
-        "trans": ["n. 素食主义者"]
+        "trans": [
+            "n. eater of fruits and grains and nuts; someone who eats no meat or fish or (often) any animal products"
+        ]
     },
     {
         "name": "India",
-        "trans": ["n. 印度"]
+        "trans": [
+            "n. a republic in the Asian subcontinent in southern Asia; second most populous country in the world; achieved independence from the United Kingdom in 1947"
+        ]
     },
     {
         "name": "navigation",
-        "trans": ["n. 导航"]
+        "trans": [
+            "n. the guidance of ships or airplanes from place to place"
+        ]
     },
     {
         "name": "translate",
-        "trans": ["v. 翻译"]
+        "trans": [
+            "v. restate (words) from one language into another language; change from one form or medium into another"
+        ]
     },
     {
         "name": "helicopter",
-        "trans": ["n. 直升机"]
+        "trans": [
+            "n. an aircraft without wings that obtains its lift from the rotation of overhead blades"
+        ]
     },
     {
         "name": "event",
-        "trans": ["n. 事件"]
+        "trans": [
+            "n. something that happens at a given place and time; a special set of circumstances"
+        ]
     },
     {
         "name": "organic",
-        "trans": ["adj. 有机的"]
+        "trans": [
+            "adj. relating or belonging to the class of chemical compounds having a carbon basis"
+        ]
     },
     {
         "name": "vacant",
-        "trans": ["adj. 空缺的"]
+        "trans": [
+            "adj. void of thought or knowledge; without an occupant or incumbent"
+        ]
     },
     {
         "name": "exhibition",
-        "trans": ["n. 展览会"]
+        "trans": [
+            "n. the act of exhibiting; a collection of things (goods or works of art etc.) for public display"
+        ]
     },
     {
         "name": "waitress",
-        "trans": ["n. 女服务员"]
+        "trans": [
+            "n. a woman waiter"
+        ]
     },
     {
         "name": "detail",
-        "trans": ["n. 细节"]
+        "trans": [
+            "n. an isolated fact that is considered separately from the whole; a small part that can be considered separately from the whole"
+        ]
     },
     {
         "name": "leaflet",
-        "trans": ["n. 传单"]
+        "trans": [
+            "n. a thin triangular flap of a heart valve"
+        ]
     },
     {
         "name": "coastline",
-        "trans": ["n. 海岸线"]
+        "trans": [
+            "n. the outline of a coast"
+        ]
     },
     {
         "name": "keyboard",
-        "trans": ["n. 键盘"]
+        "trans": [
+            "n. device consisting of a set of keys on a piano or organ or typewriter or typesetting machine or computer or the like"
+        ]
     },
     {
         "name": "ruin",
-        "trans": ["n. 废墟"]
+        "trans": [
+            "n. an irrecoverable state of devastation and destruction; a ruined building"
+        ]
     },
     {
         "name": "database",
-        "trans": ["n. 数据库"]
+        "trans": [
+            "n. an organized body of related information"
+        ]
     },
     {
         "name": "accommodation",
-        "trans": ["n. 住宿"]
+        "trans": [
+            "n. making or becoming suitable; adjusting to circumstances"
+        ]
     },
     {
         "name": "slide",
-        "trans": ["n. 滑梯"]
+        "trans": [
+            "n. a small flat rectangular piece of glass on which specimens can be mounted for microscopic study"
+        ]
     },
     {
         "name": "stair lift",
-        "trans": ["n. 电梯"]
+        "trans": [
+            "n. 电梯"
+        ]
     },
     {
         "name": "hostel",
-        "trans": ["n. 招待所"]
+        "trans": [
+            "n. a hotel providing overnight lodging for travelers"
+        ]
     },
     {
         "name": "average",
-        "trans": ["adj. 普通的"]
+        "trans": [
+            "adj. approximating the statistical norm or average or expected value; lacking special distinction, rank, or status; commonly encountered"
+        ]
     },
     {
         "name": "travel",
-        "trans": ["v. 旅行"]
+        "trans": [
+            "v. change location; move, travel, or proceed, also metaphorically; undertake a journey or trip"
+        ]
     },
     {
         "name": "challenge",
-        "trans": ["n. 挑战"]
+        "trans": [
+            "n. a demanding or stimulating situation; a call to engage in a contest or fight"
+        ]
     },
     {
         "name": "teenager",
-        "trans": ["n. 青少年"]
+        "trans": [
+            "n. a juvenile between the onset of puberty and maturity"
+        ]
     },
     {
         "name": "junior",
-        "trans": ["n. 青少年"]
+        "trans": [
+            "n. term of address for a disrespectful and annoying male; a third-year undergraduate"
+        ]
     },
     {
         "name": "rent",
-        "trans": ["n. 租金"]
+        "trans": [
+            "n. a payment or series of payments made by the lessee to an owner for use of some property, facility, equipment, or service"
+        ]
     },
     {
         "name": "fax",
-        "trans": ["n. 传真"]
+        "trans": [
+            "n. duplicator that transmits the copy by wire or radio"
+        ]
     },
     {
         "name": "landlady",
-        "trans": ["n. 女房东"]
+        "trans": [
+            "n. a landlord who is a woman"
+        ]
     },
     {
         "name": "switch",
-        "trans": ["n. 开关"]
+        "trans": [
+            "n. control consisting of a mechanical or electrical or electronic device for making or breaking or changing the connections in a circuit"
+        ]
     },
     {
         "name": "hire",
-        "trans": ["v. 租用"]
+        "trans": [
+            "v. engage or hire for work; hold under a lease or rental agreement; of goods and services"
+        ]
     },
     {
         "name": "heater",
-        "trans": ["n. 加热器"]
+        "trans": [
+            "n. device that heats water or supplies warmth to a room"
+        ]
     },
     {
         "name": "maid",
-        "trans": ["n. 女仆"]
+        "trans": [
+            "n. a female domestic"
+        ]
     },
     {
         "name": "fridge",
-        "trans": ["n. 电冰箱"]
+        "trans": [
+            "n. a refrigerator in which the coolant is pumped around by an electric motor"
+        ]
     },
     {
         "name": "lock",
-        "trans": ["n. 锁"]
+        "trans": [
+            "n. a fastener fitted to a door or drawer to keep it firmly closed; a strand or cluster of hair"
+        ]
     },
     {
         "name": "midnight",
-        "trans": ["n. 午夜"]
+        "trans": [
+            "n. 12 o'clock at night; the middle of the night"
+        ]
     },
     {
         "name": "department",
-        "trans": ["n. 部门"]
+        "trans": [
+            "n. a specialized division of a large organization"
+        ]
     },
     {
         "name": "further",
-        "trans": ["adj. 更远的"]
+        "trans": [
+            "adj. more distant in especially degree"
+        ]
     },
     {
         "name": "personal",
-        "trans": ["adj. 个人的"]
+        "trans": [
+            "adj. concerning or affecting a particular person or his or her private life and personality; particular to a given individual"
+        ]
     },
     {
         "name": "recruitment",
-        "trans": ["n. 招聘"]
+        "trans": [
+            "n. the act of getting recruits; enlisting people for the army (or for a job or a cause etc.)"
+        ]
     },
     {
         "name": "fight",
-        "trans": ["n. 打仗"]
+        "trans": [
+            "n. a hostile meeting of opposing military forces in the course of a war; the act of fighting; any contest or struggle"
+        ]
     },
     {
         "name": "occasional",
-        "trans": ["adj. 偶尔的"]
+        "trans": [
+            "adj. occurring from time to time; occurring or appearing at usually irregular intervals"
+        ]
     },
     {
         "name": "skill",
-        "trans": ["n. 技能"]
+        "trans": [
+            "n. an ability that has been acquired by training; ability to produce solutions in some problem domain"
+        ]
     },
     {
         "name": "requirement",
-        "trans": ["n. 要求"]
+        "trans": [
+            "n. required activity; anything indispensable"
+        ]
     },
     {
         "name": "vision",
-        "trans": ["n. 视力"]
+        "trans": [
+            "n. a vivid mental image; the ability to see; the visual faculty"
+        ]
     },
     {
         "name": "math",
-        "trans": ["n. 数学"]
+        "trans": [
+            "n. a science (or group of related sciences) dealing with the logic of quantity and shape and arrangement"
+        ]
     },
     {
         "name": "prepare",
-        "trans": ["v. 准备"]
+        "trans": [
+            "v. make ready or suitable or equip in advance for a particular purpose or for some use, event, etc; prepare for eating by applying heat"
+        ]
     },
     {
         "name": "customer",
-        "trans": ["n. 顾客"]
+        "trans": [
+            "n. someone who pays for goods or services"
+        ]
     },
     {
         "name": "cultural",
-        "trans": ["adj. 文化的"]
+        "trans": [
+            "adj. of or relating to the arts and manners that a group favors; denoting or deriving from or distinctive of the ways of living built up by a group of people"
+        ]
     },
     {
         "name": "refreshment",
-        "trans": ["n. 点心"]
+        "trans": [
+            "n. snacks and drinks served as a light meal"
+        ]
     },
     {
         "name": "accommodation",
-        "trans": ["n. 住宿"]
+        "trans": [
+            "n. making or becoming suitable; adjusting to circumstances"
+        ]
     },
     {
         "name": "awareness",
-        "trans": ["n. 意识"]
+        "trans": [
+            "n. having knowledge of; state of elementary or undifferentiated consciousness"
+        ]
     },
     {
         "name": "cash",
-        "trans": ["n. 现金"]
+        "trans": [
+            "n. money in the form of bills or coins"
+        ]
     },
     {
         "name": "advice",
-        "trans": ["n. 建议"]
+        "trans": [
+            "n. a proposal for an appropriate course of action"
+        ]
     },
     {
         "name": "museum",
-        "trans": ["n. 博物馆"]
+        "trans": [
+            "n. a depository for collecting and displaying objects having scientific or historical or artistic value"
+        ]
     },
     {
         "name": "credit card",
-        "trans": ["n. 信用卡"]
+        "trans": [
+            "n. a card (usually plastic) that assures a seller that the person using it has a satisfactory credit rating and that the issuer will see to it that the seller…"
+        ]
     },
     {
         "name": "snowboarding",
-        "trans": ["n. 单板滑雪"]
+        "trans": [
+            "n. the act of sliding down a snow-covered slope while standing on a snowboard"
+        ]
     },
     {
         "name": "sailing",
-        "trans": ["n. 航海"]
+        "trans": [
+            "n. the work of a sailor; riding in a sailboat"
+        ]
     },
     {
         "name": "in advance",
-        "trans": ["提前"]
+        "trans": [
+            "adv. ahead of time; in anticipation"
+        ]
     },
     {
         "name": "mountain",
-        "trans": ["n. 山"]
+        "trans": [
+            "n. a land mass that projects well above its surroundings; higher than a hill"
+        ]
     },
     {
         "name": "destination",
-        "trans": ["n. 目的地"]
+        "trans": [
+            "n. the place designated as the end (as of a race or journey); the ultimate goal for which something is done"
+        ]
     },
     {
         "name": "suggestion",
-        "trans": ["n. 建议"]
+        "trans": [
+            "n. an idea that is suggested; a proposal offered for acceptance or rejection"
+        ]
     },
     {
         "name": "alternative",
-        "trans": ["adj. 选择性的"]
+        "trans": [
+            "adj. serving or used in place of another; necessitating a choice between mutually exclusive possibilities"
+        ]
     },
     {
         "name": "job agency",
-        "trans": ["n. 招聘中介"]
+        "trans": [
+            "n. 招聘中介"
+        ]
     },
     {
         "name": "booklet",
-        "trans": ["n. 小册子"]
+        "trans": [
+            "n. a small book usually having a paper cover"
+        ]
     },
     {
         "name": "European",
-        "trans": ["n. 欧洲人"]
+        "trans": [
+            "n. a native or inhabitant of Europe"
+        ]
     },
     {
         "name": "contact",
-        "trans": ["v. 联系"]
+        "trans": [
+            "v. be in or establish communication with"
+        ]
     },
     {
         "name": "flat",
-        "trans": ["n. 公寓"]
+        "trans": [
+            "n. a level tract of land; a shallow box in which seedlings are started"
+        ]
     },
     {
         "name": "plant",
-        "trans": ["v. 种植"]
+        "trans": [
+            "v. put or set (seeds, seedlings, or plants) into the ground; fix or set securely or deeply"
+        ]
     },
     {
         "name": "venue",
-        "trans": ["n. 集会/聚会场所"]
+        "trans": [
+            "n. the scene of any event or action (especially the place of a meeting)"
+        ]
     },
     {
         "name": "interviewer",
-        "trans": ["n. 面试者"]
+        "trans": [
+            "n. a person who conducts an interview"
+        ]
     }
 ]

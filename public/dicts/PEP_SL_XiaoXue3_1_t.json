@@ -1,620 +1,876 @@
 [
-{
-  "name": "my",
-  "trans": ["我的"],
-  "usphone": "maɪ",
-  "ukphone": "maɪ"
-},
-{
-  "name": "your",
-  "trans": ["你的"],
-  "usphone": "jʊr",
-  "ukphone": "jɔː"
-},
-{
-  "name": "name",
-  "trans": ["名字", "姓名"],
-  "usphone": "neɪm",
-  "ukphone": "neɪm"
-},
-{
-  "name": "new",
-  "trans": ["新的", "新来的"],
-  "usphone": "nuː",
-  "ukphone": "njuː"
-},
-{
-  "name": "year",
-  "trans": ["年", "岁数"],
-  "usphone": "jɪr",
-  "ukphone": "jɪər"
-},
-{
-  "name": "old",
-  "trans": ["……岁的", "年老的"],
-  "usphone": "oʊld",
-  "ukphone": "əʊld"
-},
-{
-  "name": "how old",
-  "trans": ["（年龄）多大"],
-  "usphone": "haʊ oʊld",
-  "ukphone": "haʊ əʊld"
-},
-{
-  "name": "class",
-  "trans": ["班级"],
-  "usphone": "klæs",
-  "ukphone": "klɑːs"
-},
-{
-  "name": "grade",
-  "trans": ["年级"],
-  "usphone": "ɡreɪd",
-  "ukphone": "ɡreɪd"
-},
-{
-  "name": "age",
-  "trans": ["年龄"],
-  "usphone": "eɪdʒ",
-  "ukphone": "eɪdʒ"
-},
-{
-  "name": "dear",
-  "trans": ["亲爱的（用于书信中，表示客气）"],
-  "usphone": "dɪr",
-  "ukphone": "dɪər"
-},
-{
-  "name": "body",
-  "trans": ["身体"],
-  "usphone": "ˈbɑːdi",
-  "ukphone": "ˈbɒdi"
-},
-{
-  "name": "head",
-  "trans": ["头"],
-  "usphone": "hɛd",
-  "ukphone": "hɛd"
-},
-{
-  "name": "hair",
-  "trans": ["头发"],
-  "usphone": "hɛr",
-  "ukphone": "hɛər"
-},
-{
-  "name": "arm",
-  "trans": ["胳膊"],
-  "usphone": "ɑːrm",
-  "ukphone": "ɑːrm"
-},
-{
-  "name": "hand",
-  "trans": ["手"],
-  "usphone": "hænd",
-  "ukphone": "hænd"
-},
-{
-  "name": "leg",
-  "trans": ["腿"],
-  "usphone": "lɛɡ",
-  "ukphone": "lɛɡ"
-},
-{
-  "name": "foot (feet)",
-  "trans": ["脚"],
-  "usphone": "fʊt (fiːt)",
-  "ukphone": "fʊt (fiːt)"
-},
-{
-  "name": "the matter",
-  "trans": ["麻烦事", "困难", "毛病"],
-  "usphone": "ðə ˈmætər",
-  "ukphone": "ðə ˈmætər"
-},
-{
-  "name": "hurt",
-  "trans": ["疼痛", "弄疼"],
-  "usphone": "hɜrt",
-  "ukphone": "hɜːrt"
-},
-{
-  "name": "help",
-  "trans": ["帮助"],
-  "usphone": "hɛlp",
-  "ukphone": "hɛlp"
-},
-{
-  "name": "bad",
-  "trans": ["坏的", "糟糕"],
-  "usphone": "bæd",
-  "ukphone": "bæd"
-},
-{
-  "name": "bite",
-  "trans": ["咬"],
-  "usphone": "baɪt",
-  "ukphone": "baɪt"
-},
-{
-  "name": "tongue",
-  "trans": ["舌头"],
-  "usphone": "tʌŋ",
-  "ukphone": "tʌŋ"
-},
-{
-  "name": "kick",
-  "trans": ["踢"],
-  "usphone": "kɪk",
-  "ukphone": "kɪk"
-},
-{
-  "name": "morning",
-  "trans": ["早晨"],
-  "usphone": "ˈmɔrnɪŋ",
-  "ukphone": "ˈmɔːrnɪŋ"
-},
-{
-  "name": "afternoon",
-  "trans": ["下午"],
-  "usphone": "ˌæftərˈnuːn",
-  "ukphone": "ˌɑːftəˈnuːn"
-},
-{
-  "name": "summary",
-  "trans": ["总结", "摘要"],
-  "usphone": "ˈsʌməri",
-  "ukphone": "ˈsʌməri"
-},
-{
-  "name": "face",
-  "trans": ["脸"],
-  "usphone": "feɪs",
-  "ukphone": "feɪs"
-},
-{
-  "name": "eye",
-  "trans": ["眼睛"],
-  "usphone": "aɪ",
-  "ukphone": "aɪ"
-},
-{
-  "name": "nose",
-  "trans": ["鼻子"],
-  "usphone": "noʊz",
-  "ukphone": "nəʊz"
-},
-{
-  "name": "mouth",
-  "trans": ["嘴巴"],
-  "usphone": "maʊθ",
-  "ukphone": "maʊθ"
-},
-{
-  "name": "ear",
-  "trans": ["耳朵"],
-  "usphone": "ɪr",
-  "ukphone": "ɪər"
-},
-{
-  "name": "bread",
-  "trans": ["面包"],
-  "usphone": "brɛd",
-  "ukphone": "brɛd"
-},
-{
-  "name": "cake",
-  "trans": ["蛋糕"],
-  "usphone": "keɪk",
-  "ukphone": "keɪk"
-},
-{
-  "name": "fruit",
-  "trans": ["水果"],
-  "usphone": "frut",
-  "ukphone": "fruːt"
-},
-{
-  "name": "ice cream",
-  "trans": ["冰淇淋"],
-  "usphone": "aɪs krim",
-  "ukphone": "aɪs kriːm"
-},
-{
-  "name": "potato",
-  "trans": ["土豆"],
-  "usphone": "pəˈteɪtoʊ",
-  "ukphone": "pəˈteɪtəʊ"
-},
-{
-  "name": "tomato",
-  "trans": ["西红柿"],
-  "usphone": "təˈmeɪtoʊ",
-  "ukphone": "təˈmeɪtəʊ"
-},
-{
-  "name": "meat",
-  "trans": ["肉"],
-  "usphone": "mit",
-  "ukphone": "miːt"
-},
-{
-  "name": "for",
-  "trans": ["当作", "作为"],
-  "usphone": "fɔr",
-  "ukphone": "fɔːr"
-},
-{
-  "name": "shopping list",
-  "trans": ["购物单"],
-  "usphone": "ˈʃɑpɪŋ lɪst",
-  "ukphone": "ˈʃɒpɪŋ lɪst"
-},
-{
-  "name": "cola",
-  "trans": ["可乐"],
-  "usphone": "ˈkoʊlə",
-  "ukphone": "ˈkoʊlə"
-},
-{
-  "name": "buy",
-  "trans": ["买"],
-  "usphone": "baɪ",
-  "ukphone": "baɪ"
-},
-{
-  "name": "rice",
-  "trans": ["米饭", "米"],
-  "usphone": "raɪs",
-  "ukphone": "raɪs"
-},
-{
-  "name": "noodles",
-  "trans": ["面条"],
-  "usphone": "ˈnuːdəlz",
-  "ukphone": "ˈnuːdlz"
-},
-{
-  "name": "vegetables",
-  "trans": ["蔬菜"],
-  "usphone": "ˈvɛdʒtəbəlz",
-  "ukphone": "ˈvɛdʒtəbəlz"
-},
-{
-  "name": "fish",
-  "trans": ["鱼肉"],
-  "usphone": "fɪʃ",
-  "ukphone": "fɪʃ"
-},
-{
-  "name": "chicken",
-  "trans": ["鸡肉"],
-  "usphone": "ˈtʃɪkɪn",
-  "ukphone": "ˈtʃɪkɪn"
-},
-{
-  "name": "egg",
-  "trans": ["鸡蛋"],
-  "usphone": "ɛɡ",
-  "ukphone": "ɛɡ"
-},
-{
-  "name": "duck",
-  "trans": ["鸭子"],
-  "usphone": "dʌk",
-  "ukphone": "dʌk"
-},
-{
-  "name": "chicken",
-  "trans": ["小鸡"],
-  "usphone": "ˈtʃɪkɪn",
-  "ukphone": "ˈtʃɪkɪn"
-},
-{
-  "name": "rabbit",
-  "trans": ["兔子"],
-  "usphone": "ˈræbɪt",
-  "ukphone": "ˈræbɪt"
-},
-{
-  "name": "pet",
-  "trans": ["宠物"],
-  "usphone": "pɛt",
-  "ukphone": "pɛt"
-},
-{
-  "name": "snake",
-  "trans": ["蛇"],
-  "usphone": "sneɪk",
-  "ukphone": "sneɪk"
-},
-{
-  "name": "turtle",
-  "trans": ["海龟"],
-  "usphone": "ˈtɜːrtl",
-  "ukphone": "ˈtɜːrtl"
-},
-{
-  "name": "small",
-  "trans": ["小的"],
-  "usphone": "smɔːl",
-  "ukphone": "smɔːl"
-},
-{
-  "name": "long",
-  "trans": ["长的"],
-  "usphone": "lɔːŋ",
-  "ukphone": "lɒŋ"
-},
-{
-  "name": "look for",
-  "trans": ["寻找"],
-  "usphone": "lʊk fɔr",
-  "ukphone": "lʊk fɔːr"
-},
-{
-  "name": "tail",
-  "trans": ["尾巴"],
-  "usphone": "teɪl",
-  "ukphone": "teɪl"
-},
-{
-  "name": "dance",
-  "trans": ["跳舞"],
-  "usphone": "dæns",
-  "ukphone": "dɑːns"
-},
-{
-  "name": "cat",
-  "trans": ["猫"],
-  "usphone": "kæt",
-  "ukphone": "kæt"
-},
-{
-  "name": "dog",
-  "trans": ["狗"],
-  "usphone": "dɔːɡ",
-  "ukphone": "dɒɡ"
-},
-{
-  "name": "bird",
-  "trans": ["鸟"],
-  "usphone": "bɜːrd",
-  "ukphone": "bɜːrd"
-},
-{
-  "name": "fish",
-  "trans": ["鱼"],
-  "usphone": "fɪʃ",
-  "ukphone": "fɪʃ"
-},
-{
-  "name": "monkey",
-  "trans": ["猴子"],
-  "usphone": "ˈmʌŋki",
-  "ukphone": "ˈmʌŋki"
-},
-{
-  "name": "tiger",
-  "trans": ["老虎"],
-  "usphone": "ˈtaɪɡər",
-  "ukphone": "ˈtaɪɡər"
-},
-{
-  "name": "big",
-  "trans": ["大", "大的"],
-  "usphone": "bɪɡ",
-  "ukphone": "bɪɡ"
-},
-{
-  "name": "short",
-  "trans": ["短", "短的"],
-  "usphone": "ʃɔːrt",
-  "ukphone": "ʃɔːrt"
-},
-{
-  "name": "cap",
-  "trans": ["帽子"],
-  "usphone": "kæp",
-  "ukphone": "kæp"
-},
-{
-  "name": "coat",
-  "trans": ["大衣"],
-  "usphone": "koʊt",
-  "ukphone": "kəʊt"
-},
-{
-  "name": "shoes",
-  "trans": ["鞋"],
-  "usphone": "ʃuz",
-  "ukphone": "ʃuz"
-},
-{
-  "name": "sweater",
-  "trans": ["毛衣"],
-  "usphone": "ˈswɛtər",
-  "ukphone": "ˈswɛtər"
-},
-{
-  "name": "jacket",
-  "trans": ["夹克衫"],
-  "usphone": "ˈdʒækɪt",
-  "ukphone": "ˈdʒækɪt"
-},
-{
-  "name": "gloves",
-  "trans": ["手套"],
-  "usphone": "ɡlʌvz",
-  "ukphone": "ɡlʌvz"
-},
-{
-  "name": "trousers",
-  "trans": ["裤子"],
-  "usphone": "ˈtraʊzərz",
-  "ukphone": "ˈtraʊzərz"
-},
-{
-  "name": "should",
-  "trans": ["应该"],
-  "usphone": "ʃʊd",
-  "ukphone": "ʃʊd"
-},
-{
-  "name": "wear",
-  "trans": ["穿"],
-  "usphone": "wɛr",
-  "ukphone": "wɛər"
-},
-{
-  "name": "week",
-  "trans": ["星期"],
-  "usphone": "wik",
-  "ukphone": "wiːk"
-},
-{
-  "name": "soon",
-  "trans": ["不久", "很快"],
-  "usphone": "sun",
-  "ukphone": "suːn"
-},
-{
-  "name": "look forward to",
-  "trans": ["盼望", "期待"],
-  "usphone": "lʊk ˈfɔr.wərd tuː",
-  "ukphone": "lʊk ˈfɔːwəd tuː"
-},
-{
-  "name": "T-shirt",
-  "trans": ["T恤衫", "短袖圆领汗衫"],
-  "usphone": "ˈtiːˌʃɜrt",
-  "ukphone": "ˈtiːˌʃɜːt"
-},
-{
-  "name": "shorts",
-  "trans": ["短裤"],
-  "usphone": "ʃɔrts",
-  "ukphone": "ʃɔːtz"
-},
-{
-  "name": "socks",
-  "trans": ["短袜"],
-  "usphone": "sɑks",
-  "ukphone": "sɒks"
-},
-{
-  "name": "skirt",
-  "trans": ["裙子"],
-  "usphone": "skɜrt",
-  "ukphone": "skɜːrt"
-},
-{
-  "name": "dress",
-  "trans": ["连衣裙", "套裙"],
-  "usphone": "drɛs",
-  "ukphone": "drɛs"
-},
-{
-  "name": "shirt",
-  "trans": ["衬衫"],
-  "usphone": "ʃɜrt",
-  "ukphone": "ʃɜːt"
-},
-{
-  "name": "January",
-  "trans": ["一月"],
-  "usphone": "ˈdʒæn(j)uˌɛri",
-  "ukphone": "ˈdʒan.jʊˌɛri"
-},
-{
-  "name": "February",
-  "trans": ["二月"],
-  "usphone": "ˈfɛb(j)uˌɛri",
-  "ukphone": "ˈfɛbruːˌɛri"
-},
-{
-  "name": "March",
-  "trans": ["三月"],
-  "usphone": "mɑrtʃ",
-  "ukphone": "mɑːrtʃ"
-},
-{
-  "name": "April",
-  "trans": ["四月"],
-  "usphone": "ˈeɪprəl",
-  "ukphone": "ˈeɪprəl"
-},
-{
-  "name": "May",
-  "trans": ["五月"],
-  "usphone": "meɪ",
-  "ukphone": "meɪ"
-},
-{
-  "name": "June",
-  "trans": ["六月"],
-  "usphone": "dʒun",
-  "ukphone": "dʒuːn"
-},
-{
-  "name": "July",
-  "trans": ["七月"],
-  "usphone": "dʒʊˈlaɪ",
-  "ukphone": "dʒʊˈlaɪ"
-},
-{
-  "name": "August",
-  "trans": ["八月"],
-  "usphone": "ɔːˈɡʌst",
-  "ukphone": "ɔːˈɡʌst"
-},
-{
-  "name": "September",
-  "trans": ["九月"],
-  "usphone": "sɛpˈtɛmbər",
-  "ukphone": "sɛpˈtɛmbər"
-},
-{
-  "name": "October",
-  "trans": ["十月"],
-  "usphone": "ɑkˈtoʊbər",
-  "ukphone": "ɒkˈtoʊbər"
-},
-{
-  "name": "November",
-  "trans": ["十一月"],
-  "usphone": "noʊˈvɛmbər",
-  "ukphone": "noʊˈvɛmbər"
-},
-{
-  "name": "December",
-  "trans": ["十二月"],
-  "usphone": "dɪˈsɛmbər",
-  "ukphone": "dɪˈsɛmbər"
-},
-{
-  "name": "birthday",
-  "trans": ["生日"],
-  "usphone": "ˈbɜrθˌdeɪ",
-  "ukphone": "ˈbɜːθˌdeɪ"
-},
-{
-  "name": "first",
-  "trans": ["第一"],
-  "usphone": "fɜrst",
-  "ukphone": "fɜːst"
-},
-{
-  "name": "party",
-  "trans": ["聚会"],
-  "usphone": "ˈpɑr.t̬i",
-  "ukphone": "ˈpɑː.ti"
-},
-{
-  "name": "delicious",
-  "trans": ["美味的"],
-  "usphone": "dɪˈlɪʃəs",
-  "ukphone": "dɪˈlɪʃəs"
-}
+  {
+    "name": "my",
+    "trans": [
+      "det. belonging to or associated with the speaker"
+    ],
+    "usphone": "maɪ",
+    "ukphone": "maɪ"
+  },
+  {
+    "name": "your",
+    "trans": [
+      "det. belonging to or associated with the person or people being addressed"
+    ],
+    "usphone": "jʊr",
+    "ukphone": "jɔː"
+  },
+  {
+    "name": "name",
+    "trans": [
+      "n. a language unit by which a person or thing is known; a person's reputation",
+      "v. assign a specified (usually proper) proper name to"
+    ],
+    "usphone": "neɪm",
+    "ukphone": "neɪm"
+  },
+  {
+    "name": "new",
+    "trans": [
+      "adj. not of long duration; having just (or relatively recently) come into being or been made or acquired or discovered; original and of a kind not seen before",
+      "adv. very recently"
+    ],
+    "usphone": "nuː",
+    "ukphone": "njuː"
+  },
+  {
+    "name": "year",
+    "trans": [
+      "n. a period of time containing 365 (or 366) days; a period of time occupying a regular part of a calendar year that is used for some particular activity"
+    ],
+    "usphone": "jɪr",
+    "ukphone": "jɪər"
+  },
+  {
+    "name": "old",
+    "trans": [
+      "adj. (used especially of persons) having lived for a relatively long time or attained a specific age; of long duration; not new"
+    ],
+    "usphone": "oʊld",
+    "ukphone": "əʊld"
+  },
+  {
+    "name": "how old",
+    "trans": [
+      "phr. used to ask about someone's age"
+    ],
+    "usphone": "haʊ oʊld",
+    "ukphone": "haʊ əʊld"
+  },
+  {
+    "name": "class",
+    "trans": [
+      "n. a collection of things sharing a common attribute; a body of students who are taught together",
+      "v. arrange or order by classes or categories"
+    ],
+    "usphone": "klæs",
+    "ukphone": "klɑːs"
+  },
+  {
+    "name": "grade",
+    "trans": [
+      "n. a body of students who are taught together; a relative position or degree of value in a graded group",
+      "v. assign a rank or rating to"
+    ],
+    "usphone": "ɡreɪd",
+    "ukphone": "ɡreɪd"
+  },
+  {
+    "name": "age",
+    "trans": [
+      "n. how long something has existed; an era of history having some distinctive feature",
+      "v. begin to seem older; get older; grow old or older"
+    ],
+    "usphone": "eɪdʒ",
+    "ukphone": "eɪdʒ"
+  },
+  {
+    "name": "dear",
+    "trans": [
+      "adj. dearly loved; with or in a close or intimate relationship",
+      "n. a beloved person; used as terms of endearment"
+    ],
+    "usphone": "dɪr",
+    "ukphone": "dɪər"
+  },
+  {
+    "name": "body",
+    "trans": [
+      "n. the entire structure of an organism (an animal, plant, or human being); a group of persons associated by some common tie or occupation and regarded as an entity"
+    ],
+    "usphone": "ˈbɑːdi",
+    "ukphone": "ˈbɒdi"
+  },
+  {
+    "name": "head",
+    "trans": [
+      "n. the upper part of the human body or the front part of the body in animals; contains the face and brains; a single domestic animal",
+      "v. to go or travel towards; be in charge of"
+    ],
+    "usphone": "hɛd",
+    "ukphone": "hɛd"
+  },
+  {
+    "name": "hair",
+    "trans": [
+      "n. a covering for the body (or parts of it) consisting of a dense growth of threadlike structures (as on the human head); helps to prevent heat loss"
+    ],
+    "usphone": "hɛr",
+    "ukphone": "hɛər"
+  },
+  {
+    "name": "arm",
+    "trans": [
+      "n. a human limb; technically the part of the superior limb between the shoulder and the elbow but commonly used to refer to the whole superior limb",
+      "v. prepare oneself for a military confrontation; supply with arms"
+    ],
+    "usphone": "ɑːrm",
+    "ukphone": "ɑːrm"
+  },
+  {
+    "name": "hand",
+    "trans": [
+      "n. the (prehensile) extremity of the superior limb; a hired laborer on a farm or ranch",
+      "v. place into the hands or custody of"
+    ],
+    "usphone": "hænd",
+    "ukphone": "hænd"
+  },
+  {
+    "name": "leg",
+    "trans": [
+      "n. a human limb; commonly used to refer to a whole limb but technically only the part of the limb between the knee and ankle"
+    ],
+    "usphone": "lɛɡ",
+    "ukphone": "lɛɡ"
+  },
+  {
+    "name": "foot (feet)",
+    "trans": [
+      "脚"
+    ],
+    "usphone": "fʊt (fiːt)",
+    "ukphone": "fʊt (fiːt)"
+  },
+  {
+    "name": "the matter",
+    "trans": [
+      "麻烦事",
+      "困难",
+      "毛病"
+    ],
+    "usphone": "ðə ˈmætər",
+    "ukphone": "ðə ˈmætər"
+  },
+  {
+    "name": "hurt",
+    "trans": [
+      "v. be the source of pain; give trouble or pain to",
+      "n. any physical damage to the body caused by violence or accident or fracture etc.; psychological suffering",
+      "adj. suffering from physical injury especially that suffered in battle"
+    ],
+    "usphone": "hɜrt",
+    "ukphone": "hɜːrt"
+  },
+  {
+    "name": "help",
+    "trans": [
+      "v. give help or assistance; be of service; improve the condition of",
+      "n. the activity of contributing to the fulfillment of a need or furtherance of an effort or purpose"
+    ],
+    "usphone": "hɛlp",
+    "ukphone": "hɛlp"
+  },
+  {
+    "name": "bad",
+    "trans": [
+      "adj. having undesirable or negative qualities; very intense",
+      "n. that which is below standard or expectations as of ethics or decency",
+      "adv. with great intensity ('bad' is a nonstandard variant for 'badly'); very much; strongly"
+    ],
+    "usphone": "bæd",
+    "ukphone": "bæd"
+  },
+  {
+    "name": "bite",
+    "trans": [
+      "v. to grip, cut off, or tear with or as if with the teeth or jaws; cause a sharp or stinging pain or discomfort",
+      "n. a wound resulting from biting by an animal or a person; a small amount of solid food; a mouthful"
+    ],
+    "usphone": "baɪt",
+    "ukphone": "baɪt"
+  },
+  {
+    "name": "tongue",
+    "trans": [
+      "n. a mobile mass of muscular tissue covered with mucous membrane and located in the oral cavity"
+    ],
+    "usphone": "tʌŋ",
+    "ukphone": "tʌŋ"
+  },
+  {
+    "name": "kick",
+    "trans": [
+      "v. drive or propel with the foot; thrash about or strike out with the feet",
+      "n. the act of delivering a blow with the foot; the swift release of a store of affective force"
+    ],
+    "usphone": "kɪk",
+    "ukphone": "kɪk"
+  },
+  {
+    "name": "morning",
+    "trans": [
+      "n. the time period between dawn and noon; a conventional expression of greeting or farewell"
+    ],
+    "usphone": "ˈmɔrnɪŋ",
+    "ukphone": "ˈmɔːrnɪŋ"
+  },
+  {
+    "name": "afternoon",
+    "trans": [
+      "n. the part of the day between noon and evening; a conventional expression of greeting or farewell"
+    ],
+    "usphone": "ˌæftərˈnuːn",
+    "ukphone": "ˌɑːftəˈnuːn"
+  },
+  {
+    "name": "summary",
+    "trans": [
+      "n. a brief statement that presents the main points in a concise form"
+    ],
+    "usphone": "ˈsʌməri",
+    "ukphone": "ˈsʌməri"
+  },
+  {
+    "name": "face",
+    "trans": [
+      "n. the front of the human head from the forehead to the chin and ear to ear; the feelings expressed on a person's face",
+      "v. deal with (something unpleasant) head on; oppose, as in hostility or a competition"
+    ],
+    "usphone": "feɪs",
+    "ukphone": "feɪs"
+  },
+  {
+    "name": "eye",
+    "trans": [
+      "n. the organ of sight; good discernment (either visually or as if visually)",
+      "v. look at"
+    ],
+    "usphone": "aɪ",
+    "ukphone": "aɪ"
+  },
+  {
+    "name": "nose",
+    "trans": [
+      "n. the organ of smell and entrance to the respiratory tract; the prominent part of the face of man or other mammals",
+      "v. search or inquire in a meddlesome way; advance the forward part of with caution"
+    ],
+    "usphone": "noʊz",
+    "ukphone": "nəʊz"
+  },
+  {
+    "name": "mouth",
+    "trans": [
+      "n. the opening through which food is taken in and vocalizations emerge",
+      "v. express in speech; articulate silently; form words with the lips only"
+    ],
+    "usphone": "maʊθ",
+    "ukphone": "maʊθ"
+  },
+  {
+    "name": "ear",
+    "trans": [
+      "n. the sense organ for hearing and equilibrium; good hearing"
+    ],
+    "usphone": "ɪr",
+    "ukphone": "ɪər"
+  },
+  {
+    "name": "bread",
+    "trans": [
+      "n. food made from dough of flour or meal and usually raised with yeast or baking powder and then baked"
+    ],
+    "usphone": "brɛd",
+    "ukphone": "brɛd"
+  },
+  {
+    "name": "cake",
+    "trans": [
+      "n. a block of solid substance (such as soap or wax)"
+    ],
+    "usphone": "keɪk",
+    "ukphone": "keɪk"
+  },
+  {
+    "name": "fruit",
+    "trans": [
+      "n. the ripened reproductive body of a seed plant; an amount of a product"
+    ],
+    "usphone": "frut",
+    "ukphone": "fruːt"
+  },
+  {
+    "name": "ice cream",
+    "trans": [
+      "n. frozen dessert containing cream and sugar and flavoring"
+    ],
+    "usphone": "aɪs krim",
+    "ukphone": "aɪs kriːm"
+  },
+  {
+    "name": "potato",
+    "trans": [
+      "n. an edible tuber native to South America; a staple food of Ireland"
+    ],
+    "usphone": "pəˈteɪtoʊ",
+    "ukphone": "pəˈteɪtəʊ"
+  },
+  {
+    "name": "tomato",
+    "trans": [
+      "n. mildly acid red or yellow pulpy fruit eaten as a vegetable"
+    ],
+    "usphone": "təˈmeɪtoʊ",
+    "ukphone": "təˈmeɪtəʊ"
+  },
+  {
+    "name": "meat",
+    "trans": [
+      "n. the flesh of animals (including fishes and birds and snails) used as food"
+    ],
+    "usphone": "mit",
+    "ukphone": "miːt"
+  },
+  {
+    "name": "for",
+    "trans": [
+      "prep. intended to belong to or be used by",
+      "prep. in order to help or benefit",
+      "prep. during (a period of time); in place of"
+    ],
+    "usphone": "fɔr",
+    "ukphone": "fɔːr"
+  },
+  {
+    "name": "shopping list",
+    "trans": [
+      "n. a list of items to be purchased"
+    ],
+    "usphone": "ˈʃɑpɪŋ lɪst",
+    "ukphone": "ˈʃɒpɪŋ lɪst"
+  },
+  {
+    "name": "cola",
+    "trans": [
+      "n. large genus of African trees bearing kola nuts"
+    ],
+    "usphone": "ˈkoʊlə",
+    "ukphone": "ˈkoʊlə"
+  },
+  {
+    "name": "buy",
+    "trans": [
+      "v. obtain by purchase; acquire by means of a financial transaction; make illegal payments to in exchange for favors or influence"
+    ],
+    "usphone": "baɪ",
+    "ukphone": "baɪ"
+  },
+  {
+    "name": "rice",
+    "trans": [
+      "n. grains used as food either unpolished or more often polished; annual or perennial rhizomatous marsh grasses; seed used for food; straw used for paper"
+    ],
+    "usphone": "raɪs",
+    "ukphone": "raɪs"
+  },
+  {
+    "name": "noodles",
+    "trans": [
+      "n. a ribbonlike strip of pasta"
+    ],
+    "usphone": "ˈnuːdəlz",
+    "ukphone": "ˈnuːdlz"
+  },
+  {
+    "name": "vegetables",
+    "trans": [
+      "n. edible seeds or roots or stems or leaves or bulbs or tubers or nonsweet fruits of any of numerous herbaceous plant"
+    ],
+    "usphone": "ˈvɛdʒtəbəlz",
+    "ukphone": "ˈvɛdʒtəbəlz"
+  },
+  {
+    "name": "fish",
+    "trans": [
+      "n. any of various mostly cold-blooded aquatic vertebrates usually having scales and breathing through gills; the flesh of fish used as food",
+      "v. seek indirectly; catch or try to catch fish or shellfish"
+    ],
+    "usphone": "fɪʃ",
+    "ukphone": "fɪʃ"
+  },
+  {
+    "name": "chicken",
+    "trans": [
+      "n. the flesh of a chicken used for food; a domestic fowl bred for flesh or eggs; believed to have been developed from the red jungle fowl"
+    ],
+    "usphone": "ˈtʃɪkɪn",
+    "ukphone": "ˈtʃɪkɪn"
+  },
+  {
+    "name": "egg",
+    "trans": [
+      "n. animal reproductive body consisting of an ovum or embryo together with nutritive and protective envelopes…"
+    ],
+    "usphone": "ɛɡ",
+    "ukphone": "ɛɡ"
+  },
+  {
+    "name": "duck",
+    "trans": [
+      "v. to move (the head or body) quickly downwards or away; submerge or plunge suddenly",
+      "n. small wild or domesticated web-footed broad-billed swimming bird usually having a depressed body and short legs"
+    ],
+    "usphone": "dʌk",
+    "ukphone": "dʌk"
+  },
+  {
+    "name": "chicken",
+    "trans": [
+      "n. the flesh of a chicken used for food; a domestic fowl bred for flesh or eggs; believed to have been developed from the red jungle fowl"
+    ],
+    "usphone": "ˈtʃɪkɪn",
+    "ukphone": "ˈtʃɪkɪn"
+  },
+  {
+    "name": "rabbit",
+    "trans": [
+      "n. any of various burrowing animals of the family Leporidae having long ears and short tails; some domesticated and raised for pets or food"
+    ],
+    "usphone": "ˈræbɪt",
+    "ukphone": "ˈræbɪt"
+  },
+  {
+    "name": "pet",
+    "trans": [
+      "n. a domesticated animal kept for companionship or amusement",
+      "v. stroke or caress gently"
+    ],
+    "usphone": "pɛt",
+    "ukphone": "pɛt"
+  },
+  {
+    "name": "snake",
+    "trans": [
+      "n. limbless scaly elongate reptile; some are venomous",
+      "v. move smoothly and sinuously, like a snake"
+    ],
+    "usphone": "sneɪk",
+    "ukphone": "sneɪk"
+  },
+  {
+    "name": "turtle",
+    "trans": [
+      "n. a sweater or jersey with a high close-fitting collar",
+      "v. overturn accidentally"
+    ],
+    "usphone": "ˈtɜːrtl",
+    "ukphone": "ˈtɜːrtl"
+  },
+  {
+    "name": "small",
+    "trans": [
+      "adj. limited or below average in number or quantity or magnitude or extent; limited in size or scope",
+      "n. the slender part of the back"
+    ],
+    "usphone": "smɔːl",
+    "ukphone": "smɔːl"
+  },
+  {
+    "name": "long",
+    "trans": [
+      "adj. primarily temporal sense; being or indicating a relatively great or greater than average duration or passage of time or a duration as specified",
+      "adv. for an extended time or at a distant time",
+      "v. desire strongly or persistently"
+    ],
+    "usphone": "lɔːŋ",
+    "ukphone": "lɒŋ"
+  },
+  {
+    "name": "look for",
+    "trans": [
+      "v. try to locate or discover, or try to establish the existence of; be excited or anxious about"
+    ],
+    "usphone": "lʊk fɔr",
+    "ukphone": "lʊk fɔːr"
+  },
+  {
+    "name": "tail",
+    "trans": [
+      "n. the posterior part of the body of a vertebrate especially when elongated and extending beyond the trunk or main part of the body"
+    ],
+    "usphone": "teɪl",
+    "ukphone": "teɪl"
+  },
+  {
+    "name": "dance",
+    "trans": [
+      "v. move in a graceful and rhythmical way; move in a pattern; usually to musical accompaniment; do or perform a dance",
+      "n. an artistic form of nonverbal communication; a party of people assembled for dancing"
+    ],
+    "usphone": "dæns",
+    "ukphone": "dɑːns"
+  },
+  {
+    "name": "cat",
+    "trans": [
+      "n. feline mammal usually having thick soft fur and no ability to roar: domestic cats; wildcats"
+    ],
+    "usphone": "kæt",
+    "ukphone": "kæt"
+  },
+  {
+    "name": "dog",
+    "trans": [
+      "n. a member of the genus Canis (probably descended from the common wolf) that has been domesticated by man since prehistoric times; occurs in many breeds",
+      "v. go after with the intent to catch"
+    ],
+    "usphone": "dɔːɡ",
+    "ukphone": "dɒɡ"
+  },
+  {
+    "name": "bird",
+    "trans": [
+      "n. warm-blooded egg-laying vertebrates characterized by feathers and forelimbs modified as wings; the flesh of a bird or fowl (wild or domestic) used as food"
+    ],
+    "usphone": "bɜːrd",
+    "ukphone": "bɜːrd"
+  },
+  {
+    "name": "fish",
+    "trans": [
+      "n. any of various mostly cold-blooded aquatic vertebrates usually having scales and breathing through gills; the flesh of fish used as food",
+      "v. seek indirectly; catch or try to catch fish or shellfish"
+    ],
+    "usphone": "fɪʃ",
+    "ukphone": "fɪʃ"
+  },
+  {
+    "name": "monkey",
+    "trans": [
+      "n. any of various long-tailed primates (excluding the prosimians)"
+    ],
+    "usphone": "ˈmʌŋki",
+    "ukphone": "ˈmʌŋki"
+  },
+  {
+    "name": "tiger",
+    "trans": [
+      "n. a fierce or audacious person; large feline of forests in most of Asia having a tawny coat with black stripes; endangered"
+    ],
+    "usphone": "ˈtaɪɡər",
+    "ukphone": "ˈtaɪɡər"
+  },
+  {
+    "name": "big",
+    "trans": [
+      "adj. above average in size or number or quantity or magnitude or extent; significant",
+      "adv. extremely well; in a boastful manner"
+    ],
+    "usphone": "bɪɡ",
+    "ukphone": "bɪɡ"
+  },
+  {
+    "name": "short",
+    "trans": [
+      "adj. primarily temporal sense; indicating or being or seeming to be limited in duration; (primarily spatial sense) having little length or lacking in length",
+      "n. the location on a baseball field where the shortstop is stationed",
+      "adv. quickly and without warning"
+    ],
+    "usphone": "ʃɔːrt",
+    "ukphone": "ʃɔːrt"
+  },
+  {
+    "name": "cap",
+    "trans": [
+      "n. a tight-fitting headdress; a top (as for a bottle)",
+      "v. lie at the top of"
+    ],
+    "usphone": "kæp",
+    "ukphone": "kæp"
+  },
+  {
+    "name": "coat",
+    "trans": [
+      "n. an outer garment that has sleeves and covers the body from shoulder down; worn outdoors; a thin layer covering something",
+      "v. put a coat on; cover the surface of; furnish with a surface; cover or provide with a coat"
+    ],
+    "usphone": "koʊt",
+    "ukphone": "kəʊt"
+  },
+  {
+    "name": "shoes",
+    "trans": [
+      "n. a particular situation"
+    ],
+    "usphone": "ʃuz",
+    "ukphone": "ʃuz"
+  },
+  {
+    "name": "sweater",
+    "trans": [
+      "n. a crocheted or knitted garment covering the upper part of the body"
+    ],
+    "usphone": "ˈswɛtər",
+    "ukphone": "ˈswɛtər"
+  },
+  {
+    "name": "jacket",
+    "trans": [
+      "n. a short coat; an outer wrapping or casing",
+      "v. provide with a thermally non-conducting cover"
+    ],
+    "usphone": "ˈdʒækɪt",
+    "ukphone": "ˈdʒækɪt"
+  },
+  {
+    "name": "gloves",
+    "trans": [
+      "n. the handwear used by fielders in playing baseball"
+    ],
+    "usphone": "ɡlʌvz",
+    "ukphone": "ɡlʌvz"
+  },
+  {
+    "name": "trousers",
+    "trans": [
+      "n. (usually in the plural) a garment extending from the waist to the knee or ankle, covering each leg separately"
+    ],
+    "usphone": "ˈtraʊzərz",
+    "ukphone": "ˈtraʊzərz"
+  },
+  {
+    "name": "should",
+    "trans": [
+      "aux. used to indicate obligation, duty or correctness",
+      "aux. used to indicate what is probable"
+    ],
+    "usphone": "ʃʊd",
+    "ukphone": "ʃʊd"
+  },
+  {
+    "name": "wear",
+    "trans": [
+      "v. be dressed in; have on one's person"
+    ],
+    "usphone": "wɛr",
+    "ukphone": "wɛər"
+  },
+  {
+    "name": "week",
+    "trans": [
+      "n. any period of seven consecutive days; hours or days of work in a calendar week"
+    ],
+    "usphone": "wik",
+    "ukphone": "wiːk"
+  },
+  {
+    "name": "soon",
+    "trans": [
+      "adv. in the near future"
+    ],
+    "usphone": "sun",
+    "ukphone": "suːn"
+  },
+  {
+    "name": "look forward to",
+    "trans": [
+      "phr. to feel pleased and excited about something that is going to happen"
+    ],
+    "usphone": "lʊk ˈfɔr.wərd tuː",
+    "ukphone": "lʊk ˈfɔːwəd tuː"
+  },
+  {
+    "name": "T-shirt",
+    "trans": [
+      "n. a close-fitting pullover shirt"
+    ],
+    "usphone": "ˈtiːˌʃɜrt",
+    "ukphone": "ˈtiːˌʃɜːt"
+  },
+  {
+    "name": "shorts",
+    "trans": [
+      "n. trousers that end at or above the knee"
+    ],
+    "usphone": "ʃɔrts",
+    "ukphone": "ʃɔːtz"
+  },
+  {
+    "name": "socks",
+    "trans": [
+      "n. hosiery consisting of a cloth covering for the foot; worn inside the shoe; reaches to between the ankle and the knee",
+      "v. hit hard"
+    ],
+    "usphone": "sɑks",
+    "ukphone": "sɒks"
+  },
+  {
+    "name": "skirt",
+    "trans": [
+      "n. cloth covering that forms the part of a garment below the waist; a garment hanging from the waist; worn mainly by girls and women",
+      "v. avoid or try to avoid fulfilling, answering, or performing (duties, questions, or issues); pass around or about; move along the border"
+    ],
+    "usphone": "skɜrt",
+    "ukphone": "skɜːrt"
+  },
+  {
+    "name": "dress",
+    "trans": [
+      "v. put on clothes; provide with clothes or put clothes on",
+      "n. a one-piece garment for a woman; has skirt and bodice; clothing of a distinctive style or for a particular occasion"
+    ],
+    "usphone": "drɛs",
+    "ukphone": "drɛs"
+  },
+  {
+    "name": "shirt",
+    "trans": [
+      "n. a garment worn on the upper half of the body",
+      "v. put a shirt on"
+    ],
+    "usphone": "ʃɜrt",
+    "ukphone": "ʃɜːt"
+  },
+  {
+    "name": "January",
+    "trans": [
+      "n. the first month of the year; begins 10 days after the winter solstice"
+    ],
+    "usphone": "ˈdʒæn(j)uˌɛri",
+    "ukphone": "ˈdʒan.jʊˌɛri"
+  },
+  {
+    "name": "February",
+    "trans": [
+      "n. the month following January and preceding March"
+    ],
+    "usphone": "ˈfɛb(j)uˌɛri",
+    "ukphone": "ˈfɛbruːˌɛri"
+  },
+  {
+    "name": "March",
+    "trans": [
+      "v. march in a procession; force to march",
+      "n. the month following February and preceding April; the act of marching; walking with regular steps (especially in a procession of some kind)"
+    ],
+    "usphone": "mɑrtʃ",
+    "ukphone": "mɑːrtʃ"
+  },
+  {
+    "name": "April",
+    "trans": [
+      "n. the month following March and preceding May"
+    ],
+    "usphone": "ˈeɪprəl",
+    "ukphone": "ˈeɪprəl"
+  },
+  {
+    "name": "May",
+    "trans": [
+      "aux. expressing possibility or permission",
+      "n. the fifth month of the year (May)"
+    ],
+    "usphone": "meɪ",
+    "ukphone": "meɪ"
+  },
+  {
+    "name": "June",
+    "trans": [
+      "n. the month following May and preceding July"
+    ],
+    "usphone": "dʒun",
+    "ukphone": "dʒuːn"
+  },
+  {
+    "name": "July",
+    "trans": [
+      "n. the month following June and preceding August"
+    ],
+    "usphone": "dʒʊˈlaɪ",
+    "ukphone": "dʒʊˈlaɪ"
+  },
+  {
+    "name": "August",
+    "trans": [
+      "n. the month following July and preceding September"
+    ],
+    "usphone": "ɔːˈɡʌst",
+    "ukphone": "ɔːˈɡʌst"
+  },
+  {
+    "name": "September",
+    "trans": [
+      "n. the month following August and preceding October"
+    ],
+    "usphone": "sɛpˈtɛmbər",
+    "ukphone": "sɛpˈtɛmbər"
+  },
+  {
+    "name": "October",
+    "trans": [
+      "n. the month following September and preceding November"
+    ],
+    "usphone": "ɑkˈtoʊbər",
+    "ukphone": "ɒkˈtoʊbər"
+  },
+  {
+    "name": "November",
+    "trans": [
+      "n. the month following October and preceding December"
+    ],
+    "usphone": "noʊˈvɛmbər",
+    "ukphone": "noʊˈvɛmbər"
+  },
+  {
+    "name": "December",
+    "trans": [
+      "n. the last (12th) month of the year"
+    ],
+    "usphone": "dɪˈsɛmbər",
+    "ukphone": "dɪˈsɛmbər"
+  },
+  {
+    "name": "birthday",
+    "trans": [
+      "n. an anniversary of the day on which a person was born (or the celebration of it); the date on which a person was born"
+    ],
+    "usphone": "ˈbɜrθˌdeɪ",
+    "ukphone": "ˈbɜːθˌdeɪ"
+  },
+  {
+    "name": "first",
+    "trans": [
+      "adj. preceding all others in time or space or degree; indicating the beginning unit in a series",
+      "adv. before anything else; the initial time",
+      "n. the first or highest in an ordering or series; the first element in a countable series"
+    ],
+    "usphone": "fɜrst",
+    "ukphone": "fɜːst"
+  },
+  {
+    "name": "party",
+    "trans": [
+      "n. an organization to gain political power; a group of people gathered together for pleasure"
+    ],
+    "usphone": "ˈpɑr.t̬i",
+    "ukphone": "ˈpɑː.ti"
+  },
+  {
+    "name": "delicious",
+    "trans": [
+      "adj. greatly pleasing or entertaining"
+    ],
+    "usphone": "dɪˈlɪʃəs",
+    "ukphone": "dɪˈlɪʃəs"
+  }
 ]

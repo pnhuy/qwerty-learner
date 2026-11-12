@@ -2,79 +2,86 @@
     {
         "name": "if",
         "trans": [
-            "如果"
+            "conj. on the condition that; in the event that",
+            "conj. whether"
         ]
     },
     {
         "name": "else",
         "trans": [
-            "否则"
+            "adv. in addition; besides; different"
         ]
     },
     {
         "name": "while",
         "trans": [
-            "while 型循环"
+            "conj. during the time that; whereas",
+            "n. a period of time"
         ]
     },
     {
         "name": "for",
-        "trans":[
-            "for 型循环"
+        "trans": [
+            "prep. intended to belong to or be used by",
+            "prep. in order to help or benefit",
+            "prep. during (a period of time); in place of"
         ]
     },
     {
         "name": "and",
         "trans": [
-            "逻辑与运算符"
+            "conj. used to connect words, phrases or clauses; in addition to"
         ]
     },
     {
         "name": "or",
         "trans": [
-            "逻辑或运算符"
+            "conj. used to link alternatives"
         ]
     },
     {
         "name": "not",
         "trans": [
-            "逻辑非运算符"
+            "adv. used to make a word, phrase or sentence negative"
         ]
     },
     {
         "name": "TRUE",
         "trans": [
-            "真"
+            "adj. consistent with fact or reality; not false; accurately placed or thrown",
+            "adv. as acknowledged"
         ]
     },
     {
         "name": "FALSE",
         "trans": [
-            "假"
+            "adj. not in accordance with the fact or reality or actuality; arising from error"
         ]
     },
     {
         "name": "None",
         "trans": [
-            "空值"
+            "adv. not at all or in no way"
         ]
     },
     {
         "name": "continue",
         "trans": [
-            "跳出本次循环，继续下一轮循环"
+            "v. continue a certain state, condition, or activity; continue talking; he continued,"
         ]
     },
     {
         "name": "break",
         "trans": [
-            "跳出整个循环"
+            "v. terminate; become separated into pieces or fragments",
+            "n. some abrupt occurrence that interrupts an ongoing activity; an unexpected piece of good luck"
         ]
     },
     {
         "name": "pass",
         "trans": [
-            "空语句，不做任何事情"
+            "v. go across or through; move past",
+            "n. (baseball) an advance to first base by a batter who receives four balls; (military) a written leave of absence"
         ]
     },
     {
@@ -86,31 +93,34 @@
     {
         "name": "return",
         "trans": [
-            "返回语句，退出def语句块"
+            "v. go or come back to place, condition, or activity where one has been before; give back",
+            "n. document giving the tax collector information about the taxpayer's tax liability; a coming to or returning home"
         ]
     },
     {
         "name": "global",
         "trans": [
-            "声明全局变量"
+            "adj. involving the entire earth; not limited or provincial in scope"
         ]
     },
     {
         "name": "class",
         "trans": [
-            "定义一个类"
+            "n. a collection of things sharing a common attribute; a body of students who are taught together",
+            "v. arrange or order by classes or categories"
         ]
     },
     {
         "name": "import",
         "trans": [
-            "导入模块"
+            "n. commodities (goods or services) bought from a foreign country; an imported person brought from a foreign country",
+            "v. bring in from abroad"
         ]
     },
     {
         "name": "from",
         "trans": [
-            "与import配合导入模块"
+            "prep. indicating the starting point, source or origin"
         ]
     }
 ]

@@ -2,7 +2,8 @@
   {
     "name": "cause",
     "trans": [
-      "n. 原因；事业；目标 vt. 引起；使遭受"
+      "n. events that provide the generative force that is the origin of something; a justification for something existing or happening",
+      "v. give rise to; cause to happen or occur, not always intentionally; cause to do; cause to act in a specified manner"
     ],
     "usphone": "kɔːz",
     "ukphone": "kɔːz"
@@ -10,7 +11,7 @@
   {
     "name": "colony",
     "trans": [
-      "n. 殖民地；移民队；种群；动物栖息地"
+      "n. a body of people who settle far from home but maintain ties with their homeland…"
     ],
     "usphone": "ˈkɒləni",
     "ukphone": "ˈkɒləni"
@@ -18,7 +19,8 @@
   {
     "name": "independent",
     "trans": [
-      "adj. 独立的；单独的；无党派的；不受约束的 n. 独立自主者；无党派者"
+      "adj. free from external control and constraint; (of political bodies) not controlled by outside forces",
+      "n. a neutral or uncommitted person (especially in politics)"
     ],
     "usphone": "ˌɪndɪˈpendənt",
     "ukphone": "ˌɪndɪˈpendənt"
@@ -26,7 +28,8 @@
   {
     "name": "respect",
     "trans": [
-      "n. 尊敬，尊重；方面；敬意 vt. 尊敬，尊重；遵守"
+      "n. (usually preceded by 'in') a detail or point; the condition of being honored (esteemed or respected or well regarded)",
+      "v. regard highly; think much of; show respect towards"
     ],
     "usphone": "rɪˈspekt",
     "ukphone": "rɪˈspekt"
@@ -34,7 +37,8 @@
   {
     "name": "bridle",
     "trans": [
-      "n. 缰绳；马勒；系带；约束物 vt. 控制；给装马勒 vi. 昂首表示轻蔑；生气 n. (Bridle)人名；(英)布赖德尔"
+      "n. headgear for a horse; includes a headstall and bit and reins to give the rider or driver control",
+      "v. anger or take offense"
     ],
     "usphone": "ˈbraɪdl",
     "ukphone": "ˈbraɪdl"
@@ -42,7 +46,8 @@
   {
     "name": "flutter",
     "trans": [
-      "v. 飘动；（鸟或昆虫）鼓翼；飞来飞去；（心脏等）怦怦乱跳；（人）奔忙 n. 振动；（非正式）小赌注；紧张兴奋；（心脏的）怦怦乱跳；扑动；（重放录音的）颤振"
+      "v. move along rapidly and lightly; skim or dart; move back and forth very rapidly",
+      "n. the act of moving back and forth"
     ],
     "usphone": "ˈflʌtə(r)",
     "ukphone": "ˈflʌtə(r)"
@@ -50,7 +55,8 @@
   {
     "name": "gauge",
     "trans": [
-      "n. 计量器；标准尺寸；容量规格 vt. 测量；估计；给…定规格"
+      "n. a measuring instrument for measuring and indicating a quantity such as the thickness of wire or the amount of rain etc.",
+      "v. judge tentatively or form an estimate of (quantities or time)"
     ],
     "usphone": "ɡeɪdʒ",
     "ukphone": "ɡeɪdʒ"
@@ -66,7 +72,8 @@
   {
     "name": "shock",
     "trans": [
-      "n. 休克；震惊；震动；打击；禾束堆 vt. 使休克；使震惊；使震动；使受电击；把…堆成禾束堆 vi. 感到震惊；受到震动；堆成禾束堆 adj. 浓密的；蓬乱的 n. (Shock)人名；(英)肖克"
+      "n. the feeling of distress and disbelief that you have when something bad happens accidentally",
+      "v. surprise greatly; knock someone's socks off; strike with disgust or revulsion"
     ],
     "usphone": "ʃɒk",
     "ukphone": "ʃɒk"
@@ -74,7 +81,8 @@
   {
     "name": "train",
     "trans": [
-      "n. 火车；行列；长队；裙裾 v. 培养；训练；瞄准 n. (Train)人名；(英)特雷恩；(法)特兰；(意)特拉因"
+      "n. public transport provided by a line of railway cars coupled together and drawn by a locomotive",
+      "v. create by training and teaching; undergo training or instruction in preparation for a particular role, function, or profession"
     ],
     "usphone": "treɪn",
     "ukphone": "treɪn"
@@ -82,7 +90,7 @@
   {
     "name": "camel",
     "trans": [
-      "n. [畜牧][脊椎] 骆驼；打捞浮筒；工作作风官僚 adj. 驼色的；暗棕色的 vi. 工作刻板平庸 n. (Camel)人名；(法)卡梅尔；(阿拉伯)卡迈勒"
+      "n. cud-chewing mammal used as a draft or saddle animal in desert regions"
     ],
     "usphone": "ˈkæml",
     "ukphone": "ˈkæml"
@@ -90,7 +98,7 @@
   {
     "name": "elephant",
     "trans": [
-      "n. 象；大号图画纸"
+      "n. five-toed pachyderm"
     ],
     "usphone": "ˈelɪfənt",
     "ukphone": "ˈelɪfənt"
@@ -98,7 +106,7 @@
   {
     "name": "elk",
     "trans": [
-      "n. 麋鹿；软鞣粗皮；驼鹿皮革 n. (Elk)人名；(芬)埃尔克"
+      "n. large northern deer with enormous flattened antlers in the male; called 'elk' in Europe and 'moose' in North America"
     ],
     "usphone": "elk",
     "ukphone": "elk"
@@ -106,7 +114,8 @@
   {
     "name": "fox",
     "trans": [
-      "n. 狐狸；狡猾的人；狐皮；狐狸精，性感的女子 v. 使猜不透；欺骗，使迷惑；耍狡猾手段 n. (Fox)（英、美、德、丹、爱）福克斯（人名）"
+      "n. alert carnivorous mammal with pointed muzzle and ears and a bushy tail; most are predators that do not hunt in packs; a shifty deceptive person",
+      "v. deceive somebody"
     ],
     "usphone": "fɒks",
     "ukphone": "fɒks"
@@ -114,7 +123,7 @@
   {
     "name": "giraffe",
     "trans": [
-      "n. 长颈鹿"
+      "n. tallest living quadruped; having a spotted coat and small horns and very long neck and legs; of savannahs of tropical Africa"
     ],
     "usphone": "dʒəˈrɑːf",
     "ukphone": "dʒəˈrɑːf"
@@ -122,7 +131,7 @@
   {
     "name": "hippopotamus",
     "trans": [
-      "n. [脊椎] 河马"
+      "n. massive thick-skinned herbivorous animal living in or around rivers of tropical Africa"
     ],
     "usphone": "ˌhɪpəˈpɒtəməs",
     "ukphone": "ˌhɪpəˈpɒtəməs"
@@ -130,7 +139,7 @@
   {
     "name": "kangaroo",
     "trans": [
-      "n. 袋鼠"
+      "n. any of several herbivorous leaping marsupials of Australia and New Guinea having large powerful hind legs and a long thick tail"
     ],
     "usphone": "ˌkæŋɡəˈruː",
     "ukphone": "ˌkæŋɡəˈruː"
@@ -138,7 +147,7 @@
   {
     "name": "zebra",
     "trans": [
-      "n. [脊椎] 斑马 adj. 有斑纹的 （Zebra）斑马（文具品牌）；斑马公司（指盈利性和有责任感的公司）"
+      "n. any of several fleet black-and-white striped African equines"
     ],
     "usphone": "ˈzebrə; ˈziːbrə",
     "ukphone": "ˈzebrə; ˈziːbrə"
@@ -146,7 +155,8 @@
   {
     "name": "breeze",
     "trans": [
-      "n. 微风；轻而易举的事；煤屑；焦炭渣；小风波 vi. 吹微风；逃走 n. (Breeze)人名；(法)布雷兹"
+      "n. a slight wind (usually refreshing)",
+      "v. blow gently and lightly"
     ],
     "usphone": "briːz",
     "ukphone": "briːz"
@@ -154,7 +164,7 @@
   {
     "name": "cupcake",
     "trans": [
-      "n. 纸托蛋糕；杯形蛋糕"
+      "n. small cake baked in a muffin tin"
     ],
     "usphone": "ˈkʌpkeɪk",
     "ukphone": "ˈkʌpkeɪk"
@@ -162,7 +172,8 @@
   {
     "name": "magic",
     "trans": [
-      "n. 魔法，巫术；魔术；魅力；（非正式）有魅力之物；（非正式）罕见才能 adj. 有魔力的；魔法的；神奇的；（非正式）极好的 v. （像）用魔法变出（或移动、改变等） n. (Magic) （美）马吉克（人名）"
+      "n. any art that invokes supernatural powers",
+      "adj. possessing or using or characteristic of or appropriate to supernatural powers"
     ],
     "usphone": "ˈmædʒɪk",
     "ukphone": "ˈmædʒɪk"
@@ -170,7 +181,8 @@
   {
     "name": "picnic",
     "trans": [
-      "n. 野餐 vi. 去野餐"
+      "n. a day devoted to an outdoor social gathering; any undertaking that is easy to do",
+      "v. eat alfresco, in the open air"
     ],
     "usphone": "ˈpɪknɪk",
     "ukphone": "ˈpɪknɪk"
@@ -178,7 +190,8 @@
   {
     "name": "swirl",
     "trans": [
-      "v. 盘绕，打旋；使成漩涡；流传；眩晕 n. 漩涡；打旋；涡状形"
+      "v. turn in a twisting or spinning motion; flow in a circular current, of liquids",
+      "n. the shape of something rotating rapidly"
     ],
     "usphone": "swɜːl",
     "ukphone": "swɜːl"
@@ -186,7 +199,9 @@
   {
     "name": "weather",
     "trans": [
-      "n. 天气；气象；气候；处境 vt. 经受住；使风化；侵蚀；使受风吹雨打 vi. 风化；受侵蚀；经受风雨 adj. 露天的；迎风的 n. (Weather)人名；(英)韦瑟"
+      "n. the atmospheric conditions that comprise the state of the atmosphere in terms of temperature and wind and clouds and precipitation",
+      "v. face and withstand with courage",
+      "adj. towards the side exposed to wind"
     ],
     "usphone": "ˈweðə(r)",
     "ukphone": "ˈweðə(r)"
@@ -194,7 +209,8 @@
   {
     "name": "culture",
     "trans": [
-      "n. 文化，文明；修养；栽培 vt. [细胞][微] 培养（等于cultivate）"
+      "n. a particular society at a particular time and place; the tastes in art and manners that are favored by a social group",
+      "v. grow in a special preparation"
     ],
     "usphone": "ˈkʌltʃə(r)",
     "ukphone": "ˈkʌltʃə(r)"
@@ -202,7 +218,9 @@
   {
     "name": "elect",
     "trans": [
-      "v. 选举；选择，决定（做某事）；（上帝）挑选（某人）（使其灵魂永远得救） adj. 卓越的；蒙上帝挑选（而得救）的；当选（而尚未就职的） n. 被选的人；上帝的选民；特权集体"
+      "v. select by a vote for an office or membership; choose",
+      "adj. selected as the best",
+      "n. an exclusive group of people"
     ],
     "usphone": "ɪˈlekt",
     "ukphone": "ɪˈlekt"
@@ -210,7 +228,7 @@
   {
     "name": "government",
     "trans": [
-      "n. 政府；政体；管辖"
+      "n. the organization that is the governing authority of a political unit; the act of governing; exercising authority"
     ],
     "usphone": "ˈɡʌvənmənt",
     "ukphone": "ˈɡʌvənmənt"
@@ -218,7 +236,7 @@
   {
     "name": "lawyer",
     "trans": [
-      "n. 律师；法学家 n. (Lawyer)人名；(英)劳耶"
+      "n. a professional person authorized to practice law; conducts lawsuits or gives legal advice"
     ],
     "usphone": "ˈlɔɪə(r)",
     "ukphone": "ˈlɔɪə(r)"
@@ -226,7 +244,8 @@
   {
     "name": "message",
     "trans": [
-      "n. 消息；差使；启示；预言；广告词 vi. 报信，报告；[通信] 报文 vt. 通知"
+      "n. a communication (usually brief) that is written or spoken or signaled; what a communication that is about something is about",
+      "v. send a message to"
     ],
     "usphone": "ˈmesɪdʒ",
     "ukphone": "ˈmesɪdʒ"
@@ -234,7 +253,7 @@
   {
     "name": "speech",
     "trans": [
-      "n. 演讲；讲话；[语] 语音；演说"
+      "n. the act of delivering a formal spoken communication to an audience; (language) communication by word of mouth"
     ],
     "usphone": "spiːtʃ",
     "ukphone": "spiːtʃ"
@@ -242,7 +261,8 @@
   {
     "name": "attack",
     "trans": [
-      "n. 攻击；抨击；疾病发作 vt. 攻击；抨击；动手干 vi. 攻击；腐蚀 n. (Attack)人名；(瑞典)阿塔克"
+      "n. (military) an offensive against an enemy (using weapons); an offensive move in a sport or game",
+      "v. launch an attack or assault on; begin hostilities or start warfare with; attack in speech or writing"
     ],
     "usphone": "əˈtæk",
     "ukphone": "əˈtæk"
@@ -250,7 +270,8 @@
   {
     "name": "capture",
     "trans": [
-      "vt. 俘获；夺得；捕捉，拍摄，录制 n. 捕获；战利品，俘虏"
+      "v. succeed in representing or expressing something intangible; attract; cause to be enamored",
+      "n. the act of forcibly dispossessing an owner of property; a process whereby a star or planet holds an object in its gravitational field"
     ],
     "usphone": "ˈkæptʃə(r)",
     "ukphone": "ˈkæptʃə(r)"
@@ -258,7 +279,8 @@
   {
     "name": "crew",
     "trans": [
-      "n. 队，组；全体人员，全体船员 vi. 一起工作 vt. 使当船员 n. (Crew)人名；(英、西)克鲁"
+      "n. the men and women who man a vehicle (ship, aircraft, etc.); an organized group of workmen",
+      "v. serve as a crew member on"
     ],
     "usphone": "kruː",
     "ukphone": "kruː"
@@ -266,7 +288,8 @@
   {
     "name": "pirate",
     "trans": [
-      "n. 海盗，海上劫掠者；盗版者，侵犯专利权者；非法制作电视或广播节目的人（或组织）；道德败坏者，违法者 v. 盗印，窃用；劫掠（船只）；劫掠（船只） adj. 盗版的"
+      "n. someone who uses another person's words or ideas as if they were his own",
+      "v. copy illegally; of published material"
     ],
     "usphone": "ˈpaɪrət",
     "ukphone": "ˈpaɪrət"
@@ -274,7 +297,8 @@
   {
     "name": "sail",
     "trans": [
-      "vi. 航行；启航，开船 n. 帆，篷；航行 vt. 航行"
+      "v. traverse or travel on (a body of water); move with sweeping, effortless, gliding motions",
+      "n. a large piece of fabric (usually canvas fabric) by means of which wind is used to propel a sailing vessel; an ocean trip taken for pleasure"
     ],
     "usphone": "seɪl",
     "ukphone": "seɪl"
@@ -282,7 +306,8 @@
   {
     "name": "treasure",
     "trans": [
-      "n. 财富，财产；财宝；珍品 vt. 珍爱；珍藏 n. (Treasure)（英、美、爱）特雷热（人名）"
+      "n. accumulated wealth in the form of money or jewels etc.; art highly prized for its beauty or perfection",
+      "v. hold dear"
     ],
     "usphone": "ˈtreʒə(r)",
     "ukphone": "ˈtreʒə(r)"
@@ -290,7 +315,8 @@
   {
     "name": "bounce",
     "trans": [
-      "v. 弹起；反弹；蹦跳；把小孩放在膝上颠着玩；上下晃动；颠簸行进；蹦蹦跳跳地走；退回（支票）；试探地透露（主意）；退回（电子邮件）；解雇；逐出；威吓（某人）做；征求别人的看法；撞击 n. 弹跳；弹力；活力；（突然的）上升；十足的自信；（头发的）弹性；碰撞"
+      "v. spring back; spring away from an impact; hit something so that it bounces",
+      "n. the quality of a substance that is able to rebound; a light, self-propelled movement upwards or forwards"
     ],
     "usphone": "baʊns",
     "ukphone": "baʊns"
@@ -298,7 +324,8 @@
   {
     "name": "brainstorm",
     "trans": [
-      "n. 集思广益；头脑风暴；灵机一动 vt. 集体讨论；集思广益以寻找 vi. 集体讨论；动脑筋；出主意"
+      "n. the clear (and often sudden) understanding of a complex situation",
+      "v. try to solve a problem by thinking intensely about it"
     ],
     "usphone": "ˈbreɪnstɔːm",
     "ukphone": "ˈbreɪnstɔːm"
@@ -306,7 +333,8 @@
   {
     "name": "distance",
     "trans": [
-      "n. 距离；远方；疏远；间隔 vt. 疏远；把…远远甩在后面"
+      "n. the property created by the space between two objects or points; a distant region",
+      "v. keep at a distance"
     ],
     "usphone": "ˈdɪstəns",
     "ukphone": "ˈdɪstəns"
@@ -314,7 +342,8 @@
   {
     "name": "trail",
     "trans": [
-      "n. 足迹；（跟踪某人的）踪迹；（尤指细长）一缕；（人或动物）排成的长队；（荒野）小路；特定路线；滑雪坡；（炮架的）架尾；（电影等的）预告片 v. 拖，拉；（尤指植物）蔓延；（尤指根据痕迹等）追踪；（在游戏、比赛中）落后；拖沓行走；（声音、喇叭）减弱；预告（影片、节目等）；喷注（泥釉） n. (Trail) （美）特雷尔（人名）"
+      "n. a track or mark left by something that has passed; a path or track roughly blazed through wild or hilly country",
+      "v. to lag or linger behind; go after with the intent to catch"
     ],
     "usphone": "treɪl",
     "ukphone": "treɪl"
@@ -322,7 +351,7 @@
   {
     "name": "trampoline",
     "trans": [
-      "n. 蹦床；弹簧垫"
+      "n. gymnastic apparatus consisting of a strong canvas sheet attached with springs to a metal frame; used for tumbling"
     ],
     "usphone": "ˌtræmpəˈliːn",
     "ukphone": "ˌtræmpəˈliːn"
@@ -330,7 +359,7 @@
   {
     "name": "yard sale",
     "trans": [
-      "庭院旧货出售"
+      "n. an outdoor sale of used personal or household items held on the seller's premises"
     ],
     "usphone": "ˈjɑːd seɪl",
     "ukphone": "ˈjɑːd seɪl"
@@ -338,7 +367,7 @@
   {
     "name": "butterfly",
     "trans": [
-      "n. 蝴蝶；蝶泳；举止轻浮的人；追求享乐的人"
+      "n. diurnal insect typically having a slender body with knobbed antennae and broad colorful wings"
     ],
     "usphone": "ˈbʌtəflaɪ",
     "ukphone": "ˈbʌtəflaɪ"
@@ -346,7 +375,8 @@
   {
     "name": "mate",
     "trans": [
-      "n. 助手，大副；配偶；同事；配对物 vt. 使配对；使一致；结伴 vi. 交配；成配偶；紧密配合 n. (Mate)人名；(日)蛏(姓)；(西、意、塞)马特；(波黑)马特；(罗、俄)马泰"
+      "n. the officer below the master on a commercial ship; a fellow member of a team",
+      "v. engage in sexual intercourse; bring two objects, ideas, or people together"
     ],
     "usphone": "meɪt",
     "ukphone": "meɪt"
@@ -354,7 +384,7 @@
   {
     "name": "pupa",
     "trans": [
-      "n. [昆] 蛹 n. (Pupa)人名；(意)普帕"
+      "n. an insect in the inactive stage of development (when it is not feeding) intermediate between larva and adult"
     ],
     "usphone": "ˈpjuːpə",
     "ukphone": "ˈpjuːpə"
@@ -362,7 +392,8 @@
   {
     "name": "scale",
     "trans": [
-      "n. 规模；比例；鳞；刻度；天平；数值范围 vi. 衡量；攀登；剥落；生水垢 vt. 测量；攀登；刮鳞；依比例决定 n. (Scale)人名；(意)斯卡莱"
+      "n. an ordered reference standard; relative magnitude",
+      "v. measure by or as if by a scale; pattern, make, regulate, set, measure, or estimate according to some rate or standard"
     ],
     "usphone": "skeɪl",
     "ukphone": "skeɪl"
@@ -370,7 +401,8 @@
   {
     "name": "stage",
     "trans": [
-      "n. 阶段；舞台；戏剧；驿站 vt. 举行；上演；筹划 vi. 举行；适于上演；乘驿车旅行 n. (Stage)人名；(英)斯特奇"
+      "n. any distinct time period in a sequence of events; a specific identifiable position in a continuum or series or especially in a process",
+      "v. perform (a play), especially on a stage; plan, organize, and carry out (an event)"
     ],
     "usphone": "steɪdʒ",
     "ukphone": "steɪdʒ"
@@ -378,7 +410,9 @@
   {
     "name": "blindfold",
     "trans": [
-      "n. 障眼物，眼罩 v. 蒙住眼睛；挡住视线 adj. （诗、文）被蒙住眼睛的；（象棋）下盲棋的；轻率的 adv. 被蒙住眼睛地；易如反掌地；鲁莽地，轻率地"
+      "n. a cloth used to cover the eyes",
+      "v. cover the eyes of (someone) to prevent him from seeing",
+      "adj. wearing a blindfold"
     ],
     "usphone": "ˈblaɪndfəʊld",
     "ukphone": "ˈblaɪndfəʊld"
@@ -386,7 +420,7 @@
   {
     "name": "celebrate",
     "trans": [
-      "vt. 庆祝；举行；赞美；祝贺；宣告 vi. 庆祝；过节；举行宗教仪式"
+      "v. behave as expected during of holidays or rites; have a celebration"
     ],
     "usphone": "ˈselɪbreɪt",
     "ukphone": "ˈselɪbreɪt"
@@ -394,7 +428,7 @@
   {
     "name": "decorate",
     "trans": [
-      "vt. 装饰；布置；授勋给 vi. 装饰；布置"
+      "v. make more attractive by adding ornament, colour, etc."
     ],
     "usphone": "ˈdekəreɪt",
     "ukphone": "ˈdekəreɪt"
@@ -402,7 +436,7 @@
   {
     "name": "independence",
     "trans": [
-      "n. 独立性，自立性；自主"
+      "n. freedom from control or influence of another or others; the successful ending of the American Revolution"
     ],
     "usphone": "ˌɪndɪˈpendəns",
     "ukphone": "ˌɪndɪˈpendəns"
@@ -410,7 +444,8 @@
   {
     "name": "Mexican",
     "trans": [
-      "adj. 墨西哥的；墨西哥人的 n. 墨西哥人；墨西哥语"
+      "adj. of or relating to Mexico or its inhabitants",
+      "n. a native or inhabitant of Mexico"
     ],
     "usphone": "ˈmeksɪkən",
     "ukphone": "ˈmeksɪkən"
@@ -418,13 +453,13 @@
   {
     "name": "piñata",
     "trans": [
-      "n. 皮纳塔，彩饰陶罐 n. (Pinata)人名；(意)皮纳塔"
+      "n. plaything consisting of a container filled with toys and candy; suspended from a height for blindfolded children to break with sticks"
     ]
   },
   {
     "name": "bedding",
     "trans": [
-      "n. 寝具；（建筑）[建] 基床；（家畜）草垫 adj. 适于花坛种植的 vt. 把…栽入苗床（bed的ing形式） vi. 睡（bed的ing形式）"
+      "n. coverings that are used on a bed"
     ],
     "usphone": "ˈbedɪŋ",
     "ukphone": "ˈbedɪŋ"
@@ -432,7 +467,7 @@
   {
     "name": "chick",
     "trans": [
-      "n. 小鸡；小鸟；少妇 adj. 胆小的；懦弱的 n. (Chick)人名；(英)奇克"
+      "n. young bird especially of domestic fowl"
     ],
     "usphone": "tʃɪk",
     "ukphone": "tʃɪk"
@@ -440,7 +475,7 @@
   {
     "name": "coop",
     "trans": [
-      "v. 把……关进笼子里；拘禁 n. （关鸡等的）笼子；捕鱼篓"
+      "n. a farm building for housing poultry"
     ],
     "usphone": "kuːp",
     "ukphone": "kuːp"
@@ -448,7 +483,8 @@
   {
     "name": "grind",
     "trans": [
-      "vt. 磨碎；磨快 vi. 磨碎；折磨 n. 磨；苦工作 n. (Grind)人名；(法、德)格林德"
+      "v. press or grind with a crushing noise; make a grating or grinding sound by rubbing together",
+      "n. an insignificant student who is ridiculed as being affected or boringly studious"
     ],
     "usphone": "ɡraɪnd",
     "ukphone": "ɡraɪnd"
@@ -456,7 +492,7 @@
   {
     "name": "pellet",
     "trans": [
-      "n. 小球；[军] 小子弹（枪用） vt. 将…制成丸状；用子弹打；用小球扔 n. (Pellet)人名；(西)佩列特；(法)佩莱；(德)佩勒特"
+      "n. a small sphere"
     ],
     "usphone": "ˈpelɪt",
     "ukphone": "ˈpelɪt"
@@ -464,7 +500,8 @@
   {
     "name": "ball",
     "trans": [
-      "n. 球；舞会 vi. 成团块 vt. 捏成球形 n. (Ball)人名；(土)巴勒；(英、西)鲍尔；(法、德、俄、罗、捷)巴尔"
+      "n. round object that is hit or thrown or kicked in games; a solid projectile that is shot by a musket",
+      "v. form into a ball by winding or rolling"
     ],
     "usphone": "bɔːl",
     "ukphone": "bɔːl"
@@ -472,7 +509,9 @@
   {
     "name": "fit",
     "trans": [
-      "vt. 安装；使……适应；使……合身；与……相符 vi. 符合，配合；适合；合身 adj. 健康的；合适的；恰当的；准备好的 n. 合身；发作；痉挛 n. (Fit)人名；(捷、罗)菲特"
+      "v. be agreeable or acceptable to; be the right size or shape; fit correctly or as desired",
+      "adj. meeting adequate standards for a purpose; (usually followed by 'to' or 'for') on the point of or strongly disposed",
+      "n. a display of bad temper; a sudden uncontrollable attack"
     ],
     "usphone": "fɪt",
     "ukphone": "fɪt"
@@ -480,7 +519,8 @@
   {
     "name": "maiden",
     "trans": [
-      "n. 少女，处女；未婚女子；（板球比赛中）未得分的一轮投球；从未跑赢过的赛马 adj. （尤指年纪较大女性）未婚的；处女的；（航行、飞行)）首次的；（赛马）从未跑赢过的；（植物）生长期第一年内的 n. (Maiden) （美）每田（人名）"
+      "n. an unmarried girl (especially a virgin)",
+      "adj. serving to set in motion"
     ],
     "usphone": "ˈmeɪdn",
     "ukphone": "ˈmeɪdn"
@@ -488,7 +528,7 @@
   {
     "name": "slipper",
     "trans": [
-      "n. 拖鞋 vt. 用拖鞋打"
+      "n. low footwear that can be slipped on and off easily; usually worn indoors"
     ],
     "usphone": "ˈslɪpə(r)",
     "ukphone": "ˈslɪpə(r)"
@@ -496,7 +536,8 @@
   {
     "name": "twig",
     "trans": [
-      "n. 小枝，嫩枝，末梢；血管小支 v. （非正式）顿悟；（古）察觉"
+      "n. a small branch or division of a branch (especially a terminal division); usually applied to branches of the current or preceding year",
+      "v. branch out in a twiglike manner"
     ],
     "usphone": "twɪɡ",
     "ukphone": "twɪɡ"
@@ -504,7 +545,8 @@
   {
     "name": "wish",
     "trans": [
-      "v. 希望，但愿；盼望，想要；祝，祝愿；祈愿，许愿；（印度英语）问候；要求（某人）做某事 n. 希望，愿望；祈求，心愿；祝愿，祝福；想要的东西，希望的事；请求，要求 n. (Wish) （美）威什（人名）"
+      "v. hope for; have a wish; prefer or wish to do something",
+      "n. a specific feeling of desire; an expression of some desire or inclination"
     ],
     "usphone": "wɪʃ",
     "ukphone": "wɪʃ"
@@ -512,7 +554,7 @@
   {
     "name": "community",
     "trans": [
-      "n. 社区；[生态] 群落；共同体；团体"
+      "n. a group of people living in a particular local area; common ownership"
     ],
     "usphone": "kəˈmjuːnəti",
     "ukphone": "kəˈmjuːnəti"
@@ -520,7 +562,7 @@
   {
     "name": "council",
     "trans": [
-      "n. 委员会；会议；理事会；地方议会；顾问班子 n. (Council)人名；(英)康斯尔"
+      "n. a body serving in an administrative capacity"
     ],
     "usphone": "ˈkaʊnsl",
     "ukphone": "ˈkaʊnsl"
@@ -528,7 +570,7 @@
   {
     "name": "department",
     "trans": [
-      "n. 部；部门；系；科；局"
+      "n. a specialized division of a large organization"
     ],
     "usphone": "dɪˈpɑːtmənt",
     "ukphone": "dɪˈpɑːtmənt"
@@ -536,7 +578,7 @@
   {
     "name": "election",
     "trans": [
-      "n. 选举；当选；选择权；上帝的选拔"
+      "n. a vote to select the winner of a position or political office; the act of selecting someone or something; the exercise of deliberate choice"
     ],
     "usphone": "ɪˈlekʃn",
     "ukphone": "ɪˈlekʃn"
@@ -544,7 +586,7 @@
   {
     "name": "mayor",
     "trans": [
-      "n. 市长 n. (Mayor)人名；(英)梅厄；(法、西、俄)马约尔"
+      "n. the head of a city government"
     ],
     "usphone": "meə(r)",
     "ukphone": "meə(r)"
@@ -552,7 +594,7 @@
   {
     "name": "law",
     "trans": [
-      "n. 法律；规律；法治；法学；诉讼；司法界 vi. 起诉；控告 vt. 控告；对…起诉 n. (Law)人名；(东南亚国家华语)刘；(英、缅、柬)劳"
+      "n. the collection of rules imposed by authority; legal document setting forth rules governing a particular kind of activity"
     ],
     "usphone": "lɔː",
     "ukphone": "lɔː"
@@ -560,7 +602,7 @@
   {
     "name": "memorial",
     "trans": [
-      "n. 纪念碑，纪念馆；纪念仪式；纪念物 adj. 记忆的；纪念的，追悼的"
+      "n. a recognition of meritorious service"
     ],
     "usphone": "məˈmɔːriəl",
     "ukphone": "məˈmɔːriəl"
@@ -568,7 +610,7 @@
   {
     "name": "peaceful",
     "trans": [
-      "adj. 和平的，爱好和平的；平静的"
+      "adj. not disturbed by strife or turmoil or war"
     ],
     "usphone": "ˈpiːsfl",
     "ukphone": "ˈpiːsfl"
@@ -576,7 +618,8 @@
   {
     "name": "protest",
     "trans": [
-      "n. 抗议，反对；（多来自公证人）拒付证书 v. 抗议，反对；坚决表示，断言；拒付"
+      "n. a formal and solemn declaration of objection; the act of protesting; a public (often organized) manifestation of dissent",
+      "v. utter words of protest; express opposition through action or words"
     ],
     "usphone": "ˈprəʊtest; prəˈtest",
     "ukphone": "ˈprəʊtest; prəˈtest"
@@ -584,7 +627,7 @@
   {
     "name": "racism",
     "trans": [
-      "n. 种族主义，种族歧视；人种偏见"
+      "n. the prejudice that members of one race are intrinsically superior to members of other races"
     ],
     "usphone": "ˈreɪsɪzəm",
     "ukphone": "ˈreɪsɪzəm"
@@ -592,7 +635,9 @@
   {
     "name": "separate",
     "trans": [
-      "adj. 分开的；单独的；不同的；各自的；不受影响的 v. （使）分离，分开；隔开；分手；（使）分居；（使）区别（于） n. 可搭配穿着的单件衣服；抽印本；独立音响设备；土壤划分"
+      "adj. independent; not united or joint; standing apart; not attached to or supported by anything",
+      "v. act as a barrier between; stand between; force, take, or pull apart",
+      "n. a separately printed article that originally appeared in a larger publication"
     ],
     "usphone": "ˈseprət",
     "ukphone": "ˈseprət"
@@ -600,7 +645,8 @@
   {
     "name": "adventure",
     "trans": [
-      "n. 冒险；冒险精神；投机活动 vt. 冒险；大胆说出 vi. 冒险"
+      "n. a wild and exciting undertaking (not necessarily lawful)",
+      "v. take a risk in the hope of a favorable outcome"
     ],
     "usphone": "ədˈventʃə(r)",
     "ukphone": "ədˈventʃə(r)"
@@ -608,7 +654,7 @@
   {
     "name": "beast",
     "trans": [
-      "n. 野兽；畜生，人面兽心的人"
+      "n. a living organism characterized by voluntary movement; a cruelly rapacious person"
     ],
     "usphone": "biːst",
     "ukphone": "biːst"
@@ -616,7 +662,8 @@
   {
     "name": "creak",
     "trans": [
-      "v. （门、木地板等）嘎吱作响；（过劳或紧张）显得虚弱 n. 嘎吱声 n. (Creak) （爱、英）克里克（人名）"
+      "v. make a high-pitched, screeching noise",
+      "n. a squeaking sound"
     ],
     "usphone": "kriːk",
     "ukphone": "kriːk"
@@ -624,7 +671,7 @@
   {
     "name": "excitement",
     "trans": [
-      "n. 兴奋；刺激；令人兴奋的事物"
+      "n. the feeling of lively and cheerful joy; the state of being emotionally aroused and worked up"
     ],
     "usphone": "ɪkˈsaɪtmənt",
     "ukphone": "ɪkˈsaɪtmənt"
@@ -632,7 +679,7 @@
   {
     "name": "lonely",
     "trans": [
-      "adj. 寂寞的；偏僻的 n. 孤独者"
+      "adj. lacking companions or companionship; marked by dejection from being alone"
     ],
     "usphone": "ˈləʊnli",
     "ukphone": "ˈləʊnli"
@@ -640,7 +687,8 @@
   {
     "name": "spike",
     "trans": [
-      "n. 长钉，道钉；钉鞋；细高跟 vt. 阻止；以大钉钉牢；用尖物刺穿 n. (Spike)人名；(瑞典)斯皮克"
+      "n. a transient variation in voltage or current; sports equipment consisting of a sharp point on the sole of a shoe worn by athletes",
+      "v. stand in the way of"
     ],
     "usphone": "spaɪk",
     "ukphone": "spaɪk"
@@ -648,7 +696,7 @@
   {
     "name": "deed",
     "trans": [
-      "n. 行动；功绩；证书；[法] 契据 vt. 立契转让"
+      "n. a legal document signed and sealed and delivered to effect a transfer of property and to show the legal right to possess it"
     ],
     "usphone": "diːd",
     "ukphone": "diːd"
@@ -656,7 +704,7 @@
   {
     "name": "disappointed",
     "trans": [
-      "adj. 失望的，沮丧的；受挫折的"
+      "adj. disappointingly unsuccessful"
     ],
     "usphone": "ˌdɪsəˈpɔɪntɪd",
     "ukphone": "ˌdɪsəˈpɔɪntɪd"
@@ -664,7 +712,7 @@
   {
     "name": "goods",
     "trans": [
-      "n. 商品；动产；合意的人；真本领"
+      "n. benefit; moral excellence or admirableness"
     ],
     "usphone": "ɡʊdz",
     "ukphone": "ɡʊdz"
@@ -672,7 +720,7 @@
   {
     "name": "miserable",
     "trans": [
-      "adj. 悲惨的；痛苦的；卑鄙的"
+      "adj. very unhappy; full of misery; deserving or inciting pity"
     ],
     "usphone": "ˈmɪzrəbl",
     "ukphone": "ˈmɪzrəbl"
@@ -680,7 +728,7 @@
   {
     "name": "musician",
     "trans": [
-      "n. 音乐家"
+      "n. someone who plays a musical instrument (as a profession); artist who composes or conducts music as a profession"
     ],
     "usphone": "mjuˈzɪʃn",
     "ukphone": "mjuˈzɪʃn"
@@ -696,7 +744,7 @@
   {
     "name": "altar",
     "trans": [
-      "n. 祭坛；圣坛；圣餐台 n. (Altar)人名；(法、塞、罗)阿尔塔"
+      "n. the table in Christian churches where communion is given"
     ],
     "usphone": "ˈɔːltə(r)",
     "ukphone": "ˈɔːltə(r)"
@@ -704,7 +752,7 @@
   {
     "name": "cemetery",
     "trans": [
-      "n. 墓地；公墓"
+      "n. a tract of land used for burials"
     ],
     "usphone": "ˈsemətri",
     "ukphone": "ˈsemətri"
@@ -712,7 +760,7 @@
   {
     "name": "remember",
     "trans": [
-      "vt. 记得；牢记；纪念；代…问好 vi. 记得，记起"
+      "v. recall knowledge from memory; have a recollection; keep in mind for attention or consideration"
     ],
     "usphone": "rɪˈmembə(r)",
     "ukphone": "rɪˈmembə(r)"
@@ -720,7 +768,7 @@
   {
     "name": "tradition",
     "trans": [
-      "n. 惯例，传统；传说"
+      "n. an inherited pattern of thought or action; a specific practice of long standing"
     ],
     "usphone": "trəˈdɪʃn",
     "ukphone": "trəˈdɪʃn"
@@ -728,7 +776,8 @@
   {
     "name": "gas",
     "trans": [
-      "n. 气体；[矿业] 瓦斯；汽油；毒气 vt. 加油；毒（死） vi. 加油；放出气体；空谈 n. (Gas)人名；(法、德、西)加斯"
+      "n. the state of matter distinguished from the solid and liquid states by: relatively low density and viscosity…",
+      "v. attack with gas; subject to gas fumes"
     ],
     "usphone": "ɡæs",
     "ukphone": "ɡæs"
@@ -736,7 +785,7 @@
   {
     "name": "invisible",
     "trans": [
-      "adj. 无形的，看不见的；无形的；不显眼的，暗藏的"
+      "adj. impossible or nearly impossible to see; imperceptible by the eye"
     ],
     "usphone": "ɪnˈvɪzəbl",
     "ukphone": "ɪnˈvɪzəbl"
@@ -744,7 +793,8 @@
   {
     "name": "liquid",
     "trans": [
-      "adj. 液体的；清澈的；明亮的；易变的 n. 液体，流体；流音"
+      "adj. existing as or having characteristics of a liquid; especially tending to flow; filled or brimming with tears",
+      "n. a substance that is liquid at room temperature and pressure"
     ],
     "usphone": "ˈlɪkwɪd",
     "ukphone": "ˈlɪkwɪd"
@@ -752,7 +802,7 @@
   {
     "name": "polluted",
     "trans": [
-      "adj. 受污染的；被玷污的 v. 污染（pollute的过去式和过去分词）"
+      "adj. rendered unwholesome by contaminants and pollution"
     ],
     "usphone": "pə'ljuːtɪd",
     "ukphone": "pə'ljuːtɪd"
@@ -760,7 +810,7 @@
   {
     "name": "precipitation",
     "trans": [
-      "n. [化学] 沉淀，[化学] 沉淀物；降水；冰雹；坠落；鲁莽"
+      "n. the quantity of water falling to earth at a specific place within a specified period of time"
     ],
     "usphone": "prɪˌsɪpɪˈteɪʃn",
     "ukphone": "prɪˌsɪpɪˈteɪʃn"
@@ -768,7 +818,8 @@
   {
     "name": "solid",
     "trans": [
-      "adj. 固体的；可靠的；立体的；结实的；一致的 n. 固体；立方体 n. (Solid)人名；(瑞典)索利德"
+      "adj. characterized by good substantial quality; of definite shape and volume; firm; neither liquid nor gaseous",
+      "n. matter that is solid at room temperature and pressure"
     ],
     "usphone": "ˈsɒlɪd",
     "ukphone": "ˈsɒlɪd"
@@ -776,7 +827,8 @@
   {
     "name": "boil",
     "trans": [
-      "v. 煮沸，（使）沸腾，达到沸点；用沸水煮或烫洗；对……施以烹刑；翻腾；发火 n. 沸点，沸腾；激昂；疖，皮下脓肿；突然浮上来食鱼饵 n. (Boil) （美）博伊尔（人名）"
+      "v. come to the boiling point and change from a liquid to vapor; immerse or be immersed in a boiling liquid, often for cooking purposes",
+      "n. a painful sore with a hard core filled with pus"
     ],
     "usphone": "bɔɪl",
     "ukphone": "bɔɪl"
@@ -784,7 +836,7 @@
   {
     "name": "emperor",
     "trans": [
-      "n. 皇帝，君主"
+      "n. the male ruler of an empire"
     ],
     "usphone": "ˈempərə(r)",
     "ukphone": "ˈempərə(r)"
@@ -792,7 +844,9 @@
   {
     "name": "empty",
     "trans": [
-      "adj. 空的；无意义的；无知的；徒劳的 vt. 使失去；使…成为空的 vi. 成为空的；流空 n. 空车；空的东西"
+      "adj. holding or containing nothing; devoid of significance or point",
+      "v. make void or empty of contents; become empty or void of its content",
+      "n. a container that has been emptied"
     ],
     "usphone": "ˈempti",
     "ukphone": "ˈempti"
@@ -800,7 +854,7 @@
   {
     "name": "honest",
     "trans": [
-      "adj. 诚实的，实在的；可靠的；坦率的"
+      "adj. not disposed to cheat or defraud; not deceptive or fraudulent; without dissimulation; frank"
     ],
     "usphone": "ˈɒnɪst",
     "ukphone": "ˈɒnɪst"
@@ -808,7 +862,7 @@
   {
     "name": "pleased",
     "trans": [
-      "adj. 高兴的；喜欢的；乐意做某事 v. 满意；愿意（please的过去分词形式）"
+      "adj. experiencing or manifesting pleasure; feeling pleasurable satisfaction over something by which you measures your self-worth"
     ],
     "usphone": "pliːzd",
     "ukphone": "pliːzd"
@@ -816,7 +870,8 @@
   {
     "name": "sprout",
     "trans": [
-      "vi. 发芽；长芽 vt. 使发芽；使萌芽 n. 芽；萌芽；苗芽 n. (Sprout)人名；(英)斯普劳特"
+      "v. produce buds, branches, or germinate",
+      "n. any new growth of a plant such as a new branch or a bud"
     ],
     "usphone": "spraʊt",
     "ukphone": "spraʊt"
@@ -824,7 +879,7 @@
   {
     "name": "celebrity",
     "trans": [
-      "n. 名人；名声"
+      "n. a widely known person"
     ],
     "usphone": "səˈlebrəti",
     "ukphone": "səˈlebrəti"
@@ -832,7 +887,7 @@
   {
     "name": "creature",
     "trans": [
-      "n. 动物，生物；人；创造物"
+      "n. a living organism characterized by voluntary movement; a human being; 'wight' is an archaic term"
     ],
     "usphone": "ˈkriːtʃə(r)",
     "ukphone": "ˈkriːtʃə(r)"
@@ -840,7 +895,8 @@
   {
     "name": "extreme",
     "trans": [
-      "adj. 极端的；极度的；偏激的；尽头的 n. 极端；末端；最大程度；极端的事物"
+      "adj. of the greatest possible degree or extent or intensity; far beyond a norm in quantity or amount or degree; to an utmost degree",
+      "n. the furthest or highest degree of something; the point located farthest from the middle of something"
     ],
     "usphone": "ɪkˈstriːm",
     "ukphone": "ɪkˈstriːm"
@@ -848,7 +904,7 @@
   {
     "name": "mammal",
     "trans": [
-      "n. [脊椎] 哺乳动物"
+      "n. any warm-blooded vertebrate having the skin more or less covered with hair…"
     ],
     "usphone": "ˈmæml",
     "ukphone": "ˈmæml"
@@ -856,7 +912,9 @@
   {
     "name": "quiet",
     "trans": [
-      "adj. 安静的；安定的；不动的；温顺的 n. 安静；和平 vt. 使平息；安慰 vi. 平静下来"
+      "adj. characterized by an absence or near absence of agitation or activity; free of noise or uproar; or making little if any sound",
+      "n. a period of calm weather; an untroubled state; free from disturbances",
+      "v. become quiet or quieter; make calm or still"
     ],
     "usphone": "ˈkwaɪət",
     "ukphone": "ˈkwaɪət"
@@ -864,7 +922,7 @@
   {
     "name": "reptile",
     "trans": [
-      "n. 爬行动物；（非正式）卑鄙的人 adj. 爬行动物的；卑鄙的"
+      "n. any cold-blooded vertebrate of the class Reptilia including tortoises, turtles, snakes, lizards, alligators, crocodiles, and extinct forms"
     ],
     "usphone": "ˈreptaɪl",
     "ukphone": "ˈreptaɪl"
@@ -872,7 +930,8 @@
   {
     "name": "bend",
     "trans": [
-      "v. 使弯曲，折弯；使屈服；拐弯，转弯；倾斜，偏向；（四肢等）弯曲；歪曲，篡改；使致力，专心于；系，缚（缆绳） n. 转弯，弯道；弯曲；绑结；（潜水员的）减压病 (the bends)；（纹章上）对角条纹 n. (Bend) （美、丹、德）本德（人名）"
+      "v. form a curve; change direction",
+      "n. a circular segment of a curve; movement that causes the formation of a curve"
     ],
     "usphone": "bend",
     "ukphone": "bend"
@@ -880,7 +939,7 @@
   {
     "name": "comfortable",
     "trans": [
-      "adj. 舒适的，舒服的 n. 盖被"
+      "adj. providing or experiencing physical well-being or relief ('comfy' is informal); free from stress or conducive to mental ease; having or affording peace of mind"
     ],
     "usphone": "ˈkʌmftəbl; ˈkʌmfətəbl",
     "ukphone": "ˈkʌmftəbl; ˈkʌmfətəbl"
@@ -888,7 +947,8 @@
   {
     "name": "hook",
     "trans": [
-      "n. 挂钩，吊钩 vt. 钩住；引上钩 vi. 钩住；弯成钩状 n. (Hook)人名；(德、荷)霍克；(英)胡克"
+      "n. a catch for locking a door",
+      "v. fasten with a hook; rip off; ask an unreasonable price"
     ],
     "usphone": "hʊk",
     "ukphone": "hʊk"
@@ -896,13 +956,14 @@
   {
     "name": "marshmallows",
     "trans": [
-      "n. 棉花糖（marshmallow的复数）；药属葵蜜饯"
+      "n. spongy confection made of gelatin and sugar and corn syrup and dusted with powdered sugar"
     ]
   },
   {
     "name": "wriggle",
     "trans": [
-      "vi. 蠕动；蜿蜒而行 vt. 使蠕动；蠕动到；不知不觉地潜入 n. 蠕动；扭动"
+      "v. to move in a twisting or contorted motion, (especially when struggling)",
+      "n. the act of wiggling"
     ],
     "usphone": "ˈrɪɡl",
     "ukphone": "ˈrɪɡl"
@@ -910,7 +971,7 @@
   {
     "name": "ability",
     "trans": [
-      "n. 能力，能耐；才能"
+      "n. the quality of being able to perform; a quality that permits or facilitates achievement or accomplishment"
     ],
     "usphone": "əˈbɪləti",
     "ukphone": "əˈbɪləti"
@@ -918,7 +979,7 @@
   {
     "name": "China",
     "trans": [
-      "n. 瓷器 adj. 瓷制的 n. (China) 中国 adj. (China) 中国的"
+      "n. a communist nation that covers a vast territory in eastern Asia; the most populous country in the world; high quality porcelain originally made only in China"
     ],
     "usphone": "ˈtʃaɪnə",
     "ukphone": "ˈtʃaɪnə"
@@ -926,7 +987,7 @@
   {
     "name": "dungeon",
     "trans": [
-      "n. 地牢，土牢"
+      "n. the main tower within the walls of a medieval castle or fortress"
     ],
     "usphone": "ˈdʌndʒən",
     "ukphone": "ˈdʌndʒən"
@@ -934,7 +995,7 @@
   {
     "name": "greedy",
     "trans": [
-      "adj. 贪婪的；贪吃的；渴望的"
+      "adj. immoderately desirous of acquiring e.g. wealth"
     ],
     "usphone": "ˈɡriːdi",
     "ukphone": "ˈɡriːdi"
@@ -942,7 +1003,7 @@
   {
     "name": "magistrate",
     "trans": [
-      "n. 地方法官；文职官员；治安推事"
+      "n. a lay judge or civil authority who administers the law (especially one who conducts a court dealing with minor offenses)"
     ],
     "usphone": "ˈmædʒɪstreɪt",
     "ukphone": "ˈmædʒɪstreɪt"
@@ -950,7 +1011,8 @@
   {
     "name": "against",
     "trans": [
-      "prep. 反对，违反；对……不利；紧靠，倚，碰撞；针对；预防，抵御；（体育比赛）对阵；以……为背景；参照，和……相比；（赌博）预计……的失败"
+      "prep. in opposition to",
+      "prep. in contact with and pressing on"
     ],
     "usphone": "əˈɡenst; əˈɡeɪnst",
     "ukphone": "əˈɡenst; əˈɡeɪnst"
@@ -958,7 +1020,7 @@
   {
     "name": "caught",
     "trans": [
-      "v. 捕捉（catch的过去分词）"
+      "v. discover or come upon accidentally, suddenly, or unexpectedly; catch somebody doing something or in a certain state"
     ],
     "usphone": "kɔːt",
     "ukphone": "kɔːt"
@@ -966,7 +1028,8 @@
   {
     "name": "howl",
     "trans": [
-      "v. （狗、狼等）嚎叫；（因疼痛、愤怒等）大声叫喊；（风）怒号；怒吼；嚎啕大哭 n. （狗、狼等的）嚎叫；（因痛苦、恐惧等的）吼叫；（劲风的）呼啸；颤噪效应"
+      "v. emit long loud cries",
+      "n. a long loud emotional utterance"
     ],
     "usphone": "haʊl",
     "ukphone": "haʊl"
@@ -974,7 +1037,8 @@
   {
     "name": "kite",
     "trans": [
-      "n. 风筝 vi. 使用空头支票；像风筝一样飞；轻快地移动 vt. 骗钱；涂改（支票） n. (Kite)人名；(塞)基特；(英)凯特"
+      "n. a bank check that has been fraudulently altered to increase its face value",
+      "v. increase the amount (of a check) fraudulently"
     ],
     "usphone": "kaɪt",
     "ukphone": "kaɪt"
@@ -982,7 +1046,8 @@
   {
     "name": "speck",
     "trans": [
-      "n. 灰尘；污点；小颗粒 vt. 使有斑点 n. (Speck)人名；(英)斯佩克；(德)施佩克"
+      "n. a very small spot; (nontechnical usage) a tiny piece of anything",
+      "v. produce specks in or on"
     ],
     "usphone": "spek",
     "ukphone": "spek"
@@ -990,7 +1055,8 @@
   {
     "name": "trouble",
     "trans": [
-      "n. 麻烦；烦恼；故障；动乱 vt. 麻烦；使烦恼；折磨 vi. 费心，烦恼"
+      "n. a source of difficulty; an angry disturbance",
+      "v. move deeply; to cause inconvenience or discomfort to"
     ],
     "usphone": "ˈtrʌbl",
     "ukphone": "ˈtrʌbl"
@@ -998,7 +1064,8 @@
   {
     "name": "course",
     "trans": [
-      "n. 科目；课程；过程；进程；道路；路线，航向；一道菜 vt. 追赶；跑过 vi. 指引航线；快跑"
+      "n. education imparted in a series of lessons or meetings; a connected series of events or actions or developments",
+      "v. move swiftly through or over"
     ],
     "usphone": "kɔːs",
     "ukphone": "kɔːs"
@@ -1006,7 +1073,7 @@
   {
     "name": "democracy",
     "trans": [
-      "n. 民主，民主主义；民主政治"
+      "n. the political orientation of those who favor government by the people or by their elected representatives"
     ],
     "usphone": "dɪˈmɒkrəsi",
     "ukphone": "dɪˈmɒkrəsi"
@@ -1014,7 +1081,7 @@
   {
     "name": "plains",
     "trans": [
-      "n. 平地，平原（plain的复数）"
+      "n. extensive tract of level open land"
     ],
     "usphone": "pleinz",
     "ukphone": "pleinz"
@@ -1022,7 +1089,8 @@
   {
     "name": "range",
     "trans": [
-      "n. 范围；幅度；排；山脉 vi. （在...内）变动；平行，列为一行；延伸；漫游；射程达到 vt. 漫游；放牧；使并列；归类于；来回走动"
+      "n. an area in which something acts or operates or has power or control:; the limits within which something can be effective",
+      "v. change or be different within limits; move about aimlessly or without any destination, often in search of food or employment"
     ],
     "usphone": "reɪndʒ",
     "ukphone": "reɪndʒ"
@@ -1030,7 +1098,7 @@
   {
     "name": "revolution",
     "trans": [
-      "n. 革命；旋转；运行；循环"
+      "n. a drastic and far-reaching change in ways of thinking and behaving; the overthrow of a government by those who are governed"
     ],
     "usphone": "ˌrevəˈluːʃn",
     "ukphone": "ˌrevəˈluːʃn"
@@ -1038,7 +1106,7 @@
   {
     "name": "tourist",
     "trans": [
-      "n. 旅行者，观光客 adj. 旅游的 vt. 在旅行参观 vi. 旅游；观光 adv. 坐旅游车厢；坐经济舱"
+      "n. someone who travels for pleasure"
     ],
     "usphone": "ˈtʊərɪst; ˈtɔːrɪst",
     "ukphone": "ˈtʊərɪst; ˈtɔːrɪst"
@@ -1046,7 +1114,7 @@
   {
     "name": "aquarium",
     "trans": [
-      "n. 水族馆；养鱼缸；水族箱"
+      "n. a tank or pool or bowl filled with water for keeping live fish and underwater animals"
     ],
     "usphone": "əˈkweəriəm",
     "ukphone": "əˈkweəriəm"
@@ -1054,13 +1122,13 @@
   {
     "name": "barbecued",
     "trans": [
-      "户外烧烤（ barbecue的过去式和过去分词 ）"
+      "adj. cooked over an outdoor grill"
     ]
   },
   {
     "name": "ping-pong",
     "trans": [
-      "n. 乒乓球；桌球（等于 table tennis） v. 移动；跳跃"
+      "n. a game (trademark Ping-Pong) resembling tennis but played on a table with paddles and a light hollow ball"
     ],
     "usphone": "ˈpɪŋ pɒŋ",
     "ukphone": "ˈpɪŋ pɒŋ"
@@ -1068,7 +1136,7 @@
   {
     "name": "porridge",
     "trans": [
-      "n. 粥，糊；麦片粥 vt. 服刑"
+      "n. soft food made by boiling oatmeal or other meal or legumes in water or milk until thick"
     ],
     "usphone": "ˈpɒrɪdʒ",
     "ukphone": "ˈpɒrɪdʒ"
@@ -1076,7 +1144,7 @@
   {
     "name": "silk",
     "trans": [
-      "n. 丝绸；蚕丝；丝织物 adj. 丝的；丝绸的；丝制的 vi. （玉米）处于长须的阶段中 n. (Silk)人名；(英、瑞典)西尔克"
+      "n. a fabric made from the fine threads produced by certain insect larvae…"
     ],
     "usphone": "sɪlk",
     "ukphone": "sɪlk"
@@ -1084,7 +1152,9 @@
   {
     "name": "uniform",
     "trans": [
-      "adj. 统一的；一致的；相同的；均衡的；始终如一的 n. 制服 vt. 使穿制服；使成一样"
+      "adj. always the same; showing a single form or character in all occurrences; the same throughout in structure or composition",
+      "n. clothing of distinctive design worn by members of a particular group as a means of identification",
+      "v. provide with uniforms"
     ],
     "usphone": "ˈjuːnɪfɔːm",
     "ukphone": "ˈjuːnɪfɔːm"
@@ -1092,7 +1162,7 @@
   {
     "name": "communicate",
     "trans": [
-      "vi. 通讯，传达；相通；交流；感染 vt. 传达；感染；显露"
+      "v. transmit information; transmit thoughts or feelings"
     ],
     "usphone": "kəˈmjuːnɪkeɪt",
     "ukphone": "kəˈmjuːnɪkeɪt"
@@ -1100,7 +1170,7 @@
   {
     "name": "endangered",
     "trans": [
-      "adj. 濒临灭绝的；有生命危险的"
+      "adj. (of flora or fauna) in imminent danger of extinction"
     ],
     "usphone": "ɪnˈdeɪndʒəd",
     "ukphone": "ɪnˈdeɪndʒəd"
@@ -1108,7 +1178,7 @@
   {
     "name": "family",
     "trans": [
-      "n. 家庭；亲属；家族；子女；[生]科；语族；[化]族 adj. 家庭的；家族的；适合于全家的"
+      "n. a social unit living together; primary social group; parents and children"
     ],
     "usphone": "ˈfæməli",
     "ukphone": "ˈfæməli"
@@ -1116,7 +1186,8 @@
   {
     "name": "groom",
     "trans": [
-      "v. （给动物）刷洗； （给自己或其他动物）梳毛；（使）整洁；照料（草坪、滑雪坡等）；（使）做好准备；诱骗（儿童以图对其实施性侵犯） n. 马夫；新郎；王室侍从官 n. (Groom) （美）格鲁姆（人名）"
+      "v. educate for a future role or function; give a neat appearance to",
+      "n. a man participant in his own marriage ceremony"
     ],
     "usphone": "ɡruːm",
     "ukphone": "ɡruːm"
@@ -1124,7 +1195,8 @@
   {
     "name": "lowland",
     "trans": [
-      "n. 低地 adj. 低地的"
+      "n. low level country",
+      "adj. of relatively low or level country"
     ],
     "usphone": "ˈləʊlənd",
     "ukphone": "ˈləʊlənd"
@@ -1132,7 +1204,7 @@
   {
     "name": "primate",
     "trans": [
-      "n. 灵长目动物（包括人、猴子等）；大主教；首领 adj. 灵长目动物的；大主教的"
+      "n. a senior clergyman and dignitary"
     ],
     "usphone": "'praɪmeɪt; -mət",
     "ukphone": "'praɪmeɪt; -mət"
@@ -1140,7 +1212,7 @@
   {
     "name": "dangerous",
     "trans": [
-      "adj. 危险的 危险地"
+      "adj. involving or causing danger or risk; liable to hurt or harm; causing fear or anxiety by threatening great harm"
     ],
     "usphone": "ˈdeɪndʒərəs",
     "ukphone": "ˈdeɪndʒərəs"
@@ -1148,7 +1220,7 @@
   {
     "name": "erosion",
     "trans": [
-      "n. 侵蚀，腐蚀"
+      "n. (geology) the mechanical process of wearing or grinding something down (as by particles washing over it)"
     ],
     "usphone": "ɪˈrəʊʒn",
     "ukphone": "ɪˈrəʊʒn"
@@ -1156,7 +1228,7 @@
   {
     "name": "national park",
     "trans": [
-      "（美）国家公园"
+      "n. a tract of land declared by the national government to be public property"
     ],
     "usphone": "ˌnæʃnəl ˈpɑːk",
     "ukphone": "ˌnæʃnəl ˈpɑːk"
@@ -1164,7 +1236,7 @@
   {
     "name": "protected",
     "trans": [
-      "adj. 受保护的 v. 保护；防卫（protect的过去分词）"
+      "adj. kept safe or defended from danger or injury or loss"
     ],
     "usphone": "prə'tektɪd",
     "ukphone": "prə'tektɪd"
@@ -1172,7 +1244,7 @@
   {
     "name": "sediment",
     "trans": [
-      "n. 沉积；沉淀物"
+      "n. matter that has been deposited by some natural process"
     ],
     "usphone": "ˈsedɪmənt",
     "ukphone": "ˈsedɪmənt"
@@ -1180,7 +1252,7 @@
   {
     "name": "tribe",
     "trans": [
-      "n. 部落；族；宗族；一伙 n. (Tribe)人名；(英)特赖布"
+      "n. a social division of (usually preliterate) people"
     ],
     "usphone": "traɪb",
     "ukphone": "traɪb"
@@ -1188,7 +1260,9 @@
   {
     "name": "alien",
     "trans": [
-      "adj. 外国的；相异的，性质不同的；不相容的 n. 外国人，外侨；外星人 vt. 让渡，转让 n. (Alien)人名；(法)阿利安"
+      "adj. not contained in or deriving from the essential nature of something; being or from or characteristic of another place or part of the world",
+      "n. a person who comes from a foreign country; someone who does not owe allegiance to your country",
+      "v. transfer property or ownership"
     ],
     "usphone": "ˈeɪliən",
     "ukphone": "ˈeɪliən"
@@ -1196,7 +1270,7 @@
   {
     "name": "blaster",
     "trans": [
-      "n. 导火线，爆裂药；爆破工"
+      "n. a workman employed to blast with explosives"
     ],
     "usphone": "'blɑːstə",
     "ukphone": "'blɑːstə"
@@ -1204,7 +1278,7 @@
   {
     "name": "lesson",
     "trans": [
-      "n. 教训；课 vt. 教训；上课"
+      "n. a unit of instruction; punishment intended as a warning to others"
     ],
     "usphone": "ˈlesn",
     "ukphone": "ˈlesn"
@@ -1212,7 +1286,8 @@
   {
     "name": "suit",
     "trans": [
-      "n. 套装，西装；（从事特定活动时穿的）成套服装；（扑克牌中）所有同花色的牌；一副盔甲；一套蓬帆；诉讼；（非正式）（具影响力的）高级管理人员；追求（尤指求婚）；（诗、文）（向当权者提出的）请愿 v. 满足（某人）需要；相配，合身；适合；（尤指为特定的活动）穿衣"
+      "n. a set of garments (usually including a jacket and trousers or skirt) for outerwear all of the same fabric and color",
+      "v. be agreeable or acceptable to; be agreeable or acceptable"
     ],
     "usphone": "suːt; sjuːt",
     "ukphone": "suːt; sjuːt"
@@ -1220,7 +1295,7 @@
   {
     "name": "take over",
     "trans": [
-      "接管；接收"
+      "v. seize and take control without authority and possibly with force; take as one's right or possession; take on titles, offices, duties, responsibilities"
     ],
     "usphone": "tek ˈovɚ",
     "ukphone": "tek ˈovɚ"
@@ -1228,7 +1303,7 @@
   {
     "name": "teleport",
     "trans": [
-      "v. 心灵运输（物体、人）；远距离传送 n. 通信卫星；心灵传输"
+      "v. transport by dematerializing at one point and assembling at another"
     ],
     "usphone": "ˈtelɪpɔːt",
     "ukphone": "ˈtelɪpɔːt"
@@ -1236,7 +1311,8 @@
   {
     "name": "active",
     "trans": [
-      "adj. 积极的；活跃的；主动的；有效的；现役的 n. 主动语态；积极分子"
+      "adj. tending to become more severe or wider in scope; engaged in or ready for military or naval operations",
+      "n. chemical agent capable of activity"
     ],
     "usphone": "ˈæktɪv",
     "ukphone": "ˈæktɪv"
@@ -1244,7 +1320,7 @@
   {
     "name": "erupt",
     "trans": [
-      "vi. 爆发；喷出；发疹；长牙 vt. 爆发；喷出"
+      "v. start abruptly; erupt or intensify suddenly"
     ],
     "usphone": "ɪˈrʌpt",
     "ukphone": "ɪˈrʌpt"
@@ -1252,7 +1328,7 @@
   {
     "name": "lava",
     "trans": [
-      "n. 火山岩浆；火山所喷出的熔岩 n. (Lava)人名；(西、意)拉瓦"
+      "n. rock that in its molten form (as magma) issues from volcanos; lava is what magma is called when it reaches the surface"
     ],
     "usphone": "ˈlɑːvə",
     "ukphone": "ˈlɑːvə"
@@ -1260,7 +1336,7 @@
   {
     "name": "rainforest",
     "trans": [
-      "n. （热带）雨林"
+      "n. a forest with heavy annual rainfall"
     ],
     "usphone": "ˈreɪnfɒrɪst",
     "ukphone": "ˈreɪnfɒrɪst"
@@ -1268,7 +1344,7 @@
   {
     "name": "conversation",
     "trans": [
-      "n. 交谈，会话；社交；交往，交际；会谈；（人与计算机的）人机对话"
+      "n. the use of speech for informal exchange of views or ideas or information etc."
     ],
     "usphone": "ˌkɒnvəˈseɪʃn",
     "ukphone": "ˌkɒnvəˈseɪʃn"
@@ -1276,7 +1352,7 @@
   {
     "name": "deaf",
     "trans": [
-      "adj. 聋的"
+      "adj. lacking or deprived of the sense of hearing wholly or in part"
     ],
     "usphone": "def",
     "ukphone": "def"
@@ -1284,7 +1360,8 @@
   {
     "name": "gesture",
     "trans": [
-      "n. 姿态；手势 vi. 作手势；用动作示意 vt. 用动作表示"
+      "n. motion of hands or body to emphasize or help to express a thought or feeling",
+      "v. show, express or direct through movement"
     ],
     "usphone": "ˈdʒestʃə(r)",
     "ukphone": "ˈdʒestʃə(r)"
@@ -1292,7 +1369,7 @@
   {
     "name": "shoo",
     "trans": [
-      "int. 嘘（赶走鸟等时所发声音） v. 发出嘘声将……赶走"
+      "v. drive away by crying 'shoo!'"
     ],
     "usphone": "ʃuː",
     "ukphone": "ʃuː"
@@ -1300,7 +1377,8 @@
   {
     "name": "sign",
     "trans": [
-      "n. 迹象；符号；记号；手势；指示牌 vi. 签署；签名 vt. 签署；示意"
+      "n. a perceptible indication of something not immediately apparent (as a visible clue that something has happened); a public display of a message",
+      "v. mark with one's signature; write one's name (on); approve and express assent, responsibility, or obligation"
     ],
     "usphone": "saɪn",
     "ukphone": "saɪn"
@@ -1308,7 +1386,7 @@
   {
     "name": "cymbal",
     "trans": [
-      "n. 铙钹"
+      "n. a percussion instrument consisting of a concave brass disk; makes a loud crashing sound when hit with a drumstick or when two are struck together"
     ],
     "usphone": "ˈsɪmbl",
     "ukphone": "ˈsɪmbl"
@@ -1316,7 +1394,8 @@
   {
     "name": "instrument",
     "trans": [
-      "n. 仪器；工具；乐器；手段；器械 v. 给……装测量仪器"
+      "n. a device that requires skill for proper use; the means whereby some act is accomplished",
+      "v. equip with instruments for measuring, recording, or controlling"
     ],
     "usphone": "ˈɪnstrəmənt",
     "ukphone": "ˈɪnstrəmənt"
@@ -1324,7 +1403,8 @@
   {
     "name": "military",
     "trans": [
-      "adj. 军事的；军人的；适于战争的 n. 军队；军人"
+      "adj. of or relating to the study of the principles of warfare; characteristic of or associated with soldiers or the military",
+      "n. the military forces of a nation"
     ],
     "usphone": "ˈmɪlətri",
     "ukphone": "ˈmɪlətri"
@@ -1332,7 +1412,8 @@
   {
     "name": "salute",
     "trans": [
-      "n. 致敬，欢迎；敬礼 vt. 行礼致敬，欢迎 vi. 致意，打招呼；行礼"
+      "n. an act of honor or courteous recognition",
+      "v. propose a toast to; greet in a friendly way"
     ],
     "usphone": "səˈluːt",
     "ukphone": "səˈluːt"
@@ -1340,7 +1421,7 @@
   {
     "name": "tracing",
     "trans": [
-      "v. 找到；追溯；追踪；沿……走；描绘；画（线）；勾画出（轮廓）；描摹；研究……的历史（trace 的现在分词） n. 摹图；淡淡的痕迹；冰上划痕；痕迹；追踪时留下的复制档案"
+      "n. the act of drawing a plan or diagram or outline"
     ],
     "usphone": "ˈtreɪsɪŋ",
     "ukphone": "ˈtreɪsɪŋ"
@@ -1348,7 +1429,8 @@
   {
     "name": "alike",
     "trans": [
-      "adj. 相似的；相像的 adv. 十分相像地，很相似地；两者都，同样地；同等对待地，一视同仁地 n. (Alike) （印、美）艾立凯（人名）"
+      "adj. having the same or similar characteristics",
+      "adv. equally"
     ],
     "usphone": "əˈlaɪk",
     "ukphone": "əˈlaɪk"
@@ -1356,7 +1438,7 @@
   {
     "name": "collection",
     "trans": [
-      "n. 采集，聚集；[税收] 征收；收藏品；募捐"
+      "n. several things grouped together or considered as a whole; a publication containing a variety of works"
     ],
     "usphone": "kəˈlekʃn",
     "ukphone": "kəˈlekʃn"
@@ -1364,7 +1446,7 @@
   {
     "name": "hobby",
     "trans": [
-      "n. 嗜好；业余爱好 n. (Hobby)人名；(英)霍比"
+      "n. an auxiliary activity"
     ],
     "usphone": "ˈhɒbi",
     "ukphone": "ˈhɒbi"
@@ -1372,7 +1454,7 @@
   {
     "name": "keepsake",
     "trans": [
-      "n. 纪念品"
+      "n. something of sentimental value"
     ],
     "usphone": "ˈkiːpseɪk",
     "ukphone": "ˈkiːpseɪk"
@@ -1380,7 +1462,7 @@
   {
     "name": "popular",
     "trans": [
-      "adj. 流行的，通俗的；受欢迎的；大众的；普及的"
+      "adj. regarded with great favor, approval, or affection especially by the general public; carried on by or for the people (or citizens) at large"
     ],
     "usphone": "ˈpɒpjələ(r)",
     "ukphone": "ˈpɒpjələ(r)"
@@ -1388,7 +1470,8 @@
   {
     "name": "type",
     "trans": [
-      "n. 类型，品种；模范；样式 vt. 打字；测定（血等）类型 vi. 打字 n. (Type)人名；(英)泰普"
+      "n. a subdivision of a particular kind of thing; a person of a specified kind (usually with many eccentricities)",
+      "v. write by means of a keyboard with types; identify as belonging to a certain type"
     ],
     "usphone": "taɪp",
     "ukphone": "taɪp"
@@ -1396,7 +1479,7 @@
   {
     "name": "burner",
     "trans": [
-      "n. 燃烧器；火炉；[化工] 燃烧炉；灯头 n. (Burner)人名；(法)比尔内；(德)布尔纳"
+      "n. an apparatus for burning fuel (or refuse)"
     ],
     "usphone": "ˈbɜːnə(r)",
     "ukphone": "ˈbɜːnə(r)"
@@ -1404,7 +1487,8 @@
   {
     "name": "fuel",
     "trans": [
-      "n. 燃料；刺激因素；（为身体提供能量的）食物 vt. 给……提供燃料；刺激，煽动；推动 vi. 得到燃料 n. (Fuel) （美）傅爱乐（人名）"
+      "n. a substance that can be consumed to produce energy",
+      "v. provide with a combustible substance that provides energy"
     ],
     "usphone": "ˈfjuːəl",
     "ukphone": "ˈfjuːəl"
@@ -1412,7 +1496,7 @@
   {
     "name": "nylon",
     "trans": [
-      "n. 尼龙，[纺] 聚酰胺纤维；尼龙袜"
+      "n. a thermoplastic polyamide; a family of strong resilient synthetic fibers"
     ],
     "usphone": "ˈnaɪlɒn",
     "ukphone": "ˈnaɪlɒn"
@@ -1420,7 +1504,7 @@
   {
     "name": "oxygen",
     "trans": [
-      "n. [化学] 氧气，[化学] 氧"
+      "n. a nonmetallic bivalent element that is normally a colorless odorless tasteless nonflammable diatomic gas; constitutes 21 percent of the atmosphere by volume…"
     ],
     "usphone": "ˈɒksɪdʒən",
     "ukphone": "ˈɒksɪdʒən"
@@ -1428,7 +1512,7 @@
   {
     "name": "satellite",
     "trans": [
-      "n. 卫星；人造卫星；随从；卫星国家"
+      "n. man-made equipment that orbits around the earth or the moon"
     ],
     "usphone": "ˈsætəlaɪt",
     "ukphone": "ˈsætəlaɪt"
@@ -1436,7 +1520,7 @@
   {
     "name": "scenery",
     "trans": [
-      "n. 风景；景色；舞台布景"
+      "n. the painted structures of a stage set that are intended to suggest a particular locale; the appearance of a place"
     ],
     "usphone": "ˈsiːnəri",
     "ukphone": "ˈsiːnəri"
@@ -1444,7 +1528,7 @@
   {
     "name": "audience",
     "trans": [
-      "n. 观众；听众；读者；接见；正式会见；拜会"
+      "n. a gathering of spectators or listeners at a (usually public) performance; the part of the general public interested in a source of information or entertainment"
     ],
     "usphone": "ˈɔːdiəns",
     "ukphone": "ˈɔːdiəns"
@@ -1452,7 +1536,8 @@
   {
     "name": "elevated",
     "trans": [
-      "adj. 提高的；高尚的；严肃的；欢欣的 v. 提高；抬起；振奋；提拔（elevate的过去分词） n. 高架铁路"
+      "adj. raised above the ground",
+      "n. a railway that is powered by electricity and that runs on a track that is raised above the street level"
     ],
     "usphone": "ˈelɪveɪtɪd",
     "ukphone": "ˈelɪveɪtɪd"
@@ -1460,7 +1545,7 @@
   {
     "name": "fountain",
     "trans": [
-      "n. 喷泉，泉水；源泉 n. (Fountain)人名；(英)方丹"
+      "n. a structure from which an artificially produced jet of water arises"
     ],
     "usphone": "ˈfaʊntən",
     "ukphone": "ˈfaʊntən"
@@ -1468,7 +1553,7 @@
   {
     "name": "platform",
     "trans": [
-      "n. 平台；月台，站台；坛；讲台"
+      "n. a raised horizontal surface; a document stating the aims and principles of a political party"
     ],
     "usphone": "ˈplætfɔːm",
     "ukphone": "ˈplætfɔːm"
@@ -1476,7 +1561,7 @@
   {
     "name": "reflection",
     "trans": [
-      "n. 反射；沉思；映象"
+      "n. a calm, lengthy, intent consideration; the phenomenon of a propagating wave (light or sound) being thrown back from a surface"
     ],
     "usphone": "rɪˈflekʃn",
     "ukphone": "rɪˈflekʃn"
@@ -1484,7 +1569,7 @@
   {
     "name": "theater",
     "trans": [
-      "n. 电影院，戏院，剧场；戏剧；手术室"
+      "n. a building where theatrical performances or motion-picture shows can be presented; the art of writing and producing plays"
     ],
     "usphone": "'θɪətə",
     "ukphone": "'θɪətə"
@@ -1492,7 +1577,7 @@
   {
     "name": "discover",
     "trans": [
-      "vt. 发现；发觉 vi. 发现"
+      "v. discover or determine the existence, presence, or fact of; get to know or become aware of, usually accidentally"
     ],
     "usphone": "dɪˈskʌvə(r)",
     "ukphone": "dɪˈskʌvə(r)"
@@ -1500,7 +1585,8 @@
   {
     "name": "fantasy",
     "trans": [
-      "n. 幻想；白日梦；幻觉 adj. 虚幻的 vt. 空想；想像 vi. 耽于幻想；奏幻想曲（等于phantasy）"
+      "n. imagination unrestricted by reality; fiction with a large amount of imagination in it",
+      "v. indulge in fantasies"
     ],
     "usphone": "ˈfæntəsi",
     "ukphone": "ˈfæntəsi"
@@ -1508,7 +1594,7 @@
   {
     "name": "galaxy",
     "trans": [
-      "n. [天] 星系；银河系（the Galaxy）；一群显赫的人 n. 三星智能手机品牌 2015年三星中国公布Galaxy的中文名称为“盖乐世”（Galaxy） [ 复数galaxies ]"
+      "n. a splendid assemblage (especially of famous people)"
     ],
     "usphone": "ˈɡæləksi",
     "ukphone": "ˈɡæləksi"
@@ -1516,7 +1602,7 @@
   {
     "name": "possibility",
     "trans": [
-      "n. 可能性；可能发生的事物"
+      "n. a future prospect or potential; capability of existing or happening or being true"
     ],
     "usphone": "ˌpɒsəˈbɪləti",
     "ukphone": "ˌpɒsəˈbɪləti"
@@ -1524,7 +1610,8 @@
   {
     "name": "stew",
     "trans": [
-      "n. 炖煮的菜肴；焦虑，不安；（古）热浴室；妓院；鱼塘，大鱼桶；（非正式）乘务员；烦恼，闷热 v. （肉、水果等食物）炖，焖；（茶）（因久泡）变浓变苦；忧虑；受闷热；（诗/文）沉浸于 n. (Stew) （英、美、加、俄）斯图（人名）"
+      "n. agitation resulting from active worry",
+      "v. be in a huff; be silent or sullen"
     ],
     "usphone": "stjuː",
     "ukphone": "stjuː"
@@ -1532,7 +1619,8 @@
   {
     "name": "vet",
     "trans": [
-      "n. 兽医；兽医诊所；老兵；审查 v. 审查，检查；作兽医；诊疗 n. (Vet) （荷，俄）韦特（人名）"
+      "n. a doctor who practices veterinary medicine",
+      "v. work as a veterinarian"
     ],
     "usphone": "vet",
     "ukphone": "vet"
@@ -1540,7 +1628,7 @@
   {
     "name": "allergic",
     "trans": [
-      "adj. 对…过敏的；对…极讨厌的"
+      "adj. characterized by or caused by allergy"
     ],
     "usphone": "əˈlɜːdʒɪk",
     "ukphone": "əˈlɜːdʒɪk"
@@ -1548,7 +1636,7 @@
   {
     "name": "allergy",
     "trans": [
-      "n. 过敏症；反感；厌恶"
+      "n. hypersensitivity reaction to a particular allergen; symptoms can vary greatly in intensity"
     ],
     "usphone": "ˈælədʒi",
     "ukphone": "ˈælədʒi"
@@ -1556,7 +1644,7 @@
   {
     "name": "ingredient",
     "trans": [
-      "n. 原料；要素；组成部分 adj. 构成组成部分的"
+      "n. a component of a mixture or compound; an abstract part of something"
     ],
     "usphone": "ɪnˈɡriːdiənt",
     "ukphone": "ɪnˈɡriːdiənt"
@@ -1564,7 +1652,8 @@
   {
     "name": "medicine",
     "trans": [
-      "n. 药；医学；内科；巫术 vt. 用药物治疗；给…用药"
+      "n. the branches of medical science that deal with nonsurgical techniques; (medicine) something that treats or prevents or alleviates the symptoms of disease",
+      "v. treat medicinally, treat with medicine"
     ],
     "usphone": "ˈmedsn; ˈmedɪsn",
     "ukphone": "ˈmedsn; ˈmedɪsn"
@@ -1572,7 +1661,7 @@
   {
     "name": "peanut",
     "trans": [
-      "n. 花生"
+      "n. underground pod of the peanut vine"
     ],
     "usphone": "ˈpiːnʌt",
     "ukphone": "ˈpiːnʌt"
@@ -1580,7 +1669,8 @@
   {
     "name": "wheeze",
     "trans": [
-      "v. 喘息；喘息地说出；气喘吁吁地走动；（器械）气喘似的响 n. 喘息声；（非正式）巧妙主意；（不再好笑的）过时笑话"
+      "v. breathe with difficulty",
+      "n. breathing with a husky or whistling sound"
     ],
     "usphone": "wiːz",
     "ukphone": "wiːz"
@@ -1588,7 +1678,8 @@
   {
     "name": "desert",
     "trans": [
-      "n. 沙漠，荒原；沉闷乏味的境况（或地区），冷清的地方；应得的赏罚（常用复数） v. 遗弃；舍弃，离弃（某地方）；（士兵）擅离（部队）；逃走；开小差；放弃，撇下不管；背离，使失望；（感觉、品质或技艺）离开，丧失 adj. 沙漠的；荒凉的；被抛弃的"
+      "n. arid land with little or no vegetation",
+      "v. leave someone who needs or counts on you; leave in the lurch; desert (a cause, a country or an army), often in order to join the opposing cause, country…"
     ],
     "usphone": "(for v.) dɪ'zɜːt; (for n.) 'dezət",
     "ukphone": "(for v.) dɪ'zɜːt; (for n.) 'dezət"
@@ -1596,7 +1687,7 @@
   {
     "name": "festival",
     "trans": [
-      "n. 节日；庆祝，纪念活动；欢乐 adj. 节日的，喜庆的；快乐的"
+      "n. a day or period of time set aside for feasting and celebration"
     ],
     "usphone": "ˈfestɪvl",
     "ukphone": "ˈfestɪvl"
@@ -1604,7 +1695,7 @@
   {
     "name": "firecracker",
     "trans": [
-      "n. 鞭炮，爆竹"
+      "n. firework consisting of a small explosive charge and fuse in a heavy paper casing"
     ],
     "usphone": "ˈfaɪəkrækə(r)",
     "ukphone": "ˈfaɪəkrækə(r)"
@@ -1612,7 +1703,8 @@
   {
     "name": "Hindu",
     "trans": [
-      "adj. (Hindu) 印度的；印度教的 n. (Hindu) 印度人；印度教教徒 n. (Hindu) （印、美、英、俄、加）欣杜（人名）"
+      "adj. of or relating to or supporting Hinduism",
+      "n. a native or inhabitant of Hindustan or India"
     ],
     "usphone": "ˈhɪnduː; ˌhɪnˈduː",
     "ukphone": "ˈhɪnduː; ˌhɪnˈduː"
@@ -1620,7 +1712,7 @@
   {
     "name": "mangrove",
     "trans": [
-      "n. 红树林"
+      "n. a tropical tree or shrub bearing fruit that germinates while still on the tree and having numerous prop roots that eventually form an impenetrable mass and are…"
     ],
     "usphone": "ˈmæŋɡrəʊv",
     "ukphone": "ˈmæŋɡrəʊv"
@@ -1628,7 +1720,7 @@
   {
     "name": "monsoon",
     "trans": [
-      "n. 季风；（印度等地的）雨季；季候风"
+      "n. a seasonal wind in southern Asia; blows from the southwest (bringing rain) in summer and from the northeast in winter"
     ],
     "usphone": "ˌmɒnˈsuːn",
     "ukphone": "ˌmɒnˈsuːn"
@@ -1636,7 +1728,8 @@
   {
     "name": "cuckoo",
     "trans": [
-      "n. 布谷鸟；杜鹃鸟；傻子；咕咕声 adj. 愚笨的；疯狂的 vi. 学杜鹃叫 vt. 不停地重复"
+      "n. a man who is a stupid incompetent fool",
+      "v. repeat monotonously, like a cuckoo repeats his call"
     ],
     "usphone": "ˈkʊkuː",
     "ukphone": "ˈkʊkuː"
@@ -1644,7 +1737,7 @@
   {
     "name": "sundial",
     "trans": [
-      "n. 日晷，日规；羽扇豆（产于美国东部）"
+      "n. timepiece that indicates the daylight hours by the shadow that the gnomon casts on a calibrated dial"
     ],
     "usphone": "ˈsʌndaɪəl",
     "ukphone": "ˈsʌndaɪəl"
@@ -1652,13 +1745,14 @@
   {
     "name": "carved",
     "trans": [
-      "adj. 有雕刻的 v. 雕刻（carve的过去式和过去分词）"
+      "adj. made for or formed by carving ('carven' is archaic or literary)"
     ]
   },
   {
     "name": "curse",
     "trans": [
-      "n. 诅咒；咒骂 vt. 诅咒；咒骂 vi. 诅咒；咒骂"
+      "n. profane or obscene expression usually of surprise or anger; an appeal to some supernatural power to inflict evil on someone or some group",
+      "v. utter obscenities or profanities; heap obscenities upon"
     ],
     "usphone": "kɜːs",
     "ukphone": "kɜːs"
@@ -1666,7 +1760,8 @@
   {
     "name": "design",
     "trans": [
-      "n. 设计；构思；设计图样；装饰图案；打算 v. 设计，构思；计划；制造，意欲 n. (Design) （巴、印、俄）迪赛（人名）"
+      "n. the act of working out the form of something (as by making a sketch or outline or plan); an arrangement scheme",
+      "v. make or work out a plan for; devise; plan something for a specific role or purpose or effect"
     ],
     "usphone": "dɪˈzaɪn",
     "ukphone": "dɪˈzaɪn"
@@ -1674,7 +1769,8 @@
   {
     "name": "display",
     "trans": [
-      "n. 显示；炫耀 vt. 显示；表现；陈列 vi. [动] 作炫耀行为 adj. 展览的；陈列用的"
+      "n. something intended to communicate a particular impression; something shown to the public",
+      "v. to show, make visible or apparent"
     ],
     "usphone": "dɪˈspleɪ",
     "ukphone": "dɪˈspleɪ"
@@ -1682,7 +1778,7 @@
   {
     "name": "stingy",
     "trans": [
-      "adj. 吝啬的，小气的；有刺的；缺乏的"
+      "adj. unwilling to spend"
     ],
     "usphone": "ˈstɪndʒi",
     "ukphone": "ˈstɪndʒi"
@@ -1690,7 +1786,7 @@
   {
     "name": "athlete",
     "trans": [
-      "n. 运动员，体育家；身强力壮的人"
+      "n. a person trained to compete in sports"
     ],
     "usphone": "ˈæθliːt",
     "ukphone": "ˈæθliːt"
@@ -1698,7 +1794,8 @@
   {
     "name": "condition",
     "trans": [
-      "n. 条件；情况；环境；身份 vt. 决定；使适应；使健康；以…为条件"
+      "n. a state at a particular time; an assumption on which rests the validity or effect of something else",
+      "v. establish a conditioned response; develop (children's) behavior by instruction and practice; especially to teach self-control"
     ],
     "usphone": "kənˈdɪʃn",
     "ukphone": "kənˈdɪʃn"
@@ -1706,7 +1803,8 @@
   {
     "name": "prejudice",
     "trans": [
-      "n. 偏见；侵害 vt. 损害；使有偏见"
+      "n. a partiality that prevents objective consideration of an issue or situation",
+      "v. disadvantage by prejudice"
     ],
     "usphone": "ˈpredʒudɪs",
     "ukphone": "ˈpredʒudɪs"
@@ -1714,7 +1812,8 @@
   {
     "name": "professional",
     "trans": [
-      "adj. 专业的；职业的；职业性的 n. 专业人员；职业运动员"
+      "adj. engaged in a profession or engaging in as a profession or means of livelihood; of or relating to or suitable as a profession",
+      "n. a person engaged in one of the learned professions; an athlete who plays for pay"
     ],
     "usphone": "prəˈfeʃənl",
     "ukphone": "prəˈfeʃənl"
@@ -1722,7 +1821,9 @@
   {
     "name": "right",
     "trans": [
-      "adj. 正确的；直接的；右方的 vi. 复正；恢复平稳 n. 正确；右边；正义；权利 adv. 正确地；恰当地；彻底地 vt. 纠正 n. (Right)人名；(英)赖特"
+      "adj. being or located on or directed toward the side of the body to the east when facing north; free from error; especially conforming to fact or truth",
+      "v. make reparations or amends for",
+      "n. an abstract idea of that which is due to a person or governmental body by law or tradition or nature"
     ],
     "usphone": "raɪt",
     "ukphone": "raɪt"
@@ -1730,7 +1831,7 @@
   {
     "name": "segregated",
     "trans": [
-      "adj. 被隔离的 v. 隔离（segregate的过去式）；分离"
+      "adj. separated or isolated from others or a main group"
     ],
     "usphone": "'seɡrɪɡeɪtɪd",
     "ukphone": "'seɡrɪɡeɪtɪd"
@@ -1738,7 +1839,7 @@
   {
     "name": "brick",
     "trans": [
-      "n. 砖，砖块；砖形物；心肠好的人 vt. 用砖砌 adj. 用砖做的；似砖的 n. (Brick)人名；(英、法、瑞典)布里克"
+      "n. rectangular block of clay baked by the sun or in a kiln; used as a building or paving material; a good fellow; helpful and trustworthy"
     ],
     "usphone": "brɪk",
     "ukphone": "brɪk"
@@ -1746,7 +1847,8 @@
   {
     "name": "castle",
     "trans": [
-      "n. 城堡；象棋中的车 vt. 置…于城堡中；筑城堡防御 n. (Castle)人名；(英)卡斯尔"
+      "n. a large and stately mansion; a large building formerly occupied by a ruler and fortified against attack",
+      "v. move the king two squares toward a rook and in the same move the rook to the square next past the king"
     ],
     "usphone": "ˈkɑːsl",
     "ukphone": "ˈkɑːsl"
@@ -1754,7 +1856,7 @@
   {
     "name": "creation",
     "trans": [
-      "n. 创造，创作；创作物，产物"
+      "n. the human act of creating; an artifact that has been brought into existence by someone"
     ],
     "usphone": "kriˈeɪʃn",
     "ukphone": "kriˈeɪʃn"
@@ -1762,7 +1864,7 @@
   {
     "name": "destroy",
     "trans": [
-      "vt. 破坏；消灭；毁坏"
+      "v. do away with, cause the destruction or undoing of; destroy completely; damage irreparably"
     ],
     "usphone": "dɪˈstrɔɪ",
     "ukphone": "dɪˈstrɔɪ"
@@ -1770,7 +1872,9 @@
   {
     "name": "perfect",
     "trans": [
-      "adj. 完美的；最好的；精通的 vt. 使完美；使熟练 n. 完成式 n. (Perfect) （美、爱、英）珀费克特（人名）"
+      "adj. being complete of its kind and without defect or blemish",
+      "v. make perfect or complete",
+      "n. a tense of verbs used in describing action that has been completed (sometimes regarded as perfective aspect)"
     ],
     "usphone": "ˈpɜːfɪkt",
     "ukphone": "ˈpɜːfɪkt"
@@ -1778,7 +1882,8 @@
   {
     "name": "tower",
     "trans": [
-      "n. 塔；高楼；堡垒 vi. 高耸；超越 n. (Tower)人名；(英)托尔"
+      "n. a structure taller than its diameter; can stand alone or be attached to a larger building; anything that approximates the shape of a column or tower",
+      "v. appear very large or occupy a commanding position"
     ],
     "usphone": "ˈtaʊə(r)",
     "ukphone": "ˈtaʊə(r)"
@@ -1786,7 +1891,9 @@
   {
     "name": "calm",
     "trans": [
-      "adj. 静的，平静的；沉着的 vt. 使平静；使镇定 vi. 平静下来；镇定下来 n. 风平浪静 n. (Calm)人名；(法、德)卡尔姆"
+      "adj. not agitated; without losing self-possession",
+      "v. make calm or still; make steady",
+      "n. steadiness of mind under stress"
     ],
     "usphone": "kɑːm",
     "ukphone": "kɑːm"
@@ -1794,7 +1901,8 @@
   {
     "name": "frown",
     "trans": [
-      "vi. 皱眉；不同意 vt. 皱眉，蹙额 n. 皱眉，蹙额"
+      "v. look angry or sullen, wrinkle one's forehead, as if to signal disapproval",
+      "n. a facial expression of dislike or displeasure"
     ],
     "usphone": "fraʊn",
     "ukphone": "fraʊn"
@@ -1802,7 +1910,8 @@
   {
     "name": "project",
     "trans": [
-      "n. （生产或研究）工程；方案；计划；事业；项目；专题研究；住房，廉租住宅区 v. 设计；计划；抛射；投射；表现；促进（观点或意象）；确立（好印象）；突出；预测；发送；（声音）扩及远处；想象（自己或场景）在另一个时间或地点；作……投影线；（情感、愿望）无意投射转移（给别人）"
+      "n. any piece of work that is undertaken or attempted; a planned undertaking",
+      "v. communicate vividly; extend out or project in space"
     ],
     "usphone": "ˈprɒdʒekt",
     "ukphone": "ˈprɒdʒekt"
@@ -1810,7 +1919,8 @@
   {
     "name": "scold",
     "trans": [
-      "vi. 责骂；叱责 vt. 骂；责骂 n. 责骂；爱责骂的人"
+      "v. censure severely or angrily; show one's unhappiness or critical attitude",
+      "n. someone (especially a woman) who annoys people by constantly finding fault"
     ],
     "usphone": "skəʊld",
     "ukphone": "skəʊld"
@@ -1818,7 +1928,8 @@
   {
     "name": "tease",
     "trans": [
-      "vt. 取笑；戏弄；梳理；欺负；强求；使起毛 n. 戏弄；爱纠缠的小孩；挑逗者；卖弄风骚的女孩 vi. 取笑"
+      "v. annoy persistently; harass with persistent criticism or carping",
+      "n. someone given to teasing (as by mocking or stirring curiosity)"
     ],
     "usphone": "tiːz",
     "ukphone": "tiːz"
@@ -1826,7 +1937,9 @@
   {
     "name": "upset",
     "trans": [
-      "vt. 使心烦；颠覆；扰乱 vi. 翻倒 adj. 心烦的；混乱的；弄翻的 n. 混乱；翻倒；颠覆"
+      "v. disturb the balance or stability of; cause to lose one's composure",
+      "adj. afflicted with or marked by anxious uneasiness or trouble or grief; thrown into a state of disarray or confusion",
+      "n. an unhappy and worried mental state; the act of disturbing the mind or body"
     ],
     "usphone": "ʌpˈset",
     "ukphone": "ʌpˈset"
@@ -1834,7 +1947,7 @@
   {
     "name": "amazement",
     "trans": [
-      "n. 惊异；惊愕"
+      "n. the feeling that accompanies something extremely surprising"
     ],
     "usphone": "əˈmeɪzmənt",
     "ukphone": "əˈmeɪzmənt"
@@ -1842,7 +1955,8 @@
   {
     "name": "beam",
     "trans": [
-      "n. 横梁；光线；电波；船宽；[计量] 秤杆 vt. 发送；以梁支撑；用…照射；流露 vi. 照射；堆满笑容 n. (Beam)人名；(阿拉伯)贝亚姆；(英)比姆"
+      "n. a signal transmitted along a narrow path; guides airplane pilots in darkness or bad weather",
+      "v. smile radiantly; express joy through one's facial expression; emit light; be bright, as of the sun or a light"
     ],
     "usphone": "biːm",
     "ukphone": "biːm"
@@ -1850,13 +1964,14 @@
   {
     "name": "leap year",
     "trans": [
-      "闰年"
+      "n. in the Gregorian calendar: any year divisible by 4 except centenary years divisible by 400"
     ]
   },
   {
     "name": "quarter",
     "trans": [
-      "n. 四分之一；地区；季度；一刻钟；两角五分；节 vi. 住宿；驻扎 vt. 将…四等分；供某人住宿 num. 四分之一"
+      "n. one of four equal parts; a district of a city having some distinguishing character",
+      "v. provide housing for (military personnel)"
     ],
     "usphone": "ˈkwɔːtə(r)",
     "ukphone": "ˈkwɔːtə(r)"
@@ -1864,7 +1979,8 @@
   {
     "name": "current",
     "trans": [
-      "adj. 现在的；流通的，通用的；最近的；草写的 n. （水，气，电）流；趋势；涌流 n. (Current)人名；(英)柯伦特"
+      "adj. occurring in or belonging to the present time",
+      "n. a flow of electricity through a conductor; a steady flow of a fluid (usually from natural causes)"
     ],
     "usphone": "ˈkʌrənt",
     "ukphone": "ˈkʌrənt"
@@ -1872,7 +1988,7 @@
   {
     "name": "predator",
     "trans": [
-      "n. [动] 捕食者；[动] 食肉动物；掠夺者"
+      "n. someone who attacks in search of booty"
     ],
     "usphone": "ˈpredətə(r)",
     "ukphone": "ˈpredətə(r)"
@@ -1880,7 +1996,7 @@
   {
     "name": "rapids",
     "trans": [
-      "n. 急流；湍流"
+      "n. a part of a river where the current is very fast"
     ],
     "usphone": "ˈræpɪdz",
     "ukphone": "ˈræpɪdz"
@@ -1888,7 +2004,8 @@
   {
     "name": "spawn",
     "trans": [
-      "v. 产卵；酿成，造成；大量生产；（人）生（孩子，多指不想要的孩子） n. 卵；菌丝；产物"
+      "v. call forth",
+      "n. the mass of eggs deposited by fish or amphibians or molluscs"
     ],
     "usphone": "spɔːn",
     "ukphone": "spɔːn"
@@ -1896,7 +2013,8 @@
   {
     "name": "bait",
     "trans": [
-      "n. 饵；诱饵；诱惑物；被故意激怒 v. 上饵；故意激怒，招惹；（放犬）折磨或攻击（动物） n. (Bait) （法、美、意）巴伊特（人名）"
+      "n. anything that serves as an enticement",
+      "v. harass with persistent criticism or carping"
     ],
     "usphone": "beɪt",
     "ukphone": "beɪt"
@@ -1904,7 +2022,8 @@
   {
     "name": "career",
     "trans": [
-      "n. 生涯；职业；事业；速度，全速 adj. 作为毕生职业的 vi. 全速前进，猛冲"
+      "n. the particular occupation for which you are trained; the general progression of your working or professional life",
+      "v. move headlong at high speed"
     ],
     "usphone": "kəˈrɪə(r)",
     "ukphone": "kəˈrɪə(r)"
@@ -1912,7 +2031,7 @@
   {
     "name": "disprove",
     "trans": [
-      "vt. 反驳，证明…是虚假的"
+      "v. prove to be false"
     ],
     "usphone": "ˌdɪsˈpruːv",
     "ukphone": "ˌdɪsˈpruːv"
@@ -1920,7 +2039,7 @@
   {
     "name": "exist",
     "trans": [
-      "vi. 存在；生存；生活；继续存在"
+      "v. have an existence, be extant; support oneself"
     ],
     "usphone": "ɪɡˈzɪst",
     "ukphone": "ɪɡˈzɪst"
@@ -1928,7 +2047,8 @@
   {
     "name": "experiment",
     "trans": [
-      "n. 实验，试验；尝试 v. 尝试；试验；进行实验"
+      "n. the act of conducting a controlled test or investigation; the testing of an idea",
+      "v. to conduct a test or investigation"
     ],
     "usphone": "ɪkˈsperɪmənt",
     "ukphone": "ɪkˈsperɪmənt"
@@ -1936,7 +2056,7 @@
   {
     "name": "scientist",
     "trans": [
-      "n. 科学家"
+      "n. a person with advanced knowledge of one or more sciences"
     ],
     "usphone": "ˈsaɪəntɪst",
     "ukphone": "ˈsaɪəntɪst"
@@ -1944,7 +2064,8 @@
   {
     "name": "choice",
     "trans": [
-      "n. 选择；选择权；精选品 adj. 精选的；仔细推敲的"
+      "n. the person or thing chosen or selected; the act of choosing or selecting",
+      "adj. of superior grade"
     ],
     "usphone": "tʃɔɪs",
     "ukphone": "tʃɔɪs"
@@ -1952,7 +2073,7 @@
   {
     "name": "delicious",
     "trans": [
-      "adj. 美味的；可口的"
+      "adj. greatly pleasing or entertaining"
     ],
     "usphone": "dɪˈlɪʃəs",
     "ukphone": "dɪˈlɪʃəs"
@@ -1960,7 +2081,8 @@
   {
     "name": "drag",
     "trans": [
-      "v. 拖拉，拖曳；硬拉硬拽；强迫；勉强；拖着 （受伤的脚或腿） 行走；缓慢而吃力地行进；拖累；拖沓；（用网或钩）在水中搜寻；（用鼠标）拖动；（某物）拖地；疲惫地去某处；抓；（船）拖动（锚）；（船）走锚 n. 拖；拖累；阻碍；讨厌的事；吸入一口烟；（喜剧演员）男扮女装；（作用于行进中的飞行器或车辆的）空气阻力；（横穿城镇的）主干道 n. (Drag) （匈）德劳格（人名）"
+      "v. pull, as against a resistance; draw slowly or heavily",
+      "n. the phenomenon of resistance to motion through a fluid"
     ],
     "usphone": "dræɡ",
     "ukphone": "dræɡ"
@@ -1968,7 +2090,9 @@
   {
     "name": "opposite",
     "trans": [
-      "adj. 相反的；对面的；对立的 n. 对立面；反义词 prep. 在…的对面 adv. 在对面"
+      "adj. being directly across from each other; facing; of leaves etc; growing in pairs on either side of a stem",
+      "n. a word that expresses a meaning opposed to the meaning of another word, in which case the two words are antonyms of each other; a relation of direct opposition",
+      "adv. directly facing each other"
     ],
     "usphone": "ˈɒpəzɪt; ˈɒpəsɪt",
     "ukphone": "ˈɒpəzɪt; ˈɒpəsɪt"
@@ -1976,7 +2100,8 @@
   {
     "name": "saddle",
     "trans": [
-      "n. 鞍，鞍状物；车座；拖具 vt. 承受；使负担；装以马鞍 vi. 跨上马鞍"
+      "n. a seat for the rider of a horse or camel",
+      "v. put a saddle on; load or burden; encumber"
     ],
     "usphone": "ˈsædl",
     "ukphone": "ˈsædl"
@@ -1984,7 +2109,7 @@
   {
     "name": "stubborn",
     "trans": [
-      "adj. 顽固的；顽强的；难处理的"
+      "adj. tenaciously unwilling or marked by tenacious unwillingness to yield"
     ],
     "usphone": "ˈstʌbən",
     "ukphone": "ˈstʌbən"
@@ -1992,7 +2117,7 @@
   {
     "name": "gusty",
     "trans": [
-      "adj. 阵风的；突发的；阵阵猛急的 n. (Gusty)人名；(英)古斯蒂"
+      "adj. blowing in puffs or short intermittent blasts"
     ],
     "usphone": "ˈɡʌsti",
     "ukphone": "ˈɡʌsti"
@@ -2000,7 +2125,7 @@
   {
     "name": "mailman",
     "trans": [
-      "n. 邮差，邮递员"
+      "n. a man who delivers the mail"
     ],
     "usphone": "ˈmeɪlmæn",
     "ukphone": "ˈmeɪlmæn"
@@ -2008,7 +2133,7 @@
   {
     "name": "porch",
     "trans": [
-      "n. 门廊；走廊"
+      "n. a structure attached to the exterior of a building often forming a covered entrance"
     ],
     "usphone": "pɔːtʃ",
     "ukphone": "pɔːtʃ"
@@ -2016,7 +2141,8 @@
   {
     "name": "pouch",
     "trans": [
-      "n. 小袋；育儿袋；烟草袋 vi. 成袋状 vt. 使成袋状；把…装入袋中 n. (Pouch)人名；(捷)保赫；(英)波奇"
+      "n. a small or medium size container for holding or carrying things",
+      "v. put into a small bag"
     ],
     "usphone": "paʊtʃ",
     "ukphone": "paʊtʃ"
@@ -2024,7 +2150,8 @@
   {
     "name": "shred",
     "trans": [
-      "n. 碎片；少量剩余；最少量；破布 vt. 切成条状；用碎纸机撕毁 vi. 撕碎"
+      "n. a tiny or scarcely detectable amount",
+      "v. tear into shreds"
     ],
     "usphone": "ʃred",
     "ukphone": "ʃred"
@@ -2032,7 +2159,8 @@
   {
     "name": "treat",
     "trans": [
-      "vt. 治疗；对待；探讨；视为 vi. 探讨；请客；协商 n. 请客；款待 n. (Treat)人名；(英)特里特"
+      "v. interact in a certain way; subject to a process or treatment, with the aim of readying for some purpose, improving, or remedying a condition",
+      "n. something considered choice to eat"
     ],
     "usphone": "triːt",
     "ukphone": "triːt"
@@ -2040,7 +2168,8 @@
   {
     "name": "practice",
     "trans": [
-      "n. 实践；练习；惯例 vi. 练习；实习；实行 vt. 练习；实习；实行"
+      "n. a customary way of operation or behavior; systematic training by multiple repetitions",
+      "v. carry out or practice; as of jobs and professions; learn by repetition"
     ],
     "usphone": "ˈpræktɪs",
     "ukphone": "ˈpræktɪs"
@@ -2048,7 +2177,8 @@
   {
     "name": "dam",
     "trans": [
-      "n. 10米（等于 decametre）；水坝；水库；（牙科手术中的）橡皮障；母畜，母兽 v. 筑坝；阻止，控制 n. (Dam) （美）丹（人名）"
+      "n. a barrier constructed to contain the flow of water or to keep out the sea",
+      "v. obstruct with, or as if with, a dam"
     ],
     "usphone": "dæm",
     "ukphone": "dæm"
@@ -2056,7 +2186,8 @@
   {
     "name": "flood",
     "trans": [
-      "n. 洪水；涨潮；（诗/文）江河；泛滥；（眼泪或感情）迸发；一大批 v. 淹没，泛滥；大量涌入；大量送至；充满；使大受感动；照进；（发动机）使溢流；血崩 n. (Flood) （美、英、加）弗勒德（人名）"
+      "n. the rising of a body of water and its overflowing onto normally dry land; an overwhelming number or amount",
+      "v. fill quickly beyond capacity; as with a liquid; cover with liquid, usually water"
     ],
     "usphone": "flʌd",
     "ukphone": "flʌd"
@@ -2064,7 +2195,8 @@
   {
     "name": "lock",
     "trans": [
-      "v. （用锁）锁上；被锁住；把……锁起来；（使）固定；陷入；被紧紧抓住（或抱住）；加锁；过船闸 n. 锁；车锁；（机器部件等的）锁定；前轮转向角度；船闸；一缕头发；（并列争球的）第二排前锋；（对某物的）完全控制；（摔跤及武术用语）抱，夹；（交通） 堵塞；完全转向；枪栓；毛撮 n. (Lock) （美）洛克（人名）"
+      "v. fasten with a lock; keep engaged",
+      "n. a fastener fitted to a door or drawer to keep it firmly closed; a strand or cluster of hair"
     ],
     "usphone": "lɒk",
     "ukphone": "lɒk"
@@ -2072,7 +2204,8 @@
   {
     "name": "ship",
     "trans": [
-      "n. 船，舰；三（或多）桅帆船；艇（尤指赛艇）；宇宙飞船；飞机 v. （用船、飞机、卡车）运送；遣送（某人）；（使）上市；乘船；（水手）在船上工作；舷侧进水；把（浆架中的浆）放在船内；给船安装（舵、桅杆等）； 提供船只；上船；乘船旅行；（军事命令）继续航行；在船上服役 n. (Ship) （美、俄、英）摄（人名）"
+      "n. a vessel that carries passengers or freight",
+      "v. transport commercially"
     ],
     "usphone": "ʃɪp",
     "ukphone": "ʃɪp"
@@ -2080,7 +2213,8 @@
   {
     "name": "flock",
     "trans": [
-      "n. 群；棉束（等于floc） vt. 用棉束填满 vi. 聚集；成群而行 n. (Flock)人名；(德、瑞典)弗洛克"
+      "n. a church congregation guided by a pastor; a group of birds",
+      "v. move as a crowd or in a group"
     ],
     "usphone": "flɒk",
     "ukphone": "flɒk"
@@ -2088,7 +2222,8 @@
   {
     "name": "goose",
     "trans": [
-      "n. 鹅；鹅肉；傻瓜；雌鹅 vt. 突然加大油门；嘘骂 n. (Goose)人名；(德)戈泽；(英)古斯"
+      "n. web-footed long-necked typically gregarious migratory aquatic birds usually larger and less aquatic than ducks",
+      "v. pinch in the buttocks"
     ],
     "usphone": "ɡuːs",
     "ukphone": "ɡuːs"
@@ -2096,7 +2231,7 @@
   {
     "name": "gosling",
     "trans": [
-      "n. 小鹅；年轻无知者 n. (Gosling)人名；(英、德、葡)戈斯林"
+      "n. young goose"
     ],
     "usphone": "ˈɡɒzlɪŋ",
     "ukphone": "ˈɡɒzlɪŋ"
@@ -2104,7 +2239,8 @@
   {
     "name": "hatch",
     "trans": [
-      "n. 孵化；舱口 vt. 孵；策划 vi. 孵化 n. (Hatch)人名；(西)阿奇；(英)哈奇"
+      "n. the production of young from an egg",
+      "v. emerge from the eggs; devise or invent"
     ],
     "usphone": "hætʃ",
     "ukphone": "hætʃ"
@@ -2112,7 +2248,7 @@
   {
     "name": "migrating",
     "trans": [
-      "v. 迁移；迁徙；移居（migrate的ing形式）"
+      "v. move from one country or region to another and settle there"
     ],
     "usphone": "maɪˈɡreɪtɪŋ",
     "ukphone": "maɪˈɡreɪtɪŋ"
@@ -2120,7 +2256,7 @@
   {
     "name": "computer",
     "trans": [
-      "n. 计算机；电脑；电子计算机"
+      "n. a machine for performing calculations automatically"
     ],
     "usphone": "kəmˈpjuːtə(r)",
     "ukphone": "kəmˈpjuːtə(r)"
@@ -2128,7 +2264,7 @@
   {
     "name": "forlorn",
     "trans": [
-      "adj. 被遗弃的；绝望的；孤独的"
+      "adj. marked by or showing hopelessness"
     ],
     "usphone": "fəˈlɔːn",
     "ukphone": "fəˈlɔːn"
@@ -2136,7 +2272,7 @@
   {
     "name": "keyboard",
     "trans": [
-      "n. 键盘 vt. 键入；用键盘式排字机排字 vi. 用键盘进行操作；作键盘式排字机排字"
+      "n. device consisting of a set of keys on a piano or organ or typewriter or typesetting machine or computer or the like"
     ],
     "usphone": "ˈkiːbɔːd",
     "ukphone": "ˈkiːbɔːd"
@@ -2144,7 +2280,8 @@
   {
     "name": "monitor",
     "trans": [
-      "n. 监视器；监听器；监控器；显示屏；班长 vt. 监控"
+      "n. someone who supervises (an examination)",
+      "v. keep tabs on; keep an eye on; keep under surveillance"
     ],
     "usphone": "ˈmɒnɪtə(r)",
     "ukphone": "ˈmɒnɪtə(r)"
@@ -2152,7 +2289,8 @@
   {
     "name": "mouse",
     "trans": [
-      "n. 鼠标；老鼠；胆小羞怯的人 vt. 探出 vi. 捕鼠；窥探"
+      "n. any of numerous small rodents typically resembling diminutive rats having pointed snouts and small ears on elongated bodies with slender usually hairless tails",
+      "v. to go stealthily or furtively"
     ],
     "usphone": "maʊs",
     "ukphone": "maʊs"
@@ -2160,7 +2298,8 @@
   {
     "name": "screen",
     "trans": [
-      "n. 屏，幕；屏风 vt. 筛；拍摄；放映；掩蔽 vi. 拍电影 n. (Screen)人名；(英)斯克林"
+      "n. a white or silvered surface where pictures can be projected for viewing; a protective covering that keeps things out or hinders sight",
+      "v. test or examine for the presence of disease or infection; examine methodically"
     ],
     "usphone": "skriːn",
     "ukphone": "skriːn"
@@ -2168,7 +2307,7 @@
   {
     "name": "competition",
     "trans": [
-      "n. 竞争；比赛，竞赛"
+      "n. a business relation in which two parties compete to gain customers; an occasion on which a winner is selected from among two or more contestants"
     ],
     "usphone": "ˌkɒmpəˈtɪʃn",
     "ukphone": "ˌkɒmpəˈtɪʃn"
@@ -2176,7 +2315,7 @@
   {
     "name": "engine",
     "trans": [
-      "n. 引擎，发动机；机车，火车头；工具"
+      "n. motor that converts thermal energy to mechanical work; something used to achieve a purpose"
     ],
     "usphone": "ˈendʒɪn",
     "ukphone": "ˈendʒɪn"
@@ -2184,7 +2323,9 @@
   {
     "name": "model",
     "trans": [
-      "n. 模型；典型；模范；模特儿；样式 vt. 模拟；塑造；模仿 vi. 做模型；做模特儿 adj. 模范的；作模型用的 n. (Model)人名；(德、俄、英)莫德尔"
+      "n. a hypothetical description of a complex entity or process; a type of product",
+      "v. plan or create according to a model or models; form in clay, wax, etc",
+      "adj. worthy of imitation"
     ],
     "usphone": "ˈmɒdl",
     "ukphone": "ˈmɒdl"
@@ -2192,7 +2333,8 @@
   {
     "name": "parachute",
     "trans": [
-      "n. 降落伞 vi. 跳伞 空投"
+      "n. rescue equipment consisting of a device that fills with air and retards your fall",
+      "v. jump from an airplane and descend with a parachute"
     ],
     "usphone": "ˈpærəʃuːt",
     "ukphone": "ˈpærəʃuːt"
@@ -2200,7 +2342,8 @@
   {
     "name": "demand",
     "trans": [
-      "n. （坚决的或困难的）要求；（顾客的）需求 v. 强烈要求；需要；逼问；查问，查询 n. (Demand) （德）德曼德（人名）"
+      "n. an urgent or peremptory request; the ability and desire to purchase goods and services",
+      "v. request urgently and forcefully; require as useful, just, or proper"
     ],
     "usphone": "dɪˈmɑːnd",
     "ukphone": "dɪˈmɑːnd"
@@ -2208,7 +2351,7 @@
   {
     "name": "directions",
     "trans": [
-      "n. 方向；指示；用法说明书（direction的复数形式）"
+      "n. a line leading to a place or point; the spatial relation between something and the course along which it points or moves"
     ],
     "usphone": "dɪ'rekʃ(ə)nz",
     "ukphone": "dɪ'rekʃ(ə)nz"
@@ -2216,7 +2359,7 @@
   {
     "name": "polite",
     "trans": [
-      "adj. 有礼貌的，客气的；文雅的；上流的；优雅的"
+      "adj. showing regard for others in manners, speech, behavior, etc.; marked by refinement in taste and manners"
     ],
     "usphone": "pəˈlaɪt",
     "ukphone": "pəˈlaɪt"
@@ -2224,7 +2367,9 @@
   {
     "name": "south",
     "trans": [
-      "n. 南；（罗盘的）南方 adj. 位于南方的；（风）来自南方的；南部居民的 adv. 向南，朝南 v. 朝南移动；（天体）穿过子午线 n. (South) （美）苏（人名）"
+      "n. the region of the United States lying to the south of the Mason-Dixon line; the southern states that seceded from the United States in 1861",
+      "adj. situated in or facing or moving toward or coming from the south",
+      "adv. in a southern direction"
     ],
     "usphone": "saʊθ",
     "ukphone": "saʊθ"
@@ -2232,7 +2377,8 @@
   {
     "name": "winter",
     "trans": [
-      "n. 冬季；年岁；萧条期 vi. 过冬 adj. 冬天的；越冬的 n. (Winter)人名；(英、德、匈、罗、捷、西、芬、瑞典、法)温特"
+      "n. the coldest season of the year; in the northern hemisphere it extends from the winter solstice to the vernal equinox",
+      "v. spend the winter"
     ],
     "usphone": "ˈwɪntə(r)",
     "ukphone": "ˈwɪntə(r)"
@@ -2240,7 +2386,7 @@
   {
     "name": "disturb",
     "trans": [
-      "vt. 打扰；妨碍；使不安；弄乱；使恼怒 vi. 打扰；妨碍"
+      "v. move deeply; change the arrangement or position of"
     ],
     "usphone": "dɪˈstɜːb",
     "ukphone": "dɪˈstɜːb"
@@ -2248,7 +2394,7 @@
   {
     "name": "enemy",
     "trans": [
-      "n. 敌人，仇敌；敌军 adj. 敌人的，敌方的"
+      "n. an opposing military force; an armed adversary (especially a member of an opposing military force)"
     ],
     "usphone": "ˈenəmi",
     "ukphone": "ˈenəmi"
@@ -2256,7 +2402,7 @@
   {
     "name": "rotten",
     "trans": [
-      "adj. 腐烂的；堕落的；恶臭的；虚弱的；极坏的 adv. 非常 n. (Rotten)人名；(法、德)罗滕"
+      "adj. very bad"
     ],
     "usphone": "ˈrɒtn",
     "ukphone": "ˈrɒtn"
@@ -2264,7 +2410,8 @@
   {
     "name": "spray",
     "trans": [
-      "n. 喷雾，喷雾剂；喷雾器；水沫 vt. 喷射 vi. 喷 n. (Spray)人名；(英)斯普雷"
+      "n. a pesticide in suspension or solution; intended for spraying; a quantity of small objects flying through the air",
+      "v. be discharged in sprays of liquid; scatter in a mass or jet of droplets"
     ],
     "usphone": "spreɪ",
     "ukphone": "spreɪ"
@@ -2272,7 +2419,7 @@
   {
     "name": "stinky",
     "trans": [
-      "adj. 发恶臭的 n. 全景雷达；环视雷达站"
+      "adj. having an unpleasant smell"
     ],
     "usphone": "ˈstɪŋki",
     "ukphone": "ˈstɪŋki"
@@ -2280,7 +2427,7 @@
   {
     "name": "freak",
     "trans": [
-      "n. 怪人，怪事；畸形人；反复无常 adj. 奇异的，反常的"
+      "n. a person or animal that is markedly unusual or deformed"
     ],
     "usphone": "friːk",
     "ukphone": "friːk"
@@ -2288,7 +2435,7 @@
   {
     "name": "planet",
     "trans": [
-      "n. 行星 n. (Planet)人名；(法)普拉内；(西、葡)普拉内特"
+      "n. (astronomy) any of the nine large celestial bodies in the solar system that revolve around the sun and shine by reflected light; Mercury, Venus, Earth, Mars…"
     ],
     "usphone": "ˈplænɪt",
     "ukphone": "ˈplænɪt"
@@ -2296,7 +2443,7 @@
   {
     "name": "species",
     "trans": [
-      "n. [生物] 物种；种类 adj. 物种上的"
+      "n. (biology) taxonomic group whose members can interbreed; a specific kind of something"
     ],
     "usphone": "ˈspiːʃiːz",
     "ukphone": "ˈspiːʃiːz"
@@ -2304,7 +2451,7 @@
   {
     "name": "tentacle",
     "trans": [
-      "n. 触手，[动] 触须，[动] 触角"
+      "n. something that acts like a tentacle in its ability to grasp and hold"
     ],
     "usphone": "ˈtentəkl",
     "ukphone": "ˈtentəkl"
@@ -2312,7 +2459,8 @@
   {
     "name": "bill",
     "trans": [
-      "n. [法] 法案；广告；账单；[金融] 票据；钞票；清单 vt. 宣布；开账单；用海报宣传"
+      "n. a statute in draft before it becomes law; an itemized statement of money owed for goods shipped or services rendered",
+      "v. demand payment; advertise especially by posters or placards"
     ],
     "usphone": "bɪl",
     "ukphone": "bɪl"
@@ -2320,7 +2468,8 @@
   {
     "name": "foal",
     "trans": [
-      "n. 驹（尤指一岁以下的马、驴、骡） v. 产驹，（马等）生仔"
+      "n. a young horse",
+      "v. give birth to a foal"
     ],
     "usphone": "fəʊl",
     "ukphone": "fəʊl"
@@ -2328,7 +2477,7 @@
   {
     "name": "responsibility",
     "trans": [
-      "n. 责任，职责；义务"
+      "n. the social force that binds you to the courses of action demanded by that force; the proper sphere or extent of your activities"
     ],
     "usphone": "rɪˌspɒnsəˈbɪləti",
     "ukphone": "rɪˌspɒnsəˈbɪləti"
@@ -2336,7 +2485,7 @@
   {
     "name": "shaggy",
     "trans": [
-      "adj. 蓬松的；表面粗糙的；毛发粗浓杂乱的"
+      "adj. used of hair; thick and poorly groomed"
     ],
     "usphone": "ˈʃæɡi",
     "ukphone": "ˈʃæɡi"
@@ -2344,7 +2493,7 @@
   {
     "name": "stocky",
     "trans": [
-      "adj. 矮壮的；健壮结实的"
+      "adj. having a short and solid form or stature"
     ],
     "usphone": "ˈstɒki",
     "ukphone": "ˈstɒki"
@@ -2352,7 +2501,7 @@
   {
     "name": "helmet",
     "trans": [
-      "n. 钢盔，头盔 n. (Helmet)人名；(德)黑尔梅特"
+      "n. armor plate that protects the head"
     ],
     "usphone": "ˈhelmɪt",
     "ukphone": "ˈhelmɪt"
@@ -2360,7 +2509,7 @@
   {
     "name": "scooter",
     "trans": [
-      "n. 小轮摩托车；速可达；单脚滑行车；小孩滑板车"
+      "n. a motorboat resembling a motor scooter"
     ],
     "usphone": "ˈskuːtə(r)",
     "ukphone": "ˈskuːtə(r)"
@@ -2368,7 +2517,7 @@
   {
     "name": "wrist",
     "trans": [
-      "n. 手腕；腕关节 vt. 用腕力移动"
+      "n. a joint between the distal end of the radius and the proximal row of carpal bones"
     ],
     "usphone": "rɪst",
     "ukphone": "rɪst"
@@ -2376,7 +2525,7 @@
   {
     "name": "company",
     "trans": [
-      "n. 公司；陪伴，同伴"
+      "n. an institution created to conduct business; small military unit; usually two or three platoons"
     ],
     "usphone": "ˈkʌmpəni",
     "ukphone": "ˈkʌmpəni"
@@ -2384,7 +2533,7 @@
   {
     "name": "enchanted",
     "trans": [
-      "adj. 被施魔法的 v. 使着魔（enchant的过去式）"
+      "adj. influenced as by charms or incantations"
     ],
     "usphone": "ɪnˈtʃɑːntɪd",
     "ukphone": "ɪnˈtʃɑːntɪd"
@@ -2392,7 +2541,8 @@
   {
     "name": "rage",
     "trans": [
-      "n. 愤怒；狂暴，肆虐；情绪激动 vi. 大怒，发怒；流行，风行 n. (Rage)人名；(丹)拉厄"
+      "n. a feeling of intense anger; a state of extreme anger",
+      "v. behave violently, as if in state of a great anger; be violent; as of fires and storms"
     ],
     "usphone": "reɪdʒ",
     "ukphone": "reɪdʒ"
@@ -2400,7 +2550,7 @@
   {
     "name": "weep",
     "trans": [
-      "v. 哭泣，流泪；哭着说；哀悼；渗出（液体） n. 哭泣，落泪"
+      "v. shed tears because of sadness, rage, or pain"
     ],
     "usphone": "wiːp",
     "ukphone": "wiːp"
@@ -2408,7 +2558,7 @@
   {
     "name": "wretched",
     "trans": [
-      "adj. 可怜的；卑鄙的；令人苦恼或难受的"
+      "adj. of very poor quality or condition; characterized by physical misery"
     ],
     "usphone": "ˈretʃɪd",
     "ukphone": "ˈretʃɪd"
@@ -2416,7 +2566,8 @@
   {
     "name": "evidence",
     "trans": [
-      "n. 证据，证明；迹象；明显 vt. 证明"
+      "n. your basis for belief or disbelief; knowledge on which to base belief; an indication that makes something evident",
+      "v. provide evidence for; stand as proof of; show by one's behavior, attitude, or external attributes; provide evidence for"
     ],
     "usphone": "ˈevɪdəns",
     "ukphone": "ˈevɪdəns"
@@ -2424,7 +2575,7 @@
   {
     "name": "gangway",
     "trans": [
-      "n. 舷梯；跳板；进出通路；座间过道 int. 让路"
+      "n. a temporary passageway of planks (as over mud on a building site)"
     ],
     "usphone": "ˈɡæŋweɪ",
     "ukphone": "ˈɡæŋweɪ"
@@ -2432,7 +2583,8 @@
   {
     "name": "hoist",
     "trans": [
-      "v. 升起，吊起；抬高，举起 n. 起重机；吊车；升降机；升起，增加；信号旗；旗宽 n. (Hoist) （美、印、英、加）霍伊斯特（人名）"
+      "v. raise or haul up with or as if with mechanical help",
+      "n. lifting device for raising heavy or cumbersome objects"
     ],
     "usphone": "hɔɪst",
     "ukphone": "hɔɪst"
@@ -2440,7 +2592,8 @@
   {
     "name": "trap",
     "trans": [
-      "n. （捕捉动物的）陷阱，捕捉器；圈套，伏击；牢笼，困境；双轮轻便马车；嘴；（赛狗开始时的）放狗隔栏；容器；抛靶器；（非正式）爵士乐手的打击乐器（常复数）；暗色岩 v. 使……陷入险境或困境；（衣服、身体部位）夹住，绊住；捕捉，收集；使陷入圈套，使上当；给马戴饰物；（足球）停球；储存（气体、水等） n. (Trap) （美、丹、法、荷）特拉普（人名）"
+      "n. a device in which something (usually an animal) can be caught and penned",
+      "v. place in a confining or embarrassing position; catch in or as if in a trap"
     ],
     "usphone": "træp",
     "ukphone": "træp"
@@ -2448,7 +2601,7 @@
   {
     "name": "czar",
     "trans": [
-      "n. （帝俄的）沙皇，皇帝；独裁者"
+      "n. a male monarch or emperor (especially of Russia prior to 1917)"
     ],
     "usphone": "zɑː",
     "ukphone": "zɑː"
@@ -2456,7 +2609,9 @@
   {
     "name": "mine",
     "trans": [
-      "n. 矿，矿藏；矿山，矿井；地雷，水雷 vt. 开采，采掘；在…布雷 vi. 开矿，采矿；埋设地雷 pron. 我的 n. (Mine)人名；(德、塞、土、毛里塔)米内"
+      "pron. the one(s) belonging to me",
+      "n. an excavation in the earth for extracting coal, metal or other minerals",
+      "n. an explosive device placed in the ground or water"
     ],
     "usphone": "maɪn",
     "ukphone": "maɪn"
@@ -2464,7 +2619,7 @@
   {
     "name": "peasant",
     "trans": [
-      "n. 农民；乡下人"
+      "n. a country person; one of a (chiefly European) class of agricultural laborers"
     ],
     "usphone": "ˈpeznt",
     "ukphone": "ˈpeznt"
@@ -2472,7 +2627,7 @@
   {
     "name": "president",
     "trans": [
-      "n. 总统；董事长；校长；主席"
+      "n. an executive officer of a firm or corporation; the person who holds the office of head of state of the United States government"
     ],
     "usphone": "ˈprezɪdənt",
     "ukphone": "ˈprezɪdənt"
@@ -2480,7 +2635,8 @@
   {
     "name": "churn",
     "trans": [
-      "vi. 搅拌；搅动 vt. 搅拌；搅动 n. 搅乳器"
+      "v. stir (cream) vigorously in order to make butter",
+      "n. a vessel in which cream is agitated to separate butterfat from buttermilk"
     ],
     "usphone": "tʃɜːn",
     "ukphone": "tʃɜːn"
@@ -2488,7 +2644,7 @@
   {
     "name": "disobey",
     "trans": [
-      "v. 违反；不服从"
+      "v. refuse to go along with; refuse to follow; be disobedient"
     ],
     "usphone": "ˌdɪsəˈbeɪ",
     "ukphone": "ˌdɪsəˈbeɪ"
@@ -2496,7 +2652,7 @@
   {
     "name": "lowly",
     "trans": [
-      "adj. 卑贱的；地位低的；谦逊的"
+      "adj. low or inferior in station or quality; inferior in rank or status"
     ],
     "usphone": "ˈləʊli",
     "ukphone": "ˈləʊli"
@@ -2504,7 +2660,8 @@
   {
     "name": "strum",
     "trans": [
-      "v. 弹奏（吉他等乐器）；漫不经心地弹拨 n. 弹拨声；一下弹奏 n. (Strum) （美）斯特鲁姆（人名）"
+      "v. sound the strings of (a string instrument)",
+      "n. sound of strumming"
     ],
     "usphone": "strʌm",
     "ukphone": "strʌm"
@@ -2512,7 +2669,8 @@
   {
     "name": "barbecue",
     "trans": [
-      "n. 烤肉；吃烤肉的野宴 vt. 烧烤；烤肉"
+      "n. meat that has been barbecued or grilled in a highly seasoned sauce",
+      "v. cook outdoors on a barbecue grill"
     ],
     "usphone": "ˈbɑːbɪkjuː",
     "ukphone": "ˈbɑːbɪkjuː"
@@ -2520,7 +2678,7 @@
   {
     "name": "fireworks",
     "trans": [
-      "n. 烟火（firework的复数形式）；激烈争论"
+      "n. (usually plural) a device with an explosive that burns at a low rate and with colored flames; can be used to illuminate areas or send signals etc."
     ],
     "usphone": "'faɪəwɜ:ks",
     "ukphone": "'faɪəwɜ:ks"
@@ -2528,7 +2686,8 @@
   {
     "name": "parade",
     "trans": [
-      "n. 游行；阅兵；炫耀；行进；阅兵场 vt. 游行；炫耀；列队行进 vi. 游行；炫耀；列队行进 n. (Parade)人名；(法、德)帕拉德"
+      "n. a ceremonial procession including people marching; an extended (often showy) succession of persons or things",
+      "v. walk ostentatiously; march in a procession"
     ],
     "usphone": "pəˈreɪd",
     "ukphone": "pəˈreɪd"
@@ -2536,7 +2695,7 @@
   {
     "name": "patriotic",
     "trans": [
-      "adj. 爱国的"
+      "adj. inspired by love for your country"
     ],
     "usphone": "ˌpætriˈɒtɪk; ˌpeɪtriˈɒtɪk",
     "ukphone": "ˌpætriˈɒtɪk; ˌpeɪtriˈɒtɪk"
@@ -2544,7 +2703,7 @@
   {
     "name": "explorer",
     "trans": [
-      "n. 探险家；勘探者；探测器；[医]探针"
+      "n. someone who travels into little known regions (especially for some scientific purpose)"
     ],
     "usphone": "ɪkˈsplɔːrə(r)",
     "ukphone": "ɪkˈsplɔːrə(r)"
@@ -2552,7 +2711,8 @@
   {
     "name": "frame",
     "trans": [
-      "n. 框架；结构；眼镜框；[电影] 画面 vt. 给 (图画或照片) 配框；设计；建造；陷害；使…适合；制订；拟订 vi. 有成功希望 adj. 有木架的；有构架的 n. (Frame)人名；(英)弗雷姆"
+      "n. the framework for a pair of eyeglasses; a single one of a series of still transparent pictures forming a cinema, television or video film",
+      "v. enclose in or as if in a frame; enclose in a frame, as of a picture"
     ],
     "usphone": "freɪm",
     "ukphone": "freɪm"
@@ -2560,7 +2720,7 @@
   {
     "name": "propeller",
     "trans": [
-      "n. [航][船] 螺旋桨；推进器"
+      "n. a mechanical device that rotates to push against air or water"
     ],
     "usphone": "prəˈpelə(r)",
     "ukphone": "prəˈpelə(r)"
@@ -2568,7 +2728,7 @@
   {
     "name": "axle",
     "trans": [
-      "n. 车轴；[车辆] 轮轴"
+      "n. a shaft on which a wheel rotates"
     ],
     "usphone": "ˈæksl",
     "ukphone": "ˈæksl"
@@ -2576,7 +2736,8 @@
   {
     "name": "lever",
     "trans": [
-      "n. 杠杆；控制杆 vt. 用杠杆撬动；把…作为杠杆 vi. 用杠杆撬 n. (Lever)人名；(法)勒韦；(英)利弗；(德)莱韦尔"
+      "n. a rigid bar pivoted about a fulcrum",
+      "v. to move or force, especially in an effort to get something open; :"
     ],
     "usphone": "ˈliːvə(r)",
     "ukphone": "ˈliːvə(r)"
@@ -2584,7 +2745,7 @@
   {
     "name": "pulley",
     "trans": [
-      "n. 滑轮；皮带轮；滑车 vt. 用滑轮升起 n. (Pulley)人名；(英)普利"
+      "n. a simple machine consisting of a wheel with a groove in which a rope can run to change the direction or point of application of a force applied to the rope"
     ],
     "usphone": "ˈpʊli",
     "ukphone": "ˈpʊli"
@@ -2592,7 +2753,8 @@
   {
     "name": "screw",
     "trans": [
-      "vt. 旋，拧；压榨；强迫 n. 螺旋；螺丝钉；吝啬鬼 vi. 转动，拧"
+      "v. have sexual intercourse with",
+      "n. someone who guards prisoners"
     ],
     "usphone": "skruː",
     "ukphone": "skruː"
@@ -2600,7 +2762,8 @@
   {
     "name": "wedge",
     "trans": [
-      "n. 楔子；楔形物；不和 v. 楔入；挤进；楔住 n. (Wedge) 韦奇（人名）"
+      "n. any shape that is triangular in cross section",
+      "v. put, fix, force, or implant"
     ],
     "usphone": "wedʒ",
     "ukphone": "wedʒ"
@@ -2608,7 +2771,7 @@
   {
     "name": "blizzard",
     "trans": [
-      "n. 暴风雪，大风雪；大打击 vi. 下暴风雪 n. (Blizzard)人名；(英)布利泽德"
+      "n. a storm with widespread snowfall accompanied by strong winds"
     ],
     "usphone": "ˈblɪzəd",
     "ukphone": "ˈblɪzəd"
@@ -2616,7 +2779,7 @@
   {
     "name": "disease",
     "trans": [
-      "n. 病，[医] 疾病；弊病 vt. 传染；使…有病"
+      "n. an impairment of health or a condition of abnormal functioning"
     ],
     "usphone": "dɪˈziːz",
     "ukphone": "dɪˈziːz"
@@ -2624,7 +2787,7 @@
   {
     "name": "musher",
     "trans": [
-      "赶狗拉雪橇的人"
+      "n. a traveler who drives (or travels with) a dog team"
     ],
     "usphone": "ˈmʌʃər",
     "ukphone": "ˈmʌʃər"
@@ -2632,7 +2795,8 @@
   {
     "name": "relay",
     "trans": [
-      "n. 接力赛；轮班，轮换；继电器；中继设备 v. 传达，转发；转播；重新铺设"
+      "n. the act of passing something along from one person or group to another",
+      "v. pass along"
     ],
     "usphone": "ˈriːleɪ; rɪˈleɪ",
     "ukphone": "ˈriːleɪ; rɪˈleɪ"
@@ -2640,7 +2804,8 @@
   {
     "name": "team",
     "trans": [
-      "n. 队；组 vt. 使合作 vi. 合作 n. (Team)人名；(柬)甸"
+      "n. a cooperative unit (especially in sports); two or more draft animals that work together to pull something",
+      "v. form a team"
     ],
     "usphone": "tiːm",
     "ukphone": "tiːm"
@@ -2648,7 +2813,8 @@
   {
     "name": "amphibian",
     "trans": [
-      "n. [脊椎] 两栖动物；水陆两用飞机；具有双重性格的人 adj. 两栖类的；[车辆] 水陆两用的；具有双重性格的"
+      "n. a flat-bottomed motor vehicle that can travel on land or water",
+      "adj. relating to or characteristic of animals of the class Amphibia"
     ],
     "usphone": "æmˈfɪbiən",
     "ukphone": "æmˈfɪbiən"
@@ -2656,7 +2822,7 @@
   {
     "name": "backbone",
     "trans": [
-      "n. 脊骨，脊柱；支柱；骨气，毅力；书脊；（生化）聚合分子主链；（计算机）主干网"
+      "n. a central cohesive source of support and stability; fortitude and determination"
     ],
     "usphone": "ˈbækbəʊn",
     "ukphone": "ˈbækbəʊn"
@@ -2664,7 +2830,7 @@
   {
     "name": "venomous",
     "trans": [
-      "adj. 有毒的；恶毒的；分泌毒液的；怨恨的"
+      "adj. extremely poisonous or injurious; producing venom"
     ],
     "usphone": "ˈvenəməs",
     "ukphone": "ˈvenəməs"
@@ -2672,13 +2838,14 @@
   {
     "name": "cleats",
     "trans": [
-      "n. 楔子；系缆枕；防滑钉（cleat的复数形式） v. 装上栓；把索系在栓上（cleat的三单形式）"
+      "n. shoes with leather or metal projections on the soles"
     ]
   },
   {
     "name": "dribble",
     "trans": [
-      "v. 流（口水），垂（涎）；滴下，细流；运球 n. 点滴，细流；口水；运球；蠢话，馊主意"
+      "v. run or flow slowly, as in drops or in an unsteady stream",
+      "n. flowing in drops; the formation and falling of drops of liquid"
     ],
     "usphone": "ˈdrɪbl",
     "ukphone": "ˈdrɪbl"
@@ -2686,7 +2853,9 @@
   {
     "name": "foul",
     "trans": [
-      "adj. 犯规的；邪恶的；污秽的；淤塞的 vt. 犯规；弄脏；淤塞；缠住，妨害 vi. 犯规；腐烂；缠结 n. 犯规；缠绕 adv. 违反规则地，不正当地"
+      "adj. highly offensive; arousing aversion or disgust; offensively malodorous",
+      "v. hit a foul ball; make impure",
+      "n. an act that violates the rules of a sport"
     ],
     "usphone": "faʊl",
     "ukphone": "faʊl"
@@ -2694,7 +2863,7 @@
   {
     "name": "goal",
     "trans": [
-      "n. 目标；球门，得分数；终点 vi. 攻门，射门得分"
+      "n. the state of affairs that a plan is intended to achieve and that (when achieved) terminates behavior intended to achieve it"
     ],
     "usphone": "ɡəʊl",
     "ukphone": "ɡəʊl"
@@ -2702,7 +2871,8 @@
   {
     "name": "match",
     "trans": [
-      "n. 火柴；比赛，竞赛；对手；相配的人（或物）；（计算机）匹配；配合；搭配；相似的东西；婚姻；配偶 v. 相配，相称；相似；与……成对；配对；敌得过，比得上；使等同于；使……对应；满足；与……竞争；结婚"
+      "n. lighter consisting of a thin piece of wood or cardboard tipped with combustible chemical; ignites with friction",
+      "v. be compatible, similar or consistent; coincide in their characteristics; provide funds complementary to"
     ],
     "usphone": "mætʃ",
     "ukphone": "mætʃ"
@@ -2710,7 +2880,8 @@
   {
     "name": "tie",
     "trans": [
-      "v. （用线、绳等）系；系牢，打结；连接，联合；约束；与……成平局，不分胜负；用连接线连接（音符） n. 领带；鞋带；领结；绳子，金属丝；关系，纽带；束缚；系梁；平局；不分胜负；（英）淘汰赛（尤指足球）；延音线 n. (Tie) （美、澳、马来）狄（人名）"
+      "v. fasten or secure with a rope, string, or cord; finish a game with an equal number of points, goals, etc.",
+      "n. neckwear consisting of a long narrow piece of material worn (mostly by men) under a collar and tied in knot at the front; a social or business relationship"
     ],
     "usphone": "taɪ",
     "ukphone": "taɪ"
@@ -2718,7 +2889,7 @@
   {
     "name": "argue",
     "trans": [
-      "vi. 争论，辩论；提出理由 vt. 辩论，争论；证明；说服 n. (Argue)人名；(英、法)阿格"
+      "v. present reasons and arguments; have an argument about something"
     ],
     "usphone": "ˈɑːɡjuː",
     "ukphone": "ˈɑːɡjuː"
@@ -2726,7 +2897,8 @@
   {
     "name": "cabin",
     "trans": [
-      "n. 小屋；客舱；船舱 vt. 把…关在小屋里 vi. 住在小屋里 n. (Cabin)人名；(法)卡班"
+      "n. small room on a ship or boat where people sleep; a small house built of wood; usually in a wooded area",
+      "v. confine to a small space, such as a cabin"
     ],
     "usphone": "ˈkæbɪn",
     "ukphone": "ˈkæbɪn"
@@ -2734,7 +2906,8 @@
   {
     "name": "canoe",
     "trans": [
-      "n. 独木舟；轻舟 vi. 乘独木舟 vt. 用独木舟运"
+      "n. small and light boat; pointed at both ends; propelled with a paddle",
+      "v. travel by canoe"
     ],
     "usphone": "kəˈnuː",
     "ukphone": "kəˈnuː"
@@ -2742,7 +2915,8 @@
   {
     "name": "paddle",
     "trans": [
-      "n. 划桨；明轮翼 vt. 拌；搅；用桨划 vi. 划桨；戏水；涉水"
+      "n. small wooden bat with a flat surface; used for hitting balls in various games",
+      "v. propel with a paddle"
     ],
     "usphone": "ˈpædl",
     "ukphone": "ˈpædl"
@@ -2750,7 +2924,7 @@
   {
     "name": "stepsister",
     "trans": [
-      "n. （异父或异母生的）继姐，继妹"
+      "n. a sister who has only one parent in common with you"
     ],
     "usphone": "ˈstepsɪstə(r)",
     "ukphone": "ˈstepsɪstə(r)"
@@ -2758,7 +2932,8 @@
   {
     "name": "vacation",
     "trans": [
-      "n. 假期；（房屋）搬出 vi. 休假，度假"
+      "n. leisure time away from work devoted to rest or pleasure",
+      "v. spend or take a vacation"
     ],
     "usphone": "veɪˈkeɪʃn; vəˈkeɪʃn",
     "ukphone": "veɪˈkeɪʃn; vəˈkeɪʃn"
@@ -2766,7 +2941,8 @@
   {
     "name": "cast",
     "trans": [
-      "vt. 投，抛；计算；浇铸；投射（光、影、视线等） n. 投掷，抛；铸件，[古生] 铸型；演员阵容；脱落物 vi. 投，抛垂钓鱼钩；计算，把几个数字加起来 n. (Cast)人名；(法)卡斯特"
+      "v. put or send forth; deposit",
+      "n. the actors in a play; container into which liquid is poured to create a given shape when it hardens"
     ],
     "usphone": "kɑːst",
     "ukphone": "kɑːst"
@@ -2774,7 +2950,8 @@
   {
     "name": "fetch",
     "trans": [
-      "vt. 取来；接来；到达；吸引 vi. 拿；取物；卖得 n. 取得；诡计"
+      "v. go or come after and bring or take back",
+      "n. the action of fetching"
     ],
     "usphone": "fetʃ",
     "ukphone": "fetʃ"
@@ -2782,7 +2959,8 @@
   {
     "name": "pleading",
     "trans": [
-      "n. 恳求；答辩状 adj. 恳求的 v. 恳求；辩护；引证；承认（有罪或无罪）；以……为借口（plead 的现在分词）"
+      "n. (law) a statement in legal and logical form stating something on behalf of a party to a legal proceeding",
+      "adj. begging"
     ],
     "usphone": "ˈpliːdɪŋ",
     "ukphone": "ˈpliːdɪŋ"
@@ -2790,7 +2968,8 @@
   {
     "name": "snicker",
     "trans": [
-      "v. 偷笑，窃笑；（马）嘶鸣 n. 窃笑，吃吃地笑；马嘶声 n. (Snicker) （美、芬）斯尼克（人名）"
+      "v. laugh quietly",
+      "n. a disrespectful laugh"
     ],
     "usphone": "ˈsnɪkə(r)",
     "ukphone": "ˈsnɪkə(r)"
@@ -2798,7 +2977,7 @@
   {
     "name": "sorcerer",
     "trans": [
-      "n. 魔术师；男巫士"
+      "n. one who practices magic or sorcery"
     ],
     "usphone": "ˈsɔːsərə(r)",
     "ukphone": "ˈsɔːsərə(r)"
@@ -2806,7 +2985,7 @@
   {
     "name": "celebration",
     "trans": [
-      "n. 庆典，庆祝会；庆祝；颂扬"
+      "n. a joyful occasion for special festivities to mark some happy event; any joyous diversion"
     ],
     "usphone": "ˌselɪˈbreɪʃn",
     "ukphone": "ˌselɪˈbreɪʃn"
@@ -2814,7 +2993,8 @@
   {
     "name": "coast",
     "trans": [
-      "n. 海岸；滑行 v. 滑行；（交通工具）快速平稳地移动；得过且过，做事不费力；沿岸航行 v. (Coast) （英、美）科斯特（人名）"
+      "n. the shore of a sea or ocean",
+      "v. move effortlessly; by force of gravity"
     ],
     "usphone": "kəʊst",
     "ukphone": "kəʊst"
@@ -2822,7 +3002,8 @@
   {
     "name": "modern",
     "trans": [
-      "adj. 现代的，近代的；时髦的 n. 现代人；有思想的人"
+      "adj. belonging to the modern era; since the Middle Ages; relating to a recently developed fashion or style",
+      "n. a contemporary person"
     ],
     "usphone": "ˈmɒdn",
     "ukphone": "ˈmɒdn"
@@ -2830,7 +3011,8 @@
   {
     "name": "peak",
     "trans": [
-      "n. 山峰；最高点；顶点；帽舌 vt. 使达到最高点；使竖起 vi. 消瘦；到达最高点；变憔悴 adj. 最高的；最大值的 n. (Peak)人名；(英)皮克"
+      "n. the most extreme possible amount or value; the period of greatest prosperity or productivity",
+      "v. to reach the highest point; attain maximum intensity, activity"
     ],
     "usphone": "piːk",
     "ukphone": "piːk"
@@ -2838,7 +3020,8 @@
   {
     "name": "capital",
     "trans": [
-      "n. 首都，省会；资金；大写字母；资本家 adj. 首都的；重要的；大写的 n. (Capital)人名；(法)卡皮塔尔"
+      "n. assets available for use in the production of further assets",
+      "adj. first-rate"
     ],
     "usphone": "ˈkæpɪtl",
     "ukphone": "ˈkæpɪtl"
@@ -2846,7 +3029,7 @@
   {
     "name": "island",
     "trans": [
-      "n. 岛；岛屿；安全岛；岛状物 adj. 岛的 vt. 孤立；使成岛状 n. (Island)人名；(英)艾兰"
+      "n. a land mass (smaller than a continent) that is surrounded by water; a zone or area resembling an island"
     ],
     "usphone": "ˈaɪlənd",
     "ukphone": "ˈaɪlənd"
@@ -2854,7 +3037,8 @@
   {
     "name": "olive",
     "trans": [
-      "n. 橄榄；橄榄体；炖牛肉卷；油橄榄；橄榄树；橄榄绿；橄榄环；橄榄贝 adj. 橄榄绿的；（面色、肤色）黄棕色的 n. (Olive) （美）奥利芙（人名）"
+      "n. small ovoid fruit of the European olive tree; important food and source of oil",
+      "adj. of a yellow-green color similar to that of an unripe olive"
     ],
     "usphone": "ˈɒlɪv",
     "ukphone": "ˈɒlɪv"
@@ -2862,7 +3046,7 @@
   {
     "name": "attract",
     "trans": [
-      "vt. 吸引；引起 vi. 吸引；有吸引力"
+      "v. direct toward itself or oneself by means of some psychological power or physical attributes; be attractive to"
     ],
     "usphone": "əˈtrækt",
     "ukphone": "əˈtrækt"
@@ -2870,7 +3054,8 @@
   {
     "name": "branch",
     "trans": [
-      "n. 分支；分公司；分部；树枝；支流；岔路；（血管）分枝 v. 发出新枝；岔开，分岔；出现分歧 n. (Branch) 布兰奇（人名）"
+      "n. a division of some larger or more complex organization; a division of a stem, or secondary stem arising from the main stem of a plant",
+      "v. grow and send out branches or branch-like structures"
     ],
     "usphone": "brɑːntʃ",
     "ukphone": "brɑːntʃ"
@@ -2878,7 +3063,8 @@
   {
     "name": "digest",
     "trans": [
-      "vt. 消化；吸收；融会贯通 vi. 消化 n. 文摘；摘要"
+      "v. convert food into absorbable substances; arrange and integrate in the mind",
+      "n. a periodical that summarizes the news"
     ],
     "usphone": "daɪˈdʒest; dɪˈdʒest",
     "ukphone": "daɪˈdʒest; dɪˈdʒest"
@@ -2886,7 +3072,7 @@
   {
     "name": "moisture",
     "trans": [
-      "n. 水分；湿度；潮湿；降雨量"
+      "n. wetness caused by water"
     ],
     "usphone": "ˈmɔɪstʃə(r)",
     "ukphone": "ˈmɔɪstʃə(r)"
@@ -2894,7 +3080,7 @@
   {
     "name": "parasite",
     "trans": [
-      "n. 寄生虫；食客"
+      "n. an animal or plant that lives in or on a host (another animal or plant); it obtains nourishment from the host without benefiting or killing the host"
     ],
     "usphone": "ˈpærəsaɪt",
     "ukphone": "ˈpærəsaɪt"
@@ -2902,7 +3088,8 @@
   {
     "name": "plant",
     "trans": [
-      "n. 工厂，车间；植物；设备；庄稼 vt. 种植；培养；栽培；安置 vi. 种植 n. (Plant)人名；(英、西、意)普兰特；(法)普朗"
+      "n. buildings for carrying on industrial labor; (botany) a living organism lacking the power of locomotion",
+      "v. put or set (seeds, seedlings, or plants) into the ground; fix or set securely or deeply"
     ],
     "usphone": "plɑːnt",
     "ukphone": "plɑːnt"
@@ -2910,7 +3097,7 @@
   {
     "name": "compete",
     "trans": [
-      "vi. 竞争；比赛；对抗"
+      "v. compete for something; engage in a contest; measure oneself against others"
     ],
     "usphone": "kəmˈpiːt",
     "ukphone": "kəmˈpiːt"
@@ -2918,7 +3105,7 @@
   {
     "name": "event",
     "trans": [
-      "n. 事件，大事；项目；结果"
+      "n. something that happens at a given place and time; a special set of circumstances"
     ],
     "usphone": "ɪˈvent",
     "ukphone": "ɪˈvent"
@@ -2926,7 +3113,7 @@
   {
     "name": "gymnast",
     "trans": [
-      "n. 体操运动员"
+      "n. an athlete who is skilled in gymnastics"
     ],
     "usphone": "ˈdʒɪmnæst",
     "ukphone": "ˈdʒɪmnæst"
@@ -2934,7 +3121,7 @@
   {
     "name": "marathon",
     "trans": [
-      "n. 马拉松赛跑；耐力的考验 adj. 马拉松式的；有耐力的 vi. 参加马拉松赛跑"
+      "n. any long and arduous undertaking"
     ],
     "usphone": "ˈmærəθən",
     "ukphone": "ˈmærəθən"
@@ -2942,7 +3129,8 @@
   {
     "name": "stroke",
     "trans": [
-      "n. （游泳或划船的）划；中风；（打、击等的）一下；冲程；（成功的）举动；尝试；轻抚 vt. （用笔等）画；轻抚；轻挪；敲击；划尾桨；划掉；（打字时）击打键盘 vi. 击球；作尾桨手，指挥划桨；（打字时）击打键盘"
+      "n. (sports) the act of swinging or striking at a ball with a club or racket or bat or cue or hand",
+      "v. touch lightly and repeatedly, as with brushing motions; strike a ball with a smooth blow"
     ],
     "usphone": "strəʊk",
     "ukphone": "strəʊk"
@@ -2950,13 +3138,13 @@
   {
     "name": "fangs",
     "trans": [
-      "n. [脊椎] 尖牙；[脊椎] 毒牙（fang的复数）；物体的尖端 v. 用尖牙咬；配以尖牙般的东西（fang的三单形式）"
+      "n. a Bantu language spoken in Cameroon"
     ]
   },
   {
     "name": "harmless",
     "trans": [
-      "adj. 无害的；无恶意的"
+      "adj. not causing or capable of causing harm"
     ],
     "usphone": "ˈhɑːmləs",
     "ukphone": "ˈhɑːmləs"
@@ -2964,7 +3152,8 @@
   {
     "name": "prey",
     "trans": [
-      "n. 猎物；受害者，牺牲品；（情绪易受伤的）脆弱的人；掠夺品 v. 捕食；伤害；折磨，困扰 n. (Prey) （美、德、爱）普赖（人名）"
+      "n. a person who is the aim of an attack (especially a victim of ridicule or exploitation) by some hostile person or influence; animal hunted or caught for food",
+      "v. profit from in an exploitatory manner"
     ],
     "usphone": "preɪ",
     "ukphone": "preɪ"
@@ -2972,7 +3161,8 @@
   {
     "name": "sense",
     "trans": [
-      "n. 感觉，功能；观念；道理；理智 vt. 感觉到；检测 n. (Sense) （美）森斯（人名）"
+      "n. a general conscious awareness; the meaning of a word or expression; the way in which a word or expression or situation can be interpreted",
+      "v. perceive by a physical sensation, e.g., coming from the skin or muscles"
     ],
     "usphone": "sens",
     "ukphone": "sens"
@@ -2980,7 +3170,7 @@
   {
     "name": "spider",
     "trans": [
-      "n. 蜘蛛；设圈套者；三脚架"
+      "n. predatory arachnid with eight legs, two poison fangs, two feelers, and usually two silk-spinning organs at the back end of the body…"
     ],
     "usphone": "ˈspaɪdə(r)",
     "ukphone": "ˈspaɪdə(r)"
@@ -2988,7 +3178,7 @@
   {
     "name": "venom",
     "trans": [
-      "n. 毒液；恶意 vt. 使有毒；放毒"
+      "n. toxin secreted by animals; secreted by certain snakes and poisonous insects (e.g., spiders and scorpions)"
     ],
     "usphone": "ˈvenəm",
     "ukphone": "ˈvenəm"
@@ -2996,7 +3186,7 @@
   {
     "name": "equality",
     "trans": [
-      "n. 平等；相等；[数] 等式"
+      "n. the quality of being the same in quantity or measure or value or status; a state of being essentially equal or equivalent; equally balanced"
     ],
     "usphone": "iˈkwɒləti",
     "ukphone": "iˈkwɒləti"
@@ -3004,7 +3194,8 @@
   {
     "name": "judge",
     "trans": [
-      "n. 法官；裁判员；鉴定人 v. 判断；猜测（大小、数量等）；裁判；评价；审判，判决 n. (Judge) （美、爱、英）贾奇（人名）"
+      "n. a public official authorized to decide questions brought before a court of justice; an authority who is able to estimate worth or quality",
+      "v. determine the result of (a competition); form a critical opinion of"
     ],
     "usphone": "dʒʌdʒ",
     "ukphone": "dʒʌdʒ"
@@ -3012,7 +3203,8 @@
   {
     "name": "flute",
     "trans": [
-      "n. 长笛；【工程设计】(刀具的)出屑槽 vt. 用长笛吹奏 vi. 吹长笛"
+      "n. a high-pitched woodwind instrument; a slender tube closed at one end with finger holes on one end and an opening near the closed end across which the breath is…",
+      "v. form flutes in"
     ],
     "usphone": "fluːt",
     "ukphone": "fluːt"
@@ -3020,7 +3212,7 @@
   {
     "name": "lemonade",
     "trans": [
-      "n. 柠檬水"
+      "n. sweetened beverage of diluted lemon juice"
     ],
     "usphone": "ˌleməˈneɪd",
     "ukphone": "ˌleməˈneɪd"
@@ -3028,7 +3220,8 @@
   {
     "name": "prance",
     "trans": [
-      "v. 昂首阔步；（马）后足立地腾跃 n. 昂首阔步；（马）后足立地腾跃 n. (Prance) （美、英、加、澳）普兰斯（人名）"
+      "v. to walk with a lofty proud gait, often in an attempt to impress others",
+      "n. a proud stiff pompous gait"
     ],
     "usphone": "prɑːns",
     "ukphone": "prɑːns"
@@ -3036,7 +3229,7 @@
   {
     "name": "trapeze",
     "trans": [
-      "n. 秋千；吊架"
+      "n. a swing used by circus acrobats"
     ],
     "usphone": "trəˈpiːz",
     "ukphone": "trəˈpiːz"
@@ -3044,7 +3237,8 @@
   {
     "name": "wail",
     "trans": [
-      "vi. 哀号；悲叹 vt. 为某人死亡而悲痛；哀悼某人；哀号着说 n. 哀号；悲叹；恸哭声 n. (Wail)人名；(阿拉伯)瓦伊勒；(英)韦尔"
+      "v. emit long loud cries; cry weakly or softly",
+      "n. a cry of sorrow and grief"
     ],
     "usphone": "weɪl",
     "ukphone": "weɪl"
@@ -3052,7 +3246,7 @@
   {
     "name": "crooked",
     "trans": [
-      "adj. 弯曲的；歪的；不正当的"
+      "adj. having or marked by bends or angles; not straight or aligned"
     ],
     "usphone": "ˈkrʊkɪd",
     "ukphone": "ˈkrʊkɪd"
@@ -3060,7 +3254,8 @@
   {
     "name": "float",
     "trans": [
-      "v. 使漂浮，浮动；漂流，飘动；飘移；安排（贷款）提出，提请考虑（想法或计划）；发行（股票）上市；（货币汇率）自由浮动实行 n. （酒吧等用于给顾客找零的）备用零钱；彩车，花车；浮板；漂浮物；鱼漂；浮子；加冰激凌的饮料；浮动期；坐浮箱（治病、疗伤或放松）；救生圈 n. (Float)（美、英、德）弗洛特（人名）"
+      "v. be in motion due to some air or water current; be afloat either on or below a liquid surface and not sink to the bottom",
+      "n. the time interval between the deposit of a check in a bank and its payment"
     ],
     "usphone": "fləʊt",
     "ukphone": "fləʊt"
@@ -3068,7 +3263,8 @@
   {
     "name": "patch",
     "trans": [
-      "n. 眼罩；斑点；碎片；小块土地 vt. 修补；解决；掩饰 vi. 打补丁 n. (Patch)人名；(英)帕奇"
+      "n. a small contrasting part of something; a small area of ground covered by specific vegetation",
+      "v. to join or unite the pieces of; provide with a patch; also used metaphorically"
     ],
     "usphone": "pætʃ",
     "ukphone": "pætʃ"
@@ -3076,7 +3272,7 @@
   {
     "name": "pumpkin",
     "trans": [
-      "n. 南瓜"
+      "n. a coarse vine widely cultivated for its large pulpy round orange fruit with firm orange skin and numerous seeds…"
     ],
     "usphone": "ˈpʌmpkɪn",
     "ukphone": "ˈpʌmpkɪn"
@@ -3084,7 +3280,8 @@
   {
     "name": "stream",
     "trans": [
-      "n. 溪流；流动；潮流；光线；（数据）流 vi. 流；涌进；飘扬 vt. 流出；涌出；使飘动"
+      "n. a natural body of running water flowing on or under the earth; dominant course (suggestive of running water) of successive events or ideas",
+      "v. to extend, wave or float outward, as if in the wind; exude profusely"
     ],
     "usphone": "striːm",
     "ukphone": "striːm"
@@ -3092,7 +3289,7 @@
   {
     "name": "builder",
     "trans": [
-      "n. 建筑者；建立者"
+      "n. a substance added to soaps or detergents to increase their cleansing action"
     ],
     "usphone": "ˈbɪldə(r)",
     "ukphone": "ˈbɪldə(r)"
@@ -3100,7 +3297,7 @@
   {
     "name": "cell",
     "trans": [
-      "n. 细胞；电池；蜂房的巢室；单人小室 vi. 住在牢房或小室中 n. (Cell)人名；(英)塞尔"
+      "n. any small compartment"
     ],
     "usphone": "sel",
     "ukphone": "sel"
@@ -3108,7 +3305,8 @@
   {
     "name": "entrance",
     "trans": [
-      "n. 入口；进入 vt. 使出神，使入迷"
+      "n. something that provides access (to get in or get out); a movement into or inward",
+      "v. attract; cause to be enamored"
     ],
     "usphone": "(for v.)ɪnˈtrɑ:ns; (for n.) ˈentrəns",
     "ukphone": "(for v.)ɪnˈtrɑ:ns; (for n.) ˈentrəns"
@@ -3116,7 +3314,7 @@
   {
     "name": "protection",
     "trans": [
-      "n. 保护；防卫；护照"
+      "n. the activity of protecting someone or something; a covering that is intend to protect from damage or injury"
     ],
     "usphone": "prəˈtekʃn",
     "ukphone": "prəˈtekʃn"
@@ -3124,7 +3322,7 @@
   {
     "name": "electricity",
     "trans": [
-      "n. 电力；电流；强烈的紧张情绪"
+      "n. a physical phenomenon associated with stationary or moving electrons and protons; energy made available by the flow of electric charge through a conductor"
     ],
     "usphone": "ɪˌlekˈtrɪsəti",
     "ukphone": "ɪˌlekˈtrɪsəti"
@@ -3132,7 +3330,7 @@
   {
     "name": "energy",
     "trans": [
-      "n. [物] 能量；精力；活力；精神"
+      "n. (physics) a thermodynamic quantity equivalent to the capacity of a physical system to do work; the units of energy are joules or ergs; forceful exertion"
     ],
     "usphone": "ˈenədʒi",
     "ukphone": "ˈenədʒi"
@@ -3140,7 +3338,7 @@
   {
     "name": "generator",
     "trans": [
-      "n. 发电机；发生器；生产者"
+      "n. an apparatus that produces a vapor or gas; engine that converts mechanical energy into electrical energy by electromagnetic induction"
     ],
     "usphone": "ˈdʒenəreɪtə(r)",
     "ukphone": "ˈdʒenəreɪtə(r)"
@@ -3148,7 +3346,7 @@
   {
     "name": "natural gas",
     "trans": [
-      "[油气] 天然气"
+      "n. a fossil fuel in the gaseous state; used for cooking and heating homes"
     ],
     "usphone": "ˈnætʃrəl ˈɡæs",
     "ukphone": "ˈnætʃrəl ˈɡæs"
@@ -3156,7 +3354,7 @@
   {
     "name": "wildlife",
     "trans": [
-      "n. 野生动植物 adj. 野生动植物的"
+      "n. all living things (except people) that are undomesticated"
     ],
     "usphone": "ˈwaɪldlaɪf",
     "ukphone": "ˈwaɪldlaɪf"

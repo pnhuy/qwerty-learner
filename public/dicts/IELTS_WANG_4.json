@@ -2,7 +2,7 @@
     {
         "name": "abnormal",
         "trans": [
-            "不正常的"
+            "adj. not normal; not typical or usual or regular or conforming to a norm"
         ],
         "usphone": "æbˈnɔːml",
         "ukphone": "æbˈnɔːrml"
@@ -10,7 +10,8 @@
     {
         "name": "academic",
         "trans": [
-            "学术的"
+            "adj. associated with academia or an academy; hypothetical or theoretical and not expected to produce an immediate or practical result",
+            "n. an educator who works at a college or university"
         ],
         "usphone": "ˌækəˈdemɪk",
         "ukphone": "ˌækəˈdemɪk"
@@ -18,7 +19,7 @@
     {
         "name": "accessible",
         "trans": [
-            "可接近的"
+            "adj. capable of being reached"
         ],
         "usphone": "əkˈsesəbl",
         "ukphone": "əkˈsesəbl"
@@ -26,7 +27,7 @@
     {
         "name": "accountable",
         "trans": [
-            "负有责任的"
+            "adj. liable to account for one's actions"
         ],
         "usphone": "əˈkaʊntəbl",
         "ukphone": "əˈkaʊntəbl"
@@ -34,7 +35,7 @@
     {
         "name": "accurate",
         "trans": [
-            "正确无误的"
+            "adj. conforming exactly or almost exactly to fact or to a standard or performing with total accuracy"
         ],
         "usphone": "ˈækjərət",
         "ukphone": "ˈækjərət"
@@ -42,7 +43,7 @@
     {
         "name": "additional",
         "trans": [
-            "额外的"
+            "adj. further or added"
         ],
         "usphone": "əˈdɪʃənl",
         "ukphone": "əˈdɪʃənl"
@@ -50,7 +51,7 @@
     {
         "name": "adequate",
         "trans": [
-            "充足的；令人满 意的"
+            "adj. having the requisite qualities or resources to meet a task; sufficient for the purpose"
         ],
         "usphone": "ˈædɪkwət",
         "ukphone": "ˈædɪkwət"
@@ -58,7 +59,7 @@
     {
         "name": "advanced",
         "trans": [
-            "高级的，先进的"
+            "adj. farther along in physical or mental development; comparatively late in a course of development"
         ],
         "usphone": "əd'vænst",
         "ukphone": "əd'vænst"
@@ -66,7 +67,7 @@
     {
         "name": "advisable",
         "trans": [
-            "明智的"
+            "adj. worthy of being recommended or suggested; prudent or wise"
         ],
         "usphone": "ədˈvaɪzəbl",
         "ukphone": "ədˈvaɪzəbl"
@@ -74,7 +75,7 @@
     {
         "name": "allergic",
         "trans": [
-            "过敏的"
+            "adj. characterized by or caused by allergy"
         ],
         "usphone": "əˈlɜːdʒɪk",
         "ukphone": "əˈlɜːrdʒɪk"
@@ -82,7 +83,8 @@
     {
         "name": "alternative",
         "trans": [
-            "可选择的"
+            "n. one of a number of things from which only one can be chosen",
+            "adj. serving or used in place of another; necessitating a choice between mutually exclusive possibilities"
         ],
         "usphone": "ɔːlˈtɜːnətɪv",
         "ukphone": "ɔːlˈtɜːrnətɪv"
@@ -90,7 +92,7 @@
     {
         "name": "amazing",
         "trans": [
-            "令人惊讶的"
+            "adj. surprising greatly; inspiring awe or admiration or wonder"
         ],
         "usphone": "əˈmeɪzɪŋ",
         "ukphone": "əˈmeɪzɪŋ"
@@ -98,7 +100,7 @@
     {
         "name": "ambiguous",
         "trans": [
-            "有歧义的"
+            "adj. open to two or more interpretations; or of uncertain nature or significance; or (often) intended to mislead; having more than one possible meaning"
         ],
         "usphone": "æmˈbɪɡjuəs",
         "ukphone": "æmˈbɪɡjuəs"
@@ -106,7 +108,7 @@
     {
         "name": "ambitious",
         "trans": [
-            "极富野心的"
+            "adj. having a strong desire for success or achievement; requiring full use of your abilities or resources"
         ],
         "usphone": "æmˈbɪʃəs",
         "ukphone": "æmˈbɪʃəs"
@@ -114,7 +116,7 @@
     {
         "name": "analytical",
         "trans": [
-            "分析的"
+            "adj. using or skilled in using analysis (i.e., separating a whole--intellectual or substantial--into its elemental parts or basic principles)"
         ],
         "usphone": "ˌænəˈlɪtɪkl",
         "ukphone": "ˌænəˈlɪtɪkl"
@@ -122,7 +124,7 @@
     {
         "name": "ancient",
         "trans": [
-            "古代的"
+            "adj. belonging to times long past especially of the historical period before the fall of the Western Roman Empire; very old"
         ],
         "usphone": "ˈeɪnʃənt",
         "ukphone": "ˈeɪnʃənt"
@@ -130,7 +132,7 @@
     {
         "name": "angry",
         "trans": [
-            "气愤的，生气的"
+            "adj. feeling or showing anger; (of the elements) as if showing violent anger"
         ],
         "usphone": "ˈæŋɡri",
         "ukphone": "ˈæŋɡri"
@@ -138,7 +140,7 @@
     {
         "name": "applied",
         "trans": [
-            "应用的"
+            "adj. concerned with concrete problems or data rather than with fundamental principles"
         ],
         "usphone": "əˈplaɪd",
         "ukphone": "əˈplaɪd"
@@ -146,7 +148,7 @@
     {
         "name": "archaeological",
         "trans": [
-            "考古学的"
+            "adj. related to or dealing with or devoted to archaeology"
         ],
         "usphone": "ˌɑrkiːəˈlɑdʒɪkəl",
         "ukphone": "ˌɑːrkiːəˈlɒdʒɪkəl"
@@ -154,7 +156,7 @@
     {
         "name": "artificial",
         "trans": [
-            "人工的"
+            "adj. contrived by art rather than nature; artificially formal"
         ],
         "usphone": "ˌɑːtɪˈfɪʃl",
         "ukphone": "ˌɑːrtɪˈfɪʃl"
@@ -162,7 +164,7 @@
     {
         "name": "artistic",
         "trans": [
-            "艺术的"
+            "adj. relating to or characteristic of art or artists; satisfying aesthetic standards and sensibilities"
         ],
         "usphone": "ɑːˈtɪstɪk",
         "ukphone": "ɑːrˈtɪstɪk"
@@ -170,7 +172,7 @@
     {
         "name": "ascending",
         "trans": [
-            "上升的"
+            "adj. moving or going or growing upward"
         ],
         "usphone": "ə'sɛndɪŋ",
         "ukphone": "ə'sendiŋ"
@@ -178,7 +180,7 @@
     {
         "name": "atmospheric",
         "trans": [
-            "大气的"
+            "adj. relating to or located in the atmosphere"
         ],
         "usphone": "ˌætməsˈferɪk",
         "ukphone": "ˌætməsˈferɪk"
@@ -186,7 +188,7 @@
     {
         "name": "attentive",
         "trans": [
-            "注意的"
+            "adj. (often followed by 'to') giving care or attention"
         ],
         "usphone": "əˈtentɪv",
         "ukphone": "əˈtentɪv"
@@ -194,7 +196,7 @@
     {
         "name": "audio",
         "trans": [
-            "声音的"
+            "n. the audible part of a transmitted signal"
         ],
         "usphone": "ˈɔːdiəʊ",
         "ukphone": "ˈɔːdioʊ"
@@ -202,7 +204,7 @@
     {
         "name": "available",
         "trans": [
-            "可获得的，有时间的"
+            "adj. obtainable or accessible and ready for use or service"
         ],
         "usphone": "əˈveɪləbl",
         "ukphone": "əˈveɪləbl"
@@ -210,7 +212,7 @@
     {
         "name": "aware",
         "trans": [
-            "意识到的"
+            "adj. (sometimes followed by 'of') having or showing knowledge or understanding or realization or perception"
         ],
         "usphone": "əˈweə",
         "ukphone": "əˈwer"
@@ -218,7 +220,8 @@
     {
         "name": "awful",
         "trans": [
-            "可怕的"
+            "adj. exceptionally bad or displeasing; causing fear or dread or terror",
+            "adv. used as intensifiers"
         ],
         "usphone": "ˈɔːfl",
         "ukphone": "ˈɔːfl"
@@ -226,7 +229,7 @@
     {
         "name": "auto",
         "trans": [
-            "自动的"
+            "n. a motor vehicle with four wheels; usually propelled by an internal combustion engine"
         ],
         "usphone": "ˈɔːtəʊ",
         "ukphone": "ˈɔːtoʊ"
@@ -234,7 +237,7 @@
     {
         "name": "bald",
         "trans": [
-            "光秃的"
+            "adj. with no effort to conceal; lacking hair on all or most of the scalp"
         ],
         "usphone": "bɔːld",
         "ukphone": "bɔːld"
@@ -242,7 +245,8 @@
     {
         "name": "barren",
         "trans": [
-            "贫瘠的"
+            "n. an uninhabited wilderness that is worthless for cultivation",
+            "adj. providing no shelter or sustenance"
         ],
         "usphone": "ˈbærən",
         "ukphone": "ˈbærən"
@@ -250,7 +254,7 @@
     {
         "name": "basic",
         "trans": [
-            "基础的"
+            "adj. pertaining to or constituting a base or basis; reduced to the simplest and most significant form possible without loss of generality"
         ],
         "usphone": "ˈbeɪsɪk",
         "ukphone": "ˈbeɪsɪk"
@@ -258,7 +262,7 @@
     {
         "name": "beautiful",
         "trans": [
-            "美丽的"
+            "adj. delighting the senses or exciting intellectual or emotional admiration"
         ],
         "usphone": "ˈbjuːtɪfl",
         "ukphone": "ˈbjuːtɪfl"
@@ -266,7 +270,7 @@
     {
         "name": "biological",
         "trans": [
-            "生物的"
+            "adj. pertaining to biology or to life and living things"
         ],
         "usphone": "ˌbaɪəˈlɒdʒɪkl",
         "ukphone": "ˌbaɪəˈlɑːdʒɪkl"
@@ -274,7 +278,9 @@
     {
         "name": "blind",
         "trans": [
-            "盲的"
+            "adj. unable to see; unable or unwilling to perceive or understand",
+            "n. people who have severe visual impairments, considered as a group; a hiding place sometimes used by hunters (especially duck hunters)",
+            "v. render unable to see; make blind by putting the eyes out"
         ],
         "usphone": "blaɪnd",
         "ukphone": "blaɪnd"
@@ -282,7 +288,7 @@
     {
         "name": "blond",
         "trans": [
-            "金发的"
+            "adj. being or having light colored skin and hair and usually blue or grey eyes"
         ],
         "usphone": "blɒnd",
         "ukphone": "blɑːnd"
@@ -290,7 +296,8 @@
     {
         "name": "British",
         "trans": [
-            "英国的"
+            "adj. of or relating to or characteristic of Great Britain or its people or culture",
+            "n. the people of Great Britain"
         ],
         "usphone": "'brɪtɪʃ",
         "ukphone": "'brɪtɪʃ"
@@ -298,7 +305,7 @@
     {
         "name": "broad",
         "trans": [
-            "广泛的"
+            "adj. having great (or a certain) extent from one side to the other; broad in scope or content"
         ],
         "usphone": "brɔːd",
         "ukphone": "brɔːd"
@@ -306,7 +313,7 @@
     {
         "name": "buried",
         "trans": [
-            "埋藏的"
+            "adj. placed in a grave"
         ],
         "usphone": "ˈberid",
         "ukphone": "ˈberid"
@@ -314,7 +321,7 @@
     {
         "name": "calculating",
         "trans": [
-            "计算的"
+            "adj. used of persons"
         ],
         "usphone": "ˈkælkjuleɪtɪŋ",
         "ukphone": "ˈkælkjuleɪtɪŋ"
@@ -322,7 +329,7 @@
     {
         "name": "casual",
         "trans": [
-            "随便的"
+            "adj. marked by blithe unconcern; without or seeming to be without plan or method; offhand"
         ],
         "usphone": "ˈkæʒuəl",
         "ukphone": "ˈkæʒuəl"
@@ -330,7 +337,7 @@
     {
         "name": "central",
         "trans": [
-            "中央的"
+            "adj. serving as an essential component; in or near a center or constituting a center; the inner area"
         ],
         "usphone": "ˈsentrəl",
         "ukphone": "ˈsentrəl"
@@ -338,7 +345,7 @@
     {
         "name": "challenging",
         "trans": [
-            "挑战的"
+            "adj. requiring full use of your abilities or resources"
         ],
         "usphone": "ˈtʃælɪndʒɪŋ",
         "ukphone": "ˈtʃælɪndʒɪŋ"
@@ -346,7 +353,7 @@
     {
         "name": "cheaper",
         "trans": [
-            "便宜些的"
+            "adj. relatively low in price or charging low prices; tastelessly showy"
         ],
         "usphone": "ˈtʃiːpə",
         "ukphone": "ˈtʃipər"
@@ -354,7 +361,7 @@
     {
         "name": "cheerful",
         "trans": [
-            "高兴的"
+            "adj. being full of or promoting cheer; having or showing good spirits"
         ],
         "usphone": "ˈtʃɪəfl",
         "ukphone": "ˈtʃɪrfl"
@@ -370,7 +377,7 @@
     {
         "name": "classical",
         "trans": [
-            "古典的"
+            "adj. of or relating to the most highly developed stage of an earlier civilisation and its culture; of recognized authority or excellence"
         ],
         "usphone": "ˈklæsɪkl",
         "ukphone": "ˈklæsɪkl"
@@ -378,7 +385,9 @@
     {
         "name": "clean",
         "trans": [
-            "干净的"
+            "v. make clean by removing dirt, filth, or unwanted substances from; remove unwanted substances from, such as feathers or pits",
+            "adj. free from dirt or impurities; or having clean habits; free of restrictions or qualifications",
+            "n. a weightlift in which the barbell is lifted to shoulder height and then jerked overhead"
         ],
         "usphone": "kliːn",
         "ukphone": "kliːn"
@@ -386,7 +395,7 @@
     {
         "name": "cleanest",
         "trans": [
-            "最干净的"
+            "adj. free from dirt or impurities; or having clean habits; free of restrictions or qualifications"
         ],
         "usphone": "kliːnist",
         "ukphone": "kliːnist"
@@ -394,7 +403,9 @@
     {
         "name": "clear",
         "trans": [
-            "清楚的"
+            "adj. readily apparent to the mind; free from confusion or doubt",
+            "v. rid of obstructions; make a way or path by removing objects",
+            "adv. completely"
         ],
         "usphone": "klɪə",
         "ukphone": "klɪr"
@@ -402,7 +413,7 @@
     {
         "name": "clever",
         "trans": [
-            "聪明的"
+            "adj. showing self-interest and shrewdness in dealing with others; mentally quick and resourceful"
         ],
         "usphone": "ˈklevə",
         "ukphone": "ˈklevər"
@@ -410,7 +421,7 @@
     {
         "name": "coastal",
         "trans": [
-            "海边的"
+            "adj. of or relating to a coast; located on or near or bordering on a coast"
         ],
         "usphone": "ˈkəʊstl",
         "ukphone": "ˈkoʊstl"
@@ -418,7 +429,7 @@
     {
         "name": "comfortable",
         "trans": [
-            "舒适的"
+            "adj. providing or experiencing physical well-being or relief ('comfy' is informal); free from stress or conducive to mental ease; having or affording peace of mind"
         ],
         "usphone": "ˈkʌmftəbl",
         "ukphone": "ˈkʌmftəbl"
@@ -426,7 +437,8 @@
     {
         "name": "common",
         "trans": [
-            "普通的"
+            "adj. belonging to or participated in by a community as a whole; public",
+            "n. a piece of open land for recreational use in an urban area"
         ],
         "usphone": "ˈkɒmən",
         "ukphone": "ˈkɑːmən"
@@ -434,7 +446,7 @@
     {
         "name": "commonsense",
         "trans": [
-            "有常识的"
+            "adj. exhibiting native good judgment"
         ],
         "usphone": "ˈkɑmənˌsɛns",
         "ukphone": "ˈkɒmənˌsɛns"
@@ -442,7 +454,8 @@
     {
         "name": "complete",
         "trans": [
-            "完全的"
+            "adj. having every necessary or normal part or component or step; perfect and complete in every respect; having all necessary qualities",
+            "v. come or bring to a finish or an end; bring to a whole, with all the necessary parts or elements"
         ],
         "usphone": "kəmˈpliːt",
         "ukphone": "kəmˈpliːt"
@@ -450,7 +463,7 @@
     {
         "name": "completed",
         "trans": [
-            "完成的"
+            "adj. successfully completed or brought to an end"
         ],
         "usphone": "kəmˈpliːtɪd",
         "ukphone": "kəmˈpliːtɪd"
@@ -458,7 +471,7 @@
     {
         "name": "confident",
         "trans": [
-            "自信的"
+            "adj. having or marked by confidence or assurance"
         ],
         "usphone": "ˈkɒnfɪdənt",
         "ukphone": "ˈkɑːnfɪdənt"
@@ -466,7 +479,8 @@
     {
         "name": "conservative",
         "trans": [
-            "保守的"
+            "adj. resistant to change; having social or political views favoring conservatism",
+            "n. a person who is reluctant to accept changes and new ideas"
         ],
         "usphone": "kənˈsɜːvətɪv",
         "ukphone": "kənˈsɜːrvətɪv"
@@ -474,7 +488,7 @@
     {
         "name": "convenient",
         "trans": [
-            "方便的"
+            "adj. suited to your comfort or purpose or needs"
         ],
         "usphone": "kənˈviːniənt",
         "ukphone": "kənˈviːniənt"
@@ -482,7 +496,8 @@
     {
         "name": "co-operative",
         "trans": [
-            "合作的(=cooperative)"
+            "adj. involving the joint activity of two or more; done with or working with others for a common purpose or benefit",
+            "n. a jointly owned commercial enterprise (usually organized by farmers or consumers) that produces and distributes goods and services and is run for the benefit…"
         ],
         "usphone": "ˈkoʊˌɑpəˌreɪtɪv",
         "ukphone": "ˈkəʊˌɒpərətɪv"
@@ -490,7 +505,8 @@
     {
         "name": "corrupt",
         "trans": [
-            "腐败的"
+            "adj. lacking in integrity",
+            "v. corrupt morally or by intemperance or sensuality"
         ],
         "usphone": "kəˈrʌpt",
         "ukphone": "kəˈrʌpt"
@@ -498,7 +514,7 @@
     {
         "name": "costly",
         "trans": [
-            "昂贵的，费钱的"
+            "adj. entailing great loss or sacrifice; having a high price"
         ],
         "usphone": "ˈkɒstli",
         "ukphone": "ˈkɔːstli"
@@ -506,7 +522,7 @@
     {
         "name": "cream",
         "trans": [
-            "奶油色的"
+            "n. the best people or things in a group"
         ],
         "usphone": "kriːm",
         "ukphone": "kriːm"
@@ -514,7 +530,7 @@
     {
         "name": "critical",
         "trans": [
-            "批评的"
+            "adj. marked by a tendency to find and call attention to errors and flaws"
         ],
         "usphone": "ˈkrɪtɪkl",
         "ukphone": "ˈkrɪtɪkl"
@@ -522,7 +538,7 @@
     {
         "name": "crucial",
         "trans": [
-            "至关重要的，决定性的"
+            "adj. of extreme importance; vital to the resolution of a crisis; having crucial relevance"
         ],
         "usphone": "ˈkruːʃl",
         "ukphone": "ˈkruːʃl"
@@ -530,7 +546,7 @@
     {
         "name": "cultural",
         "trans": [
-            "文化的"
+            "adj. of or relating to the arts and manners that a group favors; denoting or deriving from or distinctive of the ways of living built up by a group of people"
         ],
         "usphone": "ˈkʌltʃərəl",
         "ukphone": "ˈkʌltʃərəl"
@@ -538,7 +554,7 @@
     {
         "name": "curly",
         "trans": [
-            "卷发的"
+            "adj. (of hair) having curls or waves"
         ],
         "usphone": "ˈkɜːli",
         "ukphone": "ˈkɜːrli"
@@ -546,7 +562,8 @@
     {
         "name": "current",
         "trans": [
-            "目前的"
+            "n. a flow of electricity through a conductor; a steady flow of a fluid (usually from natural causes)",
+            "adj. occurring in or belonging to the present time"
         ],
         "usphone": "ˈkʌrənt",
         "ukphone": "ˈkɜːrənt"
@@ -554,7 +571,7 @@
     {
         "name": "daily",
         "trans": [
-            "每日的"
+            "adv. every day; without missing a day"
         ],
         "usphone": "ˈdeɪli",
         "ukphone": "ˈdeɪli"
@@ -562,7 +579,7 @@
     {
         "name": "dairy",
         "trans": [
-            "牛奶的"
+            "n. a farm where dairy products are produced"
         ],
         "usphone": "ˈdeəri",
         "ukphone": "ˈderi"
@@ -570,7 +587,7 @@
     {
         "name": "dangerous",
         "trans": [
-            "危险的"
+            "adj. involving or causing danger or risk; liable to hurt or harm; causing fear or anxiety by threatening great harm"
         ],
         "usphone": "ˈdeɪndʒərəs",
         "ukphone": "ˈdeɪndʒərəs"
@@ -578,7 +595,8 @@
     {
         "name": "dark",
         "trans": [
-            "黑暗的，深色的"
+            "adj. devoid of or deficient in light or brightness; shadowed or black; (used of color) having a dark hue",
+            "n. absence of light or illumination; absence of moral or spiritual values"
         ],
         "usphone": "dɑːk",
         "ukphone": "dɑːrk"
@@ -586,7 +604,7 @@
     {
         "name": "departmental",
         "trans": [
-            "部门的"
+            "adj. of or relating to a department"
         ],
         "usphone": "ˌdiːpɑːtˈmentl",
         "ukphone": "ˌdiːpɑːrtˈmentl"
@@ -594,7 +612,8 @@
     {
         "name": "dependent",
         "trans": [
-            "依赖的"
+            "adj. relying on or requiring a person or thing for support, supply, or what is needed; contingent on something else",
+            "n. a person who relies on another person for support (especially financial support)"
         ],
         "usphone": "dɪˈpendənt",
         "ukphone": "dɪˈpendənt"
@@ -602,7 +621,7 @@
     {
         "name": "detailed",
         "trans": [
-            "细节的"
+            "adj. developed or executed with care and in minute detail"
         ],
         "usphone": "ˈdiːteɪld",
         "ukphone": "ˈdiːteɪld"
@@ -610,7 +629,7 @@
     {
         "name": "different",
         "trans": [
-            "不同的"
+            "adj. unlike in nature or quality or form or degree; distinctly separate from the first"
         ],
         "usphone": "ˈdɪfrənt",
         "ukphone": "ˈdɪfrənt"
@@ -618,7 +637,8 @@
     {
         "name": "direct",
         "trans": [
-            "直接的"
+            "v. command with authority; intend (something) to move towards a certain goal",
+            "adj. direct in spatial dimensions; proceeding without deviation or interruption; straight and short; having no intervening persons, agents, conditions"
         ],
         "usphone": "dəˈrekt",
         "ukphone": "dəˈrekt"
@@ -626,7 +646,8 @@
     {
         "name": "disabled",
         "trans": [
-            "肢体有残疾的"
+            "adj. incapable of functioning as a consequence of injury or illness",
+            "n. people collectively who are crippled or otherwise physically handicapped"
         ],
         "usphone": "dɪsˈeɪbld",
         "ukphone": "dɪsˈeɪbld"
@@ -634,7 +655,7 @@
     {
         "name": "distant",
         "trans": [
-            "远的"
+            "adj. separated in space or coming from or going to a distance; far apart in relevance or relationship or kinship"
         ],
         "usphone": "ˈdɪstənt",
         "ukphone": "ˈdɪstənt"
@@ -642,7 +663,7 @@
     {
         "name": "distinct",
         "trans": [
-            "明显的"
+            "adj. (often followed by 'from') not alike; different in nature or quality; easy to perceive; especially clearly outlined"
         ],
         "usphone": "dɪˈstɪŋkt",
         "ukphone": "dɪˈstɪŋkt"
@@ -650,7 +671,7 @@
     {
         "name": "domestic",
         "trans": [
-            "国内的，家里的，内部的"
+            "adj. of concern to or concerning the internal affairs of a nation; of or relating to the home"
         ],
         "usphone": "dəˈmestɪk",
         "ukphone": "dəˈmestɪk"
@@ -658,7 +679,7 @@
     {
         "name": "dominant",
         "trans": [
-            "最主要的"
+            "adj. exercising influence or control"
         ],
         "usphone": "ˈdɒmɪnənt",
         "ukphone": "ˈdɑːmɪnənt"
@@ -666,7 +687,7 @@
     {
         "name": "eastern",
         "trans": [
-            "东方的，东部的"
+            "adj. lying toward or situated in the east; of or characteristic of eastern regions of the United States"
         ],
         "usphone": "ˈiːstən",
         "ukphone": "ˈiːstərn"
@@ -674,7 +695,7 @@
     {
         "name": "economic",
         "trans": [
-            "经济的"
+            "adj. of or relating to an economy, the system of production and management of material wealth; of or relating to the science of economics"
         ],
         "usphone": "ˌiːkəˈnɒmɪk",
         "ukphone": "ˌiːkəˈnɑːmɪk"
@@ -682,7 +703,7 @@
     {
         "name": "educational",
         "trans": [
-            "教育的"
+            "adj. relating to the process of education; providing knowledge"
         ],
         "usphone": "ˌedʒuˈkeɪʃənl",
         "ukphone": "ˌedʒuˈkeɪʃənl"
@@ -690,7 +711,7 @@
     {
         "name": "effective",
         "trans": [
-            "有效的"
+            "adj. producing or capable of producing an intended result or having a striking effect; able to accomplish a purpose; functioning effectively"
         ],
         "usphone": "ɪˈfektɪv",
         "ukphone": "ɪˈfektɪv"
@@ -698,7 +719,7 @@
     {
         "name": "efficient",
         "trans": [
-            "有效率的"
+            "adj. being effective without wasting time or effort or expense; able to accomplish a purpose; functioning effectively"
         ],
         "usphone": "ɪˈfɪʃnt",
         "ukphone": "ɪˈfɪʃnt"
@@ -706,7 +727,7 @@
     {
         "name": "elementary",
         "trans": [
-            "初级的"
+            "adj. easy and not involved or complicated"
         ],
         "usphone": "ˌelɪˈmentri",
         "ukphone": "ˌelɪˈmentri"
@@ -714,7 +735,8 @@
     {
         "name": "empty",
         "trans": [
-            "空的"
+            "adj. holding or containing nothing; devoid of significance or point",
+            "v. make void or empty of contents; become empty or void of its content"
         ],
         "usphone": "ˈempti",
         "ukphone": "ˈempti"
@@ -722,7 +744,7 @@
     {
         "name": "enormous",
         "trans": [
-            "广泛的，大的"
+            "adj. extraordinarily large in size or extent or amount or power or degree"
         ],
         "usphone": "ɪˈnɔːməs",
         "ukphone": "ɪˈnɔːrməs"
@@ -730,7 +752,7 @@
     {
         "name": "enthusiastic",
         "trans": [
-            "热情的"
+            "adj. having or showing great excitement and interest"
         ],
         "usphone": "ɪnˌθjuːziˈæstɪk",
         "ukphone": "ɪnˌθuːziˈæstɪk"
@@ -738,7 +760,7 @@
     {
         "name": "environmental",
         "trans": [
-            "环境的"
+            "adj. of or relating to the external conditions or surroundings"
         ],
         "usphone": "ɪnˌvaɪrənˈmentl",
         "ukphone": "ɪnˌvaɪrənˈmentl"
@@ -746,7 +768,8 @@
     {
         "name": "essential",
         "trans": [
-            "基本的"
+            "adj. absolutely necessary; vitally necessary; basic and fundamental",
+            "n. anything indispensable"
         ],
         "usphone": "ɪˈsenʃl",
         "ukphone": "ɪˈsenʃl"
@@ -754,7 +777,7 @@
     {
         "name": "excited",
         "trans": [
-            "兴奋的"
+            "adj. (of persons) excessively affected by emotion; in an aroused state"
         ],
         "usphone": "ɪkˈsaɪtɪd",
         "ukphone": "ɪkˈsaɪtɪd"
@@ -762,7 +785,7 @@
     {
         "name": "exciting",
         "trans": [
-            "令人兴奋的"
+            "adj. creating or arousing excitement; stimulating interest and discussion"
         ],
         "usphone": "ɪkˈsaɪtɪŋ",
         "ukphone": "ɪkˈsaɪtɪŋ"
@@ -770,7 +793,7 @@
     {
         "name": "existent",
         "trans": [
-            "存在的"
+            "adj. having existence or being or actuality"
         ],
         "usphone": "ɪɡˈzɪstənt",
         "ukphone": "ɪɡˈzɪstənt"
@@ -778,7 +801,7 @@
     {
         "name": "expensive",
         "trans": [
-            "昂贵的"
+            "adj. high in price or charging high prices"
         ],
         "usphone": "ɪkˈspensɪv",
         "ukphone": "ɪkˈspensɪv"
@@ -786,7 +809,7 @@
     {
         "name": "experienced",
         "trans": [
-            "有经验的"
+            "adj. having experience; having knowledge or skill from observation or participation"
         ],
         "usphone": "ɪkˈspɪəriənst",
         "ukphone": "ɪkˈspɪriənst"
@@ -794,7 +817,7 @@
     {
         "name": "experimental",
         "trans": [
-            "实验的"
+            "adj. relating to or based on experiment; relying on observation or experiment"
         ],
         "usphone": "ɪkˌsperɪˈmentl",
         "ukphone": "ɪkˌsperɪˈmentl"
@@ -802,7 +825,7 @@
     {
         "name": "extensive",
         "trans": [
-            "广泛的"
+            "adj. large in spatial extent or range or scope or quantity; broad in scope or content"
         ],
         "usphone": "ɪkˈstensɪv",
         "ukphone": "ɪkˈstensɪv"
@@ -810,7 +833,7 @@
     {
         "name": "extra",
         "trans": [
-            "额外的"
+            "adj. more than is needed, desired, or required"
         ],
         "usphone": "ˈekstrə",
         "ukphone": "ˈekstrə"
@@ -818,7 +841,9 @@
     {
         "name": "fair",
         "trans": [
-            "美丽的；公平的"
+            "adj. free from favoritism or self-interest or bias or deception; conforming with established standards or rules; not excessive or extreme",
+            "n. a traveling show; having sideshows and rides and games of skill etc.",
+            "v. join so that the external surfaces blend smoothly"
         ],
         "usphone": "feə",
         "ukphone": "fer"
@@ -826,7 +851,9 @@
     {
         "name": "fake",
         "trans": [
-            "假的，伪造的"
+            "adj. fraudulent; having a misleading appearance",
+            "n. something that is a counterfeit; not what it seems to be",
+            "v. make a copy of with the intent to deceive"
         ],
         "usphone": "feɪk",
         "ukphone": "feɪk"
@@ -834,7 +861,7 @@
     {
         "name": "famed",
         "trans": [
-            "著名的"
+            "adj. widely known and esteemed"
         ],
         "usphone": "feɪmd",
         "ukphone": "feɪmd"
@@ -842,7 +869,7 @@
     {
         "name": "familiar",
         "trans": [
-            "熟悉的"
+            "adj. well known or easily recognized; within normal everyday experience; common and ordinary; not strange"
         ],
         "usphone": "fəˈmɪliə",
         "ukphone": "fəˈmɪliər"
@@ -850,7 +877,7 @@
     {
         "name": "famous",
         "trans": [
-            "著名的"
+            "adj. widely known and esteemed"
         ],
         "usphone": "ˈfeɪməs",
         "ukphone": "ˈfeɪməs"
@@ -858,7 +885,9 @@
     {
         "name": "fancy",
         "trans": [
-            "奇怪的"
+            "v. imagine; conceive of; see in one's mind; have a fancy or particular liking or desire for",
+            "adj. not plain; decorative or ornamented",
+            "n. something many people believe that is false; a kind of imagination that was held by Coleridge to be more casual and superficial than true imagination"
         ],
         "usphone": "ˈfænsi",
         "ukphone": "ˈfænsi"
@@ -866,7 +895,7 @@
     {
         "name": "fashionable",
         "trans": [
-            "流行的，时髦的"
+            "adj. being or in accordance with current social fashions"
         ],
         "usphone": "ˈfæʃnəbl",
         "ukphone": "ˈfæʃnəbl"
@@ -874,7 +903,8 @@
     {
         "name": "favourite",
         "trans": [
-            "最喜爱的"
+            "n. a competitor thought likely to win",
+            "adj. appealing to the general public"
         ],
         "usphone": "ˈfeɪvərɪt",
         "ukphone": "ˈfeɪvərɪt"
@@ -882,7 +912,7 @@
     {
         "name": "final",
         "trans": [
-            "最后的"
+            "adj. occurring at or forming an end or termination; conclusive in a process or progression"
         ],
         "usphone": "ˈfaɪnl",
         "ukphone": "ˈfaɪnl"
@@ -890,7 +920,7 @@
     {
         "name": "financial",
         "trans": [
-            "金融的"
+            "adj. involving financial matters"
         ],
         "usphone": "faɪˈnænʃl",
         "ukphone": "faɪˈnænʃl"
@@ -898,7 +928,8 @@
     {
         "name": "fine",
         "trans": [
-            "好的"
+            "adj. being satisfactory or in satisfactory condition; minutely precise especially in differences in meaning",
+            "adv. an expression of agreement normally occurring at the beginning of a sentence; in a delicate manner"
         ],
         "usphone": "faɪn",
         "ukphone": "faɪn"
@@ -906,7 +937,9 @@
     {
         "name": "firm",
         "trans": [
-            "坚实的"
+            "adj. marked by firm determination or resolution; not shakable; not soft or yielding to pressure",
+            "n. the members of a business organization that owns or operates one or more establishments",
+            "adv. with resolute determination"
         ],
         "usphone": "fɜːm",
         "ukphone": "fɜːrm"
@@ -914,7 +947,7 @@
     {
         "name": "flexible",
         "trans": [
-            "灵活的"
+            "adj. capable of being changed; able to flex; able to bend easily"
         ],
         "usphone": "ˈfleksəbl",
         "ukphone": "ˈfleksəbl"
@@ -922,7 +955,7 @@
     {
         "name": "foreign",
         "trans": [
-            "国外的"
+            "adj. of concern to or concerning the affairs of other nations (other than your own)"
         ],
         "usphone": "ˈfɒrən",
         "ukphone": "ˈfɔːrən"
@@ -930,7 +963,7 @@
     {
         "name": "formal",
         "trans": [
-            "正式的"
+            "adj. being in accord with established forms and conventions and requirements (as e.g. of formal dress); characteristic of or befitting a person in authority"
         ],
         "usphone": "ˈfɔːml",
         "ukphone": "ˈfɔːrml"
@@ -938,7 +971,7 @@
     {
         "name": "former",
         "trans": [
-            "以前的"
+            "adj. referring to the first of two things or persons mentioned (or the earlier one or ones of several); belonging to some prior time"
         ],
         "usphone": "ˈfɔːmə",
         "ukphone": "ˈfɔːrmər"
@@ -946,7 +979,8 @@
     {
         "name": "free",
         "trans": [
-            "自由的"
+            "adj. able to act at will; not hampered; not under compulsion or restraint",
+            "v. grant freedom to; free from confinement; relieve from"
         ],
         "usphone": "friː",
         "ukphone": "friː"
@@ -954,7 +988,8 @@
     {
         "name": "frequent",
         "trans": [
-            "经常的，频繁的"
+            "adj. coming at short intervals or habitually; frequently encountered",
+            "v. do one's shopping at; do business with; be a customer or client of; be a regular or frequent visitor to a certain place"
         ],
         "usphone": "ˈfriːkwənt , friˈkwent",
         "ukphone": "ˈfriːkwənt , friˈkwent"
@@ -962,7 +997,7 @@
     {
         "name": "fundamental",
         "trans": [
-            "基本的，基础的"
+            "adj. serving as an essential component; being or involving basic facts or principles"
         ],
         "usphone": "ˌfʌndəˈmentl",
         "ukphone": "ˌfʌndəˈmentl"
@@ -970,7 +1005,9 @@
     {
         "name": "further",
         "trans": [
-            "进一步的"
+            "adv. to or at a greater extent or degree or a more advanced stage ('further' is used more often than 'farther' in this abstract sense); in addition or furthermore",
+            "v. promote the growth of; contribute to the progress or growth of",
+            "adj. more distant in especially degree"
         ],
         "usphone": "ˈfɜːðə",
         "ukphone": "ˈfɜːrðər"
@@ -978,7 +1015,9 @@
     {
         "name": "general",
         "trans": [
-            "普通的，笼统的"
+            "adj. applying to all or most members of a category or group; not specialized or limited to one class of things",
+            "n. a general officer of the highest rank",
+            "v. command as a general"
         ],
         "usphone": "ˈdʒenrəl",
         "ukphone": "ˈdʒenrəl"
@@ -986,7 +1025,7 @@
     {
         "name": "genetic",
         "trans": [
-            "遗传的"
+            "adj. occurring among members of a family usually by heredity"
         ],
         "usphone": "dʒəˈnetɪk",
         "ukphone": "dʒəˈnetɪk"
@@ -994,7 +1033,7 @@
     {
         "name": "geographical",
         "trans": [
-            "地理学的"
+            "adj. of or relating to the science of geography"
         ],
         "usphone": "ˌdʒiːəˈɡræfɪkl",
         "ukphone": "ˌdʒiːəˈɡræfɪkl"
@@ -1002,7 +1041,7 @@
     {
         "name": "global",
         "trans": [
-            "全球的，整体的"
+            "adj. involving the entire earth; not limited or provincial in scope"
         ],
         "usphone": "ˈɡləʊbl",
         "ukphone": "ˈɡloʊbl"
@@ -1010,7 +1049,7 @@
     {
         "name": "handy",
         "trans": [
-            "方便的"
+            "adj. easy to reach; easy to use"
         ],
         "usphone": "ˈhændi",
         "ukphone": "ˈhændi"
@@ -1018,7 +1057,7 @@
     {
         "name": "harmful",
         "trans": [
-            "有害的"
+            "adj. causing or capable of causing harm"
         ],
         "usphone": "ˈhɑːmfl",
         "ukphone": "ˈhɑːrmfl"
@@ -1026,7 +1065,7 @@
     {
         "name": "hazardous",
         "trans": [
-            "冒险的，危险的"
+            "adj. involving risk or danger"
         ],
         "usphone": "ˈhæzədəs",
         "ukphone": "ˈhæzərdəs"
@@ -1034,7 +1073,7 @@
     {
         "name": "healthy",
         "trans": [
-            "健康的"
+            "adj. having or indicating good health in body or mind; free from infirmity or disease; financially secure and functioning well"
         ],
         "usphone": "ˈhelθi",
         "ukphone": "ˈhelθi"
@@ -1042,7 +1081,7 @@
     {
         "name": "heavier",
         "trans": [
-            "更沉重的"
+            "adj. of comparatively great physical weight or density; unusually great in degree or quantity or number"
         ],
         "usphone": "ˈhevɪə",
         "ukphone": "ˈheviər"
@@ -1050,7 +1089,7 @@
     {
         "name": "heavy",
         "trans": [
-            "重的"
+            "adj. of comparatively great physical weight or density; unusually great in degree or quantity or number"
         ],
         "usphone": "ˈhevi",
         "ukphone": "ˈhevi"
@@ -1058,7 +1097,7 @@
     {
         "name": "helpful",
         "trans": [
-            "有用的"
+            "adj. providing assistance or serving a useful function"
         ],
         "usphone": "ˈhelpfl",
         "ukphone": "ˈhelpfl"
@@ -1066,7 +1105,7 @@
     {
         "name": "herbivorous",
         "trans": [
-            "食草的"
+            "adj. feeding only on plants"
         ],
         "usphone": "hɜ:'bɪvərəs",
         "ukphone": "həˈbɪvərəs,ə-"
@@ -1074,7 +1113,7 @@
     {
         "name": "higher",
         "trans": [
-            "更高的"
+            "adj. advanced in complexity or elaboration; of education beyond the secondary level"
         ],
         "usphone": "ˈhaɪə",
         "ukphone": "ˈhaɪər"
@@ -1090,7 +1129,7 @@
     {
         "name": "historical",
         "trans": [
-            "历史的"
+            "adj. of or relating to the study of history; having once lived or existed or taken place in the real world as distinct from being legendary"
         ],
         "usphone": "hɪˈstɒrɪkl",
         "ukphone": "hɪˈstɔːrɪkl"
@@ -1098,7 +1137,8 @@
     {
         "name": "least",
         "trans": [
-            "最少的，最小的"
+            "adv. used to form the superlative",
+            "adj. the superlative of 'little' that can be used with mass nouns and is usually preceded by 'the'; a quantifier meaning smallest in amount or extent or degree"
         ],
         "usphone": "liːst",
         "ukphone": "liːst"
@@ -1106,7 +1146,8 @@
     {
         "name": "ill",
         "trans": [
-            "生病的"
+            "adj. affected by an impairment of normal physical or mental function; resulting in suffering or adversity",
+            "adv. ('ill' is often used as a combining form) in a poor or improper or unsatisfactory manner; not well"
         ],
         "usphone": "ɪl",
         "ukphone": "ɪl"
@@ -1114,7 +1155,7 @@
     {
         "name": "illegal",
         "trans": [
-            "非法的"
+            "adj. prohibited by law or by official or accepted rules"
         ],
         "usphone": "ɪˈliːɡl",
         "ukphone": "ɪˈliːɡl"
@@ -1122,7 +1163,8 @@
     {
         "name": "immune",
         "trans": [
-            "免疫的"
+            "n. a person who is immune to a particular infection",
+            "adj. relating to the condition of immunity"
         ],
         "usphone": "ɪˈmjuːn",
         "ukphone": "ɪˈmjuːn"
@@ -1130,7 +1172,7 @@
     {
         "name": "important",
         "trans": [
-            "重要的"
+            "adj. of great significance or value; important in effect or meaning"
         ],
         "usphone": "ɪmˈpɔːtnt",
         "ukphone": "ɪmˈpɔːrtnt"
@@ -1138,7 +1180,8 @@
     {
         "name": "impossible",
         "trans": [
-            "不可能的"
+            "adj. not capable of occurring or being accomplished or dealt with; totally unlikely",
+            "n. something that cannot be done"
         ],
         "usphone": "ɪmˈpɒsəbl",
         "ukphone": "ɪmˈpɑːsəbl"
@@ -1146,7 +1189,7 @@
     {
         "name": "inaccurate",
         "trans": [
-            "不准确的"
+            "adj. not exact"
         ],
         "usphone": "ɪn'ækjərət",
         "ukphone": "ɪn'ækjʊrət"
@@ -1154,7 +1197,7 @@
     {
         "name": "inadequate",
         "trans": [
-            "不足的"
+            "adj. lacking the requisite qualities or resources to meet a task"
         ],
         "usphone": "ɪnˈædɪkwət",
         "ukphone": "ɪnˈædɪkwət"
@@ -1162,7 +1205,8 @@
     {
         "name": "individual",
         "trans": [
-            "个人的"
+            "n. a human being; a single organism",
+            "adj. being or characteristic of a single thing or person; separate and distinct from others of the same kind"
         ],
         "usphone": "ˌɪndɪˈvɪdʒuəl",
         "ukphone": "ˌɪndɪˈvɪdʒuəl"
@@ -1170,7 +1214,7 @@
     {
         "name": "industrial",
         "trans": [
-            "工业的"
+            "adj. of or relating to or resulting from industry; having highly developed industries"
         ],
         "usphone": "ɪnˈdʌstriəl",
         "ukphone": "ɪnˈdʌstriəl"
@@ -1178,7 +1222,7 @@
     {
         "name": "informative",
         "trans": [
-            "通知的，有信息的"
+            "adj. tending to increase knowledge or dissipate ignorance"
         ],
         "usphone": "ɪnˈfɔːmətɪv",
         "ukphone": "ɪnˈfɔːrmətɪv"
@@ -1186,7 +1230,8 @@
     {
         "name": "initial",
         "trans": [
-            "最初的"
+            "adj. occurring at the beginning",
+            "n. the first letter of a word (especially a person's name)"
         ],
         "usphone": "ɪˈnɪʃl",
         "ukphone": "ɪˈnɪʃl"
@@ -1194,7 +1239,7 @@
     {
         "name": "inspiring",
         "trans": [
-            "鼓舞人心的"
+            "adj. stimulating or exalting to the spirit"
         ],
         "usphone": "ɪnˈspaɪərɪŋ",
         "ukphone": "ɪnˈspaɪərɪŋ"
@@ -1202,7 +1247,7 @@
     {
         "name": "intact",
         "trans": [
-            "完好无损的"
+            "adj. constituting the undiminished entirety; lacking nothing essential especially not damaged; (of a woman) having the hymen unbroken"
         ],
         "usphone": "ɪnˈtækt",
         "ukphone": "ɪnˈtækt"
@@ -1210,7 +1255,7 @@
     {
         "name": "intelligent",
         "trans": [
-            "智力的"
+            "adj. having the capacity for thought and reason especially to a high degree; possessing sound knowledge"
         ],
         "usphone": "ɪnˈtelɪdʒənt",
         "ukphone": "ɪnˈtelɪdʒənt"
@@ -1218,7 +1263,7 @@
     {
         "name": "intensive",
         "trans": [
-            "强化的"
+            "adj. characterized by a high degree or intensity; often used as a combining form"
         ],
         "usphone": "ɪnˈtensɪv",
         "ukphone": "ɪnˈtensɪv"
@@ -1226,7 +1271,7 @@
     {
         "name": "interesting",
         "trans": [
-            "有趣的"
+            "adj. arousing or holding the attention"
         ],
         "usphone": "'ɪntrəstɪŋ",
         "ukphone": "ˈɪntrəstɪŋ"
@@ -1234,7 +1279,8 @@
     {
         "name": "intermediate",
         "trans": [
-            "中级的"
+            "adj. lying between two extremes in time or space or state; around the middle of a scale of evaluation",
+            "n. a substance formed during a chemical process before the desired product is obtained"
         ],
         "usphone": "ˌɪntəˈmiːdiət",
         "ukphone": "ˌɪntərˈmiːdiət"
@@ -1242,7 +1288,7 @@
     {
         "name": "internal",
         "trans": [
-            "内部的"
+            "adj. happening or arising or located within some limits or especially surface; occurring within an institution or community"
         ],
         "usphone": "ɪnˈtɜːnl",
         "ukphone": "ɪnˈtɜːrnl"
@@ -1250,7 +1296,7 @@
     {
         "name": "international",
         "trans": [
-            "国际的"
+            "adj. concerning or belonging to all or at least two or more nations; from or between other countries"
         ],
         "usphone": "ˌɪntəˈnæʃnəl",
         "ukphone": "ˌɪntərˈnæʃnəl"
@@ -1258,7 +1304,7 @@
     {
         "name": "irregular",
         "trans": [
-            "不规则的"
+            "adj. contrary to rule or accepted order or general practice; not occurring at expected times"
         ],
         "usphone": "ɪˈreɡjələ",
         "ukphone": "ɪˈreɡjələr"
@@ -1266,7 +1312,7 @@
     {
         "name": "irritable",
         "trans": [
-            "易怒的"
+            "adj. easily irritated or annoyed"
         ],
         "usphone": "ˈɪrɪtəbl",
         "ukphone": "ˈɪrɪtəbl"
@@ -1274,7 +1320,7 @@
     {
         "name": "isolated",
         "trans": [
-            "与世隔绝的"
+            "adj. not close together in time; being or feeling set or kept apart from others"
         ],
         "usphone": "ˈaɪsəleɪtɪd",
         "ukphone": "ˈaɪsəleɪtɪd"
@@ -1282,7 +1328,9 @@
     {
         "name": "key",
         "trans": [
-            "重点的，关键的"
+            "n. metal device shaped in such a way that when it is inserted into the appropriate lock the lock's mechanism can be rotated; something crucial for explaining",
+            "adj. serving as an essential component",
+            "v. identify as in botany or biology, for example"
         ],
         "usphone": "kiː",
         "ukphone": "kiː"
@@ -1290,7 +1338,7 @@
     {
         "name": "latest",
         "trans": [
-            "最新的"
+            "adj. up to the immediate present; most recent or most up-to-date"
         ],
         "usphone": "ˈleɪtɪst",
         "ukphone": "ˈleɪtɪst"
@@ -1298,7 +1346,7 @@
     {
         "name": "legal",
         "trans": [
-            "合法的"
+            "adj. established by or founded upon law or official or accepted rules; of or relating to jurisprudence"
         ],
         "usphone": "ˈliːɡl",
         "ukphone": "ˈliːɡl"
@@ -1306,7 +1354,7 @@
     {
         "name": "little-known",
         "trans": [
-            "不知名的，无名的"
+            "adj. unknown to most people"
         ],
         "usphone": "ˈlɪtəlˌnoʊn",
         "ukphone": "ˈlɪtl̩ˌnəʊn"
@@ -1314,7 +1362,7 @@
     {
         "name": "loyal",
         "trans": [
-            "忠诚的"
+            "adj. steadfast in allegiance or duty"
         ],
         "usphone": "ˈlɔɪəl",
         "ukphone": "ˈlɔɪəl"
@@ -1322,7 +1370,8 @@
     {
         "name": "magic",
         "trans": [
-            "魔术的"
+            "n. any art that invokes supernatural powers",
+            "adj. possessing or using or characteristic of or appropriate to supernatural powers"
         ],
         "usphone": "ˈmædʒɪk",
         "ukphone": "ˈmædʒɪk"
@@ -1330,7 +1379,7 @@
     {
         "name": "magical",
         "trans": [
-            "难以想象的，不可思议的"
+            "adj. possessing or using or characteristic of or appropriate to supernatural powers"
         ],
         "usphone": "ˈmædʒɪkl",
         "ukphone": "ˈmædʒɪkl"
@@ -1338,7 +1387,7 @@
     {
         "name": "magnificent",
         "trans": [
-            "华丽的"
+            "adj. characterized by grandeur"
         ],
         "usphone": "mæɡˈnɪfɪsnt",
         "ukphone": "mæɡˈnɪfɪsnt"
@@ -1346,7 +1395,9 @@
     {
         "name": "major",
         "trans": [
-            "主要的"
+            "adj. of greater importance or stature or rank; greater in scope or effect",
+            "n. a commissioned military officer in the United States Army or Air Force or Marines; below lieutenant colonel and above captain",
+            "v. have as one's principal field of study"
         ],
         "usphone": "ˈmeɪdʒə",
         "ukphone": "ˈmeɪdʒər"
@@ -1354,7 +1405,7 @@
     {
         "name": "martial",
         "trans": [
-            "武术的"
+            "adj. (of persons) befitting a warrior"
         ],
         "usphone": "ˈmɑːʃl",
         "ukphone": "ˈmɑːrʃl"
@@ -1362,7 +1413,8 @@
     {
         "name": "mature",
         "trans": [
-            "成熟的"
+            "adj. characteristic of maturity; fully considered and perfected",
+            "v. develop and reach maturity; undergo maturation"
         ],
         "usphone": "məˈtʃʊə",
         "ukphone": "məˈtʃʊr"
@@ -1370,7 +1422,7 @@
     {
         "name": "medical",
         "trans": [
-            "医疗的"
+            "adj. relating to the study or practice of medicine; requiring or amenable to treatment by medicine especially as opposed to surgery"
         ],
         "usphone": "ˈmedɪkl",
         "ukphone": "ˈmedɪkl"
@@ -1378,7 +1430,7 @@
     {
         "name": "mental",
         "trans": [
-            "精神的"
+            "adj. involving the mind or an intellectual process; of or relating to the mind"
         ],
         "usphone": "ˈmentl",
         "ukphone": "ˈmentl"
@@ -1386,7 +1438,7 @@
     {
         "name": "mid",
         "trans": [
-            "中间的"
+            "adj. used in combination to denote the middle"
         ],
         "usphone": "mɪd",
         "ukphone": "mɪd"
@@ -1394,7 +1446,7 @@
     {
         "name": "migratory",
         "trans": [
-            "迁移的"
+            "adj. used of animals that move seasonally"
         ],
         "usphone": "ˈmaɪɡrətri",
         "ukphone": "ˈmaɪɡrətɔːri"
@@ -1402,7 +1454,8 @@
     {
         "name": "military",
         "trans": [
-            "军人的，军队的"
+            "adj. of or relating to the study of the principles of warfare; characteristic of or associated with soldiers or the military",
+            "n. the military forces of a nation"
         ],
         "usphone": "ˈmɪlətri",
         "ukphone": "ˈmɪləteri"
@@ -1410,7 +1463,7 @@
     {
         "name": "miserable",
         "trans": [
-            "痛苦的"
+            "adj. very unhappy; full of misery; deserving or inciting pity"
         ],
         "usphone": "ˈmɪzrəbl",
         "ukphone": "ˈmɪzrəbl"
@@ -1418,7 +1471,7 @@
     {
         "name": "mobile",
         "trans": [
-            "运动的"
+            "adj. migratory"
         ],
         "usphone": "ˈməʊbaɪl",
         "ukphone": "ˈmoʊbl"
@@ -1426,7 +1479,9 @@
     {
         "name": "moderate",
         "trans": [
-            "中度的"
+            "adj. being within reasonable or average limits; not excessive or extreme; not extreme",
+            "v. preside over; make less fast or intense",
+            "n. a person who takes a position in the political center"
         ],
         "usphone": "ˈmɒdərət , ˈmɒdəreɪt",
         "ukphone": "ˈmɑːdərət , ˈmɑːdəreɪt"
@@ -1434,7 +1489,8 @@
     {
         "name": "modern",
         "trans": [
-            "现代的"
+            "adj. belonging to the modern era; since the Middle Ages; relating to a recently developed fashion or style",
+            "n. a contemporary person"
         ],
         "usphone": "ˈmɒdn",
         "ukphone": "ˈmɑːdərn"
@@ -1442,7 +1498,8 @@
     {
         "name": "musical",
         "trans": [
-            "音乐的"
+            "adj. characterized by or capable of producing music; talented in or devoted to music",
+            "n. a play or film whose action and dialogue is interspersed with singing and dancing"
         ],
         "usphone": "ˈmjuːzɪkl",
         "ukphone": "ˈmjuːzɪkl"
@@ -1450,7 +1507,7 @@
     {
         "name": "natural",
         "trans": [
-            "自然的"
+            "adj. in accordance with nature; relating to or concerning nature; existing in or produced by nature; not artificial or imitation"
         ],
         "usphone": "ˈnætʃrəl",
         "ukphone": "ˈnætʃrəl"
@@ -1458,7 +1515,8 @@
     {
         "name": "negative",
         "trans": [
-            "消极的"
+            "adj. characterized by or displaying negation or denial or opposition or resistance; having no positive features",
+            "n. a reply of denial"
         ],
         "usphone": "ˈneɡətɪv",
         "ukphone": "ˈneɡətɪv"
@@ -1466,7 +1524,7 @@
     {
         "name": "neighbouring",
         "trans": [
-            "附近的，临近的"
+            "v. live or be located as a neighbor"
         ],
         "usphone": "ˈneɪbərɪŋ",
         "ukphone": "ˈneɪbərɪŋ"
@@ -1474,7 +1532,7 @@
     {
         "name": "nervous",
         "trans": [
-            "紧张的"
+            "adj. easily agitated; causing or fraught with or showing anxiety"
         ],
         "usphone": "ˈnɜːvəs",
         "ukphone": "ˈnɜːrvəs"
@@ -1482,7 +1540,7 @@
     {
         "name": "noble",
         "trans": [
-            "高尚的，贵族的"
+            "adj. impressive in appearance; of or belonging to or constituting the hereditary aristocracy especially as derived from feudal times"
         ],
         "usphone": "'nobl",
         "ukphone": "'nəʊb(ə)l"
@@ -1490,7 +1548,7 @@
     {
         "name": "noisy",
         "trans": [
-            "嘈杂的"
+            "adj. full of or characterized by loud and nonmusical sounds"
         ],
         "usphone": "ˈnɔɪzi",
         "ukphone": "ˈnɔɪzi"
@@ -1506,7 +1564,7 @@
     {
         "name": "normal",
         "trans": [
-            "正常的"
+            "adj. conforming with or constituting a norm or standard or level or type or social norm; not abnormal; in accordance with scientific laws"
         ],
         "usphone": "ˈnɔːml",
         "ukphone": "ˈnɔːrml"
@@ -1514,7 +1572,7 @@
     {
         "name": "northern",
         "trans": [
-            "北方的"
+            "adj. in or characteristic of a region of the United States north of (approximately) the Mason-Dixon line; situated in or oriented toward the north"
         ],
         "usphone": "ˈnɔːðən",
         "ukphone": "ˈnɔːrðərn"
@@ -1522,7 +1580,8 @@
     {
         "name": "objective",
         "trans": [
-            "客观的"
+            "n. the goal intended to be attained (and which is believed to be attainable)",
+            "adj. undistorted by emotion or personal bias; based on observable phenomena"
         ],
         "usphone": "əbˈdʒektɪv",
         "ukphone": "əbˈdʒektɪv"
@@ -1530,7 +1589,7 @@
     {
         "name": "occupational",
         "trans": [
-            "职业的"
+            "adj. of or relating to the activity or business for which you are trained"
         ],
         "usphone": "ˌɒkjuˈpeɪʃənl",
         "ukphone": "ˌɑːkjuˈpeɪʃənl"
@@ -1538,7 +1597,7 @@
     {
         "name": "Olympic",
         "trans": [
-            "奥运会的"
+            "adj. of or relating to the Olympic Games"
         ],
         "usphone": "əˈlɪmpɪk",
         "ukphone": "əˈlɪmpɪk"
@@ -1546,7 +1605,8 @@
     {
         "name": "optic",
         "trans": [
-            "光学的"
+            "n. the organ of sight",
+            "adj. of or relating to or resembling the eye"
         ],
         "usphone": "'ɑptɪk",
         "ukphone": "'ɑːptɪk"
@@ -1554,7 +1614,7 @@
     {
         "name": "optional",
         "trans": [
-            "可选择的"
+            "adj. possible but not necessary; left to personal choice"
         ],
         "usphone": "ˈɒpʃənl",
         "ukphone": "ˈɑːpʃənl"
@@ -1562,7 +1622,7 @@
     {
         "name": "oral",
         "trans": [
-            "口语的"
+            "adj. using speech rather than writing"
         ],
         "usphone": "ˈɔːrəl",
         "ukphone": "ˈɔːrəl"
@@ -1570,7 +1630,7 @@
     {
         "name": "organic",
         "trans": [
-            "有机的"
+            "adj. relating or belonging to the class of chemical compounds having a carbon basis"
         ],
         "usphone": "ɔːˈɡænɪk",
         "ukphone": "ɔːrˈɡænɪk"
@@ -1578,7 +1638,8 @@
     {
         "name": "overall",
         "trans": [
-            "整个的"
+            "adj. involving only main features; including everything",
+            "n. (usually plural) work clothing consisting of denim trousers (usually with a bib and shoulder straps)"
         ],
         "usphone": "ˌəʊvərˈɔːl , ˈəʊvərɔːl",
         "ukphone": "ˌoʊvərˈɔːl , ˈoʊvərɔːl"
@@ -1586,7 +1647,9 @@
     {
         "name": "overhead",
         "trans": [
-            "头上的"
+            "adj. located or originating from above",
+            "adv. above your head; in the sky; above the head; over the head",
+            "n. the expense of maintaining property (e.g., paying property taxes and utilities and insurance)…"
         ],
         "usphone": "ˌəʊvəˈhed , ˈəʊvəhed",
         "ukphone": "ˌoʊvərˈhed , ˈoʊvərhed"
@@ -1594,7 +1657,8 @@
     {
         "name": "overseas",
         "trans": [
-            "海外的"
+            "adv. beyond or across the sea; in a place across an ocean",
+            "adj. in a foreign country"
         ],
         "usphone": "ˌəʊvəˈsiːz",
         "ukphone": "ˌoʊvərˈsiːz"
@@ -1602,7 +1666,7 @@
     {
         "name": "parental",
         "trans": [
-            "父母的"
+            "adj. designating the generation of organisms from which hybrid offspring are produced"
         ],
         "usphone": "pəˈrentl",
         "ukphone": "pəˈrentl"
@@ -1610,7 +1674,7 @@
     {
         "name": "payable",
         "trans": [
-            "可支付的"
+            "adj. subject to or requiring payment especially as specified"
         ],
         "usphone": "ˈpeɪəbl",
         "ukphone": "ˈpeɪəbl"
@@ -1618,7 +1682,8 @@
     {
         "name": "perfect",
         "trans": [
-            "完美的"
+            "adj. being complete of its kind and without defect or blemish",
+            "v. make perfect or complete"
         ],
         "usphone": "ˈpɜːfɪkt , pəˈfekt",
         "ukphone": "ˈpɜːrfɪkt , pərˈfekt"
@@ -1626,7 +1691,7 @@
     {
         "name": "personal",
         "trans": [
-            "个人的"
+            "adj. concerning or affecting a particular person or his or her private life and personality; particular to a given individual"
         ],
         "usphone": "ˈpɜːsənl",
         "ukphone": "ˈpɜːrsənl"
@@ -1634,7 +1699,7 @@
     {
         "name": "physical",
         "trans": [
-            "肉体的；身体的"
+            "adj. involving the body as distinguished from the mind or spirit; relating to the sciences dealing with matter and energy; especially physics"
         ],
         "usphone": "ˈfɪzɪkl",
         "ukphone": "ˈfɪzɪkl"
@@ -1642,7 +1707,7 @@
     {
         "name": "pleasant",
         "trans": [
-            "愉快的"
+            "adj. affording pleasure; being in harmony with your taste or likings; (of persons) having pleasing manners or behavior"
         ],
         "usphone": "ˈpleznt",
         "ukphone": "ˈpleznt"
@@ -1650,7 +1715,7 @@
     {
         "name": "political",
         "trans": [
-            "政治的"
+            "adj. involving or characteristic of politics or parties or politicians; of or relating to your views about social relationships involving authority or power"
         ],
         "usphone": "pəˈlɪtɪkl",
         "ukphone": "pəˈlɪtɪkl"
@@ -1658,7 +1723,8 @@
     {
         "name": "pop",
         "trans": [
-            "流行的"
+            "v. bulge outward; hit a pop-fly",
+            "n. an informal term for a father; probably derived from baby talk"
         ],
         "usphone": "pɒp",
         "ukphone": "pɑːp"
@@ -1666,7 +1732,7 @@
     {
         "name": "popular",
         "trans": [
-            "时髦的"
+            "adj. regarded with great favor, approval, or affection especially by the general public; carried on by or for the people (or citizens) at large"
         ],
         "usphone": "ˈpɒpjələ",
         "ukphone": "ˈpɑːpjələr"
@@ -1674,7 +1740,7 @@
     {
         "name": "positive",
         "trans": [
-            "积极的"
+            "adj. characterized by or displaying affirmation or acceptance or certainty etc.; involving advantage or good"
         ],
         "usphone": "ˈpɒzətɪv",
         "ukphone": "ˈpɑːzətɪv"
@@ -1682,7 +1748,8 @@
     {
         "name": "possible",
         "trans": [
-            "可能的"
+            "adj. capable of happening or existing; existing in possibility",
+            "n. something that can be done"
         ],
         "usphone": "ˈpɒsəbl",
         "ukphone": "ˈpɑːsəbl"
@@ -1690,7 +1757,8 @@
     {
         "name": "potential",
         "trans": [
-            "潜在的"
+            "adj. existing in possibility; expected to become or be; in prospect",
+            "n. the inherent capacity for coming into being"
         ],
         "usphone": "pəˈtenʃl",
         "ukphone": "pəˈtenʃl"
@@ -1698,7 +1766,7 @@
     {
         "name": "practical",
         "trans": [
-            "实际的"
+            "adj. concerned with actual use or practice; guided by practical experience and observation rather than theory"
         ],
         "usphone": "ˈpræktɪkl",
         "ukphone": "ˈpræktɪkl"
@@ -1706,7 +1774,7 @@
     {
         "name": "precious",
         "trans": [
-            "珍贵的"
+            "adj. characterized by feeling or showing fond affection for; of high worth or cost"
         ],
         "usphone": "ˈpreʃəs",
         "ukphone": "ˈpreʃəs"
@@ -1714,7 +1782,7 @@
     {
         "name": "predictable",
         "trans": [
-            "可预言的"
+            "adj. capable of being foretold"
         ],
         "usphone": "prɪˈdɪktəbl",
         "ukphone": "prɪˈdɪktəbl"
@@ -1722,7 +1790,9 @@
     {
         "name": "present",
         "trans": [
-            "目前的"
+            "v. give an exhibition of to an interested audience; bring forward and present to the mind",
+            "adj. temporal sense; intermediate between past and future; now existing or happening or in consideration; being or existing in a specified place",
+            "n. the period of time that is happening now; any continuous stretch of time including the moment of speech; something presented as a gift"
         ],
         "usphone": "ˈpreznt , prɪˈzent",
         "ukphone": "ˈpreznt , prɪˈzent"
@@ -1730,7 +1800,7 @@
     {
         "name": "previous",
         "trans": [
-            "以前的，原来的"
+            "adj. (used especially of persons) of the immediate past"
         ],
         "usphone": "ˈpriːviəs",
         "ukphone": "ˈpriːviəs"
@@ -1738,7 +1808,7 @@
     {
         "name": "printed",
         "trans": [
-            "打印出来的"
+            "v. put into print; write as if with print; not cursive"
         ],
         "usphone": "ˈprɪntɪd",
         "ukphone": "ˈprɪntɪd"
@@ -1746,7 +1816,8 @@
     {
         "name": "private",
         "trans": [
-            "私人的"
+            "adj. confined to particular persons or groups or providing privacy",
+            "n. an enlisted man of the lowest rank in the Army or Marines"
         ],
         "usphone": "ˈpraɪvət",
         "ukphone": "ˈpraɪvɪt"
@@ -1754,7 +1825,8 @@
     {
         "name": "professional",
         "trans": [
-            "专业的"
+            "adj. engaged in a profession or engaging in as a profession or means of livelihood; of or relating to or suitable as a profession",
+            "n. a person engaged in one of the learned professions; an athlete who plays for pay"
         ],
         "usphone": "prəˈfeʃənl",
         "ukphone": "prəˈfeʃənl"
@@ -1762,7 +1834,7 @@
     {
         "name": "promising",
         "trans": [
-            "有前途的"
+            "adj. showing possibility of achievement or excellence; full or promise"
         ],
         "usphone": "ˈprɒmɪsɪŋ",
         "ukphone": "ˈprɑːmɪsɪŋ"
@@ -1770,7 +1842,7 @@
     {
         "name": "psychiatric",
         "trans": [
-            "精神病的"
+            "adj. relating to or used in or engaged in the practice of psychiatry"
         ],
         "usphone": "ˌsaɪkiˈætrɪk",
         "ukphone": "ˌsaɪkiˈætrɪk"
@@ -1778,7 +1850,7 @@
     {
         "name": "psychological",
         "trans": [
-            "心理的"
+            "adj. mental or emotional as opposed to physical in nature; of or relating to or determined by psychology"
         ],
         "usphone": "ˌsaɪkəˈlɒdʒɪkl",
         "ukphone": "ˌsaɪkəˈlɑːdʒɪkl"
@@ -1786,7 +1858,8 @@
     {
         "name": "public",
         "trans": [
-            "公共的"
+            "adj. not private; open to or concerning the people as a whole; affecting the people or community as a whole",
+            "n. people in general considered as a whole; a body of people sharing some common interest"
         ],
         "usphone": "ˈpʌblɪk",
         "ukphone": "ˈpʌblɪk"
@@ -1794,7 +1867,7 @@
     {
         "name": "pure",
         "trans": [
-            "纯洁的"
+            "adj. free of extraneous elements of any kind; without qualification; used informally as (often pejorative) intensifiers"
         ],
         "usphone": "pjʊə",
         "ukphone": "pjʊr"
@@ -1802,7 +1875,7 @@
     {
         "name": "purest",
         "trans": [
-            "最纯净的（最高级"
+            "adj. free of extraneous elements of any kind; without qualification; used informally as (often pejorative) intensifiers"
         ],
         "usphone": "ˈpjʊərɪst",
         "ukphone": "ˈpjʊrəst"
@@ -1818,7 +1891,7 @@
     {
         "name": "random",
         "trans": [
-            "随机的"
+            "adj. lacking any definite plan or order or purpose; governed by or depending on chance"
         ],
         "usphone": "ˈrændəm",
         "ukphone": "ˈrændəm"
@@ -1826,7 +1899,7 @@
     {
         "name": "rapid",
         "trans": [
-            "快速的"
+            "adj. done or occurring in a brief period of time"
         ],
         "usphone": "ˈræpɪd",
         "ukphone": "ˈræpɪd"
@@ -1834,7 +1907,7 @@
     {
         "name": "rare",
         "trans": [
-            "罕见的"
+            "adj. not widely known; especially valued for its uncommonness; recurring only at long intervals"
         ],
         "usphone": "reə",
         "ukphone": "rer"
@@ -1842,7 +1915,7 @@
     {
         "name": "raw",
         "trans": [
-            "生的"
+            "adj. (used especially of commodities) being unprocessed or manufactured using only simple or minimal processes; having the surface exposed and painful"
         ],
         "usphone": "rɔː",
         "ukphone": "rɔː"
@@ -1850,7 +1923,7 @@
     {
         "name": "recycled",
         "trans": [
-            "回收的"
+            "v. cause to repeat a cycle"
         ],
         "usphone": "ˌriːˈsaɪkld",
         "ukphone": "ˌriːˈsaɪkld"
@@ -1858,7 +1931,7 @@
     {
         "name": "redundant",
         "trans": [
-            "多余的"
+            "adj. more than is needed, desired, or required"
         ],
         "usphone": "rɪˈdʌndənt",
         "ukphone": "rɪˈdʌndənt"
@@ -1866,7 +1939,7 @@
     {
         "name": "regional",
         "trans": [
-            "局域的"
+            "adj. characteristic of a region; related or limited to a particular region"
         ],
         "usphone": "ˈriːdʒənl",
         "ukphone": "ˈriːdʒənl"
@@ -1874,7 +1947,8 @@
     {
         "name": "regular",
         "trans": [
-            "定期的；规律的"
+            "adj. in accordance with fixed order or procedure or principle; often used as intensifiers",
+            "n. a regular patron"
         ],
         "usphone": "ˈreɡjələ",
         "ukphone": "ˈreɡjələr"
@@ -1882,7 +1956,7 @@
     {
         "name": "reinforced",
         "trans": [
-            "加强的"
+            "adj. given added strength or support"
         ],
         "usphone": "ˌriːɪnˈfɔːst",
         "ukphone": "ˌriːɪnˈfɔːrst"
@@ -1890,7 +1964,7 @@
     {
         "name": "related",
         "trans": [
-            "相关的"
+            "adj. being connected either logically or causally or by shared characteristics; connected by kinship, common origin, or marriage"
         ],
         "usphone": "rɪˈleɪtɪd",
         "ukphone": "rɪˈleɪtɪd"
@@ -1898,7 +1972,7 @@
     {
         "name": "relevant",
         "trans": [
-            "相关的"
+            "adj. having a bearing on or connection with the subject at issue"
         ],
         "usphone": "ˈreləvənt",
         "ukphone": "ˈreləvənt"
@@ -1906,7 +1980,7 @@
     {
         "name": "reliable",
         "trans": [
-            "可信赖的，可靠的，可依赖的"
+            "adj. worthy of reliance or trust; worthy of being depended on"
         ],
         "usphone": "rɪˈlaɪəbl",
         "ukphone": "rɪˈlaɪəbl"
@@ -1914,7 +1988,7 @@
     {
         "name": "remote",
         "trans": [
-            "远的"
+            "adj. located far away spatially; very unlikely"
         ],
         "usphone": "rɪˈməʊt",
         "ukphone": "rɪˈmoʊt"
@@ -1922,7 +1996,7 @@
     {
         "name": "resistant",
         "trans": [
-            "抵抗的"
+            "adj. relating to or conferring immunity (to disease or infection)"
         ],
         "usphone": "rɪˈzɪstənt",
         "ukphone": "rɪˈzɪstənt"
@@ -1930,7 +2004,9 @@
     {
         "name": "reverse",
         "trans": [
-            "相反的"
+            "v. change to the contrary; turn inside out or upside down",
+            "n. a relation of direct opposition; the gears by which the motion of a machine can be reversed",
+            "adj. directed or moving toward the rear"
         ],
         "usphone": "rɪˈvɜːs",
         "ukphone": "rɪˈvɜːrs"
@@ -1938,7 +2014,7 @@
     {
         "name": "rising",
         "trans": [
-            "上升的"
+            "adj. advancing or becoming higher or greater in degree or value or status"
         ],
         "usphone": "ˈraɪzɪŋ",
         "ukphone": "ˈraɪzɪŋ"
@@ -1946,7 +2022,7 @@
     {
         "name": "royal",
         "trans": [
-            "皇家的"
+            "adj. of or relating to or indicative of or issued or performed by a king or queen or other monarch; established or chartered or authorized by royalty"
         ],
         "usphone": "ˈrɔɪəl",
         "ukphone": "ˈrɔɪəl"
@@ -1954,7 +2030,7 @@
     {
         "name": "rural",
         "trans": [
-            "乡下的"
+            "adj. living in or characteristic of farming or country life; of or relating to the countryside as opposed to the city"
         ],
         "usphone": "ˈrʊərəl",
         "ukphone": "ˈrʊrəl"
@@ -1962,7 +2038,7 @@
     {
         "name": "sacked",
         "trans": [
-            "被解雇的"
+            "adj. having been robbed and destroyed by force and violence"
         ],
         "usphone": "sækt",
         "ukphone": "sækt"
@@ -1970,7 +2046,8 @@
     {
         "name": "safe",
         "trans": [
-            "安全的"
+            "adj. free from danger or the risk of harm; (of an undertaking) secure from risk",
+            "n. strongbox where valuables can be safely kept"
         ],
         "usphone": "seɪf",
         "ukphone": "seɪf"
@@ -1978,7 +2055,7 @@
     {
         "name": "satisfactory",
         "trans": [
-            "满意的"
+            "adj. giving satisfaction; meeting requirements"
         ],
         "usphone": "ˌsætɪsˈfæktəri",
         "ukphone": "ˌsætɪsˈfæktəri"
@@ -1986,7 +2063,7 @@
     {
         "name": "scarce",
         "trans": [
-            "不足的"
+            "adv. only a very short time before"
         ],
         "usphone": "skeəs",
         "ukphone": "skers"
@@ -1994,7 +2071,7 @@
     {
         "name": "scientific",
         "trans": [
-            "科学的"
+            "adj. of or relating to the practice of science; conforming with the principles or methods used in science"
         ],
         "usphone": "ˌsaɪənˈtɪfɪk",
         "ukphone": "ˌsaɪənˈtɪfɪk"
@@ -2002,7 +2079,7 @@
     {
         "name": "seasonal",
         "trans": [
-            "季节的"
+            "adj. occurring at or dependent on a particular season"
         ],
         "usphone": "ˈsiːzənl",
         "ukphone": "ˈsiːzənl"
@@ -2010,7 +2087,7 @@
     {
         "name": "seasoned",
         "trans": [
-            "风干的"
+            "adj. aged or processed"
         ],
         "usphone": "ˈsiːznd",
         "ukphone": "ˈsiːznd"
@@ -2018,7 +2095,7 @@
     {
         "name": "secondary",
         "trans": [
-            "第二的"
+            "adj. being of second rank or importance or value; not direct or immediate"
         ],
         "usphone": "ˈsekəndri",
         "ukphone": "ˈsekənderi"
@@ -2026,7 +2103,7 @@
     {
         "name": "second-hand",
         "trans": [
-            "二手的"
+            "adj. not new; previously owned by someone else"
         ],
         "usphone": "ˈsɛkəndˌhænd",
         "ukphone": "ˈsɛkəndˌhænd"
@@ -2042,7 +2119,7 @@
     {
         "name": "self-sufficient",
         "trans": [
-            "自给自足的"
+            "adj. able to provide for your own needs without help from others"
         ],
         "usphone": "'selfsə'fiʃənt",
         "ukphone": "ˌselfsə'fɪʃnt"
@@ -2050,7 +2127,8 @@
     {
         "name": "senior",
         "trans": [
-            "高级的"
+            "adj. older; higher in rank; longer in length of tenure or service; used of the fourth and final year in United States high school or college",
+            "n. an undergraduate student during the year preceding graduation"
         ],
         "usphone": "ˈsiːniə",
         "ukphone": "ˈsiːniər"
@@ -2058,7 +2136,7 @@
     {
         "name": "sensible",
         "trans": [
-            "明智的"
+            "adj. showing reason or sound judgment"
         ],
         "usphone": "ˈsensəbl",
         "ukphone": "ˈsensəbl"
@@ -2066,7 +2144,7 @@
     {
         "name": "serial",
         "trans": [
-            "连续的"
+            "adj. in regular succession without gaps"
         ],
         "usphone": "ˈsɪəriəl",
         "ukphone": "ˈsɪriəl"
@@ -2074,7 +2152,7 @@
     {
         "name": "serious",
         "trans": [
-            "严肃的"
+            "adj. concerned with work or important matters rather than play or trivialities; of great consequence"
         ],
         "usphone": "ˈsɪəriəs",
         "ukphone": "ˈsɪriəs"
@@ -2090,7 +2168,7 @@
     {
         "name": "several",
         "trans": [
-            "几个"
+            "adj. considered individually; distinct and individual"
         ],
         "usphone": "ˈsevrəl",
         "ukphone": "ˈsevrəl"
@@ -2098,7 +2176,7 @@
     {
         "name": "shared",
         "trans": [
-            "共享的"
+            "adj. have in common; held or experienced in common"
         ],
         "usphone": "ʃeəd",
         "ukphone": "ʃerd"
@@ -2106,7 +2184,8 @@
     {
         "name": "sharp",
         "trans": [
-            "锋利的；紧急的"
+            "adj. (of something seen or heard) clearly defined; ending in a sharp point",
+            "adv. changing suddenly in direction and degree"
         ],
         "usphone": "ʃɑːp",
         "ukphone": "ʃɑːrp"
@@ -2114,7 +2193,9 @@
     {
         "name": "short",
         "trans": [
-            "短的"
+            "adj. primarily temporal sense; indicating or being or seeming to be limited in duration; (primarily spatial sense) having little length or lacking in length",
+            "n. the location on a baseball field where the shortstop is stationed",
+            "adv. quickly and without warning"
         ],
         "usphone": "ʃɔːt",
         "ukphone": "ʃɔːrt"
@@ -2122,7 +2203,8 @@
     {
         "name": "sick",
         "trans": [
-            "生病的"
+            "adj. affected by an impairment of normal physical or mental function; feeling nausea; feeling about to vomit",
+            "n. people who are sick"
         ],
         "usphone": "sɪk",
         "ukphone": "sɪk"
@@ -2130,7 +2212,7 @@
     {
         "name": "silent",
         "trans": [
-            "安静的"
+            "adj. marked by absence of sound; failing to speak or communicate etc when expected to"
         ],
         "usphone": "ˈsaɪlənt",
         "ukphone": "ˈsaɪlənt"
@@ -2138,7 +2220,8 @@
     {
         "name": "silver",
         "trans": [
-            "银的"
+            "adj. made from or largely consisting of silver; having the white lustrous sheen of silver",
+            "n. a soft white precious univalent metallic element having the highest electrical and thermal conductivity of any metal; occurs in argentite and in free form…"
         ],
         "usphone": "ˈsɪlvə",
         "ukphone": "ˈsɪlvər"
@@ -2146,7 +2229,7 @@
     {
         "name": "similar",
         "trans": [
-            "相似的"
+            "adj. marked by correspondence or resemblance; having the same or similar characteristics"
         ],
         "usphone": "ˈsɪmələ",
         "ukphone": "ˈsɪmələr"
@@ -2154,7 +2237,7 @@
     {
         "name": "simple",
         "trans": [
-            "简单的"
+            "adj. having few parts; not complex or complicated or involved; easy and not involved or complicated"
         ],
         "usphone": "ˈsɪmpl",
         "ukphone": "ˈsɪmpl"
@@ -2162,7 +2245,7 @@
     {
         "name": "sleepy",
         "trans": [
-            "想睡的"
+            "adj. ready to fall asleep"
         ],
         "usphone": "ˈsliːpi",
         "ukphone": "ˈsliːpi"
@@ -2170,7 +2253,7 @@
     {
         "name": "slim",
         "trans": [
-            "苗条的"
+            "adj. being of delicate or slender build"
         ],
         "usphone": "slɪm",
         "ukphone": "slɪm"
@@ -2178,7 +2261,8 @@
     {
         "name": "smart",
         "trans": [
-            "聪明的"
+            "adj. showing mental alertness and calculation and resourcefulness; elegant and stylish",
+            "v. be the source of pain"
         ],
         "usphone": "smɑːt",
         "ukphone": "smɑːrt"
@@ -2186,7 +2270,7 @@
     {
         "name": "smelly",
         "trans": [
-            "有臭味的"
+            "adj. offensively malodorous"
         ],
         "usphone": "ˈsmeli",
         "ukphone": "ˈsmeli"
@@ -2194,7 +2278,8 @@
     {
         "name": "social",
         "trans": [
-            "社会的"
+            "adj. relating to human society and its members; living together or enjoying life in communities or organized groups",
+            "n. a party of people assembled to promote sociability and communal activity"
         ],
         "usphone": "ˈsəʊʃl",
         "ukphone": "ˈsoʊʃl"
@@ -2202,7 +2287,7 @@
     {
         "name": "solar",
         "trans": [
-            "太阳的"
+            "adj. relating to or derived from the sun or utilizing the energies of the sun"
         ],
         "usphone": "ˈsəʊlə",
         "ukphone": "ˈsoʊlər"
@@ -2210,7 +2295,7 @@
     {
         "name": "soundproof",
         "trans": [
-            "隔音的"
+            "adj. impervious to, or not penetrable by, sound"
         ],
         "usphone": "ˈsaʊn(d)pruːf",
         "ukphone": "ˈsaʊn(d)ˌpruf"
@@ -2218,7 +2303,7 @@
     {
         "name": "southern",
         "trans": [
-            "南方的"
+            "adj. in or characteristic of a region of the United States south of (approximately) the Mason-Dixon line; situated in or oriented toward the south"
         ],
         "usphone": "ˈsʌðən",
         "ukphone": "ˈsʌðərn"
@@ -2226,7 +2311,7 @@
     {
         "name": "spacious",
         "trans": [
-            "宽敞的，宽广的"
+            "adj. very large in expanse or scope"
         ],
         "usphone": "ˈspeɪʃəs",
         "ukphone": "ˈspeɪʃəs"
@@ -2234,7 +2319,8 @@
     {
         "name": "spare",
         "trans": [
-            "多余的"
+            "v. refrain from harming; save or relieve from an experience or action",
+            "adj. thin and fit; more than is needed, desired, or required"
         ],
         "usphone": "speə",
         "ukphone": "sper"
@@ -2242,7 +2328,8 @@
     {
         "name": "special",
         "trans": [
-            "特别的"
+            "adj. unique or specific to a person or thing or category; for a special service or occasion",
+            "n. a special offering (usually temporary and at a reduced price) that is featured in advertising"
         ],
         "usphone": "ˈspeʃl",
         "ukphone": "ˈspeʃl"
@@ -2250,7 +2337,7 @@
     {
         "name": "specialised",
         "trans": [
-            "特别的，专门的"
+            "adj. developed or designed for a special activity or function"
         ],
         "usphone": "'speʃəlaɪzd",
         "ukphone": "'speʃəlaɪzd"
@@ -2258,7 +2345,7 @@
     {
         "name": "species",
         "trans": [
-            "种类，物种"
+            "n. (biology) taxonomic group whose members can interbreed; a specific kind of something"
         ],
         "usphone": "ˈspiːʃiːz",
         "ukphone": "ˈspiːʃiːz"
@@ -2266,7 +2353,7 @@
     {
         "name": "specific",
         "trans": [
-            "特别的"
+            "adj. (sometimes followed by 'to') applying to or characterized by or distinguishing something particular or special or unique; stated explicitly or in detail"
         ],
         "usphone": "spəˈsɪfɪk",
         "ukphone": "spəˈsɪfɪk"
@@ -2274,7 +2361,8 @@
     {
         "name": "spiral",
         "trans": [
-            "螺旋的"
+            "n. a plane curve traced by a point circling about the center but at increasing distances from the center",
+            "v. to wind or move in a spiral course"
         ],
         "usphone": "ˈspaɪrəl",
         "ukphone": "ˈspaɪrəl"
@@ -2282,7 +2370,8 @@
     {
         "name": "stable",
         "trans": [
-            "adj.稳定的 n.马圈"
+            "adj. resistant to change of position or condition; firm and dependable; subject to little fluctuation",
+            "n. a farm building for housing horses or other livestock"
         ],
         "usphone": "ˈsteɪbl",
         "ukphone": "ˈsteɪbl"
@@ -2290,7 +2379,8 @@
     {
         "name": "steady",
         "trans": [
-            "稳定的"
+            "adj. not subject to change or variation especially in behavior",
+            "v. make steady; support or hold steady and make steadfast, with or as if with a brace"
         ],
         "usphone": "ˈstedi",
         "ukphone": "ˈstedi"
@@ -2298,7 +2388,7 @@
     {
         "name": "stout",
         "trans": [
-            "（形容人）结实 的，强壮的"
+            "adj. dependable; euphemisms for 'fat'"
         ],
         "usphone": "staʊt",
         "ukphone": "staʊt"
@@ -2306,7 +2396,7 @@
     {
         "name": "strained",
         "trans": [
-            "紧张的"
+            "adj. lacking natural ease; showing signs of mental and emotional tension"
         ],
         "usphone": "streɪnd",
         "ukphone": "streɪnd"
@@ -2314,7 +2404,7 @@
     {
         "name": "stressful",
         "trans": [
-            "压力的"
+            "adj. extremely irritating to the nerves"
         ],
         "usphone": "ˈstresfl",
         "ukphone": "ˈstresfl"
@@ -2322,7 +2412,7 @@
     {
         "name": "stretching",
         "trans": [
-            "伸展的"
+            "n. act of expanding by lengthening or widening"
         ],
         "usphone": "ˈstretʃɪŋ",
         "ukphone": "ˈstretʃɪŋ"
@@ -2330,7 +2420,7 @@
     {
         "name": "strong",
         "trans": [
-            "强壮的"
+            "adj. having strength or power greater than average or expected; not faint or feeble"
         ],
         "usphone": "strɒŋ",
         "ukphone": "strɔːŋ"
@@ -2338,7 +2428,7 @@
     {
         "name": "stronger",
         "trans": [
-            "更强的"
+            "adj. having strength or power greater than average or expected; not faint or feeble"
         ],
         "usphone": "ˈstrɒŋgə",
         "ukphone": "ˈstrɔːŋər"
@@ -2346,7 +2436,7 @@
     {
         "name": "subjective",
         "trans": [
-            "主观的"
+            "adj. taking place within the mind and modified by individual bias"
         ],
         "usphone": "səbˈdʒektɪv",
         "ukphone": "səbˈdʒektɪv"
@@ -2354,7 +2444,7 @@
     {
         "name": "successful",
         "trans": [
-            "成功的"
+            "adj. having succeeded or being marked by a favorable outcome"
         ],
         "usphone": "səkˈsesfl",
         "ukphone": "səkˈsesfl"
@@ -2362,7 +2452,7 @@
     {
         "name": "sufficient",
         "trans": [
-            "充分的"
+            "adj. of a quantity that can fulfill a need or requirement but without being abundant"
         ],
         "usphone": "səˈfɪʃnt",
         "ukphone": "səˈfɪʃnt"
@@ -2370,7 +2460,7 @@
     {
         "name": "suitable",
         "trans": [
-            "合适的"
+            "adj. meant or adapted for an occasion or use"
         ],
         "usphone": "ˈsuːtəbl",
         "ukphone": "ˈsuːtəbl"
@@ -2378,7 +2468,8 @@
     {
         "name": "super",
         "trans": [
-            "超级的"
+            "adj. of the highest quality; including more than a specified category",
+            "adv. to an extreme degree"
         ],
         "usphone": "ˈsuːpə",
         "ukphone": "ˈsuːpər"
@@ -2386,7 +2477,7 @@
     {
         "name": "surprised",
         "trans": [
-            "惊奇的"
+            "adj. taken unawares or suddenly and feeling wonder or astonishment"
         ],
         "usphone": "səˈpraɪzd",
         "ukphone": "sərˈpraɪzd"
@@ -2394,7 +2485,7 @@
     {
         "name": "systematic",
         "trans": [
-            "系统的"
+            "adj. characterized by order and planning"
         ],
         "usphone": "ˌsɪstəˈmætɪk",
         "ukphone": "ˌsɪstəˈmætɪk"
@@ -2402,7 +2493,7 @@
     {
         "name": "technical",
         "trans": [
-            "科技的"
+            "adj. of or relating to technique or proficiency in a practical skill; characterizing or showing skill in or specialized knowledge of applied arts and sciences"
         ],
         "usphone": "ˈteknɪkl",
         "ukphone": "ˈteknɪkl"
@@ -2410,7 +2501,7 @@
     {
         "name": "theoretical",
         "trans": [
-            "理论的"
+            "adj. concerned primarily with theories or hypotheses rather than practical considerations"
         ],
         "usphone": "ˌθɪəˈretɪkl",
         "ukphone": "ˌθiːəˈretɪkl"
@@ -2418,7 +2509,7 @@
     {
         "name": "traditional",
         "trans": [
-            "传统的"
+            "adj. consisting of or derived from tradition; pertaining to time-honored orthodox doctrines"
         ],
         "usphone": "trəˈdɪʃənl",
         "ukphone": "trəˈdɪʃənl"
@@ -2426,7 +2517,7 @@
     {
         "name": "troublesome",
         "trans": [
-            "带来麻烦的"
+            "adj. difficult to deal with"
         ],
         "usphone": "ˈtrʌblsəm",
         "ukphone": "ˈtrʌblsəm"
@@ -2434,7 +2525,7 @@
     {
         "name": "typical",
         "trans": [
-            "典型的"
+            "adj. exhibiting the qualities or characteristics that identify a group or kind or category; of a feature that helps to distinguish a person or thing"
         ],
         "usphone": "ˈtɪpɪkl",
         "ukphone": "ˈtɪpɪkl"
@@ -2442,7 +2533,7 @@
     {
         "name": "unanimous",
         "trans": [
-            "意见一致的"
+            "adj. in complete agreement"
         ],
         "usphone": "juˈnænɪməs",
         "ukphone": "juˈnænɪməs"
@@ -2450,7 +2541,7 @@
     {
         "name": "uncomfortable",
         "trans": [
-            "不舒服的"
+            "adj. conducive to or feeling mental discomfort; providing or experiencing physical discomfort"
         ],
         "usphone": "ʌnˈkʌmftəbl",
         "ukphone": "ʌnˈkʌmftəbl"
@@ -2458,7 +2549,7 @@
     {
         "name": "unconvincing",
         "trans": [
-            "没有说服力的"
+            "adj. not convincing"
         ],
         "usphone": "ˌənˈkɑnvɪnsɪŋ",
         "ukphone": "ˌʌnkənˈvɪnsɪŋ"
@@ -2466,7 +2557,7 @@
     {
         "name": "underground",
         "trans": [
-            "地下的"
+            "adj. under the level of the ground"
         ],
         "usphone": "ˌʌndəˈɡraʊnd , ˈʌndəɡraʊnd",
         "ukphone": "ˌʌndərˈɡraʊnd , ˈʌndərɡraʊnd"
@@ -2474,7 +2565,7 @@
     {
         "name": "unfair",
         "trans": [
-            "不公平的"
+            "adj. not fair; marked by injustice or partiality or deception"
         ],
         "usphone": "ˌʌnˈfeə",
         "ukphone": "ˌʌnˈfer"
@@ -2482,7 +2573,7 @@
     {
         "name": "unhealthy",
         "trans": [
-            "不健康的"
+            "adj. not in or exhibiting good health in body or mind"
         ],
         "usphone": "ʌnˈhelθi",
         "ukphone": "ʌnˈhelθi"
@@ -2490,7 +2581,7 @@
     {
         "name": "unique",
         "trans": [
-            "独特的"
+            "adj. radically distinctive and without equal; (followed by 'to') applying exclusively to a given category or condition or locality"
         ],
         "usphone": "juˈniːk",
         "ukphone": "juˈniːk"
@@ -2498,7 +2589,7 @@
     {
         "name": "united",
         "trans": [
-            "联合的"
+            "adj. characterized by unity; being or joined into a single entity"
         ],
         "usphone": "jʊ'naɪtɪd",
         "ukphone": "jʊ'naɪtɪd"
@@ -2506,7 +2597,7 @@
     {
         "name": "unreliable",
         "trans": [
-            "不可依赖的"
+            "adj. liable to be erroneous or misleading"
         ],
         "usphone": "ˌʌnrɪˈlaɪəbl",
         "ukphone": "ˌʌnrɪˈlaɪəbl"
@@ -2514,7 +2605,7 @@
     {
         "name": "unsocial",
         "trans": [
-            "不合群的"
+            "adj. not seeking or given to association; being or living without companions"
         ],
         "usphone": "ˌənˈsoʊʃəl",
         "ukphone": "ˌʌnˈsəʊʃəl"
@@ -2522,7 +2613,7 @@
     {
         "name": "unusual",
         "trans": [
-            "非同寻常的"
+            "adj. not usual or common or ordinary; being definitely out of the ordinary and unexpected; slightly odd or even a bit weird"
         ],
         "usphone": "ʌnˈjuːʒuəl",
         "ukphone": "ʌnˈjuːʒuəl"
@@ -2530,7 +2621,7 @@
     {
         "name": "useful",
         "trans": [
-            "有用的"
+            "adj. being of use or service"
         ],
         "usphone": "ˈjuːsfl",
         "ukphone": "ˈjuːsfl"
@@ -2538,7 +2629,7 @@
     {
         "name": "useless",
         "trans": [
-            "没用的"
+            "adj. having no beneficial use or incapable of functioning usefully"
         ],
         "usphone": "ˈjuːsləs",
         "ukphone": "ˈjuːsləs"
@@ -2546,7 +2637,7 @@
     {
         "name": "usual",
         "trans": [
-            "平常的，普通的"
+            "adj. occurring or encountered or experienced or observed frequently or in accordance with regular practice or procedure; commonly encountered"
         ],
         "usphone": "ˈjuːʒuəl",
         "ukphone": "ˈjuːʒuəl"
@@ -2554,7 +2645,7 @@
     {
         "name": "various",
         "trans": [
-            "各种的"
+            "adj. of many different kinds purposefully arranged but lacking any uniformity; considered individually"
         ],
         "usphone": "ˈveəriəs",
         "ukphone": "ˈveriəs"
@@ -2562,7 +2653,7 @@
     {
         "name": "violent",
         "trans": [
-            "猛烈的，暴力的"
+            "adj. acting with or marked by or resulting from great force or energy or emotional intensity; effected by force or injury rather than natural causes"
         ],
         "usphone": "ˈvaɪələnt",
         "ukphone": "ˈvaɪələnt"
@@ -2570,7 +2661,7 @@
     {
         "name": "virtual",
         "trans": [
-            "虚拟的"
+            "adj. being actually such in almost every respect"
         ],
         "usphone": "ˈvɜːtʃuəl",
         "ukphone": "ˈvɜːrtʃuəl"
@@ -2578,7 +2669,7 @@
     {
         "name": "visible",
         "trans": [
-            "可见的"
+            "adj. capable of being seen; or open to easy view; obvious to the eye"
         ],
         "usphone": "ˈvɪzəbl",
         "ukphone": "ˈvɪzəbl"
@@ -2586,7 +2677,7 @@
     {
         "name": "visual",
         "trans": [
-            "视觉的"
+            "adj. relating to or using sight"
         ],
         "usphone": "ˈvɪʒuəl",
         "ukphone": "ˈvɪʒuəl"
@@ -2594,7 +2685,8 @@
     {
         "name": "warm",
         "trans": [
-            "温暖的"
+            "adj. having or producing a comfortable and agreeable degree of heat or imparting or maintaining heat; psychologically warm; friendly and responsive",
+            "v. get warm or warmer; make warm or warmer"
         ],
         "usphone": "wɔːm",
         "ukphone": "wɔːrm"
@@ -2602,7 +2694,7 @@
     {
         "name": "washable",
         "trans": [
-            "可洗的"
+            "adj. capable of being washed without injury"
         ],
         "usphone": "ˈwɑʃəbl̩",
         "ukphone": "ˈwɒʃəbl̩"
@@ -2610,7 +2702,7 @@
     {
         "name": "wealthy",
         "trans": [
-            "有钱的"
+            "adj. having an abundant supply of money or possessions of value"
         ],
         "usphone": "ˈwelθi",
         "ukphone": "ˈwelθi"
@@ -2618,7 +2710,7 @@
     {
         "name": "weekly",
         "trans": [
-            "每周的"
+            "n. a periodical that is published every week (or 52 issues per year)"
         ],
         "usphone": "ˈwiːkli",
         "ukphone": "ˈwiːkli"
@@ -2626,7 +2718,8 @@
     {
         "name": "western",
         "trans": [
-            "西方的"
+            "adj. relating to or characteristic of the western parts of the world or the West as opposed to the eastern or oriental parts",
+            "n. a film about life in the western United States during the period of exploration and development"
         ],
         "usphone": "'wɛstɚn",
         "ukphone": "'west(ə)n"
@@ -2634,7 +2727,9 @@
     {
         "name": "whole",
         "trans": [
-            "整个的"
+            "adj. including all components without exception; being one unit or constituting the full amount or extent or duration; complete",
+            "n. all of something including all its component elements or parts",
+            "adv. to a complete degree or to the full or entire extent ('whole' is often used informally for 'wholly')"
         ],
         "usphone": "həʊl",
         "ukphone": "hoʊl"
@@ -2642,7 +2737,8 @@
     {
         "name": "wide",
         "trans": [
-            "广泛的"
+            "adj. having great (or a certain) extent from one side to the other; broad in scope or content",
+            "adv. with or by a broad space; to the fullest extent possible"
         ],
         "usphone": "waɪd",
         "ukphone": "waɪd"
@@ -2650,7 +2746,8 @@
     {
         "name": "wise",
         "trans": [
-            "明智的"
+            "adj. having or prompted by wisdom or discernment; marked by the exercise of good judgment or common sense in practical matters",
+            "n. a way of doing or being"
         ],
         "usphone": "waɪz",
         "ukphone": "waɪz"
@@ -2658,7 +2755,7 @@
     {
         "name": "worthwhile",
         "trans": [
-            "值得的"
+            "adj. sufficiently valuable to justify the investment of time or interest"
         ],
         "usphone": "ˌwɜːθˈwaɪl",
         "ukphone": "ˌwɜːrθˈwaɪl"
@@ -2666,7 +2763,7 @@
     {
         "name": "worthy",
         "trans": [
-            "值得做某事"
+            "adj. having worth or merit or value; being honorable or admirable; worthy of being chosen especially as a spouse"
         ],
         "usphone": "ˈwɜːði",
         "ukphone": "ˈwɜːrði"
@@ -2674,7 +2771,7 @@
     {
         "name": "almost",
         "trans": [
-            "几乎，差不多"
+            "adv. (of actions or states) slightly short of or not quite accomplished; all but"
         ],
         "usphone": "ˈɔːlməʊst",
         "ukphone": "ˈɔːlmoʊst"
@@ -2682,7 +2779,7 @@
     {
         "name": "currently",
         "trans": [
-            "目前地"
+            "adv. at this time or period; now"
         ],
         "usphone": "ˈkʌrəntli",
         "ukphone": "ˈkɜːrəntli"
@@ -2690,7 +2787,7 @@
     {
         "name": "directly",
         "trans": [
-            "直接地"
+            "adv. without deviation; without anyone or anything intervening"
         ],
         "usphone": "dəˈrektli",
         "ukphone": "dəˈrektli"
@@ -2698,7 +2795,7 @@
     {
         "name": "effectively",
         "trans": [
-            "有效地"
+            "adv. in an effective manner; in actuality or reality or fact"
         ],
         "usphone": "ɪˈfektɪvli",
         "ukphone": "ɪˈfektɪvli"
@@ -2706,7 +2803,7 @@
     {
         "name": "efficiently",
         "trans": [
-            "有效率地"
+            "adv. with efficiency; in an efficient manner"
         ],
         "usphone": "ɪˈfɪʃntli",
         "ukphone": "ɪˈfɪʃntli"
@@ -2714,7 +2811,7 @@
     {
         "name": "originally",
         "trans": [
-            "最初地"
+            "adv. in an original manner; with reference to the origin or beginning"
         ],
         "usphone": "əˈrɪdʒənəli",
         "ukphone": "əˈrɪdʒənəli"
@@ -2722,7 +2819,7 @@
     {
         "name": "physically",
         "trans": [
-            "身体地"
+            "adv. in accord with physical laws"
         ],
         "usphone": "ˈfɪzɪkli",
         "ukphone": "ˈfɪzɪkli"
@@ -2730,7 +2827,7 @@
     {
         "name": "professionally",
         "trans": [
-            "专业地"
+            "adv. in a professional manner"
         ],
         "usphone": "prəˈfeʃənəli",
         "ukphone": "prəˈfeʃənəli"
@@ -2738,7 +2835,7 @@
     {
         "name": "rapidly",
         "trans": [
-            "快速地"
+            "adv. with rapid movements"
         ],
         "usphone": "ˈræpɪdli",
         "ukphone": "ˈræpɪdli"
@@ -2746,7 +2843,7 @@
     {
         "name": "regularly",
         "trans": [
-            "定期地"
+            "adv. in a regular manner"
         ],
         "usphone": "ˈreɡjələli",
         "ukphone": "ˈreɡjələrli"
@@ -2754,7 +2851,7 @@
     {
         "name": "scarcely",
         "trans": [
-            "不足地"
+            "adv. only a very short time before"
         ],
         "usphone": "ˈskeəsli",
         "ukphone": "ˈskersli"
@@ -2762,7 +2859,7 @@
     {
         "name": "virtually",
         "trans": [
-            "几乎"
+            "adv. in essence or effect but not in fact; (of actions or states) slightly short of or not quite accomplished; all but"
         ],
         "usphone": "ˈvɜːtʃuəli",
         "ukphone": "ˈvɜːrtʃuəli"

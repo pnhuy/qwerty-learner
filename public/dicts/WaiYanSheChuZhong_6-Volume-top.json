@@ -8,9 +8,8 @@
     {
         "name": "near",
         "trans": [
-            "adj. 近的；亲近的；近似的",
-            "adv. 近；接近",
-            "prep. 靠近；近似于"
+            "prep. / adv. at or to a short distance from",
+            "adj. close in space or time"
         ],
         "usphone": "[nɪr]",
         "ukphone": "[nɪə(r)]"
@@ -18,8 +17,7 @@
     {
         "name": "along",
         "trans": [
-            "prep. 沿着；顺着",
-            "adv. 一起；向前；来到"
+            "prep. moving in a line from one end towards the other end of"
         ],
         "usphone": "[əˈlɔːŋ]",
         "ukphone": "[əˈlɒŋ]"
@@ -27,7 +25,7 @@
     {
         "name": "more than",
         "trans": [
-            "na. …以上；比…更"
+            "adj. (comparative of 'much' used with mass nouns) a quantifier meaning greater in size or amount or extent or degree"
         ],
         "usphone": "[mɔr ðæn]",
         "ukphone": "[mɔː ðæn]"
@@ -35,7 +33,7 @@
     {
         "name": "kilometre",
         "trans": [
-            "n. [计量] 公里；[计量] 千米"
+            "n. a metric unit of length equal to 1000 meters (or 0.621371 miles)"
         ],
         "usphone": "[kɪˈlɑːmɪtər]",
         "ukphone": "[kɪˈlɒmɪtə(r)]"
@@ -43,7 +41,7 @@
     {
         "name": "metre",
         "trans": [
-            "n. 米；公尺；韵律"
+            "n. the basic unit of length adopted under the Systeme International d'Unites (approximately 1.094 yards)"
         ],
         "usphone": "[ˈmiːtər]",
         "ukphone": "[ˈmiːtə(r)]"
@@ -51,7 +49,7 @@
     {
         "name": "office building",
         "trans": [
-            "n. 办公楼"
+            "n. a building containing offices where work is done"
         ]
     },
     {
@@ -65,7 +63,7 @@
     {
         "name": "town",
         "trans": [
-            "n. 城镇，市镇；市内商业区"
+            "n. an urban area with a fixed boundary that is smaller than a city; the people living in a municipality smaller than a city"
         ],
         "usphone": "[taʊn]",
         "ukphone": "[taʊn]"
@@ -73,9 +71,9 @@
     {
         "name": "subject",
         "trans": [
-            "n. 主题；科目；[语] 主语；国民",
-            "adj. 服从的；易患…的；受制于…的",
-            "vt. 使…隶属；使屈从于…"
+            "n. the subject matter of a conversation or discussion; something (a person or object or scene) selected by an artist or photographer for graphic representation",
+            "adj. possibly accepting or permitting",
+            "v. cause to experience or suffer or make liable or vulnerable to; make accountable for"
         ],
         "usphone": "[ˈsʌbdʒɪkt; ˈsʌbdʒekt]",
         "ukphone": "[ˈsʌbdʒɪkt; ˈsʌbdʒekt]"
@@ -83,8 +81,7 @@
     {
         "name": "everywhere",
         "trans": [
-            "n. 每个地方",
-            "adv. 到处"
+            "adv. to or in any or all places; ('everyplace' is used informally for 'everywhere')"
         ],
         "usphone": "[ˈevriwer]",
         "ukphone": "[ˈevriweə(r)]"
@@ -92,8 +89,7 @@
     {
         "name": "spoke",
         "trans": [
-            "n. （车轮的）辐条；轮辐；破坏某人的计划；阻挠某人的行动；刹车；扶梯棍",
-            "v. 说话（speak的过去式）；为…装轮辐；说；演说；从某种观点来说"
+            "n. support consisting of a radial member of a wheel joining the hub to the rim"
         ],
         "usphone": "[spoʊk]",
         "ukphone": "[spəʊk]"
@@ -107,8 +103,7 @@
     {
         "name": "tomb",
         "trans": [
-            "n. 坟墓；死亡",
-            "vt. 埋葬"
+            "n. a place for the burial of a corpse (especially beneath the ground and marked by a tombstone)"
         ],
         "usphone": "[tuːm]",
         "ukphone": "[tuːm]"
@@ -116,7 +111,7 @@
     {
         "name": "wrote",
         "trans": [
-            "v. 写（write的过去式）"
+            "v. produce a literary work; communicate or express by writing"
         ],
         "usphone": "[roʊt]",
         "ukphone": "[rəʊt]"
@@ -124,10 +119,8 @@
     {
         "name": "when",
         "trans": [
-            "conj. 考虑到；既然；当…时；在…时；如果",
-            "n. 时间，时候；日期；场合",
-            "adv. 什么时候，何时；（用于时间的表达方式之后）在那时；其时；当时",
-            "pron. 那时；什么时侯"
+            "adv. at what time",
+            "conj. at the time that; whenever"
         ],
         "usphone": "[wen]",
         "ukphone": "[wen]"
@@ -135,9 +128,8 @@
     {
         "name": "stamp",
         "trans": [
-            "n. 邮票；印记；标志；跺脚",
-            "vt. 铭记；标出；盖章于…；贴邮票于…；用脚踩踏",
-            "vi. 跺脚；捣碎；毁掉"
+            "n. the distinctive form in which a thing is made; a type or class",
+            "v. walk heavily; to mark, or produce an imprint in or on something"
         ],
         "usphone": "[stæmp]",
         "ukphone": "[stæmp]"
@@ -145,8 +137,8 @@
     {
         "name": "book",
         "trans": [
-            "n. 书籍；卷；帐簿；名册；工作簿",
-            "vt. 预订；登记"
+            "n. a written work or composition that has been published (printed on pages bound together); physical objects consisting of a number of pages bound together",
+            "v. engage for a performance; arrange for and reserve (something for someone else) in advance"
         ],
         "usphone": "[bʊk]",
         "ukphone": "[bʊk]"
@@ -154,10 +146,9 @@
     {
         "name": "collect",
         "trans": [
-            "vt. 收集；募捐",
-            "adj. 由收件人付款的",
-            "vi. 收集；聚集；募捐",
-            "adv. 由收件人付款地"
+            "v. get or gather together; call for and obtain payment of",
+            "adj. payable by the recipient on delivery",
+            "adv. make a telephone call or mail a package so that the recipient pays"
         ],
         "usphone": "[kəˈlekt]",
         "ukphone": "[kəˈlekt]"
@@ -165,7 +156,7 @@
     {
         "name": "hobby",
         "trans": [
-            "n. 嗜好；业余爱好"
+            "n. an auxiliary activity"
         ],
         "usphone": "[ˈhɑːbi]",
         "ukphone": "[ˈhɒbi]"
@@ -173,9 +164,8 @@
     {
         "name": "sun",
         "trans": [
-            "n. 太阳",
-            "vt. 使晒",
-            "vi. 晒太阳"
+            "n. the star that is the source of light and heat for the planets in the solar system; the rays of the sun",
+            "v. expose one's body to the sun"
         ],
         "usphone": "[sʌn]",
         "ukphone": "[sʌn]"
@@ -183,9 +173,7 @@
     {
         "name": "island",
         "trans": [
-            "n. 岛；岛屿；安全岛；岛状物",
-            "adj. 岛的",
-            "vt. 孤立；使成岛状"
+            "n. a land mass (smaller than a continent) that is surrounded by water; a zone or area resembling an island"
         ],
         "usphone": "[ˈaɪlənd]",
         "ukphone": "[ˈaɪlənd]"
@@ -193,7 +181,7 @@
     {
         "name": "coconut",
         "trans": [
-            "n. 椰子；椰子肉"
+            "n. the edible white meat of a coconut; often shredded for use in e.g. cakes and curries"
         ],
         "usphone": "[ˈkoʊkənʌt]",
         "ukphone": "[ˈkəʊkənʌt]"
@@ -201,13 +189,13 @@
     {
         "name": "Thanksgiving",
         "trans": [
-            "n. 感恩"
+            "n. fourth Thursday in November in the United States; second Monday in October in Canada; commemorates a feast held in 1621 by the Pilgrims and the Wampanoag"
         ]
     },
     {
         "name": "nearly",
         "trans": [
-            "adv. 差不多，几乎；密切地"
+            "adv. (of actions or states) slightly short of or not quite accomplished; all but"
         ],
         "usphone": "[ˈnɪrli]",
         "ukphone": "[ˈnɪəli]"
@@ -221,8 +209,8 @@
     {
         "name": "sure",
         "trans": [
-            "adj. 确信的；可靠的；必定的",
-            "adv. 当然；的确"
+            "adj. having or feeling no doubt or uncertainty; confident and assured; exercising or taking care great enough to bring assurance",
+            "adv. definitely or positively ('sure' is sometimes used informally for 'surely')"
         ],
         "usphone": "[ʃʊr]",
         "ukphone": "[ʃʊə(r)]"
@@ -230,7 +218,7 @@
     {
         "name": "December",
         "trans": [
-            "n. 十二月"
+            "n. the last (12th) month of the year"
         ],
         "usphone": "[dɪˈsembər]",
         "ukphone": "[dɪˈsembə(r)]"
@@ -238,11 +226,9 @@
     {
         "name": "light",
         "trans": [
-            "n. 光；光线；灯；打火机；领悟；浅色；天窗",
-            "adj. 轻的；浅色的；明亮的；轻松的；容易的；清淡的",
-            "vi. 点着；变亮；着火",
-            "vt. 照亮；点燃；着火",
-            "adv. 轻地；清楚地；轻便地"
+            "n. (physics) electromagnetic radiation that can produce a visual sensation; any device serving as a source of illumination",
+            "adj. of comparatively little physical weight or density; (used of color) having a relatively small amount of coloring agent",
+            "v. make lighter or brighter; begin to smoke"
         ],
         "usphone": "[laɪt]",
         "ukphone": "[laɪt]"
@@ -250,8 +236,7 @@
     {
         "name": "pleased",
         "trans": [
-            "adj. 高兴的；喜欢的；乐意做某事",
-            "v. 满意；愿意（please的过去分词形式）"
+            "adj. experiencing or manifesting pleasure; feeling pleasurable satisfaction over something by which you measures your self-worth"
         ],
         "usphone": "[pliːzd]",
         "ukphone": "[pliːzd]"
@@ -259,9 +244,8 @@
     {
         "name": "pretty",
         "trans": [
-            "n. 有吸引力的事物（尤指饰品）；漂亮的人",
-            "adj. 漂亮的；可爱的；优美的",
-            "adv. 相当地；颇"
+            "adj. pleasing by delicacy or grace; not imposing; (used ironically) unexpectedly bad",
+            "adv. to a moderately sufficient extent or degree"
         ],
         "usphone": "[ˈprɪti]",
         "ukphone": "[ˈprɪti]"
@@ -269,8 +253,8 @@
     {
         "name": "French",
         "trans": [
-            "n. 法国人；法语",
-            "adj. 法国的；法语的；法国人的"
+            "n. the Romance language spoken in France and in countries colonized by France; the people of France",
+            "adj. of or pertaining to France or the people of France"
         ],
         "usphone": "[frentʃ]",
         "ukphone": "[frentʃ]"
@@ -278,9 +262,8 @@
     {
         "name": "phone",
         "trans": [
-            "n. 电话；耳机，听筒",
-            "vt. 打电话",
-            "vi. 打电话"
+            "n. electronic equipment that converts sound into electrical signals that can be transmitted over distances and then converts received signals back into sounds",
+            "v. get or try to get into communication (with someone) by telephone"
         ],
         "usphone": "[foʊn]",
         "ukphone": "[fəʊn]"
@@ -288,7 +271,7 @@
     {
         "name": "world",
         "trans": [
-            "n. 世界；领域；世俗；全人类；物质生活"
+            "n. everything that exists anywhere; people in general; especially a distinctive group of people with some shared interest"
         ],
         "usphone": "[wɜːrld]",
         "ukphone": "[wɜːld]"
@@ -296,7 +279,7 @@
     {
         "name": "difficult",
         "trans": [
-            "adj. 困难的；不随和的；执拗的"
+            "adj. not easy; requiring great physical or mental effort to accomplish or comprehend or endure"
         ],
         "usphone": "[ˈdɪfɪkəlt]",
         "ukphone": "[ˈdɪfɪkəlt]"
@@ -304,9 +287,8 @@
     {
         "name": "answer",
         "trans": [
-            "n. 回答；答案；答辩",
-            "vt. 回答；符合",
-            "vi. 回答；符合"
+            "n. a statement (either spoken or written) that is made to reply to a question or request or criticism or accusation",
+            "v. react verbally; respond to a signal"
         ],
         "usphone": "[ˈænsər]",
         "ukphone": "[ˈɑːnsə(r)]"
@@ -314,16 +296,14 @@
     {
         "name": "Miss",
         "trans": [
-            "n. 女士，小姐，年轻未婚女子",
-            "vt. 错过，想念，缺（勤）"
+            "n. a young woman; a failure to hit (or meet or find etc)",
+            "v. fail to perceive or to catch with the senses or the mind; feel or suffer from the lack of"
         ]
     },
     {
         "name": "bamboo",
         "trans": [
-            "n. 竹，竹子",
-            "adj. 竹制的；土著居民的",
-            "vt. 为…装上篾条"
+            "n. the hard woody stems of bamboo plants; used in construction and crafts and fishing poles"
         ],
         "usphone": "[ˌbæmˈbuː]",
         "ukphone": "[ˌbæmˈbuː]"
@@ -331,7 +311,7 @@
     {
         "name": "gave",
         "trans": [
-            "v. 给予（give的过去式）"
+            "v. cause to have, in the abstract sense or physical sense; be the cause or source of"
         ],
         "usphone": "[ɡeɪv]",
         "ukphone": "[ɡeɪv]"
@@ -339,7 +319,7 @@
     {
         "name": "its",
         "trans": [
-            "pron. 它的"
+            "det. belonging to or associated with a thing or animal previously mentioned"
         ],
         "usphone": "[ɪts]",
         "ukphone": "[ɪts]"
@@ -347,7 +327,7 @@
     {
         "name": "almost",
         "trans": [
-            "adv. 差不多，几乎"
+            "adv. (of actions or states) slightly short of or not quite accomplished; all but"
         ],
         "usphone": "[ˈɔːlmoʊst]",
         "ukphone": "[ˈɔːlməʊst]"
@@ -355,7 +335,7 @@
     {
         "name": "deaf",
         "trans": [
-            "adj. 聋的"
+            "adj. lacking or deprived of the sense of hearing wholly or in part"
         ],
         "usphone": "[def]",
         "ukphone": "[def]"
@@ -363,8 +343,7 @@
     {
         "name": "frightened",
         "trans": [
-            "v. 害怕；使吃惊；吓走（frighten的过去分词）",
-            "adj. 害怕的；受惊的；受恐吓的"
+            "adj. made afraid"
         ],
         "usphone": "[ˈfraɪtnd]",
         "ukphone": "[ˈfraɪtnd]"
@@ -380,9 +359,8 @@
     {
         "name": "roar",
         "trans": [
-            "n. 咆哮；吼；轰鸣",
-            "vi. 咆哮；吼叫；喧闹",
-            "vt. 咆哮；呼喊；使……轰鸣"
+            "n. a deep prolonged loud noise; a very loud utterance (like the sound of an animal)",
+            "v. make a loud noise, as of wind, water, or vehicles; utter words loudly and forcefully"
         ],
         "usphone": "[rɔːr]",
         "ukphone": "[rɔː(r)]"
@@ -390,9 +368,8 @@
     {
         "name": "fox",
         "trans": [
-            "n. 狐狸；狡猾的人",
-            "vt. 欺骗；使变酸",
-            "vi. 假装；耍狡猾手段"
+            "n. alert carnivorous mammal with pointed muzzle and ears and a bushy tail; most are predators that do not hunt in packs; a shifty deceptive person",
+            "v. deceive somebody"
         ],
         "usphone": "[fɑːks]",
         "ukphone": "[fɒks]"
@@ -406,8 +383,8 @@
     {
         "name": "coin",
         "trans": [
-            "n. 硬币，钱币",
-            "vt. 铸造（货币）；杜撰，创造"
+            "n. a flat metal piece (usually a disc) used as money",
+            "v. make up"
         ],
         "usphone": "[kɔɪn]",
         "ukphone": "[kɔɪn]"
@@ -415,7 +392,7 @@
     {
         "name": "ever",
         "trans": [
-            "adv. 永远；曾经；究竟"
+            "adv. at any time; at all times; all the time and on every occasion"
         ],
         "usphone": "[ˈevər]",
         "ukphone": "[ˈevə(r)]"
@@ -423,10 +400,9 @@
     {
         "name": "tidy",
         "trans": [
-            "n. 椅子的背罩",
-            "adj. 整齐的；相当大的",
-            "vi. 整理；收拾",
-            "vt. 整理；收拾；弄整齐"
+            "n. receptacle that holds odds and ends (as sewing materials)",
+            "adj. marked by order and cleanliness in appearance or habits",
+            "v. put (things or places) in order"
         ],
         "usphone": "[ˈtaɪdi]",
         "ukphone": "[ˈtaɪdi]"
@@ -434,7 +410,7 @@
     {
         "name": "messy",
         "trans": [
-            "adj. 凌乱的，散乱的；肮脏的，污秽的；麻烦的"
+            "adj. dirty and disorderly"
         ],
         "usphone": "[ˈmesi]",
         "ukphone": "[ˈmesi]"
@@ -442,7 +418,7 @@
     {
         "name": "never",
         "trans": [
-            "adv. 从未；决不"
+            "adv. not ever; at no time in the past or future"
         ],
         "usphone": "[ˈnevər]",
         "ukphone": "[ˈnevə(r)]"
@@ -450,7 +426,7 @@
     {
         "name": "blackboard",
         "trans": [
-            "n. 黑板"
+            "n. sheet of slate; for writing with chalk"
         ],
         "usphone": "[ˈblækbɔːrd]",
         "ukphone": "[ˈblækbɔːd]"
@@ -458,7 +434,7 @@
     {
         "name": "peace",
         "trans": [
-            "n. 和平；平静；和睦；秩序"
+            "n. the state prevailing during the absence of war; harmonious relations; freedom from disputes"
         ],
         "usphone": "[piːs]",
         "ukphone": "[piːs]"
@@ -466,7 +442,7 @@
     {
         "name": "make peace",
         "trans": [
-            "abbr. (=peacemaker)"
+            "v. end hostilities"
         ]
     },
     {
@@ -478,7 +454,7 @@
     {
         "name": "famous",
         "trans": [
-            "adj. 著名的；极好的，非常令人满意的"
+            "adj. widely known and esteemed"
         ],
         "usphone": "[ˈfeɪməs]",
         "ukphone": "[ˈfeɪməs]"
@@ -486,7 +462,7 @@
     {
         "name": "aunt",
         "trans": [
-            "n. 阿姨；姑妈；伯母；舅妈"
+            "n. the sister of your father or mother; the wife of your uncle"
         ],
         "usphone": "[ænt]",
         "ukphone": "[ɑːnt]"
@@ -494,7 +470,7 @@
     {
         "name": "forgot",
         "trans": [
-            "v. 忘记；轻忽；遗漏（forget的过去式）"
+            "v. dismiss from the mind; stop remembering; be unable to remember"
         ],
         "usphone": "[fərˈɡɑːt]",
         "ukphone": "[fəˈɡɒt]"
@@ -502,9 +478,8 @@
     {
         "name": "way",
         "trans": [
-            "n. 方法；道路；方向；行业；习惯",
-            "adj. 途中的",
-            "adv. 大大地；远远地"
+            "n. how something is done or how it happens; how a result is obtained or an end is achieved",
+            "adv. to a great degree or by a great distance; very much ('right smart' is regional in the United States)"
         ],
         "usphone": "[weɪ]",
         "ukphone": "[weɪ]"
@@ -512,10 +487,9 @@
     {
         "name": "cross",
         "trans": [
-            "n. 交叉，十字；十字架，十字形物",
-            "adj. 交叉的，相反的；乖戾的；生气的",
-            "vt. 杂交；渡过；使相交",
-            "vi. 交叉；杂交；横过"
+            "n. a wooden structure consisting of an upright post with a transverse piece; a marking that consists of lines that cross each other",
+            "adj. extending or lying across; in a crosswise direction; at right angles to the long axis; annoyed and irritable",
+            "v. travel across or pass over; meet at a point"
         ],
         "usphone": "[krɔːs]",
         "ukphone": "[krɒs]"

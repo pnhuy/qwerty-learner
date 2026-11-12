@@ -2,13 +2,13 @@
     {
         "name": "pedestrian",
         "trans": [
-            "n. 行人"
+            "n. a person who travels by foot"
         ]
     },
     {
         "name": "safety",
         "trans": [
-            "n. 安全"
+            "n. the state of being certain that adverse effects will not be caused by some agent under defined conditions; a safe place"
         ]
     },
     {
@@ -20,7 +20,7 @@
     {
         "name": "traffic jam",
         "trans": [
-            "n. 交通堵塞"
+            "n. a number of vehicles blocking one another until they can scarcely move"
         ]
     },
     {
@@ -32,49 +32,49 @@
     {
         "name": "pollution",
         "trans": [
-            "n. 污染"
+            "n. undesirable state of the natural environment being contaminated with harmful substances as a consequence of human activities"
         ]
     },
     {
         "name": "install",
         "trans": [
-            "v. 安装"
+            "v. set up for use; put into an office or a position"
         ]
     },
     {
         "name": "traffic light",
         "trans": [
-            "n. 交通信号灯"
+            "n. a visual signal to control the flow of traffic at intersections"
         ]
     },
     {
         "name": "crossroads",
         "trans": [
-            "n. 十字路口"
+            "n. a community of people smaller than a village; a crisis situation or point in time when a critical decision must be made"
         ]
     },
     {
         "name": "intersection",
         "trans": [
-            "n. 十字路口"
+            "n. a point where lines intersect; a junction where one street or road crosses another"
         ]
     },
     {
         "name": "junction",
         "trans": [
-            "n. 路口"
+            "n. the place where two or more things come together"
         ]
     },
     {
         "name": "erect",
         "trans": [
-            "v. 树立"
+            "v. construct, build, or erect"
         ]
     },
     {
         "name": "sign",
         "trans": [
-            "n. 标志"
+            "n. a perceptible indication of something not immediately apparent (as a visible clue that something has happened); a public display of a message"
         ]
     },
     {
@@ -86,49 +86,49 @@
     {
         "name": "out of bounds",
         "trans": [
-            "禁止入内"
+            "n. a line that marks the side boundary of a playing field"
         ]
     },
     {
         "name": "pavement",
         "trans": [
-            "n. 人行道"
+            "n. the paved surface of a thoroughfare; material used to pave an area"
         ]
     },
     {
         "name": "footpath",
         "trans": [
-            "n. 人行道"
+            "n. a trodden path"
         ]
     },
     {
         "name": "widen",
         "trans": [
-            "v. 使……变宽"
+            "v. become broader or wider or more extensive; make (clothes) larger"
         ]
     },
     {
         "name": "colour",
         "trans": [
-            "v. 给……着色"
+            "v. modify or bias"
         ]
     },
     {
         "name": "mark",
         "trans": [
-            "v. 做标记"
+            "v. attach a tag or label to; designate as if by a mark"
         ]
     },
     {
         "name": "bend",
         "trans": [
-            "n. 转弯处"
+            "n. a circular segment of a curve; movement that causes the formation of a curve"
         ]
     },
     {
         "name": "corner",
         "trans": [
-            "n. 转弯处"
+            "n. a place off to the side of an area; the point where two lines meet or intersect"
         ]
     },
     {
@@ -140,31 +140,31 @@
     {
         "name": "separate",
         "trans": [
-            "adj. 分开的，单独的"
+            "adj. independent; not united or joint; standing apart; not attached to or supported by anything"
         ]
     },
     {
         "name": "parking",
         "trans": [
-            "n. 停车"
+            "n. space in which vehicles can be parked; the act of maneuvering a vehicle into a location where it can be left temporarily"
         ]
     },
     {
         "name": "car park",
         "trans": [
-            "n. 【英】停车场"
+            "n. a lot where cars are parked"
         ]
     },
     {
         "name": "parking lot",
         "trans": [
-            "n. 【美】停车场"
+            "n. a lot where cars are parked"
         ]
     },
     {
         "name": "disabled",
         "trans": [
-            "adj. 残疾的"
+            "adj. incapable of functioning as a consequence of injury or illness"
         ]
     },
     {
@@ -176,43 +176,43 @@
     {
         "name": "regulation",
         "trans": [
-            "n. 法规，规则"
+            "n. an authoritative rule; a principle or condition that customarily governs behavior"
         ]
     },
     {
         "name": "regulate",
         "trans": [
-            "v. 控制，调节"
+            "v. fix or adjust the time, amount, degree, or rate of; bring into conformity with rules or principles or usage; impose regulations"
         ]
     },
     {
         "name": "restriction",
         "trans": [
-            "n. 限制"
+            "n. a principle that limits the extent of something; an act of limiting or restricting (as by regulation)"
         ]
     },
     {
         "name": "lorry",
         "trans": [
-            "n. 卡车"
+            "n. a large low horse-drawn wagon without sides"
         ]
     },
     {
         "name": "load",
         "trans": [
-            "v. 装载"
+            "v. fill or place a load on; provide (a device) with something necessary"
         ]
     },
     {
         "name": "obey",
         "trans": [
-            "v. 遵守"
+            "v. be obedient to"
         ]
     },
     {
         "name": "ban",
         "trans": [
-            "v. 禁止"
+            "v. forbid the public distribution of ( a movie or a newspaper); prohibit especially by legal means or social pressure"
         ]
     }
 ]

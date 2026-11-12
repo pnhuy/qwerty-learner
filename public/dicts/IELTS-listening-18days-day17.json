@@ -1,186 +1,294 @@
 [
     {
         "name": "compose",
-        "trans": ["构成"]
+        "trans": [
+            "v. form the substance of; write music"
+        ]
     },
     {
         "name": "trace",
-        "trans": ["痕迹"]
+        "trans": [
+            "v. follow, discover, or ascertain the course of development of something; make a mark or lines on a surface",
+            "n. a just detectable amount; an indication that something has been present"
+        ]
     },
     {
         "name": "mineral",
-        "trans": ["矿物"]
+        "trans": [
+            "n. solid homogeneous inorganic substances occurring in nature having a definite chemical composition"
+        ]
     },
     {
         "name": "metabolism",
-        "trans": ["新陈代谢"]
+        "trans": [
+            "n. the marked and rapid transformation of a larva into an adult that occurs in some animals"
+        ]
     },
     {
         "name": "deserve",
-        "trans": ["应得"]
+        "trans": [
+            "v. be worthy or deserving"
+        ]
     },
     {
         "name": "maintenance",
-        "trans": ["维护"]
+        "trans": [
+            "n. activity involved in maintaining something in good working order; means of maintenance of a family or group"
+        ]
     },
     {
         "name": "intrigue",
-        "trans": ["激起"]
+        "trans": [
+            "n. a crafty and involved plot to achieve your (usually sinister) ends",
+            "v. cause to be interested or curious"
+        ]
     },
     {
         "name": "poison",
-        "trans": ["毒"]
+        "trans": [
+            "n. any substance that causes injury or illness or death of a living organism; anything that harms or destroys",
+            "v. spoil as if by poison; kill with poison"
+        ]
     },
     {
         "name": "decline",
-        "trans": ["下降"]
+        "trans": [
+            "v. grow worse; refuse to accept",
+            "n. change toward something smaller or lower; a condition inferior to an earlier condition; a gradual falling off from a better state"
+        ]
     },
     {
         "name": "aging",
-        "trans": ["老化"]
+        "trans": [
+            "n. acquiring desirable qualities by being left undisturbed for some time",
+            "adj. growing old"
+        ]
     },
     {
         "name": "ocean",
-        "trans": ["大洋"]
+        "trans": [
+            "n. a large body of water constituting a principal part of the hydrosphere"
+        ]
     },
     {
         "name": "marriage",
-        "trans": ["结婚"]
+        "trans": [
+            "n. the state of being a married couple voluntarily joined for life (or until divorce); two people who are married to each other"
+        ]
     },
     {
         "name": "curve",
-        "trans": ["曲线"]
+        "trans": [
+            "n. the trace of a point whose direction of motion changes; a line on a graph representing data",
+            "v. turn sharply; change direction abruptly; extend in curves and turns"
+        ]
     },
     {
         "name": "constant",
-        "trans": ["不变的"]
+        "trans": [
+            "adj. unvarying in nature; steadfast in purpose or devotion or affection",
+            "n. a quantity that does not vary"
+        ]
     },
     {
         "name": "muscle",
-        "trans": ["肌肉"]
+        "trans": [
+            "n. one of the contractile organs of the body; animal tissue consisting predominantly of contractile cells"
+        ]
     },
     {
         "name": "immune",
-        "trans": ["免疫的"]
+        "trans": [
+            "n. a person who is immune to a particular infection",
+            "adj. relating to the condition of immunity"
+        ]
     },
     {
         "name": "spider",
-        "trans": ["蜘蛛"]
+        "trans": [
+            "n. predatory arachnid with eight legs, two poison fangs, two feelers, and usually two silk-spinning organs at the back end of the body…"
+        ]
     },
     {
         "name": "extensive",
-        "trans": ["广泛的"]
+        "trans": [
+            "adj. large in spatial extent or range or scope or quantity; broad in scope or content"
+        ]
     },
     {
         "name": "pottery",
-        "trans": ["陶瓷"]
+        "trans": [
+            "n. ceramic ware made from clay and baked in a kiln; the craft of making earthenware"
+        ]
     },
     {
         "name": "enrollment",
-        "trans": ["登记"]
+        "trans": [
+            "n. the act of enrolling"
+        ]
     },
     {
         "name": "oxygen",
-        "trans": ["氧气"]
+        "trans": [
+            "n. a nonmetallic bivalent element that is normally a colorless odorless tasteless nonflammable diatomic gas; constitutes 21 percent of the atmosphere by volume…"
+        ]
     },
     {
         "name": "shark",
-        "trans": ["鲨鱼"]
+        "trans": [
+            "n. any of numerous elongate mostly marine carnivorous fishes with heterocercal caudal fins and tough skin covered with small toothlike scales"
+        ]
     },
     {
         "name": "straightforward",
-        "trans": ["简单的"]
+        "trans": [
+            "adj. free from ambiguity; without evasion or compromise"
+        ]
     },
     {
         "name": "injury",
-        "trans": ["伤害"]
+        "trans": [
+            "n. any physical damage to the body caused by violence or accident or fracture etc.; an accident that results in physical damage or hurt"
+        ]
     },
     {
         "name": "corporate",
-        "trans": ["公司的"]
+        "trans": [
+            "adj. of or belonging to a corporation; possessing or existing in bodily form"
+        ]
     },
     {
         "name": "attack",
-        "trans": ["攻击"]
+        "trans": [
+            "v. launch an attack or assault on; begin hostilities or start warfare with; attack in speech or writing",
+            "n. (military) an offensive against an enemy (using weapons); an offensive move in a sport or game"
+        ]
     },
     {
         "name": "reserve",
-        "trans": ["储备"]
+        "trans": [
+            "v. hold back or set aside, especially for future use or contingency; give or assign a resource to a particular person or cause",
+            "n. formality and propriety of manner; something kept back or saved for future use or a special purpose"
+        ]
     },
     {
         "name": "plough",
-        "trans": ["耕地"]
+        "trans": [
+            "n. a group of seven bright stars in the constellation Ursa Major",
+            "v. move in a way resembling that of a plow cutting into or going through the soil"
+        ]
     },
     {
         "name": "commodity",
-        "trans": ["商品"]
+        "trans": [
+            "n. articles of commerce"
+        ]
     },
     {
         "name": "transportation",
-        "trans": ["运输"]
+        "trans": [
+            "n. a facility consisting of the means and equipment necessary for the movement of passengers or goods; the act of moving something from one location to another"
+        ]
     },
     {
         "name": "operational",
-        "trans": ["合作"]
+        "trans": [
+            "adj. pertaining to a process or series of actions for achieving a result; fit or ready for use or service"
+        ]
     },
     {
         "name": "aerial",
-        "trans": ["空中的"]
+        "trans": [
+            "n. a pass to a receiver downfield from the passer"
+        ]
     },
     {
         "name": "barrier",
-        "trans": ["障碍物"]
+        "trans": [
+            "n. a structure or object that impedes free movement; any condition that makes it difficult to make progress or to achieve an objective"
+        ]
     },
     {
         "name": "fertilizer",
-        "trans": ["肥料"]
+        "trans": [
+            "n. any substance such as manure or a mixture of nitrates used to make soil more fertile"
+        ]
     },
     {
         "name": "yield",
-        "trans": ["产出"]
+        "trans": [
+            "v. be the cause or source of; end resistance, as under pressure or force",
+            "n. production of a certain amount; the income or profit arising from such transactions as the sale of land or other property"
+        ]
     },
     {
         "name": "shellfish",
-        "trans": ["甲壳类动物"]
+        "trans": [
+            "n. meat of edible aquatic invertebrate with a shell (especially a mollusk or crustacean)"
+        ]
     },
     {
         "name": "nomadic",
-        "trans": ["游动的"]
+        "trans": [
+            "adj. migratory"
+        ]
     },
     {
         "name": "grain",
-        "trans": ["谷类"]
+        "trans": [
+            "n. a relatively small granular particle of a substance; foodstuff prepared from the starchy grains of cereal grasses"
+        ]
     },
     {
         "name": "pedal",
-        "trans": ["踏板"]
+        "trans": [
+            "n. a sustained bass note",
+            "v. ride a bicycle",
+            "adj. of or relating to the feet"
+        ]
     },
     {
         "name": "stomach",
-        "trans": ["胃"]
+        "trans": [
+            "n. an enlarged and muscular saclike organ of the alimentary canal; the principal organ of digestion"
+        ]
     },
     {
         "name": "peer",
-        "trans": ["同龄人"]
+        "trans": [
+            "v. look searchingly",
+            "n. a person who is of equal standing with another in a group"
+        ]
     },
     {
         "name": "confusion",
-        "trans": ["困惑"]
+        "trans": [
+            "n. disorder resulting from a failure to behave predictably; a mental state characterized by a lack of clear and orderly thought and behavior"
+        ]
     },
     {
         "name": "drum",
-        "trans": ["鼓"]
+        "trans": [
+            "n. a musical percussion instrument; usually consists of a hollow cylinder with a membrane stretched across each end; the sound of a drum",
+            "v. make a rhythmic sound; play a percussion instrument"
+        ]
     },
     {
         "name": "intensity",
-        "trans": ["强度"]
+        "trans": [
+            "n. the amount of energy transmitted (as by acoustic or electromagnetic radiation); high level or degree; the property of being intense"
+        ]
     },
     {
         "name": "fade",
-        "trans": ["逐渐消失"]
+        "trans": [
+            "v. become less clearly visible or distinguishable; disappear gradually or seemingly; lose freshness, vigor, or vitality"
+        ]
     },
     {
         "name": "pirate",
-        "trans": ["海盗"]
+        "trans": [
+            "n. someone who uses another person's words or ideas as if they were his own"
+        ]
     }
 ]

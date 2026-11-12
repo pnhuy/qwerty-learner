@@ -8,7 +8,7 @@
     {
         "name": "Architecture",
         "trans": [
-            "建筑学"
+            "n. an architectural product or work; the discipline dealing with the principles of design and construction and ornamentation of fine buildings"
         ]
     },
     {
@@ -26,13 +26,13 @@
     {
         "name": "city planning",
         "trans": [
-            "城市和区域规划 ，社区和区域规划，城市规划"
+            "n. determining and drawing up plans for the future physical arrangement and condition of a community"
         ]
     },
     {
         "name": "Landscape architecture",
         "trans": [
-            "风景园林"
+            "n. the branch of architecture dealing with the arrangement of land and buildings for human use and enjoyment"
         ]
     },
     {
@@ -68,7 +68,7 @@
     {
         "name": "freshman",
         "trans": [
-            "大一学生"
+            "n. a first-year undergraduate; any new participant in some activity"
         ],
         "usphone": "'frɛʃmən",
         "ukphone": "'freʃmən"
@@ -76,7 +76,7 @@
     {
         "name": "sophomore",
         "trans": [
-            "大二学生"
+            "n. a second-year undergraduate"
         ],
         "usphone": "'sɑfəmɔr",
         "ukphone": "'sɒfəmɔː"
@@ -84,7 +84,8 @@
     {
         "name": "junior",
         "trans": [
-            "大三学生"
+            "n. term of address for a disrespectful and annoying male; a third-year undergraduate",
+            "adj. younger; lower in rank; shorter in length of tenure or service; used of the third or next to final year in United States high school or college"
         ],
         "usphone": "'dʒunɪɚ",
         "ukphone": "'dʒuːnɪə"
@@ -92,7 +93,8 @@
     {
         "name": "senior",
         "trans": [
-            "大四学生"
+            "adj. older; higher in rank; longer in length of tenure or service; used of the fourth and final year in United States high school or college",
+            "n. an undergraduate student during the year preceding graduation"
         ],
         "usphone": "'sinɪɚ",
         "ukphone": "'siːniər"
@@ -100,13 +102,14 @@
     {
         "name": "School",
         "trans": [
-            "学院"
+            "n. an educational institution; a building where young people receive education",
+            "v. educate in or as if in a school"
         ]
     },
     {
         "name": "Department",
         "trans": [
-            "系"
+            "n. a specialized division of a large organization"
         ]
     },
     {
@@ -130,7 +133,7 @@
     {
         "name": "assistant professor",
         "trans": [
-            "助理教授"
+            "n. a teacher or lower rank than an associate professor"
         ]
     },
     {
@@ -160,7 +163,7 @@
     {
         "name": "Graphic Design",
         "trans": [
-            "平面设计"
+            "n. visual communication by a skillful combination of text and pictures in advertisements, magazines, books, etc."
         ]
     },
     {
@@ -172,19 +175,19 @@
     {
         "name": "Interior Design",
         "trans": [
-            "室内设计"
+            "n. the trade of planning the layout and furnishings of an architectural interior"
         ]
     },
     {
         "name": "Architecture",
         "trans": [
-            "建筑"
+            "n. an architectural product or work; the discipline dealing with the principles of design and construction and ornamentation of fine buildings"
         ]
     },
     {
         "name": "Landscape Architecture",
         "trans": [
-            "风景园林"
+            "n. the branch of architecture dealing with the arrangement of land and buildings for human use and enjoyment"
         ]
     },
     {
@@ -196,13 +199,14 @@
     {
         "name": "Planning",
         "trans": [
-            "规划"
+            "n. an act of formulating a program for a definite course of action; the act or process of drawing up plans or layouts for some project or enterprise"
         ]
     },
     {
         "name": "term",
         "trans": [
-            "术语"
+            "n. a word or expression used for some particular thing; a limited period of time",
+            "v. name formally or designate with a term"
         ],
         "usphone": "tɝm",
         "ukphone": "tɜːm"
@@ -210,7 +214,7 @@
     {
         "name": "freeway",
         "trans": [
-            "高速公路"
+            "n. a broad highway designed for high-speed traffic"
         ],
         "usphone": "'friwe",
         "ukphone": "'friːweɪ"
@@ -218,13 +222,13 @@
     {
         "name": "consultants",
         "trans": [
-            "顾问 ，咨询人员"
+            "n. an expert who gives advice"
         ]
     },
     {
         "name": "profession",
         "trans": [
-            "专业 ，行业"
+            "n. the body of people in a learned occupation; an occupation requiring special education (especially in the liberal arts or sciences)"
         ],
         "usphone": "prə'fɛʃən",
         "ukphone": "prə'feʃn"
@@ -238,7 +242,8 @@
     {
         "name": "license",
         "trans": [
-            "执照"
+            "n. a legal document giving official permission to do something",
+            "v. authorize officially"
         ],
         "usphone": "'laɪsns",
         "ukphone": "'laɪsns"
@@ -246,13 +251,13 @@
     {
         "name": "developers",
         "trans": [
-            "开发商"
+            "n. someone who develops real estate (especially someone who prepares a site for residential or commercial use)"
         ]
     },
     {
         "name": "studio",
         "trans": [
-            "工作室"
+            "n. workplace for the teaching or practice of an art"
         ],
         "usphone": "'studɪo",
         "ukphone": "'stjuːdɪəʊ"
@@ -272,13 +277,13 @@
     {
         "name": "Mechanical Engineer",
         "trans": [
-            "机械工程师"
+            "n. a person trained to design and construct machines"
         ]
     },
     {
         "name": "Architect",
         "trans": [
-            "建筑师"
+            "n. someone who creates plans to be used in making something (such as buildings)"
         ]
     },
     {
@@ -290,7 +295,7 @@
     {
         "name": "Interior Designer",
         "trans": [
-            "室内设计师"
+            "n. a person who specializes in designing architectural interiors and their furnishings"
         ]
     },
     {
@@ -302,7 +307,7 @@
     {
         "name": "Electrical Engineer",
         "trans": [
-            "电气工程师"
+            "n. a person trained in practical applications of the theory of electricity"
         ]
     },
     {
@@ -374,7 +379,7 @@
     {
         "name": "city planning",
         "trans": [
-            "城市规划"
+            "n. determining and drawing up plans for the future physical arrangement and condition of a community"
         ]
     },
     {
@@ -392,7 +397,7 @@
     {
         "name": "infrastructure",
         "trans": [
-            "基础设施"
+            "n. the basic structure or features of a system or organization"
         ],
         "usphone": "'ɪnfrə'strʌktʃɚ",
         "ukphone": "'ɪnfrəˌstrʌktʃər"
@@ -406,7 +411,7 @@
     {
         "name": "resilient",
         "trans": [
-            "有弹性的"
+            "adj. recovering readily from adversity, depression, or the like"
         ],
         "usphone": "rɪ'zɪlɪənt",
         "ukphone": "rɪ'zɪlɪənt"
@@ -438,7 +443,7 @@
     {
         "name": "utility",
         "trans": [
-            "公共设施"
+            "n. a company that performs a public service; subject to government regulation; the quality of being of practical use"
         ],
         "usphone": "ju'tɪləti",
         "ukphone": "juː'tɪləti"
@@ -446,7 +451,7 @@
     {
         "name": "sidewalk",
         "trans": [
-            "人行道"
+            "n. walk consisting of a paved area for pedestrians; usually beside a street or roadway"
         ],
         "usphone": "'saɪdwɔk",
         "ukphone": "'saɪdwɔːk"
@@ -454,13 +459,13 @@
     {
         "name": "zoning",
         "trans": [
-            "分区"
+            "n. dividing an area into zones or sections reserved for different purposes such as residence and business and manufacturing etc"
         ]
     },
     {
         "name": "amenity",
         "trans": [
-            "便利设施"
+            "n. pleasantness resulting from agreeable conditions"
         ],
         "usphone": "ə'mɛnəti",
         "ukphone": "ə'menəti"
@@ -468,7 +473,8 @@
     {
         "name": "pedestrian",
         "trans": [
-            "行人"
+            "n. a person who travels by foot",
+            "adj. lacking wit or imagination"
         ],
         "usphone": "pə'dɛstrɪən",
         "ukphone": "pə'destriən"
@@ -482,7 +488,7 @@
     {
         "name": "highway",
         "trans": [
-            "公路"
+            "n. a major road for any form of motor transport"
         ],
         "usphone": "'haɪwe",
         "ukphone": "'haɪweɪ"
@@ -496,7 +502,7 @@
     {
         "name": "freeway",
         "trans": [
-            "高速公路"
+            "n. a broad highway designed for high-speed traffic"
         ],
         "usphone": "'friwe",
         "ukphone": "'friːweɪ"
@@ -510,7 +516,7 @@
     {
         "name": "intersection",
         "trans": [
-            "交叉口"
+            "n. a point where lines intersect; a junction where one street or road crosses another"
         ],
         "usphone": ",ɪntɚ'sɛkʃən",
         "ukphone": "ˌɪntər'sekʃn"
@@ -518,7 +524,7 @@
     {
         "name": "interstate highway",
         "trans": [
-            "州际公路"
+            "n. one of the system of highways linking major cities in the 48 contiguous states of the United States"
         ]
     },
     {
@@ -542,7 +548,7 @@
     {
         "name": "context",
         "trans": [
-            "背景"
+            "n. discourse that surrounds a language unit and helps to determine its interpretation; the set of facts or circumstances that surround a situation or event"
         ],
         "usphone": "'kɑntɛkst",
         "ukphone": "'kɑːntekst"
@@ -556,7 +562,7 @@
     {
         "name": "accessible",
         "trans": [
-            "可进入的"
+            "adj. capable of being reached"
         ],
         "usphone": "ək'sɛsəbl",
         "ukphone": "ək'sesəbl"
@@ -564,7 +570,7 @@
     {
         "name": "evacuation",
         "trans": [
-            "疏散"
+            "n. the act of removing the contents of something; the act of evacuating; leaving a place in an orderly fashion; especially for protection"
         ],
         "usphone": "ɪ,vækjʊ'eʃən",
         "ukphone": "ɪˌvækju'eɪʃn"
@@ -572,7 +578,8 @@
     {
         "name": "egress",
         "trans": [
-            "安全出口"
+            "n. (astronomy) the reappearance of a celestial body after an eclipse",
+            "v. come out of"
         ],
         "usphone": "'iɡrɛs",
         "ukphone": "'iːgres"
@@ -610,7 +617,7 @@
     {
         "name": "client",
         "trans": [
-            "客户"
+            "n. a person who seeks the advice of a lawyer; someone who pays for goods or services"
         ],
         "usphone": "'klaɪənt",
         "ukphone": "'klaɪənt"
@@ -618,13 +625,14 @@
     {
         "name": "townhouse",
         "trans": [
-            "联排别墅"
+            "A building devoted to the public used of a town; a townhall"
         ]
     },
     {
         "name": "downtown",
         "trans": [
-            "市中心"
+            "adj. of or located in the lower part of a town, or in the business center",
+            "n. the central area or commercial center of a town or city"
         ],
         "usphone": "'daʊn'taʊn",
         "ukphone": "ˌdaun'taun"
@@ -632,7 +640,7 @@
     {
         "name": "suburban",
         "trans": [
-            "郊外的"
+            "adj. relating to or characteristic of or situated in suburbs"
         ],
         "usphone": "sə'bɝbən",
         "ukphone": "sə'bɜːb(ə)n"
@@ -652,7 +660,7 @@
     {
         "name": "recycling",
         "trans": [
-            "回收"
+            "n. the act of processing used or abandoned materials for use in creating new products"
         ],
         "usphone": ",ri'saɪklɪŋ",
         "ukphone": "riː'saɪklɪŋ"
@@ -666,7 +674,7 @@
     {
         "name": "restoration",
         "trans": [
-            "修复"
+            "n. the reign of Charles II in England; 1660-1685; the act of restoring something or someone to a satisfactory state"
         ],
         "usphone": "'rɛstə'reʃən",
         "ukphone": "ˌrestə'reɪʃn"
@@ -686,7 +694,7 @@
     {
         "name": "condominium",
         "trans": [
-            "公寓 (个人财产)"
+            "n. one of the dwelling units in a condominium"
         ],
         "usphone": ",kɑndə'mɪnɪəm",
         "ukphone": "ˌkɑːndə'mɪniəm"
@@ -694,7 +702,7 @@
     {
         "name": "apartment",
         "trans": [
-            "公寓 (出租)"
+            "n. a suite of rooms usually on one floor of an apartment house"
         ],
         "usphone": "ə'pɑrtmənt",
         "ukphone": "ə'pɑːrtmənt"
@@ -714,13 +722,13 @@
     {
         "name": "retail store",
         "trans": [
-            "零售商店"
+            "n. a place of business for retailing goods"
         ]
     },
     {
         "name": "skyscraper",
         "trans": [
-            "摩天大楼"
+            "n. a very tall building with many stories"
         ],
         "usphone": "'skaɪ'skrepɚ",
         "ukphone": "'skaɪskreɪpər"
@@ -728,7 +736,8 @@
     {
         "name": "high-rise",
         "trans": [
-            "高层建筑"
+            "n. tower consisting of a multistoried building of offices or apartments",
+            "adj. used of buildings of many stories equipped with elevators; tall"
         ],
         "usphone": "'hai'raiz",
         "ukphone": "'hai'raiz"
@@ -742,7 +751,7 @@
     {
         "name": "concert hall",
         "trans": [
-            "音乐厅"
+            "n. a hall where concerts are given"
         ]
     },
     {
@@ -760,7 +769,8 @@
     {
         "name": "roof",
         "trans": [
-            "屋面"
+            "n. a protective covering that covers or forms the top of a building; protective covering on top of a motor vehicle",
+            "v. provide a building with a roof; cover a building with a roof"
         ],
         "usphone": "ruf",
         "ukphone": "ruːf"
@@ -768,7 +778,7 @@
     {
         "name": "ceiling",
         "trans": [
-            "吊顶"
+            "n. the overhead upper surface of a covered space; (meteorology) altitude of the lowest layer of clouds"
         ],
         "usphone": "'silɪŋ",
         "ukphone": "'siːlɪŋ"
@@ -776,7 +786,7 @@
     {
         "name": "wall",
         "trans": [
-            "墙"
+            "n. an architectural partition with a height and length greater than its thickness; used to divide or enclose an area or to support another structure"
         ],
         "usphone": "wɔl",
         "ukphone": "wɔːl"
@@ -784,7 +794,7 @@
     {
         "name": "window",
         "trans": [
-            "窗户"
+            "n. a framework of wood or metal that contains a glass windowpane and is built into a wall or roof to admit light or air"
         ],
         "usphone": "'wɪndo",
         "ukphone": "'wɪndəʊ"
@@ -792,7 +802,7 @@
     {
         "name": "floor",
         "trans": [
-            "地板"
+            "n. the inside lower horizontal surface (as of a room, hallway, tent, or other structure)"
         ],
         "usphone": "flɔr",
         "ukphone": "flɔː"
@@ -800,13 +810,14 @@
     {
         "name": "mechanical system",
         "trans": [
-            "机械系统"
+            "n. a system of elements that interact on mechanical principles"
         ]
     },
     {
         "name": "structure",
         "trans": [
-            "结构"
+            "n. a thing constructed; a complex entity constructed of many parts; the manner of construction of something and the arrangement of its parts",
+            "v. give a structure to"
         ],
         "usphone": "'strʌktʃɚ",
         "ukphone": "'strʌktʃə"
@@ -814,7 +825,7 @@
     {
         "name": "foundation",
         "trans": [
-            "基础"
+            "n. the basis on which something is grounded; an institution supported by an endowment"
         ],
         "usphone": "faʊn'deʃən",
         "ukphone": "faʊn'deɪʃ(ə)n"
@@ -822,7 +833,7 @@
     {
         "name": "site",
         "trans": [
-            "场地"
+            "n. the piece of land on which something is located (or is to be located); physical position in relation to the surroundings"
         ],
         "usphone": "saɪt",
         "ukphone": "saɪt"
@@ -836,7 +847,7 @@
     {
         "name": "gable wall",
         "trans": [
-            "山墙"
+            "n. the vertical triangular wall between the sloping ends of gable roof"
         ]
     },
     {
@@ -848,7 +859,7 @@
     {
         "name": "ridge",
         "trans": [
-            "屋脊"
+            "n. a long narrow natural elevation or striation"
         ],
         "usphone": "rɪdʒ",
         "ukphone": "rɪdʒ"
@@ -856,7 +867,7 @@
     {
         "name": "hip",
         "trans": [
-            "斜脊"
+            "n. either side of the body below the waist and above the thigh"
         ],
         "usphone": "hɪp",
         "ukphone": "hɪp"
@@ -864,7 +875,7 @@
     {
         "name": "valley",
         "trans": [
-            "屋面排水沟"
+            "n. a long depression in the surface of the land that usually contains a river"
         ],
         "usphone": "'væli",
         "ukphone": "'vælɪ"
@@ -872,25 +883,26 @@
     {
         "name": "dormer",
         "trans": [
-            "老虎窗"
+            "n. a gabled extension built out from a sloping roof to accommodate a vertical window"
         ]
     },
     {
         "name": "truss",
         "trans": [
-            "桁架"
+            "n. (medicine) a bandage consisting of a pad and belt; worn to hold a hernia in place by pressure",
+            "v. tie the wings and legs of a bird before cooking it"
         ]
     },
     {
         "name": "bearing wall",
         "trans": [
-            "承重墙"
+            "n. any wall supporting a floor or the roof of a building"
         ]
     },
     {
         "name": "pilaster",
         "trans": [
-            "壁柱"
+            "n. a rectangular column that usually projects about a third of its width from the wall to which it is attached"
         ]
     },
     {
@@ -908,13 +920,14 @@
     {
         "name": "party wall",
         "trans": [
-            "共用墙"
+            "n. a wall erected on the line between two properties and shared by both owners"
         ]
     },
     {
         "name": "shell",
         "trans": [
-            "表皮"
+            "n. ammunition consisting of a cylindrical metal casing containing an explosive charge and a projectile; fired from a large gun",
+            "v. use explosives on"
         ],
         "usphone": "ʃɛl",
         "ukphone": "ʃel"
@@ -922,13 +935,13 @@
     {
         "name": "envelope",
         "trans": [
-            "表皮"
+            "n. a flat (usually rectangular) container for a letter, thin package, etc.; any wrapper or covering"
         ]
     },
     {
         "name": "stud",
         "trans": [
-            "立柱"
+            "v. scatter or intersperse like dots or studs"
         ],
         "usphone": "stʌd",
         "ukphone": "stʌd"
@@ -942,7 +955,8 @@
     {
         "name": "panel",
         "trans": [
-            "嵌板"
+            "n. sheet that forms a distinct (usually flat and rectangular) section or component of something",
+            "v. decorate with panels"
         ],
         "usphone": "'pænl",
         "ukphone": "'pænl"
@@ -950,25 +964,26 @@
     {
         "name": "mullion",
         "trans": [
-            "横柜 ，竖柜"
+            "n. a nonstructural vertical strip between the casements or panes of a window (or the panels of a screen)"
         ]
     },
     {
         "name": "facade",
         "trans": [
-            "立面"
+            "n. the face or front of a building"
         ]
     },
     {
         "name": "fenestration",
         "trans": [
-            "开洞"
+            "n. the arrangement of windows in a building"
         ]
     },
     {
         "name": "mortar",
         "trans": [
-            "砂浆"
+            "n. a muzzle-loading high-angle gun with a short barrel that fires shells at high elevations for a short range; used as a bond in masonry or for covering a wall",
+            "v. plaster with mortar"
         ],
         "usphone": "'mɔrtɚ",
         "ukphone": "'mɔːtə"
@@ -982,7 +997,7 @@
     {
         "name": "gravel",
         "trans": [
-            "碎石"
+            "n. rock fragments and pebbles"
         ],
         "usphone": "'ɡrævl",
         "ukphone": "'grævl"
@@ -990,7 +1005,7 @@
     {
         "name": "adobe",
         "trans": [
-            "土坯"
+            "n. the clay from which adobe bricks are made"
         ],
         "usphone": "'ədobɪ",
         "ukphone": "ə'doubi"
@@ -1004,7 +1019,8 @@
     {
         "name": "cement",
         "trans": [
-            "水泥"
+            "n. concrete pavement is sometimes referred to as cement",
+            "v. make fast as if with cement"
         ],
         "usphone": "sə'mɛnt",
         "ukphone": "sɪ'ment"
@@ -1012,7 +1028,8 @@
     {
         "name": "aggregate",
         "trans": [
-            "骨料"
+            "adj. formed of separate units gathered into a mass or whole",
+            "n. the whole amount"
         ],
         "usphone": "'æɡrɪɡət; (for v.) æɡrɪˌɡet",
         "ukphone": "'ægrɪgət; (for v.) ˈægrɪgeɪt"
@@ -1026,13 +1043,14 @@
     {
         "name": "terra cotta",
         "trans": [
-            "陶"
+            "n. a hard unglazed brownish-red earthenware"
         ]
     },
     {
         "name": "concrete",
         "trans": [
-            "混凝土"
+            "n. a strong hard building material composed of sand and gravel and cement and water",
+            "adj. capable of being perceived by the senses; not abstract or imaginary"
         ],
         "usphone": "'kɑŋkrit",
         "ukphone": "'kɑːŋkriːt"
@@ -1040,7 +1058,7 @@
     {
         "name": "right of way",
         "trans": [
-            "先行权/路权"
+            "n. the privilege of someone to pass over land belonging to someone else"
         ]
     },
     {
@@ -1058,7 +1076,7 @@
     {
         "name": "urban sprawl",
         "trans": [
-            "城市蔓延"
+            "n. an aggregation or continuous network of urban communities"
         ]
     },
     {
@@ -1094,7 +1112,7 @@
     {
         "name": "urbanity",
         "trans": [
-            "城市性"
+            "n. polished courtesy; elegance of manner"
         ],
         "usphone": "ɝ'bænəti",
         "ukphone": "ɜː'bænɪtɪ"
@@ -1108,7 +1126,7 @@
     {
         "name": "typology",
         "trans": [
-            "类型"
+            "n. classification according to general type"
         ]
     },
     {
@@ -1126,7 +1144,7 @@
     {
         "name": "alley",
         "trans": [
-            "小巷"
+            "n. a narrow street with walls on both sides"
         ],
         "usphone": "'æli",
         "ukphone": "'æli"
@@ -1134,7 +1152,7 @@
     {
         "name": "entrance",
         "trans": [
-            "入口"
+            "n. something that provides access (to get in or get out); a movement into or inward"
         ],
         "usphone": "'ɛntrəns",
         "ukphone": "'entr(ə)ns"
@@ -1142,13 +1160,13 @@
     {
         "name": "front yard",
         "trans": [
-            "前院"
+            "n. the yard in front of a house; between the house and the street"
         ]
     },
     {
         "name": "sidewalk",
         "trans": [
-            "人行道"
+            "n. walk consisting of a paved area for pedestrians; usually beside a street or roadway"
         ],
         "usphone": "'saɪdwɔk",
         "ukphone": "'saɪdwɔːk"
@@ -1156,7 +1174,7 @@
     {
         "name": "parking lot",
         "trans": [
-            "停车场"
+            "n. a lot where cars are parked"
         ]
     },
     {
@@ -1174,7 +1192,7 @@
     {
         "name": "street",
         "trans": [
-            "街道"
+            "n. a thoroughfare (usually including sidewalks) that is lined with buildings"
         ],
         "usphone": "strit",
         "ukphone": "striːt"
@@ -1182,7 +1200,8 @@
     {
         "name": "park",
         "trans": [
-            "公园"
+            "n. a large area of land preserved in its natural state as public property; a piece of open land for recreational use in an urban area",
+            "v. place temporarily; maneuver a vehicle into a parking space"
         ],
         "usphone": "pɑrk",
         "ukphone": "pɑːk"
@@ -1190,7 +1209,7 @@
     {
         "name": "neighborhood",
         "trans": [
-            "邻里"
+            "n. a surrounding or nearby region; people living near one another"
         ],
         "usphone": "'nebɚ,hʊd",
         "ukphone": "'neɪbə,hʊd"
@@ -1204,7 +1223,7 @@
     {
         "name": "automobile",
         "trans": [
-            "汽车"
+            "n. a motor vehicle with four wheels; usually propelled by an internal combustion engine"
         ],
         "usphone": ",ɔtəmə'bil",
         "ukphone": "'ɔːtəməbiːl"
@@ -1212,7 +1231,7 @@
     {
         "name": "suburban",
         "trans": [
-            "郊区的"
+            "adj. relating to or characteristic of or situated in suburbs"
         ],
         "usphone": "sə'bɝbən",
         "ukphone": "sə'bɜːb(ə)n"
@@ -1220,7 +1239,7 @@
     {
         "name": "storage",
         "trans": [
-            "存储"
+            "n. the act of storing something; a depository for goods"
         ],
         "usphone": "'stɔrɪdʒ",
         "ukphone": "'stɔːrɪdʒ"
@@ -1258,13 +1277,13 @@
     {
         "name": "urban renewal",
         "trans": [
-            "城市更新"
+            "n. the clearing and rebuilding and redevelopment of urban slums"
         ]
     },
     {
         "name": "modernist",
         "trans": [
-            "现代主义者"
+            "n. an artist who makes a deliberate break with previous styles"
         ]
     },
     {
@@ -1276,7 +1295,7 @@
     {
         "name": "modernism",
         "trans": [
-            "现代主义"
+            "n. genre of art and literature that makes a self-conscious break with previous genres"
         ],
         "usphone": "'mɑdɚnɪzəm",
         "ukphone": "'mɒd(ə)nɪz(ə)m"
@@ -1284,7 +1303,7 @@
     {
         "name": "physically",
         "trans": [
-            "生理地"
+            "adv. in accord with physical laws"
         ],
         "usphone": "'fɪzɪkli",
         "ukphone": "'fɪzɪkəllɪ"
@@ -1292,7 +1311,7 @@
     {
         "name": "psychologically",
         "trans": [
-            "心理地"
+            "adv. with regard to psychology"
         ],
         "usphone": "saɪkə'lɑdʒɪkli",
         "ukphone": "saɪ'kɒlədʒɪklɪ"
@@ -1300,7 +1319,7 @@
     {
         "name": "shopping mall",
         "trans": [
-            "大商场"
+            "n. mercantile establishment consisting of a carefully landscaped complex of shops representing leading merchandisers…"
         ]
     },
     {
@@ -1312,7 +1331,7 @@
     {
         "name": "morphology",
         "trans": [
-            "形态学"
+            "n. the branch of biology that deals with the structure of animals and plants"
         ],
         "usphone": "mɔr'fɑlədʒi",
         "ukphone": "mɔːr'fɑːlədʒi"
@@ -1320,7 +1339,7 @@
     {
         "name": "accessibility",
         "trans": [
-            "可达性"
+            "n. the quality of being at hand when needed"
         ],
         "usphone": "æk,sɛsə'bɪləti",
         "ukphone": "ək,sesə'bɪlətɪ"
@@ -1334,7 +1353,7 @@
     {
         "name": "city block",
         "trans": [
-            "城市街区"
+            "n. a rectangular area in a city surrounded by streets and usually containing several buildings"
         ]
     },
     {
@@ -1346,7 +1365,7 @@
     {
         "name": "sustainability",
         "trans": [
-            "可持续发展"
+            "n. the property of being sustainable"
         ],
         "usphone": "sə,stenə'bɪlɪti",
         "ukphone": "sə,stenə'bɪlɪti"
@@ -1354,7 +1373,7 @@
     {
         "name": "socialize",
         "trans": [
-            "社交"
+            "v. take part in social activities; interact with others"
         ],
         "usphone": "'soʃəlaɪz",
         "ukphone": "ˈsəʊʃəlaɪz"
@@ -1374,7 +1393,7 @@
     {
         "name": "habitable",
         "trans": [
-            "宜居的"
+            "adj. fit for habitation"
         ],
         "usphone": "'hæbɪtəbl",
         "ukphone": "'hæbitəbl"
@@ -1394,7 +1413,7 @@
     {
         "name": "citizen",
         "trans": [
-            "市民"
+            "n. a native or naturalized member of a state or other political community"
         ],
         "usphone": "'sɪtɪzn",
         "ukphone": "'sɪtɪz(ə)n"
@@ -1408,7 +1427,8 @@
     {
         "name": "pedestrian",
         "trans": [
-            "行人"
+            "n. a person who travels by foot",
+            "adj. lacking wit or imagination"
         ],
         "usphone": "pə'dɛstrɪən",
         "ukphone": "pə'destriən"
@@ -1422,7 +1442,7 @@
     {
         "name": "privacy",
         "trans": [
-            "私密性"
+            "n. the quality of being secluded from the presence or view of others; the condition of being concealed or hidden"
         ],
         "usphone": "'praɪvəsi",
         "ukphone": "'privəsi"
@@ -1430,7 +1450,7 @@
     {
         "name": "civil engineer",
         "trans": [
-            "土木工程师"
+            "n. an engineer trained to design and construct and maintain public works (roads or bridges or harbors etc.)"
         ]
     },
     {
@@ -1442,13 +1462,13 @@
     {
         "name": "mechanical engineer",
         "trans": [
-            "机械工程师"
+            "n. a person trained to design and construct machines"
         ]
     },
     {
         "name": "electrical engineer",
         "trans": [
-            "电子工程师"
+            "n. a person trained in practical applications of the theory of electricity"
         ]
     },
     {
@@ -1472,13 +1492,13 @@
     {
         "name": "civil engineering",
         "trans": [
-            "土木工程"
+            "n. the branch of engineering concerned with the design and construction of such public works as dams or bridges"
         ]
     },
     {
         "name": "infrastructure",
         "trans": [
-            "基础设施"
+            "n. the basic structure or features of a system or organization"
         ],
         "usphone": "'ɪnfrə'strʌktʃɚ",
         "ukphone": "'ɪnfrəˌstrʌktʃər"
@@ -1486,7 +1506,7 @@
     {
         "name": "sewer",
         "trans": [
-            "排水 (污水)"
+            "n. a waste pipe that carries away sewage or surface water; someone who sews"
         ],
         "usphone": "'suɚ",
         "ukphone": "'suːə; 'sjuːə"
@@ -1494,7 +1514,8 @@
     {
         "name": "power",
         "trans": [
-            "电力"
+            "n. possession of controlling influence; (physics) the rate of doing work; measured in watts (= joules/second)",
+            "v. supply the force or power for the functioning of"
         ],
         "usphone": "'paʊɚ",
         "ukphone": "'paʊə"
@@ -1502,7 +1523,7 @@
     {
         "name": "drainage",
         "trans": [
-            "排水 (过量的水)"
+            "n. emptying something accomplished by allowing liquid to run out of it"
         ],
         "usphone": "'drenɪdʒ",
         "ukphone": "'dreɪnɪdʒ"
@@ -1510,13 +1531,13 @@
     {
         "name": "surveying",
         "trans": [
-            "测绘"
+            "n. the practice of measuring angles and distances on the ground so that they can be accurately plotted on a map"
         ]
     },
     {
         "name": "foundation",
         "trans": [
-            "基础"
+            "n. the basis on which something is grounded; an institution supported by an endowment"
         ],
         "usphone": "faʊn'deʃən",
         "ukphone": "faʊn'deɪʃ(ə)n"
@@ -1530,7 +1551,7 @@
     {
         "name": "column",
         "trans": [
-            "柱子"
+            "n. a line of units following one after another"
         ],
         "usphone": "'kɑləm",
         "ukphone": "'kɑːləm"
@@ -1538,7 +1559,8 @@
     {
         "name": "beam",
         "trans": [
-            "梁"
+            "n. a signal transmitted along a narrow path; guides airplane pilots in darkness or bad weather",
+            "v. smile radiantly; express joy through one's facial expression; emit light; be bright, as of the sun or a light"
         ],
         "usphone": "bim",
         "ukphone": "biːm"
@@ -1546,7 +1568,8 @@
     {
         "name": "concrete",
         "trans": [
-            "混凝土"
+            "n. a strong hard building material composed of sand and gravel and cement and water",
+            "adj. capable of being perceived by the senses; not abstract or imaginary"
         ],
         "usphone": "'kɑŋkrit",
         "ukphone": "'kɑːŋkriːt"
@@ -1554,7 +1577,8 @@
     {
         "name": "steel",
         "trans": [
-            "钢"
+            "n. an alloy of iron with small amounts of carbon; widely used in construction; mechanical properties can be varied over a wide range",
+            "v. get ready for something difficult or unpleasant"
         ],
         "usphone": "stil",
         "ukphone": "stiːl"
@@ -1562,7 +1586,7 @@
     {
         "name": "wood",
         "trans": [
-            "木头"
+            "n. the hard fibrous lignified substance under the bark of trees; the trees and other plants in a large densely wooded area"
         ],
         "usphone": "wʊd",
         "ukphone": "wʊd"
@@ -1576,13 +1600,13 @@
     {
         "name": "dead load",
         "trans": [
-            "恒载 ；静负荷"
+            "n. a constant load on a structure (e.g. a bridge) due to the weight of the supported structure itself"
         ]
     },
     {
         "name": "live load",
         "trans": [
-            "活载荷 ；活负载；动荷"
+            "n. a variable load on a structure (e.g. a bridge) such as moving traffic"
         ]
     },
     {
@@ -1594,7 +1618,7 @@
     {
         "name": "compression",
         "trans": [
-            "压"
+            "n. an increase in the density of something"
         ],
         "usphone": "kəm'prɛʃən",
         "ukphone": "kəm'preʃ(ə)n"
@@ -1602,7 +1626,7 @@
     {
         "name": "tension",
         "trans": [
-            "拉"
+            "n. (psychology) a state of mental or emotional strain or suspense; the physical condition of being stretched or strained"
         ],
         "usphone": "'tɛnʃən",
         "ukphone": "'tenʃn"
@@ -1610,13 +1634,13 @@
     {
         "name": "bending",
         "trans": [
-            "弯"
+            "n. movement that causes the formation of a curve"
         ]
     },
     {
         "name": "torsion",
         "trans": [
-            "扭"
+            "n. a tortuous and twisted shape or position"
         ],
         "usphone": "'tɔrʃən",
         "ukphone": "'tɔːʃ(ə)n"
@@ -1624,7 +1648,8 @@
     {
         "name": "shear",
         "trans": [
-            "剪 (shear wall) 剪力墙"
+            "n. (physics) a deformation of an object in which parallel planes remain parallel but are shifted in a direction parallel to themselves",
+            "v. cut with shears"
         ],
         "usphone": "ʃɪr",
         "ukphone": "ʃɪr"
@@ -1638,7 +1663,8 @@
     {
         "name": "post",
         "trans": [
-            "柱子"
+            "n. the position where someone (as a guard or sentry) stands or is assigned to stand; military installation at which a body of troops is stationed",
+            "v. affix in a public place or for public notice; publicize with, or as if with, a poster"
         ],
         "usphone": "post",
         "ukphone": "pəʊst"
@@ -1646,7 +1672,7 @@
     {
         "name": "lintel",
         "trans": [
-            "梁"
+            "n. horizontal beam used as a finishing piece over a door or window"
         ],
         "usphone": "'lɪntl",
         "ukphone": "'lɪnt(ə)l"
@@ -1660,7 +1686,7 @@
     {
         "name": "vertical",
         "trans": [
-            "垂直的"
+            "adj. at right angles to the plane of the horizon or a base line"
         ],
         "usphone": "'vɝtɪkl",
         "ukphone": "'vɜːrtɪkl"
@@ -1668,7 +1694,7 @@
     {
         "name": "horizontal",
         "trans": [
-            "水平的"
+            "adj. parallel to or in the plane of the horizon or a base line"
         ],
         "usphone": "'hɔrə'zɑntl",
         "ukphone": "ˌhɔːrə'zɑːntl"
@@ -1676,7 +1702,8 @@
     {
         "name": "beam",
         "trans": [
-            "梁"
+            "n. a signal transmitted along a narrow path; guides airplane pilots in darkness or bad weather",
+            "v. smile radiantly; express joy through one's facial expression; emit light; be bright, as of the sun or a light"
         ],
         "usphone": "bim",
         "ukphone": "biːm"
@@ -1690,13 +1717,14 @@
     {
         "name": "capitals",
         "trans": [
-            "柱头"
+            "n. assets available for use in the production of further assets"
         ]
     },
     {
         "name": "load",
         "trans": [
-            "荷载"
+            "n. weight to be borne or conveyed; a quantity that can be processed or transported at one time",
+            "v. fill or place a load on; provide (a device) with something necessary"
         ],
         "usphone": "lod",
         "ukphone": "loud"
@@ -1704,7 +1732,8 @@
     {
         "name": "truss",
         "trans": [
-            "桁架"
+            "n. (medicine) a bandage consisting of a pad and belt; worn to hold a hernia in place by pressure",
+            "v. tie the wings and legs of a bird before cooking it"
         ]
     },
     {
@@ -1728,7 +1757,8 @@
     {
         "name": "arch",
         "trans": [
-            "券"
+            "v. form an arch or curve",
+            "n. a curved shape in the vertical plane that spans an opening; a curved bony structure supporting or enclosing organs (especially the inner sides of the feet)"
         ],
         "usphone": "ɑrtʃ",
         "ukphone": "ɑːtʃ"
@@ -1736,7 +1766,7 @@
     {
         "name": "vault",
         "trans": [
-            "拱顶"
+            "n. a burial chamber (usually underground)"
         ],
         "usphone": "vɔlt",
         "ukphone": "vɔːlt"
@@ -1744,13 +1774,13 @@
     {
         "name": "barrel vault",
         "trans": [
-            "筒形拱"
+            "n. the simplest form of vault; a single continuous arch"
         ]
     },
     {
         "name": "dome",
         "trans": [
-            "穹顶"
+            "n. a concave shape whose distinguishing characteristic is that the concavity faces downward"
         ],
         "usphone": "dom",
         "ukphone": "dəʊm"
@@ -1770,7 +1800,7 @@
     {
         "name": "geothermal",
         "trans": [
-            "地热的"
+            "adj. of or relating to the heat in the interior of the earth"
         ],
         "usphone": ",dʒio'θɝml",
         "ukphone": "dʒiːə(ʊ)'θɜːm(ə)l"
@@ -1778,7 +1808,7 @@
     {
         "name": "plumbing",
         "trans": [
-            "管道工程"
+            "n. utility consisting of the pipes and fixtures for the distribution of water or gas in a building and for the disposal of sewage"
         ]
     },
     {
@@ -1790,7 +1820,7 @@
     {
         "name": "sewage",
         "trans": [
-            "污水"
+            "n. waste matter carried away in sewers or drains"
         ],
         "usphone": "'sʊɪdʒ",
         "ukphone": "'suːɪdʒ"
@@ -1810,7 +1840,7 @@
     {
         "name": "temperature",
         "trans": [
-            "温度"
+            "n. the degree of hotness or coldness of a body or environment (corresponding to its molecular activity); the somatic sensation of cold or heat"
         ],
         "usphone": "ˈtemprətʃʊər; tɛmpɚ-ˌtʃʊr",
         "ukphone": "temprətʃə(r)"
@@ -1818,7 +1848,7 @@
     {
         "name": "humidity",
         "trans": [
-            "湿度"
+            "n. wetness in the atmosphere"
         ],
         "usphone": "hju'mɪdəti",
         "ukphone": "hjuː'mɪdəti"
@@ -1838,7 +1868,7 @@
     {
         "name": "ventilate",
         "trans": [
-            "通风"
+            "v. expose to cool or cold air so as to cool or freshen"
         ],
         "usphone": "'vɛntɪlet",
         "ukphone": "'ventɪleɪt"
@@ -1846,7 +1876,8 @@
     {
         "name": "interior",
         "trans": [
-            "室内"
+            "n. the region that is inside of something",
+            "adj. situated within or suitable for inside a building"
         ],
         "usphone": "ɪn'tɪrɪɚ",
         "ukphone": "ɪn'tɪriər"
@@ -1854,7 +1885,8 @@
     {
         "name": "exterior",
         "trans": [
-            "室外"
+            "n. the region that is outside of something; the outer side or surface of something",
+            "adj. situated in or suitable for the outdoors or outside of a building"
         ],
         "usphone": "ɪk'stɪrɪɚ",
         "ukphone": "ɪk'stɪriər"
@@ -1916,13 +1948,13 @@
     {
         "name": "solar panel",
         "trans": [
-            "太阳能板"
+            "n. electrical device consisting of a large array of connected solar cells"
         ]
     },
     {
         "name": "wind turbine",
         "trans": [
-            "风力涡轮机"
+            "n. a turbine that is driven by the wind"
         ]
     },
     {
@@ -1940,13 +1972,13 @@
     {
         "name": "mechanical engineer",
         "trans": [
-            "机械工程师"
+            "n. a person trained to design and construct machines"
         ]
     },
     {
         "name": "elevator",
         "trans": [
-            "电梯"
+            "n. lifting device consisting of a platform or cage that is raised and lowered mechanically in a vertical shaft in order to move people from one floor to another…"
         ],
         "usphone": "'ɛlɪvetɚ",
         "ukphone": "'elɪveɪtə"
@@ -1954,7 +1986,7 @@
     {
         "name": "pagoda",
         "trans": [
-            "宝塔"
+            "n. an Asian temple; usually a pyramidal tower with an upward curving roof"
         ],
         "usphone": "pə'ɡodə",
         "ukphone": "pə'gəʊdə"
@@ -1962,7 +1994,7 @@
     {
         "name": "escalator",
         "trans": [
-            "自动扶梯"
+            "n. a clause in a contract that provides for an increase or a decrease in wages or prices or benefits etc. depending on certain conditions (as a change in the cost…"
         ],
         "usphone": "'ɛskə'letɚ",
         "ukphone": "'eskəleɪtə"
@@ -1970,7 +2002,7 @@
     {
         "name": "horticultural",
         "trans": [
-            "园艺"
+            "adj. of or relating to the cultivation of plants"
         ],
         "usphone": ",hɔrtɪ'kʌltʃərəl",
         "ukphone": ",hɔːtɪ'kʌltʃərəl"
@@ -1978,7 +2010,7 @@
     {
         "name": "orchard",
         "trans": [
-            "果园"
+            "n. garden consisting of a small cultivated wood without undergrowth"
         ],
         "usphone": "'ɔrtʃɚd",
         "ukphone": "'ɔːtʃəd"
@@ -1986,7 +2018,7 @@
     {
         "name": "lodge",
         "trans": [
-            "乡间小屋"
+            "v. be a lodger; stay temporarily; put, fix, force, or implant"
         ],
         "usphone": "lɑdʒ",
         "ukphone": "lɑːdʒ"
@@ -1994,7 +2026,8 @@
     {
         "name": "term",
         "trans": [
-            "术语"
+            "n. a word or expression used for some particular thing; a limited period of time",
+            "v. name formally or designate with a term"
         ],
         "usphone": "tɝm",
         "ukphone": "tɜːm"
@@ -2002,7 +2035,7 @@
     {
         "name": "client",
         "trans": [
-            "客户"
+            "n. a person who seeks the advice of a lawyer; someone who pays for goods or services"
         ],
         "usphone": "'klaɪənt",
         "ukphone": "'klaɪənt"
@@ -2022,7 +2055,7 @@
     {
         "name": "sewage",
         "trans": [
-            "下水道"
+            "n. waste matter carried away in sewers or drains"
         ],
         "usphone": "'sʊɪdʒ",
         "ukphone": "'suːɪdʒ"
@@ -2030,7 +2063,8 @@
     {
         "name": "cloister",
         "trans": [
-            "修道院回廊"
+            "n. residence that is a place of religious seclusion (such as a monastery)",
+            "v. surround with a cloister, as of a garden"
         ],
         "usphone": "'klɔɪstɚ",
         "ukphone": "'klɒɪstə"
@@ -2038,7 +2072,7 @@
     {
         "name": "front yard",
         "trans": [
-            "前院"
+            "n. the yard in front of a house; between the house and the street"
         ]
     },
     {
@@ -2056,7 +2090,7 @@
     {
         "name": "alley",
         "trans": [
-            "小巷"
+            "n. a narrow street with walls on both sides"
         ],
         "usphone": "'æli",
         "ukphone": "'æli"
@@ -2064,7 +2098,7 @@
     {
         "name": "orchard",
         "trans": [
-            "果园"
+            "n. garden consisting of a small cultivated wood without undergrowth"
         ],
         "usphone": "'ɔrtʃɚd",
         "ukphone": "'ɔːtʃəd"
@@ -2078,7 +2112,8 @@
     {
         "name": "trail",
         "trans": [
-            "足迹"
+            "v. to lag or linger behind; go after with the intent to catch",
+            "n. a track or mark left by something that has passed; a path or track roughly blazed through wild or hilly country"
         ],
         "usphone": "trel",
         "ukphone": "treɪl"
@@ -2092,13 +2127,13 @@
     {
         "name": "residence hall",
         "trans": [
-            "学生宿舍"
+            "n. a college or university building containing living quarters for students"
         ]
     },
     {
         "name": "courtyard",
         "trans": [
-            "庭院"
+            "n. an area wholly or partly surrounded by walls or buildings"
         ],
         "usphone": "'kɔrtjɑrd",
         "ukphone": "'kɔːtjɑːd"
@@ -2106,7 +2141,7 @@
     {
         "name": "runoff",
         "trans": [
-            "径流"
+            "n. the occurrence of surplus liquid (as water) exceeding the limit or capacity"
         ],
         "usphone": "'rʌnɔf",
         "ukphone": "'rʌnɒf"
@@ -2114,7 +2149,7 @@
     {
         "name": "marsh",
         "trans": [
-            "湿地"
+            "n. low-lying wet land with grassy vegetation; usually is a transition zone between land and water"
         ],
         "usphone": "mɑrʃ",
         "ukphone": "mɑːrʃ"
@@ -2122,7 +2157,7 @@
     {
         "name": "memorial",
         "trans": [
-            "纪念碑"
+            "n. a recognition of meritorious service"
         ],
         "usphone": "mə'morɪəl",
         "ukphone": "mə'mɔːrɪəl"
@@ -2130,7 +2165,7 @@
     {
         "name": "axis",
         "trans": [
-            "市政轴线"
+            "n. a straight line through a body or figure that satisfies certain conditions"
         ],
         "usphone": "'æksɪs",
         "ukphone": "'æksɪs"
@@ -2138,7 +2173,7 @@
     {
         "name": "renovate",
         "trans": [
-            "更新"
+            "v. restore to a previous or better condition"
         ],
         "usphone": "'rɛnəvet",
         "ukphone": "'renəveɪt"
@@ -2152,7 +2187,7 @@
     {
         "name": "drainage",
         "trans": [
-            "排水"
+            "n. emptying something accomplished by allowing liquid to run out of it"
         ],
         "usphone": "'drenɪdʒ",
         "ukphone": "'dreɪnɪdʒ"
@@ -2166,7 +2201,7 @@
     {
         "name": "acre",
         "trans": [
-            "英亩"
+            "n. a unit of area (4840 square yards) used in English-speaking countries"
         ],
         "usphone": "'ekɚ",
         "ukphone": "'eɪkə"
@@ -2174,7 +2209,7 @@
     {
         "name": "restored",
         "trans": [
-            "恢复修复"
+            "v. return to its original or usable and functioning condition; return to life; get or give new life or energy"
         ],
         "usphone": "ri'stɔ:d",
         "ukphone": "rɪ'stɔːrd"
@@ -2188,7 +2223,7 @@
     {
         "name": "linear",
         "trans": [
-            "线性"
+            "adj. designating or involving an equation whose terms are of the first degree; of or in or along or relating to a line; involving a single dimension"
         ],
         "usphone": "'lɪnɪɚ",
         "ukphone": "'lɪniər"
@@ -2196,7 +2231,7 @@
     {
         "name": "master plan",
         "trans": [
-            "总平面"
+            "n. a long-term outline of a project or government function"
         ]
     },
     {
@@ -2208,7 +2243,7 @@
     {
         "name": "drainage",
         "trans": [
-            "排水"
+            "n. emptying something accomplished by allowing liquid to run out of it"
         ],
         "usphone": "'drenɪdʒ",
         "ukphone": "'dreɪnɪdʒ"
@@ -2228,7 +2263,7 @@
     {
         "name": "topography",
         "trans": [
-            "地势"
+            "n. the configuration of a surface and the relations among its man-made and natural features"
         ],
         "usphone": "tə'pɑgrəfi",
         "ukphone": "tə'pɑːgrəfi"
@@ -2242,7 +2277,7 @@
     {
         "name": "integrate",
         "trans": [
-            "整合"
+            "v. make into a whole or make part of a whole; open (a place) to members of all races and ethnic groups"
         ],
         "usphone": "'ɪntɪɡret",
         "ukphone": "'ɪntɪgreɪt"
@@ -2250,7 +2285,7 @@
     {
         "name": "layout",
         "trans": [
-            "布局"
+            "n. a plan or design of something that is laid out; the act of laying out (as by making plans for something)"
         ],
         "usphone": "'leaʊt",
         "ukphone": "'leɪaut"
@@ -2258,7 +2293,7 @@
     {
         "name": "enclose",
         "trans": [
-            "围合"
+            "v. enclose or enfold completely with or as if with a covering; close in; darkness enclosed him\""
         ],
         "usphone": "ɪn'kloz",
         "ukphone": "ɪn'klouz"
@@ -2266,7 +2301,8 @@
     {
         "name": "shelter",
         "trans": [
-            "庇护所"
+            "n. a structure that provides privacy and protection from danger; protective covering that provides protection from the weather",
+            "v. provide shelter for"
         ],
         "usphone": "'ʃɛltɚ",
         "ukphone": "'ʃeltər"
@@ -2274,7 +2310,7 @@
     {
         "name": "circulation",
         "trans": [
-            "流线"
+            "n. the dissemination of copies of periodicals (as newspapers or magazines)"
         ],
         "usphone": ",sɝkjə'leʃən",
         "ukphone": "sɜːkjʊ'leɪʃ(ə)n"
@@ -2282,7 +2318,8 @@
     {
         "name": "step",
         "trans": [
-            "踏步/台阶"
+            "n. any maneuver made as part of progress toward a goal; the distance covered by a step",
+            "v. shift or move by taking a step; put down or press the foot, place the foot"
         ],
         "usphone": "stɛp",
         "ukphone": "step"
@@ -2302,7 +2339,7 @@
     {
         "name": "arbor",
         "trans": [
-            "藤架"
+            "n. tree (as opposed to shrub)"
         ],
         "usphone": "'ɑrbɚ",
         "ukphone": "'ɑːbə"
@@ -2310,13 +2347,14 @@
     {
         "name": "retaining wall",
         "trans": [
-            "挡土墙"
+            "n. a wall that is built to resist lateral pressure (especially a wall built to prevent the advance of a mass of earth)"
         ]
     },
     {
         "name": "canopy",
         "trans": [
-            "雨棚 ，天棚"
+            "n. the transparent covering of an aircraft cockpit",
+            "v. cover with a canopy"
         ],
         "usphone": "'kænəpi",
         "ukphone": "'kænəpi"
@@ -2336,13 +2374,13 @@
     {
         "name": "belvedere",
         "trans": [
-            "观景台"
+            "n. densely branched Eurasian plant; foliage turns purple-red in autumn"
         ]
     },
     {
         "name": "contour",
         "trans": [
-            "等高线"
+            "n. a line drawn on a map connecting points of equal height; any spatial attributes (especially as defined by outline)"
         ],
         "usphone": "'kɑntʊr",
         "ukphone": "'kɑːntur"
@@ -2350,7 +2388,7 @@
     {
         "name": "boulevard",
         "trans": [
-            "林荫大道"
+            "n. a wide street or thoroughfare"
         ],
         "usphone": "ˈbʊləˌvɑrd",
         "ukphone": "'buːləvɑːd"
@@ -2370,7 +2408,8 @@
     {
         "name": "concrete",
         "trans": [
-            "混凝土"
+            "n. a strong hard building material composed of sand and gravel and cement and water",
+            "adj. capable of being perceived by the senses; not abstract or imaginary"
         ],
         "usphone": "'kɑŋkrit",
         "ukphone": "'kɑːŋkriːt"
@@ -2378,7 +2417,7 @@
     {
         "name": "deflection",
         "trans": [
-            "偏斜"
+            "n. a twist or aberration; especially a perverse or abnormal way of judging or acting"
         ],
         "usphone": "dɪ'flɛkʃən",
         "ukphone": "dɪ'flekʃ(ə)n"
@@ -2398,7 +2437,7 @@
     {
         "name": "estimator",
         "trans": [
-            "估算师"
+            "n. an expert at calculation (or at operating calculating machines)"
         ]
     },
     {
@@ -2422,7 +2461,7 @@
     {
         "name": "commodity",
         "trans": [
-            "有益 ，适用，有价值"
+            "n. articles of commerce"
         ],
         "usphone": "kə'mɑdəti",
         "ukphone": "kə'mɑːdəti"
@@ -2430,7 +2469,7 @@
     {
         "name": "firmness",
         "trans": [
-            "坚固"
+            "n. the muscle tone of healthy tissue; the trait of being resolute"
         ],
         "usphone": "'fɝmnɪs",
         "ukphone": "'fɜ:mnɪs"
@@ -2438,7 +2477,8 @@
     {
         "name": "delight",
         "trans": [
-            "使 ...快乐，乐趣"
+            "n. a feeling of extreme pleasure or satisfaction",
+            "v. give pleasure to or be pleasing to; take delight in"
         ],
         "usphone": "dɪ'laɪt",
         "ukphone": "dɪ'laɪt"
@@ -2452,7 +2492,7 @@
     {
         "name": "programming",
         "trans": [
-            "编制任务书"
+            "n. setting an order and time for planned events"
         ],
         "usphone": "'proɡræmɪŋ",
         "ukphone": "'prəugræmiŋ"
@@ -2460,7 +2500,8 @@
     {
         "name": "research",
         "trans": [
-            "研究"
+            "n. systematic investigation to establish facts; a search for knowledge",
+            "v. attempt to find out in a systematically and scientific manner"
         ],
         "usphone": "'risɝtʃ",
         "ukphone": "rɪ'sɜːtʃ; 'riːsɜːtʃ"
@@ -2498,7 +2539,7 @@
     {
         "name": "construction",
         "trans": [
-            "建设"
+            "n. the act of constructing something; a group of words that form a constituent of a sentence and are considered as a single unit"
         ],
         "usphone": "kən'strʌkʃən",
         "ukphone": "kən'strʌkʃn"
@@ -2524,7 +2565,7 @@
     {
         "name": "interaction",
         "trans": [
-            "互动 ，交流"
+            "n. a mutual or reciprocal action; interacting"
         ]
     },
     {
@@ -2536,7 +2577,8 @@
     {
         "name": "isometric",
         "trans": [
-            "正等测"
+            "n. a line connecting isometric points",
+            "adj. related by an isometry"
         ]
     },
     {
@@ -2548,7 +2590,7 @@
     {
         "name": "elevation",
         "trans": [
-            "立面图"
+            "n. the event of something being raised upward; the highest level or degree attainable; the highest stage of development"
         ],
         "usphone": ",ɛlɪ'veʃən",
         "ukphone": ",elɪ'veɪʃ(ə)n"
@@ -2556,13 +2598,13 @@
     {
         "name": "floor plan",
         "trans": [
-            "平面图"
+            "n. scale drawing of a horizontal section through a building at a given level; contrasts with elevation"
         ]
     },
     {
         "name": "section",
         "trans": [
-            "剖面图"
+            "n. a self-contained part of a larger composition (written or musical)"
         ],
         "usphone": "'sɛkʃən",
         "ukphone": "'sekʃn"
@@ -2594,7 +2636,8 @@
     {
         "name": "position",
         "trans": [
-            "位置"
+            "n. the particular portion of space occupied by something; a point occupied by troops for tactical reasons",
+            "v. cause to be in an appropriate place, state, or relation; put into a certain place or abstract location"
         ],
         "usphone": "pə'zɪʃən",
         "ukphone": "pə'zɪʃn"
@@ -2602,7 +2645,8 @@
     {
         "name": "motion",
         "trans": [
-            "移动"
+            "n. the use of movements (especially of the hands) to communicate familiar or prearranged signals",
+            "v. show, express or direct through movement"
         ],
         "usphone": "'moʃən",
         "ukphone": "'mouʃn"
@@ -2610,7 +2654,7 @@
     {
         "name": "width",
         "trans": [
-            "宽度 (具体)"
+            "n. the extent of something from side to side"
         ],
         "usphone": "wɪdθ",
         "ukphone": "wɪtθ; wɪdθ"
@@ -2660,7 +2704,7 @@
     {
         "name": "intersection",
         "trans": [
-            "交叉口 ，十字路口"
+            "n. a point where lines intersect; a junction where one street or road crosses another"
         ],
         "usphone": ",ɪntɚ'sɛkʃən",
         "ukphone": "ˌɪntər'sekʃn"
@@ -2668,7 +2712,7 @@
     {
         "name": "static",
         "trans": [
-            "静态的"
+            "adj. not in physical motion"
         ],
         "usphone": "'stætɪk",
         "ukphone": "'stætɪk"
@@ -2676,7 +2720,7 @@
     {
         "name": "tension",
         "trans": [
-            "张力"
+            "n. (psychology) a state of mental or emotional strain or suspense; the physical condition of being stretched or strained"
         ],
         "usphone": "'tɛnʃən",
         "ukphone": "'tenʃn"
@@ -2684,7 +2728,8 @@
     {
         "name": "array",
         "trans": [
-            "阵列"
+            "n. an orderly arrangement; an impressive display",
+            "v. lay out orderly or logically in a line or as if in a line"
         ],
         "usphone": "ə're",
         "ukphone": "ə'reɪ"
@@ -2692,7 +2737,8 @@
     {
         "name": "straight",
         "trans": [
-            "直的"
+            "adj. successive (without a break); having no deviations",
+            "adv. without deviation; in a forthright manner; candidly or frankly"
         ],
         "usphone": "stret",
         "ukphone": "streɪt"
@@ -2700,13 +2746,13 @@
     {
         "name": "curved",
         "trans": [
-            "弯曲的"
+            "adj. having or marked by a curve or smoothly rounded bend"
         ]
     },
     {
         "name": "bent",
         "trans": [
-            "弯曲的"
+            "n. a relatively permanent inclination to react in a particular way"
         ],
         "usphone": "bɛnt",
         "ukphone": "bent"
@@ -2714,7 +2760,7 @@
     {
         "name": "irregular",
         "trans": [
-            "不规则的"
+            "adj. contrary to rule or accepted order or general practice; not occurring at expected times"
         ],
         "usphone": "ɪ'rɛɡjəlɚ",
         "ukphone": "ɪ'regjələr"
@@ -2722,13 +2768,13 @@
     {
         "name": "horizontally",
         "trans": [
-            "水平地"
+            "adv. in a horizontal direction"
         ]
     },
     {
         "name": "vertically",
         "trans": [
-            "竖直地"
+            "adv. in a vertical direction"
         ],
         "usphone": "'vɝtɪkli",
         "ukphone": "'və:tikəli"
@@ -2736,7 +2782,8 @@
     {
         "name": "perpendicular",
         "trans": [
-            "垂直的"
+            "n. a straight line at right angles to another line",
+            "adj. intersecting at or forming right angles"
         ],
         "usphone": "'pɝpən'dɪkjəlɚ",
         "ukphone": "ˌpɜːrpən'dɪkjələr"
@@ -2744,7 +2791,7 @@
     {
         "name": "triangle",
         "trans": [
-            "三角形"
+            "n. a three-sided polygon"
         ],
         "usphone": "'traɪæŋɡl",
         "ukphone": "'traɪæŋgl"
@@ -2752,7 +2799,9 @@
     {
         "name": "square",
         "trans": [
-            "正方形"
+            "n. (geometry) a plane rectangle with four equal sides and four right angles; a four-sided regular polygon; the product of two equal terms",
+            "v. make square; raise to the second power",
+            "adj. having four equal sides and four right angles or forming a right angle"
         ],
         "usphone": "skwɛr",
         "ukphone": "skweə"
@@ -2760,7 +2809,8 @@
     {
         "name": "circle",
         "trans": [
-            "圆形"
+            "n. ellipse in which the two axes are of equal length; a plane curve generated by one point moving at a constant distance from a fixed point",
+            "v. travel around something; move in circles"
         ],
         "usphone": "'sɝkl",
         "ukphone": "'sɜːk(ə)l"
@@ -2768,7 +2818,8 @@
     {
         "name": "cube",
         "trans": [
-            "立方"
+            "n. a hexahedron with six equal squares as faces; a three-dimensional shape with six square or rectangular sides",
+            "v. raise to the third power"
         ],
         "usphone": "kjʊb",
         "ukphone": "kjuːb"
@@ -2776,7 +2827,7 @@
     {
         "name": "cylinder",
         "trans": [
-            "圆柱"
+            "n. a solid bounded by a cylindrical surface and two parallel planes (the bases)"
         ],
         "usphone": "'sɪlɪndɚ",
         "ukphone": "'sɪlɪndər"
@@ -2784,7 +2835,7 @@
     {
         "name": "sphere",
         "trans": [
-            "圆球"
+            "n. a particular environment or walk of life; any spherically shaped artifact"
         ],
         "usphone": "sfɪr",
         "ukphone": "sfɪr"
@@ -2792,7 +2843,7 @@
     {
         "name": "hemisphere",
         "trans": [
-            "半球"
+            "n. half of the terrestrial globe"
         ],
         "usphone": "'hɛmɪsfɪr",
         "ukphone": "'hemɪsfɪr"
@@ -2800,7 +2851,7 @@
     {
         "name": "cone",
         "trans": [
-            "圆锥"
+            "n. any cone-shaped artifact"
         ],
         "usphone": "kon",
         "ukphone": "kəʊn"
@@ -2808,7 +2859,7 @@
     {
         "name": "pyramid",
         "trans": [
-            "金字塔"
+            "v. enlarge one's holdings on an exchange on a continued rise by using paper profits as margin to buy additional amounts"
         ],
         "usphone": "'pɪrəmɪd",
         "ukphone": "'pɪrəmɪd"
@@ -2816,7 +2867,7 @@
     {
         "name": "texture",
         "trans": [
-            "纹理质地"
+            "n. the feel of a surface or a fabric; the essential quality of something"
         ],
         "usphone": "'tɛkstʃɚ",
         "ukphone": "'tekstʃər"
@@ -2824,7 +2875,7 @@
     {
         "name": "orientation",
         "trans": [
-            "方向"
+            "n. the act of orienting; an integrated set of attitudes and beliefs"
         ],
         "usphone": "orɪɛn'teʃən",
         "ukphone": "ˌɔːriən'teɪʃn"
@@ -2838,7 +2889,7 @@
     {
         "name": "axis",
         "trans": [
-            "轴线"
+            "n. a straight line through a body or figure that satisfies certain conditions"
         ],
         "usphone": "'æksɪs",
         "ukphone": "'æksɪs"
@@ -2858,7 +2909,7 @@
     {
         "name": "perspective",
         "trans": [
-            "透视图"
+            "n. a way of regarding situations or topics etc.; the appearance of things relative to one another as determined by their distance from the viewer"
         ],
         "usphone": "pɚ'spɛktɪv",
         "ukphone": "pər'spektɪv"
@@ -2884,7 +2935,8 @@
     {
         "name": "balance",
         "trans": [
-            "平衡"
+            "n. a state of equilibrium; equality between the totals of the credit and debit sides of an account",
+            "v. bring into balance or equilibrium; compute credits and debits of an account"
         ],
         "usphone": "'bæləns",
         "ukphone": "'bæləns"
@@ -2892,7 +2944,7 @@
     {
         "name": "symmetry",
         "trans": [
-            "对称"
+            "n. (mathematics) an attribute of a shape or relation; exact reflection of form on opposite sides of a dividing line or plane; balance among the parts of something"
         ],
         "usphone": "'sɪmətri",
         "ukphone": "'sɪmətri"
@@ -2906,7 +2958,7 @@
     {
         "name": "asymmetry",
         "trans": [
-            "不对称"
+            "n. (mathematics) a lack of symmetry"
         ],
         "usphone": "e'sɪmɪtri",
         "ukphone": "ˌ3ɪ'sɪmətri"
@@ -2914,7 +2966,7 @@
     {
         "name": "hierarchy",
         "trans": [
-            "层级"
+            "n. a series of ordered groupings of people or things within a system; the organization of people at different ranks in an administrative body"
         ],
         "usphone": "'haɪərɑrki",
         "ukphone": "'haɪərɑːrki"
@@ -2922,7 +2974,7 @@
     {
         "name": "repetition",
         "trans": [
-            "重复"
+            "n. an event that repeats; the act of doing or performing again"
         ],
         "usphone": "'rɛpə'tɪʃən",
         "ukphone": "ˌrepə'tɪʃn"
@@ -2930,7 +2982,7 @@
     {
         "name": "rhythm",
         "trans": [
-            "韵律"
+            "n. the basic rhythmic unit in a piece of music; recurring at regular intervals"
         ],
         "usphone": "'rɪðəm",
         "ukphone": "'rɪðəm"
@@ -2938,19 +2990,20 @@
     {
         "name": "bay",
         "trans": [
-            "开间"
+            "n. an indentation of a shoreline larger than a cove but smaller than a gulf; the sound of a hound on the scent",
+            "v. utter in deep prolonged tones"
         ]
     },
     {
         "name": "layering",
         "trans": [
-            "分层"
+            "v. make or form a layer"
         ]
     },
     {
         "name": "reinforce",
         "trans": [
-            "加强"
+            "v. make stronger; strengthen and support with rewards"
         ],
         "usphone": ",riɪn'fɔrs",
         "ukphone": "ˌriːɪn'fɔːrs"
@@ -2958,7 +3011,7 @@
     {
         "name": "hallway",
         "trans": [
-            "走廊"
+            "n. an interior passage or corridor onto which rooms open"
         ],
         "usphone": "'hɔlwe",
         "ukphone": "'hɔːlweɪ"
@@ -2966,7 +3019,8 @@
     {
         "name": "form",
         "trans": [
-            "形式"
+            "n. the phonological or orthographic sound or appearance of a word that can be used to describe or identify something",
+            "v. create (as an entity); to compose or represent:"
         ],
         "usphone": "fɔrm",
         "ukphone": "fɔːm"
@@ -2974,7 +3028,7 @@
     {
         "name": "orientation",
         "trans": [
-            "方向"
+            "n. the act of orienting; an integrated set of attitudes and beliefs"
         ],
         "usphone": "orɪɛn'teʃən",
         "ukphone": "ˌɔːriən'teɪʃn"
@@ -2982,7 +3036,7 @@
     {
         "name": "circulation",
         "trans": [
-            "流通"
+            "n. the dissemination of copies of periodicals (as newspapers or magazines)"
         ],
         "usphone": ",sɝkjə'leʃən",
         "ukphone": "sɜːkjʊ'leɪʃ(ə)n"
@@ -2990,7 +3044,7 @@
     {
         "name": "linear",
         "trans": [
-            "直线的"
+            "adj. designating or involving an equation whose terms are of the first degree; of or in or along or relating to a line; involving a single dimension"
         ],
         "usphone": "'lɪnɪɚ",
         "ukphone": "'lɪniər"
@@ -2998,7 +3052,7 @@
     {
         "name": "topography",
         "trans": [
-            "地形学"
+            "n. the configuration of a surface and the relations among its man-made and natural features"
         ],
         "usphone": "tə'pɑgrəfi",
         "ukphone": "tə'pɑːgrəfi"
@@ -3006,7 +3060,7 @@
     {
         "name": "slope",
         "trans": [
-            "斜坡"
+            "n. an elevated geological formation; the property possessed by a line or surface that departs from the horizontal"
         ],
         "usphone": "slop",
         "ukphone": "sloup"
@@ -3020,7 +3074,7 @@
     {
         "name": "proportion",
         "trans": [
-            "比例"
+            "n. the quotient obtained when the magnitude of a part is divided by the magnitude of the whole; magnitude or extent"
         ],
         "usphone": "prə'pɔrʃən",
         "ukphone": "prə'pɔːrʃn"
@@ -3028,13 +3082,13 @@
     {
         "name": "deconstruction",
         "trans": [
-            "解构"
+            "n. a philosophical theory of criticism (usually of literature or film) that seeks to expose deep-seated contradictions in a work by delving below its surface…"
         ]
     },
     {
         "name": "postmodern",
         "trans": [
-            "后现代主义"
+            "adj. of or relating to postmodernism"
         ],
         "usphone": ",post'mɑdɚn",
         "ukphone": "pəʊst'mɒdn"
@@ -3042,7 +3096,7 @@
     {
         "name": "appearance",
         "trans": [
-            "外貌"
+            "n. outward or visible aspect of a person or thing; the event of coming into sight"
         ],
         "usphone": "ə'pɪrəns",
         "ukphone": "ə'pɪər(ə)ns"
@@ -3050,7 +3104,7 @@
     {
         "name": "proportioning",
         "trans": [
-            "使匀称"
+            "v. give pleasant proportions to"
         ]
     },
     {
@@ -3068,7 +3122,7 @@
     {
         "name": "lintel",
         "trans": [
-            "过梁"
+            "n. horizontal beam used as a finishing piece over a door or window"
         ],
         "usphone": "'lɪntl",
         "ukphone": "'lɪnt(ə)l"
@@ -3076,7 +3130,8 @@
     {
         "name": "beam",
         "trans": [
-            "横梁"
+            "n. a signal transmitted along a narrow path; guides airplane pilots in darkness or bad weather",
+            "v. smile radiantly; express joy through one's facial expression; emit light; be bright, as of the sun or a light"
         ],
         "usphone": "bim",
         "ukphone": "biːm"
@@ -3090,7 +3145,8 @@
     {
         "name": "vernacular",
         "trans": [
-            "本地的"
+            "n. a characteristic language of a particular group (as among thieves)",
+            "adj. being or characteristic of or appropriate to everyday language"
         ],
         "usphone": "vɚ'nækjəlɚ",
         "ukphone": "və'nækjulə"
@@ -3098,7 +3154,7 @@
     {
         "name": "granite",
         "trans": [
-            "花岗岩"
+            "n. plutonic igneous rock having visibly crystalline texture; generally composed of feldspar and mica and quartz"
         ],
         "usphone": "'grænɪt",
         "ukphone": "'grænɪt"
@@ -3106,7 +3162,7 @@
     {
         "name": "limestone",
         "trans": [
-            "石灰岩"
+            "n. a sedimentary rock consisting mainly of calcium that was deposited by the remains of marine animals"
         ],
         "usphone": "'laɪmston",
         "ukphone": "'laɪmstoun"
@@ -3114,7 +3170,8 @@
     {
         "name": "mortar",
         "trans": [
-            "砂浆"
+            "n. a muzzle-loading high-angle gun with a short barrel that fires shells at high elevations for a short range; used as a bond in masonry or for covering a wall",
+            "v. plaster with mortar"
         ],
         "usphone": "'mɔrtɚ",
         "ukphone": "'mɔːtə"
@@ -3122,7 +3179,8 @@
     {
         "name": "arch",
         "trans": [
-            "券"
+            "v. form an arch or curve",
+            "n. a curved shape in the vertical plane that spans an opening; a curved bony structure supporting or enclosing organs (especially the inner sides of the feet)"
         ],
         "usphone": "ɑrtʃ",
         "ukphone": "ɑːtʃ"
@@ -3130,7 +3188,7 @@
     {
         "name": "vault",
         "trans": [
-            "拱"
+            "n. a burial chamber (usually underground)"
         ],
         "usphone": "vɔlt",
         "ukphone": "vɔːlt"
@@ -3138,13 +3196,13 @@
     {
         "name": "barrel vault",
         "trans": [
-            "筒形拱"
+            "n. the simplest form of vault; a single continuous arch"
         ]
     },
     {
         "name": "dome",
         "trans": [
-            "穹顶"
+            "n. a concave shape whose distinguishing characteristic is that the concavity faces downward"
         ],
         "usphone": "dom",
         "ukphone": "dəʊm"
@@ -3158,7 +3216,8 @@
     {
         "name": "secular",
         "trans": [
-            "世俗的"
+            "n. someone who is not a clergyman or a professional person",
+            "adj. of or relating to the doctrine that rejects religion and religious considerations"
         ],
         "usphone": "'sɛkjəlɚ",
         "ukphone": "'sekjələr"
@@ -3166,7 +3225,7 @@
     {
         "name": "castle",
         "trans": [
-            "城堡"
+            "n. a large and stately mansion; a large building formerly occupied by a ruler and fortified against attack"
         ],
         "usphone": "'kæsl",
         "ukphone": "'kɑːs(ə)l"
@@ -3174,7 +3233,8 @@
     {
         "name": "cable",
         "trans": [
-            "电缆"
+            "n. a telegram sent abroad; a conductor for transmitting electrical or optical signals or electric power",
+            "v. send cables, wires, or telegrams"
         ],
         "usphone": "'kebl",
         "ukphone": "'keɪbl"
@@ -3182,7 +3242,7 @@
     {
         "name": "cathedral",
         "trans": [
-            "教堂"
+            "n. any large and important church"
         ],
         "usphone": "kə'θidrəl",
         "ukphone": "kə'θiːdr(ə)l"
@@ -3190,25 +3250,25 @@
     {
         "name": "Renaissance",
         "trans": [
-            "文艺复兴"
+            "n. the period of European history at the close of the Middle Ages and the rise of the modern world…"
         ]
     },
     {
         "name": "baroque",
         "trans": [
-            "巴洛克风格"
+            "adj. having elaborate symmetrical ornamentation"
         ]
     },
     {
         "name": "Neo-Classicism",
         "trans": [
-            "新古典主义"
+            "n. revival of a classical style (in art or literature or architecture or music) but from a new perspective or with a new motivation"
         ]
     },
     {
         "name": "prefabricated",
         "trans": [
-            "预制的"
+            "v. to manufacture sections of (a building), especially in a factory…"
         ],
         "usphone": ",pri'fæbrɪketɪd",
         "ukphone": "ˌpriː'fæbrɪkeɪtɪd"
@@ -3216,7 +3276,7 @@
     {
         "name": "parameter",
         "trans": [
-            "参数"
+            "n. a constant in the equation of a curve that can be varied to yield a family of similar curves"
         ],
         "usphone": "pə'ræmɪtɚ",
         "ukphone": "pə'ræmɪtər"
@@ -3224,7 +3284,7 @@
     {
         "name": "axis",
         "trans": [
-            "轴线"
+            "n. a straight line through a body or figure that satisfies certain conditions"
         ],
         "usphone": "'æksɪs",
         "ukphone": "'æksɪs"
@@ -3232,7 +3292,7 @@
     {
         "name": "courtyard",
         "trans": [
-            "庭院"
+            "n. an area wholly or partly surrounded by walls or buildings"
         ],
         "usphone": "'kɔrtjɑrd",
         "ukphone": "'kɔːtjɑːd"
@@ -3240,7 +3300,7 @@
     {
         "name": "hierarchy",
         "trans": [
-            "等级"
+            "n. a series of ordered groupings of people or things within a system; the organization of people at different ranks in an administrative body"
         ],
         "usphone": "'haɪərɑrki",
         "ukphone": "'haɪərɑːrki"
@@ -3254,7 +3314,7 @@
     {
         "name": "pavilion",
         "trans": [
-            "亭"
+            "n. large and often sumptuous tent"
         ],
         "usphone": "pə'vɪlɪən",
         "ukphone": "pə'vɪljən"
@@ -3262,7 +3322,7 @@
     {
         "name": "pagoda",
         "trans": [
-            "塔"
+            "n. an Asian temple; usually a pyramidal tower with an upward curving roof"
         ],
         "usphone": "pə'ɡodə",
         "ukphone": "pə'gəʊdə"
@@ -3270,7 +3330,8 @@
     {
         "name": "scale",
         "trans": [
-            "规模"
+            "n. an ordered reference standard; relative magnitude",
+            "v. measure by or as if by a scale; pattern, make, regulate, set, measure, or estimate according to some rate or standard"
         ],
         "usphone": "skel",
         "ukphone": "skeɪl"
@@ -3290,7 +3351,8 @@
     {
         "name": "secular",
         "trans": [
-            "世俗的"
+            "n. someone who is not a clergyman or a professional person",
+            "adj. of or relating to the doctrine that rejects religion and religious considerations"
         ],
         "usphone": "'sɛkjəlɚ",
         "ukphone": "'sekjələr"
@@ -3298,7 +3360,7 @@
     {
         "name": "pavilion",
         "trans": [
-            "亭"
+            "n. large and often sumptuous tent"
         ],
         "usphone": "pə'vɪlɪən",
         "ukphone": "pə'vɪljən"
@@ -3306,7 +3368,9 @@
     {
         "name": "square",
         "trans": [
-            "正方形"
+            "n. (geometry) a plane rectangle with four equal sides and four right angles; a four-sided regular polygon; the product of two equal terms",
+            "v. make square; raise to the second power",
+            "adj. having four equal sides and four right angles or forming a right angle"
         ],
         "usphone": "skwɛr",
         "ukphone": "skweə"
@@ -3314,7 +3378,7 @@
     {
         "name": "triangle",
         "trans": [
-            "三角形"
+            "n. a three-sided polygon"
         ],
         "usphone": "'traɪæŋɡl",
         "ukphone": "'traɪæŋgl"
@@ -3322,7 +3386,7 @@
     {
         "name": "column",
         "trans": [
-            "圆柱"
+            "n. a line of units following one after another"
         ],
         "usphone": "'kɑləm",
         "ukphone": "'kɑːləm"
@@ -3330,7 +3394,7 @@
     {
         "name": "waterfront",
         "trans": [
-            "滨水区"
+            "n. the area of a city (such as a harbor or dockyard) alongside a body of water"
         ],
         "usphone": "'wɔtɚfrʌnt",
         "ukphone": "'wɔːtəfrʌnt"
@@ -3338,7 +3402,7 @@
     {
         "name": "kiosk",
         "trans": [
-            "凉亭"
+            "n. small area set off by walls for special use"
         ],
         "usphone": "'kiɑsk",
         "ukphone": "'kiːɒsk"
@@ -3346,13 +3410,13 @@
     {
         "name": "dormer window",
         "trans": [
-            "老虎窗"
+            "n. the window in a gabled extension built to accommodate a window"
         ]
     },
     {
         "name": "elevated",
         "trans": [
-            "抬高的"
+            "adj. raised above the ground"
         ],
         "usphone": "'ɛlɪvetɪd",
         "ukphone": "'eliveitid"
@@ -3360,13 +3424,14 @@
     {
         "name": "belvedere",
         "trans": [
-            "观景台"
+            "n. densely branched Eurasian plant; foliage turns purple-red in autumn"
         ]
     },
     {
         "name": "ruin",
         "trans": [
-            "遗迹"
+            "n. an irrecoverable state of devastation and destruction; a ruined building",
+            "v. destroy completely; damage irreparably"
         ],
         "usphone": "'ruɪn",
         "ukphone": "'ruːɪn"
@@ -3392,13 +3457,13 @@
     {
         "name": "handrail",
         "trans": [
-            "扶手/栏杆"
+            "n. a railing at the side of a staircase or balcony to prevent people from falling"
         ]
     },
     {
         "name": "railing",
         "trans": [
-            "扶手/栏杆"
+            "n. a barrier consisting of a horizontal bar and supports"
         ]
     },
     {
@@ -3410,7 +3475,7 @@
     {
         "name": "pagoda",
         "trans": [
-            "宝塔"
+            "n. an Asian temple; usually a pyramidal tower with an upward curving roof"
         ],
         "usphone": "pə'ɡodə",
         "ukphone": "pə'gəʊdə"
@@ -3418,7 +3483,7 @@
     {
         "name": "metaphor",
         "trans": [
-            "暗喻"
+            "n. a figure of speech in which an expression is used to refer to something that it does not literally denote in order to suggest a similarity"
         ],
         "usphone": "'mɛtəfɚ",
         "ukphone": "'metəfər"
@@ -3426,7 +3491,7 @@
     {
         "name": "cottage",
         "trans": [
-            "小别墅"
+            "n. a small house with a single story"
         ],
         "usphone": "'kɑtɪdʒ",
         "ukphone": "'kɒtɪdʒ"
@@ -3434,7 +3499,7 @@
     {
         "name": "intimacy",
         "trans": [
-            "隐私"
+            "n. close or warm friendship"
         ],
         "usphone": "'ɪntɪməsi",
         "ukphone": "'ɪntɪməsɪ"
@@ -3442,7 +3507,7 @@
     {
         "name": "permeable",
         "trans": [
-            "有渗透性的"
+            "adj. allowing fluids or gases to pass or diffuse through"
         ],
         "usphone": "'pɝmɪəbl",
         "ukphone": "'pɜːmɪəb(ə)l"
@@ -3450,7 +3515,7 @@
     {
         "name": "explicit",
         "trans": [
-            "明确的"
+            "adj. precisely and clearly expressed or readily observable; leaving nothing to implication"
         ],
         "usphone": "ɪk'splɪsɪt",
         "ukphone": "ɪk'splɪsɪt"
@@ -3458,7 +3523,7 @@
     {
         "name": "realm",
         "trans": [
-            "领域"
+            "n. a domain in which something is dominant"
         ],
         "usphone": "rɛlm",
         "ukphone": "relm"
@@ -3466,7 +3531,7 @@
     {
         "name": "adjacent",
         "trans": [
-            "邻近的"
+            "adj. nearest in space or position; immediately adjoining without intervening space; having a common boundary or edge; abutting; touching"
         ],
         "usphone": "ə'dʒesnt",
         "ukphone": "ə'dʒeɪsnt"
@@ -3474,7 +3539,7 @@
     {
         "name": "sidewalk",
         "trans": [
-            "人行道"
+            "n. walk consisting of a paved area for pedestrians; usually beside a street or roadway"
         ],
         "usphone": "'saɪdwɔk",
         "ukphone": "'saɪdwɔːk"
@@ -3482,7 +3547,7 @@
     {
         "name": "awning",
         "trans": [
-            "遮阳棚"
+            "n. a canopy made of canvas to shelter people or things from rain or sun"
         ],
         "usphone": "'ɔnɪŋ",
         "ukphone": "'ɔːnɪŋ"
@@ -3490,7 +3555,8 @@
     {
         "name": "trellis",
         "trans": [
-            "植物棚架"
+            "n. latticework used to support climbing plants",
+            "v. train on a trellis, as of a vine"
         ]
     },
     {
@@ -3502,7 +3568,7 @@
     {
         "name": "client",
         "trans": [
-            "客户"
+            "n. a person who seeks the advice of a lawyer; someone who pays for goods or services"
         ],
         "usphone": "'klaɪənt",
         "ukphone": "'klaɪənt"
@@ -3510,7 +3576,8 @@
     {
         "name": "mortar",
         "trans": [
-            "灰浆"
+            "n. a muzzle-loading high-angle gun with a short barrel that fires shells at high elevations for a short range; used as a bond in masonry or for covering a wall",
+            "v. plaster with mortar"
         ],
         "usphone": "'mɔrtɚ",
         "ukphone": "'mɔːtə"
@@ -3530,7 +3597,8 @@
     {
         "name": "pedestrian",
         "trans": [
-            "行人"
+            "n. a person who travels by foot",
+            "adj. lacking wit or imagination"
         ],
         "usphone": "pə'dɛstrɪən",
         "ukphone": "pə'destriən"
@@ -3538,7 +3606,7 @@
     {
         "name": "kiosk",
         "trans": [
-            "公用电话亭"
+            "n. small area set off by walls for special use"
         ],
         "usphone": "'kiɑsk",
         "ukphone": "'kiːɒsk"
@@ -3546,7 +3614,7 @@
     {
         "name": "linger",
         "trans": [
-            "徘徊"
+            "v. remain present although waning or gradually dying; be about"
         ],
         "usphone": "'lɪŋɡɚ",
         "ukphone": "'lɪŋgər"
@@ -3554,7 +3622,7 @@
     {
         "name": "permeable",
         "trans": [
-            "有渗透性"
+            "adj. allowing fluids or gases to pass or diffuse through"
         ],
         "usphone": "'pɝmɪəbl",
         "ukphone": "'pɜːmɪəb(ə)l"
@@ -3562,19 +3630,20 @@
     {
         "name": "retrofit",
         "trans": [
-            "翻新"
+            "n. a component or accessory added to something after it has been manufactured",
+            "v. provide with parts, devices, or equipment not available or in use at the time of the original manufacture"
         ]
     },
     {
         "name": "townhouse",
         "trans": [
-            "联排住宅"
+            "A building devoted to the public used of a town; a townhall"
         ]
     },
     {
         "name": "context",
         "trans": [
-            "文脉"
+            "n. discourse that surrounds a language unit and helps to determine its interpretation; the set of facts or circumstances that surround a situation or event"
         ],
         "usphone": "'kɑntɛkst",
         "ukphone": "'kɑːntekst"
@@ -3582,7 +3651,7 @@
     {
         "name": "permeable",
         "trans": [
-            "渗透的"
+            "adj. allowing fluids or gases to pass or diffuse through"
         ],
         "usphone": "'pɝmɪəbl",
         "ukphone": "'pɜːmɪəb(ə)l"
@@ -3596,7 +3665,9 @@
     {
         "name": "blind",
         "trans": [
-            "百叶窗"
+            "adj. unable to see; unable or unwilling to perceive or understand",
+            "n. people who have severe visual impairments, considered as a group; a hiding place sometimes used by hunters (especially duck hunters)",
+            "v. render unable to see; make blind by putting the eyes out"
         ],
         "usphone": "blaɪnd",
         "ukphone": "blaɪnd"
@@ -3604,7 +3675,7 @@
     {
         "name": "visibility",
         "trans": [
-            "可见性"
+            "n. quality or fact or degree of being visible; perceptible by the eye or obvious to the eye"
         ],
         "usphone": "'vɪzə'bɪləti",
         "ukphone": "vɪzɪ'bɪlɪtɪ"
@@ -3642,7 +3713,7 @@
     {
         "name": "geometry",
         "trans": [
-            "几何学"
+            "n. the pure mathematics of points and lines and curves and surfaces"
         ],
         "usphone": "dʒɪ'ɑmətri",
         "ukphone": "dʒi'ɑːmətri"
@@ -3650,7 +3721,7 @@
     {
         "name": "dimension",
         "trans": [
-            "维度"
+            "n. the magnitude of something in a particular direction (especially length or width or height); a construct whereby objects or individuals can be distinguished"
         ],
         "usphone": "dəˈmɛnʃən, daɪ-",
         "ukphone": "dɪ'menʃn"
@@ -3658,7 +3729,8 @@
     {
         "name": "pedestrian",
         "trans": [
-            "行人"
+            "n. a person who travels by foot",
+            "adj. lacking wit or imagination"
         ],
         "usphone": "pə'dɛstrɪən",
         "ukphone": "pə'destriən"
@@ -3666,7 +3738,7 @@
     {
         "name": "curd",
         "trans": [
-            "路边石"
+            "n. a coagulated liquid resembling milk curd"
         ],
         "usphone": "kɝd",
         "ukphone": "kɜːd"
@@ -3680,7 +3752,8 @@
     {
         "name": "block",
         "trans": [
-            "街区"
+            "n. a solid piece of something (usually having flat rectangular sides); a rectangular area in a city surrounded by streets and usually containing several buildings",
+            "v. render unsuitable for passage; hinder or prevent the progress or accomplishment of"
         ],
         "usphone": "blɑk",
         "ukphone": "blɑːk"
@@ -3700,7 +3773,7 @@
     {
         "name": "cul-de-sacs",
         "trans": [
-            "尽端路"
+            "n. a passage with access only at one end"
         ]
     },
     {
@@ -3712,13 +3785,13 @@
     {
         "name": "feet",
         "trans": [
-            "英尺"
+            "n. the part of the leg of a human being below the ankle joint; a linear unit of length equal to 12 inches or a third of a yard"
         ]
     },
     {
         "name": "intersection",
         "trans": [
-            "交叉口"
+            "n. a point where lines intersect; a junction where one street or road crosses another"
         ],
         "usphone": ",ɪntɚ'sɛkʃən",
         "ukphone": "ˌɪntər'sekʃn"
@@ -3726,7 +3799,7 @@
     {
         "name": "roundabout",
         "trans": [
-            "环岛"
+            "adj. marked by obliqueness or indirection in speech or conduct; deviating from a straight course"
         ],
         "usphone": "'raʊndəbaʊt",
         "ukphone": "'raʊndəbaʊt"
@@ -3734,13 +3807,14 @@
     {
         "name": "crosswalk",
         "trans": [
-            "人行横道"
+            "n. a path (often marked) where something (as a street or railroad) can be crossed to get from one side to the other"
         ]
     },
     {
         "name": "inch",
         "trans": [
-            "英寸"
+            "n. a unit of length equal to one twelfth of a foot; a unit of measurement for advertising space",
+            "v. advance slowly, as if by inches"
         ],
         "usphone": "ɪntʃ",
         "ukphone": "ɪn(t)ʃ"
@@ -3748,7 +3822,7 @@
     {
         "name": "pavement",
         "trans": [
-            "铺装"
+            "n. the paved surface of a thoroughfare; material used to pave an area"
         ],
         "usphone": "'pevmənt",
         "ukphone": "'peɪvm(ə)nt"
@@ -3774,7 +3848,7 @@
     {
         "name": "vehicle",
         "trans": [
-            "车辆"
+            "n. a conveyance that transports people or objects; a medium for the expression or achievement of something"
         ],
         "usphone": "ˈviəkəl",
         "ukphone": "'viːəkl"
@@ -3782,7 +3856,8 @@
     {
         "name": "buffer",
         "trans": [
-            "缓冲"
+            "n. (chemistry) an ionic compound that resists changes in its pH",
+            "v. add a buffer (a solution)"
         ],
         "usphone": "'bʌfɚ",
         "ukphone": "'bʌfə"
@@ -3790,13 +3865,14 @@
     {
         "name": "loading",
         "trans": [
-            "卸货"
+            "n. weight to be borne or conveyed; a quantity that can be processed or transported at one time"
         ]
     },
     {
         "name": "steep",
         "trans": [
-            "陡峭的"
+            "adj. having a sharp inclination",
+            "v. devote (oneself) fully to"
         ],
         "usphone": "stip",
         "ukphone": "stiːp"
@@ -3804,7 +3880,7 @@
     {
         "name": "topography",
         "trans": [
-            "地形"
+            "n. the configuration of a surface and the relations among its man-made and natural features"
         ],
         "usphone": "tə'pɑgrəfi",
         "ukphone": "tə'pɑːgrəfi"
@@ -3824,7 +3900,7 @@
     {
         "name": "ramp",
         "trans": [
-            "斜坡"
+            "n. an inclined surface connecting two levels"
         ],
         "usphone": "ræmp",
         "ukphone": "ræmp"
@@ -3838,7 +3914,7 @@
     {
         "name": "porch",
         "trans": [
-            "门廊"
+            "n. a structure attached to the exterior of a building often forming a covered entrance"
         ],
         "usphone": "pɔrtʃ",
         "ukphone": "pɔːtʃ"
@@ -3852,7 +3928,7 @@
     {
         "name": "node",
         "trans": [
-            "节点"
+            "n. a connecting point at which several lines come together"
         ],
         "usphone": "nod",
         "ukphone": "nəʊd"
@@ -3860,13 +3936,14 @@
     {
         "name": "stairwell",
         "trans": [
-            "楼梯间"
+            "n. a vertical well around which there is a stairway"
         ]
     },
     {
         "name": "code",
         "trans": [
-            "代码"
+            "n. a set of rules or principles or laws (especially written ones); a coding system used for transmitting messages requiring brevity or secrecy",
+            "v. attach a code to"
         ],
         "usphone": "kod",
         "ukphone": "koud"
@@ -3874,7 +3951,7 @@
     {
         "name": "adjacent",
         "trans": [
-            "邻近的"
+            "adj. nearest in space or position; immediately adjoining without intervening space; having a common boundary or edge; abutting; touching"
         ],
         "usphone": "ə'dʒesnt",
         "ukphone": "ə'dʒeɪsnt"
@@ -3918,7 +3995,7 @@
     {
         "name": "demolition",
         "trans": [
-            "拆除"
+            "n. an event (or the result of an event) that completely destroys something"
         ],
         "usphone": ",dɛmə'lɪʃən; ,dimə'lɪʃən",
         "ukphone": "demə'lɪʃn"
@@ -3932,7 +4009,7 @@
     {
         "name": "recreation",
         "trans": [
-            "娱乐"
+            "n. an activity that diverts or amuses or stimulates"
         ],
         "usphone": ",rɛkrɪ'eʃən",
         "ukphone": "ˌrekri'eɪʃn"
@@ -3940,7 +4017,7 @@
     {
         "name": "daylight",
         "trans": [
-            "日光"
+            "n. the time after sunrise and before sunset while it is light outside; light during the daytime"
         ],
         "usphone": "'delaɪt",
         "ukphone": "'deɪlaɪt"
@@ -3972,7 +4049,7 @@
     {
         "name": "recycling",
         "trans": [
-            "回收"
+            "n. the act of processing used or abandoned materials for use in creating new products"
         ],
         "usphone": ",ri'saɪklɪŋ",
         "ukphone": "riː'saɪklɪŋ"
@@ -3986,7 +4063,7 @@
     {
         "name": "restoration",
         "trans": [
-            "修复"
+            "n. the reign of Charles II in England; 1660-1685; the act of restoring something or someone to a satisfactory state"
         ],
         "usphone": "'rɛstə'reʃən",
         "ukphone": "ˌrestə'reɪʃn"
@@ -4000,7 +4077,8 @@
     {
         "name": "intimate",
         "trans": [
-            "私密性"
+            "adj. marked by close acquaintance, association, or familiarity; having or fostering a warm or friendly and informal atmosphere",
+            "v. give to understand; imply as a possibility"
         ],
         "usphone": "ˈɪntəmɪt",
         "ukphone": "'ɪntɪmət"
@@ -4014,7 +4092,7 @@
     {
         "name": "interstate",
         "trans": [
-            "州际的"
+            "adj. involving and relating to the mutual relations of states especially of the United States"
         ],
         "usphone": "'ɪntɚstet",
         "ukphone": "'ɪntərsteɪt"
@@ -4028,7 +4106,7 @@
     {
         "name": "air well",
         "trans": [
-            "通风井"
+            "n. a shaft for ventilation"
         ]
     },
     {
@@ -4040,7 +4118,7 @@
     {
         "name": "right-of-way",
         "trans": [
-            "路权"
+            "n. the privilege of someone to pass over land belonging to someone else"
         ]
     },
     {
@@ -4052,7 +4130,7 @@
     {
         "name": "insulation",
         "trans": [
-            "保温"
+            "n. the state of being isolated or detached"
         ],
         "usphone": ",ɪnsə'leʃən",
         "ukphone": "ɪnsjʊ'leɪʃ(ə)n"
@@ -4078,13 +4156,13 @@
     {
         "name": "regionalism",
         "trans": [
-            "地区主义"
+            "n. a feature (as a pronunciation or expression or custom) that is characteristic of a particular region"
         ]
     },
     {
         "name": "mild",
         "trans": [
-            "温和的"
+            "adj. moderate in type or degree or effect or force; far from extreme"
         ],
         "usphone": "maɪld",
         "ukphone": "maɪld"
@@ -4092,7 +4170,7 @@
     {
         "name": "massive",
         "trans": [
-            "厚重的"
+            "adj. imposing in size or bulk or solidity"
         ],
         "usphone": "'mæsɪv",
         "ukphone": "'mæsɪv"
@@ -4106,13 +4184,14 @@
     {
         "name": "solar radiation",
         "trans": [
-            "太阳辐射"
+            "n. radiation from the sun"
         ]
     },
     {
         "name": "diffuse",
         "trans": [
-            "弥漫的"
+            "v. move outward; spread or diffuse through",
+            "adj. spread out; not concentrated in one place"
         ],
         "usphone": "dɪ'fjus",
         "ukphone": "dɪ'fjuːz"
@@ -4120,7 +4199,8 @@
     {
         "name": "flat",
         "trans": [
-            "公寓"
+            "adj. having a surface without slope, tilt in which no part is higher or lower than another; having a relatively broad surface in relation to depth or thickness",
+            "n. a level tract of land; a shallow box in which seedlings are started"
         ],
         "usphone": "flæt",
         "ukphone": "flæt"
@@ -4128,13 +4208,13 @@
     {
         "name": "clustered",
         "trans": [
-            "组团的"
+            "adj. growing close together but not in dense mats"
         ]
     },
     {
         "name": "humid",
         "trans": [
-            "潮湿的"
+            "adj. containing or characterized by a great deal of water vapor"
         ],
         "usphone": "'hjumɪd",
         "ukphone": "'hjuːmɪd"
@@ -4154,7 +4234,7 @@
     {
         "name": "ventilation",
         "trans": [
-            "通风"
+            "n. the act of supplying fresh air and getting rid of foul air; a mechanical system in a building that provides fresh air"
         ],
         "usphone": ",vɛntl'eʃən",
         "ukphone": "ˌventɪ'leɪʃn"
@@ -4168,7 +4248,7 @@
     {
         "name": "overhang",
         "trans": [
-            "悬挑"
+            "n. projection that extends beyond or hangs over something else"
         ],
         "usphone": ",ovɚ'hæŋ",
         "ukphone": "əʊvə'hæŋ"
@@ -4176,7 +4256,7 @@
     {
         "name": "shutter",
         "trans": [
-            "百叶窗"
+            "n. a mechanical device on a camera that opens and closes to control the time of a photographic exposure; a hinged blind for a window"
         ],
         "usphone": "'ʃʌtɚ",
         "ukphone": "'ʃʌtə"
@@ -4184,7 +4264,7 @@
     {
         "name": "ceiling",
         "trans": [
-            "天花板"
+            "n. the overhead upper surface of a covered space; (meteorology) altitude of the lowest layer of clouds"
         ],
         "usphone": "'silɪŋ",
         "ukphone": "'siːlɪŋ"
@@ -4204,7 +4284,7 @@
     {
         "name": "bay window",
         "trans": [
-            "飘窗"
+            "n. slang for a paunch"
         ]
     },
     {
@@ -4222,13 +4302,13 @@
     {
         "name": "greenhouse effect",
         "trans": [
-            "温室效应"
+            "n. warming that results when solar radiation is trapped by the atmosphere…"
         ]
     },
     {
         "name": "villa",
         "trans": [
-            "别墅"
+            "n. Mexican revolutionary leader (1877-1923)"
         ],
         "usphone": "'vɪlə",
         "ukphone": "'vɪlə"
@@ -4236,7 +4316,7 @@
     {
         "name": "conservatory",
         "trans": [
-            "温室暖房"
+            "n. the faculty and students of a school specializing in one of the fine arts"
         ],
         "usphone": "kən'sɝvətɔri",
         "ukphone": "kən'sɜːvət(ə)rɪ"
@@ -4244,7 +4324,7 @@
     {
         "name": "glazing",
         "trans": [
-            "玻璃"
+            "v. coat with a glaze; become glassy or take on a glass-like appearance"
         ]
     },
     {
@@ -4262,7 +4342,7 @@
     {
         "name": "cavity wall",
         "trans": [
-            "空心墙"
+            "n. a wall formed of two thicknesses of masonry with a space between them"
         ]
     },
     {
@@ -4286,13 +4366,13 @@
     {
         "name": "latent heat",
         "trans": [
-            "潜热"
+            "n. heat absorbed or radiated during a change of phase at a constant temperature and pressure"
         ]
     },
     {
         "name": "convection",
         "trans": [
-            "对流"
+            "n. the transfer of heat through a fluid (liquid or gas) caused by molecular motion"
         ],
         "usphone": "kən'vɛkʃən",
         "ukphone": "kən'vekʃn"
@@ -4312,7 +4392,7 @@
     {
         "name": "coating",
         "trans": [
-            "涂层"
+            "n. a thin layer covering something"
         ],
         "usphone": "'kotɪŋ",
         "ukphone": "'kəʊtɪŋ"
@@ -4326,7 +4406,7 @@
     {
         "name": "awning",
         "trans": [
-            "遮阳棚"
+            "n. a canopy made of canvas to shelter people or things from rain or sun"
         ],
         "usphone": "'ɔnɪŋ",
         "ukphone": "'ɔːnɪŋ"

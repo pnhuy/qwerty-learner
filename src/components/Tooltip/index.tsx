@@ -28,9 +28,9 @@ const Tooltip = ({ children, content, className, placement = 'top' }: TooltipPro
 
 export type TooltipProps = {
   children: ReactNode
-  /** 显示文本 */
+  /** Text to display */
   content: string
-  /** 位置 */
+  /** Placement */
   placement?: 'top' | 'bottom'
   className?: string
 }

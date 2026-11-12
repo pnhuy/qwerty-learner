@@ -2,63 +2,63 @@
     {
         "name": "accommodation",
         "trans": [
-            "n. 住宿"
+            "n. making or becoming suitable; adjusting to circumstances"
         ]
     },
     {
         "name": "rent",
         "trans": [
-            "n. 租金",
-            "v. 出租；租用"
+            "n. a payment or series of payments made by the lessee to an owner for use of some property, facility, equipment, or service",
+            "v. let for money; grant use or occupation of under a term of contract"
         ]
     },
     {
         "name": "let",
         "trans": [
-            "v. 出租",
-            "n. 租赁"
+            "v. make it possible through a specific action or lack of action for something to happen; actively cause something to happen",
+            "n. a brutal terrorist group active in Kashmir; fights against India with the goal of restoring Islamic rule of India"
         ]
     },
     {
         "name": "hire",
         "trans": [
-            "v. 租用；聘用"
+            "v. engage or hire for work; hold under a lease or rental agreement; of goods and services"
         ]
     },
     {
         "name": "apartment",
         "trans": [
-            "n. 公寓"
+            "n. a suite of rooms usually on one floor of an apartment house"
         ]
     },
     {
         "name": "flat",
         "trans": [
-            "n. 公寓"
+            "n. a level tract of land; a shallow box in which seedlings are started"
         ]
     },
     {
         "name": "house",
         "trans": [
-            "n. 住宅"
+            "n. a dwelling that serves as living quarters for one or more families; the members of a business organization that owns or operates one or more establishments"
         ]
     },
     {
         "name": "bungalow",
         "trans": [
-            "n. 平房"
+            "n. a small house with a single story"
         ]
     },
     {
         "name": "terraced house",
         "trans": [
-            "n. 连栋房屋"
+            "n. a house that is part of a terrace"
         ]
     },
     {
         "name": "homestay",
         "trans": [
-            "n. 寄宿家庭"
+            "n. a stay with a local family while studying or travelling abroad"
         ]
     },
     {
@@ -70,13 +70,13 @@
     {
         "name": "dormitory",
         "trans": [
-            "n. 宿舍"
+            "n. a college or university building containing living quarters for students"
         ]
     },
     {
         "name": "hall of residence",
         "trans": [
-            "n. 学校公寓"
+            "n. a university dormitory"
         ]
     },
     {
@@ -88,83 +88,83 @@
     {
         "name": "city centre",
         "trans": [
-            "n. 市中心"
+            "n. the central part of a city"
         ]
     },
     {
         "name": "downtown",
         "trans": [
-            "adj. 市中心（的）",
-            "adv. 往市中心；在市中心",
-            "n. 市中心"
+            "adj. of or located in the lower part of a town, or in the business center",
+            "adv. toward or in the lower or central part of town",
+            "n. the central area or commercial center of a town or city"
         ]
     },
     {
         "name": "urban",
         "trans": [
-            "adj. 城市的"
+            "adj. relating to or concerned with a city or densely populated area; located in or characteristic of a city or city life"
         ]
     },
     {
         "name": "outskirts",
         "trans": [
-            "n. 市郊"
+            "n. outlying areas (as of a city or town)"
         ]
     },
     {
         "name": "uptown",
         "trans": [
-            "adj. 市郊住宅区（的）",
-            "adv. 在市郊住宅区",
-            "n. 市郊住宅区"
+            "adj. of or located in the upper part of a town",
+            "adv. toward or in the upper part of town",
+            "n. a residential part of town away from the central commercial district"
         ]
     },
     {
         "name": "suburb",
         "trans": [
-            "n. 郊区"
+            "n. a residential district located on the outskirts of a city"
         ]
     },
     {
         "name": "countryside",
         "trans": [
-            "n. 农村，乡下"
+            "n. rural regions"
         ]
     },
     {
         "name": "community",
         "trans": [
-            "n. 社区"
+            "n. a group of people living in a particular local area; common ownership"
         ]
     },
     {
         "name": "neighbourhood",
         "trans": [
-            "n. 邻里；周围"
+            "n. a surrounding or nearby region"
         ]
     },
     {
         "name": "surrounding",
         "trans": [
-            "adj. 周围的，附近的"
+            "adj. closely encircling"
         ]
     },
     {
         "name": "dining room",
         "trans": [
-            "n. 餐厅"
+            "n. a room used for dining"
         ]
     },
     {
         "name": "living room",
         "trans": [
-            "n. 客厅"
+            "n. a room in a private house or establishment where people can sit and talk and relax"
         ]
     },
     {
         "name": "study",
         "trans": [
-            "n. 书房；研究，课题"
+            "n. a detailed critical inspection; applying the mind to learning and understanding a subject (especially by reading)"
         ]
     },
     {
@@ -176,7 +176,7 @@
     {
         "name": "cloakroom",
         "trans": [
-            "n. 衣帽寄放处；行李寄存处"
+            "n. a private lounge off of a legislative chamber"
         ]
     },
     {
@@ -194,31 +194,31 @@
     {
         "name": "separate",
         "trans": [
-            "adj. 分开的；单独的"
+            "adj. independent; not united or joint; standing apart; not attached to or supported by anything"
         ]
     },
     {
         "name": "foyer",
         "trans": [
-            "n. 休息室；大厅"
+            "n. a large entrance or reception room or area"
         ]
     },
     {
         "name": "garage",
         "trans": [
-            "n. 车库"
+            "n. an outbuilding (or part of a building) for housing automobiles"
         ]
     },
     {
         "name": "yard",
         "trans": [
-            "n. 院子"
+            "n. a unit of length equal to 3 feet; defined as 91.44 centimeters; originally taken to be the average length of a stride"
         ]
     },
     {
         "name": "garden",
         "trans": [
-            "n. 花园"
+            "n. a plot of ground where plants are cultivated; the flowers or vegetables or fruits or herbs that are cultivated in a garden"
         ]
     },
     {
@@ -230,7 +230,7 @@
     {
         "name": "advisor",
         "trans": [
-            "n. 顾问"
+            "n. an expert who gives advice"
         ]
     },
     {
@@ -248,25 +248,25 @@
     {
         "name": "estate agent",
         "trans": [
-            "n. 房地产经纪人"
+            "n. a person who is authorized to act as an agent for the sale of land"
         ]
     },
     {
         "name": "landlord",
         "trans": [
-            "n. 房东"
+            "n. a landowner who leases to others"
         ]
     },
     {
         "name": "landlady",
         "trans": [
-            "n. 女房东"
+            "n. a landlord who is a woman"
         ]
     },
     {
         "name": "tenant",
         "trans": [
-            "n. 承租人；房客"
+            "n. someone who pays rent to use land or a building or a car that is owned by someone else"
         ]
     }
 ]

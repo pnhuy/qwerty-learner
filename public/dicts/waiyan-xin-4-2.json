@@ -2,13 +2,13 @@
     {
         "name": "nice",
         "trans": [
-            "adv.友好的，亲切的，讨人喜欢的"
+            "adj. pleasant or pleasing or agreeable in nature or appearance; socially or conventionally correct; refined or virtuous"
         ]
     },
     {
         "name": "clever",
         "trans": [
-            "adv.聪明的"
+            "adj. showing self-interest and shrewdness in dealing with others; mentally quick and resourceful"
         ]
     },
     {
@@ -20,133 +20,138 @@
     {
         "name": "a bit",
         "trans": [
-            "adv.稍微，有点"
+            "adv. to a small degree; somewhat"
         ]
     },
     {
         "name": "shy",
         "trans": [
-            "adv.害羞的"
+            "v. start suddenly, as from fright"
         ]
     },
     {
         "name": "answer",
         "trans": [
-            "adv.接（电话）"
+            "v. react verbally; respond to a signal",
+            "n. a statement (either spoken or written) that is made to reply to a question or request or criticism or accusation"
         ]
     },
     {
         "name": "call",
         "trans": [
-            "adv.电话；（给......)打电话"
+            "v. assign a specified (usually proper) proper name to; ascribe a quality to or give a name of a common noun that reflects a quality",
+            "n. a telephone connection; a special disposition (as if from a divine source) to pursue a particular course"
         ]
     },
     {
         "name": "bad",
         "trans": [
-            "adv.不好的，坏的"
+            "adv. with great intensity ('bad' is a nonstandard variant for 'badly'); very much; strongly"
         ]
     },
     {
         "name": "cool",
         "trans": [
-            "adv.酷的"
+            "adj. neither warm nor very cold; giving relief from heat; marked by calm self-control (especially in trying circumstances); unemotional",
+            "v. make cool or cooler; loose heat"
         ]
     },
     {
         "name": "aunt",
         "trans": [
-            "adv.姨母；姑母；舅母；伯母；婶母"
+            "n. the sister of your father or mother; the wife of your uncle"
         ]
     },
     {
         "name": "uncle",
         "trans": [
-            "adv.伯父；叔父；舅父；姑父；姨父"
+            "n. the brother of your father or mother; the husband of your aunt; a source of help and advice and encouragement"
         ]
     },
     {
         "name": "big",
         "trans": [
-            "adv.年龄较大的"
+            "adv. extremely well; in a boastful manner"
         ]
     },
     {
         "name": "little",
         "trans": [
-            "adv.幼小的，年幼的"
+            "adv. not much"
         ]
     },
     {
         "name": "cute",
         "trans": [
-            "adv.可爱的"
+            "adj. attractive especially by means of smallness or prettiness or quaintness; obviously contrived to charm"
         ]
     },
     {
         "name": "city",
         "trans": [
-            "adv.城市"
+            "n. a large and densely populated urban area; may include several independent administrative districts"
         ]
     },
     {
         "name": "ship",
         "trans": [
-            "adv.船"
+            "n. a vessel that carries passengers or freight",
+            "v. transport commercially"
         ]
     },
     {
         "name": "beautiful",
         "trans": [
-            "adv.美丽的，"
+            "adj. delighting the senses or exciting intellectual or emotional admiration"
         ]
     },
     {
         "name": "whose",
         "trans": [
-            "adv.谁的"
+            "det. / pron. belonging to which person; of whom or of which"
         ]
     },
     {
         "name": "queen",
         "trans": [
-            "adv.女王"
+            "n. the only fertile female in a colony of social insects such as bees and ants and termites; its function is to lay eggs; a female sovereign ruler"
         ]
     },
     {
         "name": "close",
         "trans": [
-            "adv.近的，接近的"
+            "adv. near in time or place or relationship; in an attentive manner"
         ]
     },
     {
         "name": "old",
         "trans": [
-            "adv.年代久的，古老的"
+            "adj. (used especially of persons) having lived for a relatively long time or attained a specific age; of long duration; not new"
         ]
     },
     {
         "name": "famous",
         "trans": [
-            "adv.著名的"
+            "adj. widely known and esteemed"
         ]
     },
     {
         "name": "robot",
         "trans": [
-            "adv.机器人"
+            "n. a mechanism that can move automatically"
         ]
     },
     {
         "name": "will",
         "trans": [
-            "adv.将，将会"
+            "aux. expressing the future tense or willingness",
+            "n. the faculty of deciding and choosing; a legal document disposing of property after death"
         ]
     },
     {
         "name": "everything",
         "trans": [
-            "adv.所有事情"
+            "pron. all things; all that is important"
         ]
     },
     {
@@ -158,25 +163,25 @@
     {
         "name": "housework",
         "trans": [
-            "adv.家务活"
+            "n. the work of cleaning and running a house"
         ]
     },
     {
         "name": "learn",
         "trans": [
-            "adv.学习"
+            "v. gain knowledge or skills; get to know or become aware of, usually accidentally"
         ]
     },
     {
         "name": "our",
         "trans": [
-            "adv.我们的"
+            "det. belonging to or associated with the speaker and one or more others"
         ]
     },
     {
         "name": "homework",
         "trans": [
-            "adv.家庭作业"
+            "n. preparatory school work done outside school (especially at home)"
         ]
     },
     {
@@ -188,79 +193,81 @@
     {
         "name": "Tuesday",
         "trans": [
-            "adv.星期二"
+            "n. the third day of the week; the second working day"
         ]
     },
     {
         "name": "Wednesday",
         "trans": [
-            "adv.星期三"
+            "n. the fourth day of the week; the third working day"
         ]
     },
     {
         "name": "Thursday",
         "trans": [
-            "adv.星期四"
+            "n. the fifth day of the week; the fourth working day"
         ]
     },
     {
         "name": "Friday",
         "trans": [
-            "adv.星期五"
+            "n. the sixth day of the week; the fifth working day"
         ]
     },
     {
         "name": "have",
         "trans": [
-            "adv.有，拥有"
+            "v. have or possess, either in a concrete or an abstract sense; have as a feature"
         ]
     },
     {
         "name": "next",
         "trans": [
-            "adv.下一个的"
+            "adv. at the time or occasion immediately following"
         ]
     },
     {
         "name": "week",
         "trans": [
-            "adv.星期，周"
+            "n. any period of seven consecutive days; hours or days of work in a calendar week"
         ]
     },
     {
         "name": "holiday",
         "trans": [
-            "adv.假期"
+            "n. leisure time away from work devoted to rest or pleasure; a day on which work is suspended by law or custom"
         ]
     },
     {
         "name": "take",
         "trans": [
-            "adv.带，拿"
+            "v. carry out; require (time or space)"
         ]
     },
     {
         "name": "fly",
         "trans": [
-            "adv.飞"
+            "v. travel through the air; be airborne; move quickly or suddenly",
+            "n. two-winged insects characterized by active flight; flap consisting of a piece of canvas that can be drawn back to provide entrance to a tent"
         ]
     },
     {
         "name": "picnic",
         "trans": [
-            "adv.野餐"
+            "n. a day devoted to an outdoor social gathering; any undertaking that is easy to do",
+            "v. eat alfresco, in the open air"
         ]
     },
     {
         "name": "great",
         "trans": [
-            "adv.太好了好极了"
+            "adj. relatively large in size or number or extent; larger than others of its kind; of major significance or importance"
         ]
     },
     {
         "name": "why",
         "trans": [
-            "adv.为什么"
+            "adv. for what reason or purpose"
         ]
     },
     {
@@ -272,79 +279,83 @@
     {
         "name": "because",
         "trans": [
-            "adv.因为"
+            "conj. for the reason that; since"
         ]
     },
     {
         "name": "so",
         "trans": [
-            "adv.所以"
+            "adv. to such a great extent; very",
+            "conj. and for this reason; therefore"
         ]
     },
     {
         "name": "cloudy",
         "trans": [
-            "adv.多云的"
+            "adj. lacking definite form or limits"
         ]
     },
     {
         "name": "weather",
         "trans": [
-            "adv.天气"
+            "n. the atmospheric conditions that comprise the state of the atmosphere in terms of temperature and wind and clouds and precipitation",
+            "adj. towards the side exposed to wind"
         ]
     },
     {
         "name": "was",
         "trans": [
-            "adv.（am,is的过去式）是"
+            "v. first and third person singular past of \"be\""
         ]
     },
     {
         "name": "then",
         "trans": [
-            "adv.当时，那是"
+            "adv. subsequently or soon afterward (often used as sentence connectors); in that case or as a consequence"
         ]
     },
     {
         "name": "grandparent",
         "trans": [
-            "adv.祖父；祖母，外祖父；外祖母"
+            "n. a parent of your father or mother"
         ]
     },
     {
         "name": "were",
         "trans": [
-            "adv.（are的过去式）是"
+            "v. past tense of \"be\" used with we, you, they"
         ]
     },
     {
         "name": "young",
         "trans": [
-            "adv.年轻的"
+            "adj. (used of living things especially persons) in an early period of life or development or growth",
+            "n. any immature animal"
         ]
     },
     {
         "name": "hair",
         "trans": [
-            "adv.头发"
+            "n. a covering for the body (or parts of it) consisting of a dense growth of threadlike structures (as on the human head); helps to prevent heat loss"
         ]
     },
     {
         "name": "so",
         "trans": [
-            "adv.这么，那么"
+            "adv. to such a great extent; very",
+            "conj. and for this reason; therefore"
         ]
     },
     {
         "name": "short",
         "trans": [
-            "adv.短的"
+            "adv. quickly and without warning"
         ]
     },
     {
         "name": "long",
         "trans": [
-            "adv.长的"
+            "adv. for an extended time or at a distant time"
         ]
     },
     {
@@ -362,85 +373,89 @@
     {
         "name": "clean",
         "trans": [
-            "adv.干净的"
+            "adv. completely; used as intensifiers"
         ]
     },
     {
         "name": "dirty",
         "trans": [
-            "adv.脏的"
+            "adj. soiled or likely to soil with dirt or grime; (of behavior or especially language) characterized by obscenity or indecency"
         ]
     },
     {
         "name": "yesterday",
         "trans": [
-            "adv.昨天"
+            "adv. on the day preceding today"
         ]
     },
     {
         "name": "out",
         "trans": [
-            "adv.不在家（的）；在外面（的)"
+            "adv. away from home"
         ]
     },
     {
         "name": "well",
         "trans": [
-            "adv.健康的"
+            "adv. (often used as a combining form) in a good or proper or satisfactory manner or to a high standard ('good' is a nonstandard dialectal variant for 'well')"
         ]
     },
     {
         "name": "thanks",
         "trans": [
-            "adv.谢谢"
+            "n. an acknowledgment of appreciation; with the help of or owing to"
         ]
     },
     {
         "name": "sun",
         "trans": [
-            "adv.太阳"
+            "n. the star that is the source of light and heat for the planets in the solar system; the rays of the sun",
+            "v. expose one's body to the sun"
         ]
     },
     {
         "name": "lesson",
         "trans": [
-            "adv.一节课，一堂课"
+            "n. a unit of instruction; punishment intended as a warning to others"
         ]
     },
     {
         "name": "village",
         "trans": [
-            "adv.乡村，村子"
+            "n. a community of people smaller than a town; a settlement smaller than a town"
         ]
     },
     {
         "name": "had",
         "trans": [
-            "adv.（have的过去式）度过"
+            "v. past tense and past participle of \"have\""
         ]
     },
     {
         "name": "phone",
         "trans": [
-            "adv.（给......）打电话"
+            "n. electronic equipment that converts sound into electrical signals that can be transmitted over distances and then converts received signals back into sounds",
+            "v. get or try to get into communication (with someone) by telephone"
         ]
     },
     {
         "name": "cook",
         "trans": [
-            "adv.烹调;煮;烧"
+            "v. prepare a hot meal; prepare for eating by applying heat",
+            "n. someone who cooks food"
         ]
     },
     {
         "name": "really",
         "trans": [
-            "adv.真的"
+            "adv. in accordance with truth or fact or reality; in actual fact"
         ]
     },
     {
         "name": "wash",
         "trans": [
-            "adv.洗"
+            "v. clean with some chemical process; cleanse (one's body) with soap and water",
+            "n. a thin coat of water-base paint; the work of cleansing (usually with soap and water)"
         ]
     },
     {
@@ -452,7 +467,7 @@
     {
         "name": "did",
         "trans": [
-            "adv.(do的过去式）助动词"
+            "v. past tense of \"do\""
         ]
     },
     {
@@ -464,217 +479,226 @@
     {
         "name": "computer",
         "trans": [
-            "adv.计算机，电脑"
+            "n. a machine for performing calculations automatically"
         ]
     },
     {
         "name": "love",
         "trans": [
-            "adv.爱，喜欢"
+            "v. have a great affection or liking for; get pleasure from",
+            "n. a strong positive emotion of regard and affection; any object of warm affection or devotion"
         ]
     },
     {
         "name": "him",
         "trans": [
-            "adv.（宾格）他"
+            "pron. a male person or animal, as the object of a verb or preposition"
         ]
     },
     {
         "name": "Mrs",
         "trans": [
-            "adv.太太，夫人"
+            "n. a form of address for a married woman"
         ]
     },
     {
         "name": "Miss",
         "trans": [
-            "adv.小姐"
+            "v. fail to perceive or to catch with the senses or the mind; feel or suffer from the lack of",
+            "n. a young woman; a failure to hit (or meet or find etc)"
         ]
     },
     {
         "name": "sang",
         "trans": [
-            "adv.（sing的过去式）唱歌"
+            "n. North American woodland herb similar to and used as substitute for the Chinese ginseng"
         ]
     },
     {
         "name": "beautifully",
         "trans": [
-            "adv.优美的，动听的"
+            "adv. in a beautiful manner"
         ]
     },
     {
         "name": "saw",
         "trans": [
-            "adv.（see的过去式）看见"
+            "v. cut with a saw"
         ]
     },
     {
         "name": "game",
         "trans": [
-            "adv.游戏，比赛"
+            "n. a contest with rules to determine a winner; a single play of a sport or other contest"
         ]
     },
     {
         "name": "last",
         "trans": [
-            "adv.最近过去的"
+            "adv. most_recently; the item at the end"
         ]
     },
     {
         "name": "fun",
         "trans": [
-            "adv.有趣的是"
+            "n. activities that are enjoyable or amusing; verbal wit or mockery (often at another's expense but not to be taken seriously)"
         ]
     },
     {
         "name": "went",
         "trans": [
-            "adv.（go的过去式）去"
+            "v. change location; move, travel, or proceed, also metaphorically; follow a procedure or take a course"
         ]
     },
     {
         "name": "there",
         "trans": [
-            "adv.在那儿，往那里"
+            "adv. in or at that place; in that matter"
         ]
     },
     {
         "name": "ate",
         "trans": [
-            "adv.（eat的过去式）吃"
+            "n. goddess of criminal rashness and its punishment"
         ]
     },
     {
         "name": "drank",
         "trans": [
-            "adv.（drink的过去式）喝，饮"
+            "v. take in liquids; consume alcohol"
         ]
     },
     {
         "name": "drink",
         "trans": [
-            "adv.饮料"
+            "v. take in liquids; consume alcohol",
+            "n. a single serving of a beverage; the act of drinking alcoholic beverages to excess"
         ]
     },
     {
         "name": "time",
         "trans": [
-            "adv.一段时间"
+            "n. an instance or single occasion for some event; a period of time considered as a resource under your control and sufficient to accomplish something",
+            "v. measure the time or duration of an event or action or the person who performs an action in a certain period of time; assign a time for an activity or event"
         ]
     },
     {
         "name": "have a good time",
         "trans": [
-            "adv.玩得开心"
+            "v. enjoy oneself greatly"
         ]
     },
     {
         "name": "busy",
         "trans": [
-            "adv.忙的，忙碌的"
+            "adj. actively or fully engaged or occupied; overcrowded or cluttered with detail",
+            "v. keep busy with"
         ]
     },
     {
         "name": "took",
         "trans": [
-            "adv.（take的过去式）拍摄"
+            "v. carry out; require (time or space)"
         ]
     },
     {
         "name": "tell",
         "trans": [
-            "adv.告诉，告知"
+            "v. express in words; let something be known"
         ]
     },
     {
         "name": "great",
         "trans": [
-            "adv.非常好，令人愉快的"
+            "adj. relatively large in size or number or extent; larger than others of its kind; of major significance or importance"
         ]
     },
     {
         "name": "delicious",
         "trans": [
-            "adv.美味的，可口的"
+            "adj. greatly pleasing or entertaining"
         ]
     },
     {
         "name": "made",
         "trans": [
-            "adv.（make的过去式）做，制作"
+            "adj. produced by a manufacturing process; (of a bed) having the sheets and blankets set in order"
         ]
     },
     {
         "name": "poster",
         "trans": [
-            "adv.海报，招贴画"
+            "n. a sign posted in a public place as an advertisement"
         ]
     },
     {
         "name": "welcome",
         "trans": [
-            "adv.欢迎"
+            "v. accept gladly; bid welcome to; greet upon arrival",
+            "adj. giving pleasure or satisfaction or received with pleasure or freely granted",
+            "n. the state of being welcome"
         ]
     },
     {
         "name": "postcard",
         "trans": [
-            "adv.明信片"
+            "n. a card for sending messages by post without an envelope"
         ]
     },
     {
         "name": "cousin",
         "trans": [
-            "adv.表（堂）兄弟；表（堂）兄妹"
+            "n. the child of your aunt or uncle"
         ]
     },
     {
         "name": "dear",
         "trans": [
-            "adv.亲爱的"
+            "adv. with affection"
         ]
     },
     {
         "name": "on holiday",
         "trans": [
-            "adv.在休假，在度假"
+            "phr. away from work or school for a period of rest"
         ]
     },
     {
         "name": "travel",
         "trans": [
-            "adv.旅行；游历"
+            "v. change location; move, travel, or proceed, also metaphorically; undertake a journey or trip",
+            "n. the act of going from one place to another; a movement through space that changes the location of something"
         ]
     },
     {
         "name": "came",
         "trans": [
-            "adv.（come的过去式）来"
+            "v. move toward, travel toward something or somebody or approach something or somebody; reach a destination; arrive by movement or progress"
         ]
     },
     {
         "name": "pop",
         "trans": [
-            "adv.流行音乐"
+            "adv. like a pop or with a pop"
         ]
     },
     {
         "name": "concert",
         "trans": [
-            "adv.音乐会"
+            "n. a performance of music by players or singers not involving theatrical staging"
         ]
     },
     {
         "name": "earth",
         "trans": [
-            "adv.地球"
+            "n. the 3rd planet from the sun; the planet we live on; the loose soft material that makes up a large part of the land surface"
         ]
     },
     {
         "name": "fall",
         "trans": [
-            "adv.掉下，落下；摔倒"
+            "v. descend in free fall under the influence of gravity; move downward and lower, but not necessarily all the way",
+            "n. the season when the leaves fall from the trees; a sudden drop from an upright position"
         ]
     },
     {
@@ -686,121 +710,126 @@
     {
         "name": "fell",
         "trans": [
-            "adv.(fall的过去式）掉下，落下；摔倒"
+            "v. cause to fall by or as if by delivering a blow"
         ]
     },
     {
         "name": "fall down",
         "trans": [
-            "adv.摔倒，跌倒；坍塌"
+            "v. lose an upright position suddenly"
         ]
     },
     {
         "name": "found",
         "trans": [
-            "adv.（find的过去式）发现，找到"
+            "v. set up or found; set up or lay the groundwork for",
+            "n. food and lodging provided in addition to money",
+            "adj. come upon unexpectedly or after searching"
         ]
     },
     {
         "name": "town",
         "trans": [
-            "adv.城镇，市镇"
+            "n. an urban area with a fixed boundary that is smaller than a city; the people living in a municipality smaller than a city"
         ]
     },
     {
         "name": "happen",
         "trans": [
-            "adv.发生"
+            "v. come to pass; happen, occur, or be the case in the course of events or by chance; (Santayana)"
         ]
     },
     {
         "name": "ride",
         "trans": [
-            "adv.骑车"
+            "v. sit and travel on the back of animal, usually while controlling its motions; be carried or travel on or in a vehicle",
+            "n. a journey in a vehicle (usually an automobile)"
         ]
     },
     {
         "name": "then",
         "trans": [
-            "adv.然后"
+            "adv. subsequently or soon afterward (often used as sentence connectors); in that case or as a consequence"
         ]
     },
     {
         "name": "thirsty",
         "trans": [
-            "adv.（口）渴的"
+            "adj. needing moisture"
         ]
     },
     {
         "name": "water",
         "trans": [
-            "adv.水"
+            "n. binary compound that occurs at room temperature as a clear colorless odorless tasteless liquid…",
+            "v. supply with water, as with channels or ditches or streams; provide with water"
         ]
     },
     {
         "name": "bought",
         "trans": [
-            "adv.（buy的过去式）买"
+            "v. obtain by purchase; acquire by means of a financial transaction; make illegal payments to in exchange for favors or influence"
         ]
     },
     {
         "name": "watermelon",
         "trans": [
-            "adv.西瓜"
+            "n. an African melon"
         ]
     },
     {
         "name": "carried",
         "trans": [
-            "adv.carry的过去式）拿，搬"
+            "v. move while supporting, either in a vehicle or in one's hands or on one's body; have with oneself; have on one's person"
         ]
     },
     {
         "name": "bump",
         "trans": [
-            "adv.撞伤"
+            "v. knock against with force or violence; come upon, as if by accident; meet with"
         ]
     },
     {
         "name": "hospital",
         "trans": [
-            "adv.医院"
+            "n. a health facility where patients receive treatment"
         ]
     },
     {
         "name": "had",
         "trans": [
-            "adv.（have的过去式）吃，喝"
+            "v. past tense and past participle of \"have\""
         ]
     },
     {
         "name": "chocolate",
         "trans": [
-            "adv.巧克力"
+            "n. a beverage made from cocoa powder and milk and sugar; usually drunk hot"
         ]
     },
     {
         "name": "stomach ache",
         "trans": [
-            "adv.胃痛"
+            "n. an ache localized in the stomach or abdominal region"
         ]
     },
     {
         "name": "cold",
         "trans": [
-            "adv.感冒"
+            "adj. having a low or inadequate temperature or feeling a sensation of coldness or having been made cold by e.g. ice or refrigeration",
+            "n. a mild viral infection involving the nose and respiratory passages (but not the lungs); the absence of heat"
         ]
     },
     {
         "name": "headache",
         "trans": [
-            "adv.头痛"
+            "n. something or someone that causes anxiety; a source of unhappiness"
         ]
     },
     {
         "name": "fever",
         "trans": [
-            "adv.发烧"
+            "n. a rise in the temperature of the body; frequently a symptom of infection; intense nervous anticipation"
         ]
     }
 ]

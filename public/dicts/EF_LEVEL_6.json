@@ -4,7 +4,8 @@
         "usphone": "ˈstuːpɪd",
         "ukphone": "ˈstjuːpɪd",
         "trans": [
-            "愚蠢的, 笨的, 迟钝的, 麻木的, 无知觉的"
+            "adj. lacking or marked by lack of intellectual acuity; in a state of mental numbness especially as resulting from shock",
+            "n. a person who is not very bright"
         ]
     },
     {
@@ -12,7 +13,7 @@
         "usphone": "rɪˈlaɪəbl",
         "ukphone": "rɪˈlaɪəbl",
         "trans": [
-            "可信赖的; 可靠的"
+            "adj. worthy of reliance or trust; worthy of being depended on"
         ]
     },
     {
@@ -20,7 +21,7 @@
         "usphone": "ˈɔːrɡənaɪzd",
         "ukphone": "ˈɔːɡənaɪzd",
         "trans": [
-            "有组织的"
+            "adj. formed into a structured or coherent whole; methodical and efficient in arrangement or function"
         ]
     },
     {
@@ -28,7 +29,9 @@
         "usphone": "fæst",
         "ukphone": "fɑːst",
         "trans": [
-            "快速的"
+            "adj. acting or moving or capable of acting or moving quickly",
+            "adv. quickly or rapidly (often used as a combining form); firmly or closely",
+            "n. abstaining from food"
         ]
     },
     {
@@ -36,7 +39,8 @@
         "usphone": "hɑːrd",
         "ukphone": "hɑːd",
         "trans": [
-            "费力的"
+            "adj. not easy; requiring great physical or mental effort to accomplish or comprehend or endure; dispassionate",
+            "adv. with effort or force or vigor; with firmness"
         ]
     },
     {
@@ -44,7 +48,9 @@
         "usphone": "ɡʊd",
         "ukphone": "ɡʊd",
         "trans": [
-            "优良的, 正直的"
+            "adj. having desirable or positive qualities especially those suitable for a thing specified; having the normally expected amount",
+            "n. benefit; moral excellence or admirableness",
+            "adv. (often used as a combining form) in a good or proper or satisfactory manner or to a high standard ('good' is a nonstandard dialectal variant for 'well')"
         ]
     },
     {
@@ -52,7 +58,9 @@
         "usphone": "fər",
         "ukphone": "fə(r)",
         "trans": [
-            "给"
+            "prep. intended to belong to or be used by",
+            "prep. in order to help or benefit",
+            "prep. during (a period of time); in place of"
         ]
     },
     {
@@ -60,7 +68,8 @@
         "usphone": "ˈwʌndər",
         "ukphone": "ˈwʌndə(r)",
         "trans": [
-            "惊讶, 怀疑, 惊奇, 想知道"
+            "v. have a wish or desire to know something; place in doubt or express doubtful speculation",
+            "n. the feeling aroused by something strange and surprising; something that causes feelings of wonder"
         ]
     },
     {
@@ -68,7 +77,8 @@
         "usphone": "sərˈpraɪz",
         "ukphone": "səˈpraɪz",
         "trans": [
-            "感到惊讶"
+            "v. cause to be surprised; come upon or take unawares",
+            "n. the astonishment you feel when something totally unexpected happens to you; a sudden unexpected event"
         ]
     },
     {
@@ -76,7 +86,8 @@
         "usphone": "ˈwɜːri",
         "ukphone": "ˈwʌri",
         "trans": [
-            "担忧, 担心, 发愁"
+            "v. be worried, concerned, anxious, troubled, or uneasy; be concerned with",
+            "n. something or someone that causes anxiety; a source of unhappiness; a strong feeling of anxiety"
         ]
     },
     {
@@ -84,7 +95,7 @@
         "usphone": "seɪ",
         "ukphone": "seɪ",
         "trans": [
-            "说"
+            "v. express in words; report or maintain"
         ]
     },
     {
@@ -92,7 +103,7 @@
         "usphone": "ˈpɜːrsənl",
         "ukphone": "ˈpɜːsənl",
         "trans": [
-            "个人的, 私人的"
+            "adj. concerning or affecting a particular person or his or her private life and personality; particular to a given individual"
         ]
     },
     {
@@ -100,7 +111,8 @@
         "usphone": "ˈriːzn",
         "ukphone": "ˈriːzn",
         "trans": [
-            "理由, 动机, 原因"
+            "n. a rational motive for a belief or action; an explanation of the cause of some phenomenon",
+            "v. decide by reasoning; draw or come to a conclusion; present reasons and arguments"
         ]
     },
     {
@@ -108,7 +120,7 @@
         "usphone": "tel",
         "ukphone": "tel",
         "trans": [
-            "告诉, 说"
+            "v. express in words; let something be known"
         ]
     },
     {
@@ -116,7 +128,9 @@
         "usphone": "ˈfɜːrðər",
         "ukphone": "ˈfɜːðə(r)",
         "trans": [
-            "另外的"
+            "adv. to or at a greater extent or degree or a more advanced stage ('further' is used more often than 'farther' in this abstract sense); in addition or furthermore",
+            "v. promote the growth of; contribute to the progress or growth of",
+            "adj. more distant in especially degree"
         ]
     },
     {
@@ -124,7 +138,7 @@
         "usphone": "ˈeniwʌn",
         "ukphone": "ˈeniwʌn",
         "trans": [
-            "任何人"
+            "pron. any person or people"
         ]
     },
     {
@@ -132,7 +146,7 @@
         "usphone": "ˈeniθɪŋ",
         "ukphone": "ˈeniθɪŋ",
         "trans": [
-            "任何事, 任何东西"
+            "pron. a thing of any kind"
         ]
     },
     {
@@ -140,7 +154,7 @@
         "usphone": "ˌʌpˈdeɪt",
         "ukphone": "ˌʌpˈdeɪt",
         "trans": [
-            "更新(某事物), 升级"
+            "v. modernize or bring up to date; bring up to date; supply with recent information"
         ]
     },
     {
@@ -148,7 +162,9 @@
         "usphone": "wel",
         "ukphone": "wel",
         "trans": [
-            "好, 对, 满意的"
+            "adv. (often used as a combining form) in a good or proper or satisfactory manner or to a high standard ('good' is a nonstandard dialectal variant for 'well')",
+            "adj. in good health especially after having suffered illness or injury; resulting favorably",
+            "n. a deep hole or shaft dug or drilled to obtain water or oil or gas or brine; a cavity or vessel used to contain liquid"
         ]
     },
     {
@@ -156,7 +172,7 @@
         "usphone": "ˈaʊtɡoʊɪŋ",
         "ukphone": "ˈaʊtɡəʊɪŋ",
         "trans": [
-            "外向的,好交际的"
+            "adj. leaving a place or a position"
         ]
     },
     {
@@ -164,7 +180,7 @@
         "usphone": "ʃaɪ",
         "ukphone": "ʃaɪ",
         "trans": [
-            "害羞的, 腼腆的, 胆怯的"
+            "v. start suddenly, as from fright"
         ]
     },
     {
@@ -172,7 +188,7 @@
         "usphone": "əˈdʒendə",
         "ukphone": "əˈdʒendə",
         "trans": [
-            "议程,讨论事项"
+            "n. a temporally organized plan for matters to be attended to"
         ]
     },
     {
@@ -180,7 +196,7 @@
         "usphone": "æmˈbɪʃəs",
         "ukphone": "æmˈbɪʃəs",
         "trans": [
-            "有野心的,有雄心的"
+            "adj. having a strong desire for success or achievement; requiring full use of your abilities or resources"
         ]
     },
     {
@@ -188,7 +204,7 @@
         "usphone": "ˈklevər",
         "ukphone": "ˈklevə(r)",
         "trans": [
-            "聪明的, 机灵的, 熟练的"
+            "adj. showing self-interest and shrewdness in dealing with others; mentally quick and resourceful"
         ]
     },
     {
@@ -196,7 +212,7 @@
         "usphone": "ɪkˈspekt",
         "ukphone": "ɪkˈspekt",
         "trans": [
-            "期待"
+            "v. regard something as probable or likely; consider obligatory; request and expect"
         ]
     },
     {
@@ -204,7 +220,7 @@
         "usphone": "ˈhaɪər",
         "ukphone": "ˈhaɪə(r)",
         "trans": [
-            "出租"
+            "v. engage or hire for work; hold under a lease or rental agreement; of goods and services"
         ]
     },
     {
@@ -212,7 +228,7 @@
         "usphone": "ˈɑːnɪst",
         "ukphone": "ˈɒnɪst",
         "trans": [
-            "诚实的, 老实的"
+            "adj. not disposed to cheat or defraud; not deceptive or fraudulent; without dissimulation; frank"
         ]
     },
     {
@@ -220,7 +236,7 @@
         "usphone": "ˈaɪtəm",
         "ukphone": "ˈaɪtəm",
         "trans": [
-            "条, 条款, 项, 项目, 条目"
+            "n. a distinct part that can be specified separately in a group of things that could be enumerated on a list"
         ]
     },
     {
@@ -228,7 +244,8 @@
         "usphone": "sɪns",
         "ukphone": "sɪns",
         "trans": [
-            "自 以来, 从那时到现在"
+            "prep. / conj. from a past time until now",
+            "conj. because; as"
         ]
     },
     {
@@ -236,7 +253,7 @@
         "usphone": "ˈsʌməraɪz",
         "ukphone": "ˈsʌməraɪz",
         "trans": [
-            "作总结, 作概括; 总结, 概括, 概述"
+            "v. give a summary (of)"
         ]
     },
     {
@@ -244,7 +261,7 @@
         "usphone": "ˈfiːvər",
         "ukphone": "ˈfiːvə(r)",
         "trans": [
-            "发烧"
+            "n. a rise in the temperature of the body; frequently a symptom of infection; intense nervous anticipation"
         ]
     },
     {
@@ -252,7 +269,7 @@
         "usphone": "kɔːf",
         "ukphone": "kɒf",
         "trans": [
-            "咳嗽"
+            "v. exhale abruptly, as when one has a chest cold or congestion"
         ]
     },
     {
@@ -260,7 +277,8 @@
         "usphone": "sɔːr",
         "ukphone": "sɔː(r)",
         "trans": [
-            "疼痛的"
+            "adj. hurting; causing misery or pain or distress",
+            "n. an open skin infection"
         ]
     },
     {
@@ -268,7 +286,7 @@
         "usphone": "θroʊt",
         "ukphone": "θrəʊt",
         "trans": [
-            "喉咙, 嗓子"
+            "n. the passage to the stomach and lungs; in the front part of the neck below the chin and above the collarbone; an opening in the vamp of a shoe at the instep"
         ]
     },
     {
@@ -276,7 +294,7 @@
         "usphone": "ˈhedeɪk",
         "ukphone": "ˈhedeɪk",
         "trans": [
-            "头痛, 头疼"
+            "n. something or someone that causes anxiety; a source of unhappiness"
         ]
     },
     {
@@ -284,7 +302,7 @@
         "usphone": "ˈsɪmptəm",
         "ukphone": "ˈsɪmptəm",
         "trans": [
-            "征候,征兆"
+            "n. (medicine) any sensation or change in bodily function that is experienced by a patient and is associated with a particular disease"
         ]
     },
     {
@@ -292,7 +310,7 @@
         "usphone": "fluː",
         "ukphone": "fluː",
         "trans": [
-            "流感"
+            "n. an acute febrile highly contagious viral disease"
         ]
     },
     {
@@ -300,7 +318,8 @@
         "usphone": "ˈlɪkwɪd",
         "ukphone": "ˈlɪkwɪd",
         "trans": [
-            "液体"
+            "adj. existing as or having characteristics of a liquid; especially tending to flow; filled or brimming with tears",
+            "n. a substance that is liquid at room temperature and pressure"
         ]
     },
     {
@@ -308,7 +327,7 @@
         "usphone": "blʌd",
         "ukphone": "blʌd",
         "trans": [
-            "血"
+            "n. the fluid (red in vertebrates) that is pumped through the body by the heart and contains plasma, blood cells, and platelets; temperament or disposition"
         ]
     },
     {
@@ -316,7 +335,8 @@
         "usphone": "ˈpreʃər",
         "ukphone": "ˈpreʃə(r)",
         "trans": [
-            "压力, 气压, 压强"
+            "n. the force applied to a unit area of surface; measured in pascals (SI unit) or in dynes (cgs unit); a force that compels",
+            "v. to cause to do through pressure or necessity, by physical, moral or intellectual means :"
         ]
     },
     {
@@ -324,7 +344,7 @@
         "usphone": "ˈfɑːrməsi",
         "ukphone": "ˈfɑːməsi",
         "trans": [
-            "药店"
+            "n. the art and science of preparing and dispensing drugs and medicines,; a retail shop where medicine and other articles are sold"
         ]
     },
     {
@@ -332,7 +352,8 @@
         "usphone": "fɪl",
         "ukphone": "fɪl",
         "trans": [
-            "供应"
+            "v. make full, also in a metaphorical sense; become full",
+            "n. a quantity sufficient to satisfy"
         ]
     },
     {
@@ -340,7 +361,7 @@
         "usphone": "pɪl",
         "ukphone": "pɪl",
         "trans": [
-            "药丸, 药片"
+            "n. something that resembles a tablet of medicine in shape or size; a dose of medicine in the form of a small pellet"
         ]
     },
     {
@@ -348,7 +369,7 @@
         "usphone": "ˈæpɪtaɪt",
         "ukphone": "ˈæpɪtaɪt",
         "trans": [
-            "胃口,食欲"
+            "n. a feeling of craving something"
         ]
     },
     {
@@ -356,7 +377,8 @@
         "usphone": "ɪˈfekt",
         "ukphone": "ɪˈfekt",
         "trans": [
-            "作用, 影响"
+            "n. a phenomenon that follows and is caused by some previous phenomenon; an outward appearance",
+            "v. produce; act so as to bring into existence"
         ]
     },
     {
@@ -364,7 +386,7 @@
         "usphone": "ˈsɪriəs",
         "ukphone": "ˈsɪəriəs",
         "trans": [
-            "严重的"
+            "adj. concerned with work or important matters rather than play or trivialities; of great consequence"
         ]
     },
     {
@@ -372,7 +394,7 @@
         "usphone": "ˌmedɪˈkeɪʃn",
         "ukphone": "ˌmedɪˈkeɪʃn",
         "trans": [
-            "药物, 药品"
+            "n. (medicine) something that treats or prevents or alleviates the symptoms of disease"
         ]
     },
     {
@@ -380,7 +402,7 @@
         "usphone": "ˈmedsn",
         "ukphone": "ˈmedsn",
         "trans": [
-            "医学, 医术"
+            "n. the branches of medical science that deal with nonsurgical techniques; (medicine) something that treats or prevents or alleviates the symptoms of disease"
         ]
     },
     {
@@ -388,7 +410,7 @@
         "usphone": "ˈnɔːʃəs",
         "ukphone": "ˈnɔːziəs",
         "trans": [
-            "令人作呕的, 厌恶的"
+            "adj. causing or able to cause nausea"
         ]
     },
     {
@@ -396,7 +418,7 @@
         "usphone": "spreɪn",
         "ukphone": "spreɪn",
         "trans": [
-            "扭伤"
+            "v. twist suddenly so as to sprain"
         ]
     },
     {
@@ -404,7 +426,7 @@
         "usphone": "əˈlɜːrdʒɪk",
         "ukphone": "əˈlɜːdʒɪk",
         "trans": [
-            "(对…)变态反应的,过敏的"
+            "adj. characterized by or caused by allergy"
         ]
     },
     {
@@ -412,7 +434,8 @@
         "usphone": "bruːz",
         "ukphone": "bruːz",
         "trans": [
-            "撞伤,造成淤青,造成淤肿"
+            "v. injure the underlying soft tissue or bone of",
+            "n. an injury that doesn't break the skin but results in some discoloration"
         ]
     },
     {
@@ -420,13 +443,14 @@
         "usphone": "ˈkʌvər",
         "ukphone": "ˈkʌvə(r)",
         "trans": [
-            "投保险"
+            "v. provide with a covering or cause to be covered; form a cover over",
+            "n. a covering that serves to conceal or shelter something; bedding that keeps a person warm in bed"
         ]
     },
     {
         "name": "diarrhea",
         "trans": [
-            "腹泻"
+            "n. frequent and watery bowel movements; can be a symptom of infection or food poisoning or colitis or a gastrointestinal tumor"
         ],
         "usphone": ",daɪə'riə",
         "ukphone": ",daɪə'riə"
@@ -436,7 +460,7 @@
         "usphone": "ˈdɪzi",
         "ukphone": "ˈdɪzi",
         "trans": [
-            "眩晕的"
+            "adj. having or causing a whirling sensation; liable to falling; lacking seriousness; given to frivolity"
         ]
     },
     {
@@ -444,7 +468,7 @@
         "usphone": "ˈdoʊsɪdʒ",
         "ukphone": "ˈdəʊsɪdʒ",
         "trans": [
-            "剂量"
+            "n. the quantity of an active agent (substance or radiation) taken in or absorbed at any one time"
         ]
     },
     {
@@ -452,7 +476,7 @@
         "usphone": "ɪnˈʃʊrəns",
         "ukphone": "ɪnˈʃʊərəns",
         "trans": [
-            "保险"
+            "n. promise of reimbursement in the case of loss; paid to people or companies so concerned about hazards that they have made prepayments to an insurance company"
         ]
     },
     {
@@ -460,7 +484,7 @@
         "usphone": "ˈvɑːmɪt",
         "ukphone": "ˈvɒmɪt",
         "trans": [
-            "呕吐(食物等); 恶心"
+            "v. eject the contents of the stomach through the mouth"
         ]
     },
     {
@@ -468,7 +492,8 @@
         "usphone": "nɜːrs",
         "ukphone": "nɜːs",
         "trans": [
-            "护士, 保姆"
+            "n. one skilled in caring for young children or the sick (usually under the supervision of a physician); a woman who is the custodian of children",
+            "v. try to cure by special care of treatment, of an illness or injury; maintain (a theory, thoughts, or feelings)"
         ]
     },
     {
@@ -476,7 +501,7 @@
         "usphone": "prɪˈskrɪpʃn",
         "ukphone": "prɪˈskrɪpʃn",
         "trans": [
-            "处方,药方"
+            "n. directions prescribed beforehand; the action of prescribing authoritative rules or directions"
         ]
     },
     {
@@ -484,7 +509,7 @@
         "usphone": "məˈræl",
         "ukphone": "məˈrɑːl",
         "trans": [
-            "士气, 精神状态"
+            "n. a state of individual psychological well-being based upon a sense of confidence and usefulness and purpose"
         ]
     },
     {
@@ -492,7 +517,8 @@
         "usphone": "əˈfensɪv",
         "ukphone": "əˈfensɪv",
         "trans": [
-            "冒犯的, 得罪人的, 唐突的, 无礼的"
+            "n. the action of attacking an enemy",
+            "adj. violating or tending to violate or offend against"
         ]
     },
     {
@@ -500,7 +526,7 @@
         "usphone": "ˈslɑːpi",
         "ukphone": "ˈslɒpi",
         "trans": [
-            "衣着不整的, 做事马虎的"
+            "adj. lacking neatness or order"
         ]
     },
     {
@@ -508,7 +534,7 @@
         "usphone": "səˈluːʃn",
         "ukphone": "səˈluːʃn",
         "trans": [
-            "解决方法"
+            "n. a homogeneous mixture of two or more substances; frequently (but not necessarily) a liquid solution"
         ]
     },
     {
@@ -516,7 +542,7 @@
         "usphone": "ˌoʊvərˈweɪt",
         "ukphone": "ˌəʊvəˈweɪt",
         "trans": [
-            "超重的; 过重的"
+            "adj. usually describes a large person who is fat but has a large frame to carry it"
         ]
     },
     {
@@ -524,7 +550,7 @@
         "usphone": "ˈprɑːbləm",
         "ukphone": "ˈprɒbləm",
         "trans": [
-            "问题"
+            "n. a state of difficulty that needs to be resolved; a question raised for consideration or solution"
         ]
     },
     {
@@ -532,7 +558,8 @@
         "usphone": "breɪk",
         "ukphone": "breɪk",
         "trans": [
-            "改变, 终止"
+            "v. terminate; become separated into pieces or fragments",
+            "n. some abrupt occurrence that interrupts an ongoing activity; an unexpected piece of good luck"
         ]
     },
     {
@@ -540,7 +567,7 @@
         "usphone": "kwɪt",
         "ukphone": "kwɪt",
         "trans": [
-            "辞职, 离开, 放弃"
+            "v. put an end to a state or an activity; give up or retire from a position"
         ]
     },
     {
@@ -548,7 +575,7 @@
         "usphone": "bɪˈɡɪn",
         "ukphone": "bɪˈɡɪn",
         "trans": [
-            "开始, 着手"
+            "v. take the first step or steps in carrying out an action; have a beginning, in a temporal, spatial, or evaluative sense"
         ]
     },
     {
@@ -556,7 +583,7 @@
         "usphone": "dɪsˈɔːrɡənaɪzd",
         "ukphone": "dɪsˈɔːɡənaɪzd",
         "trans": [
-            "杂乱无章"
+            "adj. lacking order or methodical arrangement or function"
         ]
     },
     {
@@ -564,7 +591,7 @@
         "usphone": "ˈleɪzi",
         "ukphone": "ˈleɪzi",
         "trans": [
-            "懒散的, 怠惰的"
+            "adj. moving slowly and gently; disinclined to work or exertion"
         ]
     },
     {
@@ -572,7 +599,7 @@
         "usphone": "ˈfleksəbl",
         "ukphone": "ˈfleksəbl",
         "trans": [
-            "柔韧的, 灵活的, 易弯曲的, 可变通的"
+            "adj. capable of being changed; able to flex; able to bend easily"
         ]
     },
     {
@@ -580,7 +607,7 @@
         "usphone": "ɪmˈplɔɪiː",
         "ukphone": "ɪmˈplɔɪiː",
         "trans": [
-            "雇员"
+            "n. a worker who is hired to perform a job"
         ]
     },
     {
@@ -588,7 +615,8 @@
         "usphone": "kɔːst",
         "ukphone": "kɒst",
         "trans": [
-            "费用, 花费, 开销"
+            "n. the total spent for goods or services including money and time and labor",
+            "v. be priced at; require to lose, suffer, or sacrifice"
         ]
     },
     {
@@ -596,7 +624,7 @@
         "usphone": "θeft",
         "ukphone": "θeft",
         "trans": [
-            "盗窃,偷窃"
+            "n. the act of taking something from someone unlawfully"
         ]
     },
     {
@@ -604,7 +632,7 @@
         "usphone": "əˈdɪktɪd",
         "ukphone": "əˈdɪktɪd",
         "trans": [
-            "上瘾的,无法戒除的"
+            "adj. compulsively or physiologically dependent on something habit-forming"
         ]
     },
     {
@@ -612,7 +640,8 @@
         "usphone": "ˌælkəˈhɔːlɪk",
         "ukphone": "ˌælkəˈhɒlɪk",
         "trans": [
-            "酗酒者"
+            "n. a person who drinks alcohol to excess habitually",
+            "adj. characteristic of or containing alcohol"
         ]
     },
     {
@@ -620,7 +649,7 @@
         "usphone": "ˌɑːrɡjuˈmentətɪv",
         "ukphone": "ˌɑːɡjuˈmentətɪv",
         "trans": [
-            "善论证的,喜好争论的"
+            "adj. given to or characterized by argument"
         ]
     },
     {
@@ -628,7 +657,7 @@
         "usphone": "kəˌmjuːnɪˈkeɪʃn",
         "ukphone": "kəˌmjuːnɪˈkeɪʃn",
         "trans": [
-            "交流, 交际"
+            "n. the activity of communicating; the activity of conveying information; something that is communicated by or to or between people or groups"
         ]
     },
     {
@@ -636,7 +665,7 @@
         "usphone": "ˌkɑːmpəˈtɪʃn",
         "ukphone": "ˌkɒmpəˈtɪʃn",
         "trans": [
-            "比赛, 竞赛"
+            "n. a business relation in which two parties compete to gain customers; an occasion on which a winner is selected from among two or more contestants"
         ]
     },
     {
@@ -644,7 +673,7 @@
         "usphone": "ˌkɑːmpəˈtɪʃn",
         "ukphone": "ˌkɒmpəˈtɪʃn",
         "trans": [
-            "比赛, 竞赛"
+            "n. a business relation in which two parties compete to gain customers; an occasion on which a winner is selected from among two or more contestants"
         ]
     },
     {
@@ -652,7 +681,7 @@
         "usphone": "ˈdedlaɪn",
         "ukphone": "ˈdedlaɪn",
         "trans": [
-            "期限"
+            "n. the point in time at which something must be completed"
         ]
     },
     {
@@ -660,7 +689,7 @@
         "usphone": "faɪˈnænʃl",
         "ukphone": "faɪˈnænʃl",
         "trans": [
-            "资金的, 金融的"
+            "adj. involving financial matters"
         ]
     },
     {
@@ -668,7 +697,7 @@
         "usphone": "ˌɪnəˈveɪʃn",
         "ukphone": "ˌɪnəˈveɪʃn",
         "trans": [
-            "新方法,新事物;革新,创新"
+            "n. a creation (a new device or process) resulting from study and experimentation; the creation of something in the mind"
         ]
     },
     {
@@ -676,7 +705,7 @@
         "usphone": "ɪnˈsɑːmniə",
         "ukphone": "ɪnˈsɒmniə",
         "trans": [
-            "失眠(症)"
+            "n. an inability to sleep; chronic sleeplessness"
         ]
     },
     {
@@ -684,7 +713,8 @@
         "usphone": "læk",
         "ukphone": "læk",
         "trans": [
-            "欠缺, 没有, 不足"
+            "n. the state of needing something that is absent or unavailable",
+            "v. be without"
         ]
     },
     {
@@ -692,7 +722,7 @@
         "usphone": "ˈmærɪtl",
         "ukphone": "ˈmærɪtl",
         "trans": [
-            "夫的; 妻的; 婚姻的"
+            "adj. of or relating to the state of marriage"
         ]
     },
     {
@@ -700,7 +730,8 @@
         "usphone": "rɪˈpiːt",
         "ukphone": "rɪˈpiːt",
         "trans": [
-            "重复"
+            "v. to say, state, or perform again; make or do or perform again",
+            "n. an event that repeats"
         ]
     },
     {
@@ -708,7 +739,7 @@
         "usphone": "ɡlæd",
         "ukphone": "ɡlæd",
         "trans": [
-            "高兴的, 开心的"
+            "adj. showing or causing joy and pleasure; especially made happy; eagerly disposed to act or to be of service"
         ]
     },
     {
@@ -716,7 +747,7 @@
         "usphone": "ˈduːs",
         "ukphone": "ˌɪntrəˈdjuːs",
         "trans": [
-            "介绍, 引荐"
+            "v. cause to come to know personally; bring something new to an environment"
         ]
     },
     {
@@ -724,7 +755,8 @@
         "usphone": "spɔːrt",
         "ukphone": "spɔːt",
         "trans": [
-            "运动, 文体活动"
+            "n. an active diversion requiring physical exertion and competition; the occupation of athletes who compete for pay",
+            "v. wear or display in an ostentatious or proud manner"
         ]
     },
     {
@@ -732,7 +764,8 @@
         "usphone": "ˈtrævl",
         "ukphone": "ˈtrævl",
         "trans": [
-            "旅行"
+            "v. change location; move, travel, or proceed, also metaphorically; undertake a journey or trip",
+            "n. the act of going from one place to another; a movement through space that changes the location of something"
         ]
     },
     {
@@ -740,7 +773,8 @@
         "usphone": "ˈweðər",
         "ukphone": "ˈweðə(r)",
         "trans": [
-            "天气, 气候, 气象"
+            "n. the atmospheric conditions that comprise the state of the atmosphere in terms of temperature and wind and clouds and precipitation",
+            "adj. towards the side exposed to wind"
         ]
     },
     {
@@ -748,7 +782,7 @@
         "usphone": "ˈmʌni",
         "ukphone": "ˈmʌni",
         "trans": [
-            "钱, 金钱"
+            "n. the most common medium of exchange; functions as legal tender; wealth reckoned in terms of money"
         ]
     },
     {
@@ -756,7 +790,7 @@
         "usphone": "ʌnˈhæpi",
         "ukphone": "ʌnˈhæpi",
         "trans": [
-            "不快乐的, 不高兴的, 不幸福的, 不满的"
+            "adj. experiencing or marked by or causing sadness or sorrow or discontent; generalized feeling of distress"
         ]
     },
     {
@@ -764,7 +798,7 @@
         "usphone": "ʌnˈjuːʒuəl",
         "ukphone": "ʌnˈjuːʒuəl",
         "trans": [
-            "不寻常的, 罕有地, 异乎寻常地"
+            "adj. not usual or common or ordinary; being definitely out of the ordinary and unexpected; slightly odd or even a bit weird"
         ]
     },
     {
@@ -772,7 +806,7 @@
         "usphone": "ˌɪnəˈproʊpriət",
         "ukphone": "ˌɪnəˈprəʊpriət",
         "trans": [
-            "(对某人[某事物])不恰当的, 不适合的"
+            "adj. not suitable for a particular occasion etc"
         ]
     },
     {
@@ -780,7 +814,7 @@
         "usphone": "ˈlɪməziːn",
         "ukphone": "ˈlɪməziːn",
         "trans": [
-            "大型豪华轿车"
+            "n. large luxurious car; usually driven by a chauffeur"
         ]
     },
     {
@@ -788,7 +822,7 @@
         "usphone": "sɜːrv",
         "ukphone": "sɜːv",
         "trans": [
-            "供职, 服役"
+            "v. serve a purpose, role, or function; do duty or hold offices; serve in a specific function"
         ]
     },
     {
@@ -796,7 +830,7 @@
         "usphone": "kɑːrd",
         "ukphone": "kɑːd",
         "trans": [
-            "名片"
+            "n. one of a set of small pieces of stiff paper marked in various ways and used for playing games or for telling fortunes"
         ]
     },
     {
@@ -804,7 +838,8 @@
         "usphone": "ɡes",
         "ukphone": "ɡes",
         "trans": [
-            "猜想"
+            "v. expect, believe, or suppose; put forward, of a guess, in spite of possible refutation",
+            "n. a message expressing an opinion based on incomplete evidence; an estimate based on little or no information"
         ]
     },
     {
@@ -812,7 +847,7 @@
         "usphone": "θɪŋk",
         "ukphone": "θɪŋk",
         "trans": [
-            "期望"
+            "v. judge or regard; look upon; judge; expect, believe, or suppose"
         ]
     },
     {
@@ -820,7 +855,7 @@
         "usphone": "ˈmeɪbi",
         "ukphone": "ˈmeɪbi",
         "trans": [
-            "大概, 或许, 可能"
+            "adv. by chance"
         ]
     },
     {
@@ -828,7 +863,7 @@
         "usphone": "ˈprɑːbəbli",
         "ukphone": "ˈprɒbəbli",
         "trans": [
-            "大概, 或许, 很可能"
+            "adv. with considerable certainty; without much doubt"
         ]
     },
     {
@@ -836,7 +871,7 @@
         "usphone": "ˌɪntəˈrʌpt",
         "ukphone": "ˌɪntəˈrʌpt",
         "trans": [
-            "打扰, 打断"
+            "v. make a break in; destroy the peace or tranquility of"
         ]
     },
     {
@@ -844,7 +879,7 @@
         "usphone": "dɪˈstɜːrb",
         "ukphone": "dɪˈstɜːb",
         "trans": [
-            "打扰, 干扰, 骚扰"
+            "v. move deeply; change the arrangement or position of"
         ]
     },
     {
@@ -852,7 +887,8 @@
         "usphone": "ɪɡˈzekjətɪv",
         "ukphone": "ɪɡˈzekjətɪv",
         "trans": [
-            "管理的, 行政的"
+            "n. a person responsible for the administration of a business; persons who administer the law",
+            "adj. having the function of carrying out plans or orders etc."
         ]
     },
     {
@@ -860,7 +896,7 @@
         "usphone": "fəˈmɪliər",
         "ukphone": "fəˈmɪliə(r)",
         "trans": [
-            "熟悉的"
+            "adj. well known or easily recognized; within normal everyday experience; common and ordinary; not strange"
         ]
     },
     {
@@ -868,7 +904,7 @@
         "usphone": "ˌɪmpəˈlaɪt",
         "ukphone": "ˌɪmpəˈlaɪt",
         "trans": [
-            "粗鲁的; 不礼貌的"
+            "adj. not polite"
         ]
     },
     {
@@ -876,7 +912,8 @@
         "usphone": "ɪmˈpɑːsəbl",
         "ukphone": "ɪmˈpɒsəbl",
         "trans": [
-            "不可能的"
+            "adj. not capable of occurring or being accomplished or dealt with; totally unlikely",
+            "n. something that cannot be done"
         ]
     },
     {
@@ -884,7 +921,7 @@
         "usphone": "ˌɪnɪˈfɪʃnt",
         "ukphone": "ˌɪnɪˈfɪʃnt",
         "trans": [
-            "无效的;效率低的"
+            "adj. not producing desired results; wasteful"
         ]
     },
     {
@@ -892,7 +929,7 @@
         "usphone": "ˈloʊkeɪtɪd",
         "ukphone": "ləʊˈkeɪtɪd",
         "trans": [
-            "坐落的, 位于的"
+            "adj. situated in a particular spot or position"
         ]
     },
     {
@@ -900,7 +937,7 @@
         "usphone": "ˈpɑːlətɪks",
         "ukphone": "ˈpɒlətɪks",
         "trans": [
-            "政治"
+            "n. social relations involving intrigue to gain authority or power; the study of government of states and other political units"
         ]
     },
     {
@@ -908,7 +945,7 @@
         "usphone": "ˈroʊmæns",
         "ukphone": "rəʊˈmæns",
         "trans": [
-            "富于想像力的故事; 浪漫故事"
+            "n. a relationship between two lovers; an exciting and mysterious quality (as of a heroic time or adventure)"
         ]
     },
     {
@@ -916,7 +953,7 @@
         "usphone": "siːm",
         "ukphone": "siːm",
         "trans": [
-            "看上去, 像是, 似乎"
+            "v. give a certain impression or have a certain outward aspect; seem to be true, probable, or apparent"
         ]
     },
     {
@@ -924,7 +961,7 @@
         "usphone": "rɪˈlɪdʒən",
         "ukphone": "rɪˈlɪdʒən",
         "trans": [
-            "宗教, 宗教信仰"
+            "n. a strong belief in a supernatural power or powers that control human destiny; an institution to express belief in a divine power"
         ]
     },
     {
@@ -932,7 +969,8 @@
         "usphone": "ˈpɜːrtʃəs",
         "ukphone": "ˈpɜːtʃəs",
         "trans": [
-            "购买"
+            "v. obtain by purchase; acquire by means of a financial transaction",
+            "n. the acquisition of something for payment; something acquired by purchase"
         ]
     },
     {
@@ -940,7 +978,7 @@
         "usphone": "ˈriːdʒən",
         "ukphone": "ˈriːdʒən",
         "trans": [
-            "地区, 区域"
+            "n. the extended spatial location of something; a part of an animal that has a special function or is supplied by a given artery or nerve"
         ]
     },
     {
@@ -948,7 +986,8 @@
         "usphone": "ˈmɑːrkɪt",
         "ukphone": "ˈmɑːkɪt",
         "trans": [
-            "市场, 集市"
+            "n. the world of commercial activity where goods and services are bought and sold; the customers for a particular product or service",
+            "v. engage in the commercial promotion, sale, or distribution of"
         ]
     },
     {
@@ -956,7 +995,8 @@
         "usphone": "ʃer",
         "ukphone": "ʃeə(r)",
         "trans": [
-            "股份"
+            "v. have in common; use jointly or in common",
+            "n. assets belonging to or due to or contributed by an individual person or group"
         ]
     },
     {
@@ -964,7 +1004,8 @@
         "usphone": "ɪnˈkriːs",
         "ukphone": "ɪnˈkriːs",
         "trans": [
-            "增加, 增多"
+            "v. become bigger or greater in amount; make bigger or more",
+            "n. a quantity that is added; a change resulting in an increase"
         ]
     },
     {
@@ -972,7 +1013,8 @@
         "usphone": "dɪˈkriːs",
         "ukphone": "dɪˈkriːs",
         "trans": [
-            "减少, 下降"
+            "v. decrease in size, extent, or range; make smaller",
+            "n. a change downward"
         ]
     },
     {
@@ -980,7 +1022,8 @@
         "usphone": "fɔːl",
         "ukphone": "fɔːl",
         "trans": [
-            "减少"
+            "v. descend in free fall under the influence of gravity; move downward and lower, but not necessarily all the way",
+            "n. the season when the leaves fall from the trees; a sudden drop from an upright position"
         ]
     },
     {
@@ -988,7 +1031,8 @@
         "usphone": "raɪz",
         "ukphone": "raɪz",
         "trans": [
-            "增加"
+            "v. move upward; increase in value or to a higher point",
+            "n. a growth in strength or number or importance; the act of changing location in an upward direction"
         ]
     },
     {
@@ -996,7 +1040,7 @@
         "usphone": "ˈhaɪər",
         "ukphone": "ˈhaɪə(r)",
         "trans": [
-            "租借, 租用"
+            "v. engage or hire for work; hold under a lease or rental agreement; of goods and services"
         ]
     },
     {
@@ -1004,7 +1048,7 @@
         "usphone": "ˈsɔːftwer",
         "ukphone": "ˈsɒftweə(r)",
         "trans": [
-            "软件"
+            "n. (computer science) written programs or procedures or rules and associated documentation pertaining to the operation of a computer system and that are stored in…"
         ]
     },
     {
@@ -1012,7 +1056,8 @@
         "usphone": "rɪˈpiːt",
         "ukphone": "rɪˈpiːt",
         "trans": [
-            "重复"
+            "v. to say, state, or perform again; make or do or perform again",
+            "n. an event that repeats"
         ]
     },
     {
@@ -1020,7 +1065,7 @@
         "usphone": "kənˈfɜːrm",
         "ukphone": "kənˈfɜːm",
         "trans": [
-            "确认"
+            "v. establish or strengthen as with new evidence or facts; strengthen or make more firm"
         ]
     },
     {
@@ -1028,7 +1073,7 @@
         "usphone": "prəˈpoʊz",
         "ukphone": "prəˈpəʊz",
         "trans": [
-            "建议, 提议"
+            "v. make a proposal, declare a plan for something; present for consideration, examination, criticism, etc."
         ]
     },
     {
@@ -1036,7 +1081,7 @@
         "usphone": "kənˈkluːd",
         "ukphone": "kənˈkluːd",
         "trans": [
-            "下结论, 总结"
+            "v. decide by reasoning; draw or come to a conclusion; bring to a close"
         ]
     },
     {
@@ -1044,7 +1089,7 @@
         "usphone": "ədˈvæntɪdʒ",
         "ukphone": "ədˈvɑːntɪdʒ",
         "trans": [
-            "优势, 好处, 优点"
+            "n. the quality of having a superior or more favorable position"
         ]
     },
     {
@@ -1052,7 +1097,7 @@
         "usphone": "ˌdɪsədˈvæntɪdʒ",
         "ukphone": "ˌdɪsədˈvɑːntɪdʒ",
         "trans": [
-            "不利条件, 缺点"
+            "n. the quality of having an inferior or less favorable position"
         ]
     },
     {
@@ -1060,7 +1105,7 @@
         "usphone": "ˈfiːlɪŋ",
         "ukphone": "ˈfiːlɪŋ",
         "trans": [
-            "态度, 观点"
+            "n. the experiencing of affective and emotional states; a vague idea in which some confidence is placed"
         ]
     },
     {
@@ -1068,7 +1113,8 @@
         "usphone": "flæt",
         "ukphone": "flæt",
         "trans": [
-            "低迷的, 不景气的"
+            "adj. having a surface without slope, tilt in which no part is higher or lower than another; having a relatively broad surface in relation to depth or thickness",
+            "n. a level tract of land; a shallow box in which seedlings are started"
         ]
     },
     {
@@ -1076,7 +1122,7 @@
         "usphone": "friːz",
         "ukphone": "friːz",
         "trans": [
-            "冻结"
+            "v. stop moving or become immobilized; change to ice"
         ]
     },
     {
@@ -1084,7 +1130,7 @@
         "usphone": "ˈnɪrli",
         "ukphone": "ˈnɪəli",
         "trans": [
-            "几乎, 差不多"
+            "adv. (of actions or states) slightly short of or not quite accomplished; all but"
         ]
     },
     {
@@ -1092,7 +1138,7 @@
         "usphone": "ˈɑːbviəs",
         "ukphone": "ˈɒbviəs",
         "trans": [
-            "明显的, 显著的"
+            "adj. easily perceived by the senses or grasped by the mind"
         ]
     },
     {
@@ -1100,7 +1146,7 @@
         "usphone": "əˈpɪnjən",
         "ukphone": "əˈpɪnjən",
         "trans": [
-            "意见, 见解, 主张"
+            "n. a personal belief or judgment that is not founded on proof or certainty"
         ]
     },
     {
@@ -1108,7 +1154,8 @@
         "usphone": "ˌoʊvərˈɔːl",
         "ukphone": "ˌəʊvərˈɔːl",
         "trans": [
-            "全部的, 全体的, 一切的"
+            "adj. involving only main features; including everything",
+            "n. (usually plural) work clothing consisting of denim trousers (usually with a bib and shoulder straps)"
         ]
     },
     {
@@ -1116,7 +1163,8 @@
         "usphone": "proʊ",
         "ukphone": "prəʊ",
         "trans": [
-            "支持,亲"
+            "adj. in favor of (an action or proposal etc.)",
+            "n. an athlete who plays for pay"
         ]
     },
     {
@@ -1124,7 +1172,8 @@
         "usphone": "ˈprɑːfɪt",
         "ukphone": "ˈprɒfɪt",
         "trans": [
-            "利润, 利益, 赢利"
+            "n. the excess of revenues over outlays in a given period of time (including depreciation and other non-cash expenses); the advantageous quality of being beneficial",
+            "v. derive a benefit from; make a profit; gain money or materially"
         ]
     },
     {
@@ -1132,7 +1181,7 @@
         "usphone": "dɪˈskʌs",
         "ukphone": "dɪˈskʌs",
         "trans": [
-            "讨论, 探讨"
+            "v. to consider or examine in speech or writing; speak with others about (something); talk (something) over in detail; have a discussion"
         ]
     },
     {
@@ -1140,7 +1189,7 @@
         "usphone": "ˈrevənuː",
         "ukphone": "ˈrevənjuː",
         "trans": [
-            "收入;"
+            "n. the entire amount of income before any deductions are made"
         ]
     },
     {
@@ -1148,7 +1197,7 @@
         "usphone": "sɪɡˈnɪfɪkəntli",
         "ukphone": "sɪɡˈnɪfɪkəntli",
         "trans": [
-            "意味深长地, 意义深远地, 重要地, 较大地"
+            "adv. in a statistically significant way; in a significant manner"
         ]
     },
     {
@@ -1156,7 +1205,7 @@
         "usphone": "ˈslaɪtli",
         "ukphone": "ˈslaɪtli",
         "trans": [
-            "轻微地, 微小地, 稍微地, 纤细地"
+            "adv. to a small degree or extent"
         ]
     },
     {
@@ -1164,7 +1213,7 @@
         "usphone": "rɪˈlaɪəbl",
         "ukphone": "rɪˈlaɪəbl",
         "trans": [
-            "可信赖的; 可靠的"
+            "adj. worthy of reliance or trust; worthy of being depended on"
         ]
     },
     {
@@ -1172,7 +1221,8 @@
         "usphone": "eɪdʒ",
         "ukphone": "eɪdʒ",
         "trans": [
-            "年龄"
+            "n. how long something has existed; an era of history having some distinctive feature",
+            "v. begin to seem older; get older; grow old or older"
         ]
     },
     {
@@ -1180,7 +1230,7 @@
         "usphone": "ˈfrʌstreɪtɪŋ",
         "ukphone": "frʌˈstreɪtɪŋ",
         "trans": [
-            "令人泄气的, 使人沮丧的"
+            "adj. discouraging by hindering"
         ]
     },
     {
@@ -1188,7 +1238,7 @@
         "usphone": "ˈkreɪzi",
         "ukphone": "ˈkreɪzi",
         "trans": [
-            "发疯的"
+            "adj. affected with madness or insanity; foolish; totally unsound"
         ]
     },
     {
@@ -1196,7 +1246,8 @@
         "usphone": "draɪv",
         "ukphone": "draɪv",
         "trans": [
-            "逼迫, 迫使"
+            "v. operate or control a vehicle; travel or be transported in a vehicle",
+            "n. the act of applying force to propel something; a mechanism by which force or power is transmitted in a machine"
         ]
     },
     {
@@ -1204,7 +1255,7 @@
         "usphone": "ˈbeɪsɪk",
         "ukphone": "ˈbeɪsɪk",
         "trans": [
-            "基本的, 基础的"
+            "adj. pertaining to or constituting a base or basis; reduced to the simplest and most significant form possible without loss of generality"
         ]
     },
     {
@@ -1212,7 +1263,8 @@
         "usphone": "ˈpækɪdʒ",
         "ukphone": "ˈpækɪdʒ",
         "trans": [
-            "包裹"
+            "n. a collection of things wrapped or boxed together; a wrapped container",
+            "v. put into a box"
         ]
     },
     {
@@ -1220,7 +1272,8 @@
         "usphone": "ˈpriːmiəm",
         "ukphone": "ˈpriːmiəm",
         "trans": [
-            "高价的,优质的"
+            "n. payment for insurance",
+            "adj. having or reflecting superior quality or value"
         ]
     },
     {
@@ -1228,7 +1281,7 @@
         "usphone": "ˈkwɑːləti",
         "ukphone": "ˈkwɒləti",
         "trans": [
-            "质量, 品质"
+            "n. an essential and distinguishing attribute of something or someone; a degree or grade of excellence or worth"
         ]
     },
     {
@@ -1236,7 +1289,8 @@
         "usphone": "ˈvæljuː",
         "ukphone": "ˈvæljuː",
         "trans": [
-            "价值, 价格"
+            "n. a numerical quantity measured or assigned or computed; the quality (positive or negative) that renders something desirable or valuable",
+            "v. fix or determine the value of; assign a value to; hold dear"
         ]
     },
     {
@@ -1244,7 +1298,8 @@
         "usphone": "niːd",
         "ukphone": "niːd",
         "trans": [
-            "需要, 必要, 需求, 要求"
+            "v. require as useful, just, or proper; have need of",
+            "n. a condition requiring relief; anything that is necessary but lacking"
         ]
     },
     {
@@ -1252,7 +1307,7 @@
         "usphone": "ˈdɪfrənt",
         "ukphone": "ˈdɪfrənt",
         "trans": [
-            "不同的, 各种各样的"
+            "adj. unlike in nature or quality or form or degree; distinctly separate from the first"
         ]
     },
     {
@@ -1260,7 +1315,7 @@
         "usphone": "ˈsɪmələr",
         "ukphone": "ˈsɪmələ(r)",
         "trans": [
-            "相似的, 类似的"
+            "adj. marked by correspondence or resemblance; having the same or similar characteristics"
         ]
     },
     {
@@ -1268,7 +1323,7 @@
         "usphone": "ˈmeɡəbɪt",
         "ukphone": "ˈmeɡəbɪt",
         "trans": [
-            "兆位,百万比特"
+            "n. a unit of information equal to 1000 kilobits or 10^6 (1,000,000) bits"
         ]
     },
     {
@@ -1276,7 +1331,8 @@
         "usphone": "laɪn",
         "ukphone": "laɪn",
         "trans": [
-            "电话线, 热线"
+            "n. a formation of people or things one beside another; a mark that is long relative to its width",
+            "v. be in line with; form a line along; cover the interior of"
         ]
     },
     {
@@ -1284,7 +1340,8 @@
         "usphone": "plæn",
         "ukphone": "plæn",
         "trans": [
-            "计划, 规划, 安排"
+            "v. have the will and intention to carry out some action; make plans for something",
+            "n. a series of steps to be carried out or goals to be accomplished; an arrangement scheme"
         ]
     },
     {
@@ -1292,7 +1349,7 @@
         "usphone": "ˈpeɪmənt",
         "ukphone": "ˈpeɪmənt",
         "trans": [
-            "付款"
+            "n. a sum of money paid or a claim discharged; the act of paying money"
         ]
     },
     {
@@ -1300,7 +1357,8 @@
         "usphone": "ˈreɡjələr",
         "ukphone": "ˈreɡjələ(r)",
         "trans": [
-            "有规律的, 规则的"
+            "adj. in accordance with fixed order or procedure or principle; often used as intensifiers",
+            "n. a regular patron"
         ]
     },
     {
@@ -1308,7 +1366,7 @@
         "usphone": "ˈteknɪkl",
         "ukphone": "ˈteknɪkl",
         "trans": [
-            "技术的"
+            "adj. of or relating to technique or proficiency in a practical skill; characterizing or showing skill in or specialized knowledge of applied arts and sciences"
         ]
     },
     {
@@ -1316,7 +1374,8 @@
         "usphone": "səˈpɔːrt",
         "ukphone": "səˈpɔːt",
         "trans": [
-            "技术支持"
+            "v. give moral or psychological support, aid, or courage to; support materially or financially",
+            "n. the activity of providing for or maintaining by supplying with money or necessities; aiding the cause or policy or interests of"
         ]
     },
     {
@@ -1324,7 +1383,8 @@
         "usphone": "ˈkʌvər",
         "ukphone": "ˈkʌvə(r)",
         "trans": [
-            "包含, 涉及, 涵盖"
+            "v. provide with a covering or cause to be covered; form a cover over",
+            "n. a covering that serves to conceal or shelter something; bedding that keeps a person warm in bed"
         ]
     },
     {
@@ -1332,7 +1392,9 @@
         "usphone": "miːn",
         "ukphone": "miːn",
         "trans": [
-            "用意"
+            "v. mean or intend to express or convey; have as a logical consequence",
+            "adj. approximating the statistical norm or average or expected value; characterized by malice",
+            "n. an average of n numbers computed by adding some function of the numbers and dividing by some function of n"
         ]
     },
     {
@@ -1340,7 +1402,7 @@
         "usphone": "ˈkænsl",
         "ukphone": "ˈkænsl",
         "trans": [
-            "取消"
+            "v. postpone indefinitely or annul something that was scheduled"
         ]
     },
     {
@@ -1348,7 +1410,8 @@
         "usphone": "ˈnoʊtɪs",
         "ukphone": "ˈnəʊtɪs",
         "trans": [
-            "提前通知, 预告, 事先声明"
+            "v. discover or determine the existence, presence, or fact of; notice or perceive",
+            "n. an announcement containing information about an event; \"a notice of sale; the act of noticing or paying attention"
         ]
     },
     {
@@ -1356,7 +1419,8 @@
         "usphone": "ˈkɑːntrækt",
         "ukphone": "ˈkɒntrækt",
         "trans": [
-            "合同"
+            "n. a binding agreement between two or more persons that is enforceable by law",
+            "v. enter into a contractual arrangement; engage by written agreement"
         ]
     },
     {
@@ -1364,7 +1428,7 @@
         "usphone": "ˌʌpˈɡreɪd",
         "ukphone": "ˌʌpˈɡreɪd",
         "trans": [
-            "升级; 更新, 安装程序更新的版本或用更新的零件替换系统零件 (计算机用语)"
+            "v. rate higher; raise in value or esteem; to improve what was old or outdated"
         ]
     },
     {
@@ -1372,7 +1436,7 @@
         "usphone": "əˈlaʊ",
         "ukphone": "əˈlaʊ",
         "trans": [
-            "准许, 许可"
+            "v. make it possible through a specific action or lack of action for something to happen; consent to, give permission"
         ]
     }
 ]

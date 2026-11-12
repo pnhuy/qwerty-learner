@@ -2,7 +2,7 @@
   {
     "name": "I",
     "trans": [
-      "adv.我"
+      "pron. the speaker or writer, used as the subject of a verb"
     ]
   },
   {
@@ -14,31 +14,31 @@
   {
     "name": "aah",
     "trans": [
-      "adv.啊"
+      "v. express admiration and pleasure by uttering 'ooh' or 'aah'"
     ]
   },
   {
     "name": "hello",
     "trans": [
-      "adv.你好"
+      "n. an expression of greeting"
     ]
   },
   {
     "name": "ooh",
     "trans": [
-      "adv.嗬"
+      "v. express admiration and pleasure by uttering 'ooh' or 'aah'"
     ]
   },
   {
     "name": "goodbye",
     "trans": [
-      "adv.再见"
+      "n. a farewell remark"
     ]
   },
   {
     "name": "are",
     "trans": [
-      "adv.是"
+      "v. present tense of \"be\" used with we, you, they"
     ]
   },
   {
@@ -50,49 +50,50 @@
   {
     "name": "good",
     "trans": [
-      "adv.好的"
+      "adv. (often used as a combining form) in a good or proper or satisfactory manner or to a high standard ('good' is a nonstandard dialectal variant for 'well')"
     ]
   },
   {
     "name": "morning",
     "trans": [
-      "adv.早晨，上午"
+      "n. the time period between dawn and noon; a conventional expression of greeting or farewell"
     ]
   },
   {
     "name": "fine",
     "trans": [
-      "adv.健康的"
+      "adv. an expression of agreement normally occurring at the beginning of a sentence; in a delicate manner"
     ]
   },
   {
     "name": "thank",
     "trans": [
-      "adv.谢谢"
+      "v. express gratitude or show appreciation to"
     ]
   },
   {
     "name": "you ",
     "trans": [
-      "adv.你；你们"
+      "pron. the person or people being addressed",
+      "pron. any person; people in general"
     ]
   },
   {
     "name": "Ms",
     "trans": [
-      "adv.女士"
+      "n. a chronic progressive nervous disorder involving loss of myelin sheath around certain nerve fibers"
     ]
   },
   {
     "name": "boy",
     "trans": [
-      "adv.男孩"
+      "n. a youthful male person; a friendly informal reference to a grown man"
     ]
   },
   {
     "name": "girl",
     "trans": [
-      "adv.女孩"
+      "n. a young woman; a youthful female person"
     ]
   },
   {
@@ -104,13 +105,13 @@
   {
     "name": "and",
     "trans": [
-      "adv.那么；和"
+      "conj. used to connect words, phrases or clauses; in addition to"
     ]
   },
   {
     "name": "too",
     "trans": [
-      "adv.也"
+      "adv. to a degree exceeding normal or proper limits; in addition"
     ]
   },
   {
@@ -122,7 +123,8 @@
   {
     "name": "what",
     "trans": [
-      "adv.什么"
+      "pron. / det. asking for information about something",
+      "pron. the thing(s) that"
     ]
   },
   {
@@ -134,121 +136,127 @@
   {
     "name": "your",
     "trans": [
-      "adv.你的；你们的"
+      "det. belonging to or associated with the person or people being addressed"
     ]
   },
   {
     "name": "name",
     "trans": [
-      "adv.名字"
+      "n. a language unit by which a person or thing is known; a person's reputation",
+      "v. assign a specified (usually proper) proper name to"
     ]
   },
   {
     "name": "please",
     "trans": [
-      "adv.请"
+      "adv. used in polite request"
     ]
   },
   {
     "name": "afternoon",
     "trans": [
-      "adv.下午"
+      "n. the part of the day between noon and evening; a conventional expression of greeting or farewell"
     ]
   },
   {
     "name": "Mr",
     "trans": [
-      "adv.先生"
+      "n. a form of address for a man"
     ]
   },
   {
     "name": "point",
     "trans": [
-      "adv.指"
+      "n. a geometric element that has position but no extension; the precise location of something; a spatially limited location",
+      "v. indicate a place, direction, person, or thing; either spatially or figuratively; be oriented"
     ]
   },
   {
     "name": "to",
     "trans": [
-      "adv.向......"
+      "prep. in the direction of; towards",
+      "prep. used before a verb to form the infinitive"
     ]
   },
   {
     "name": "the",
     "trans": [
-      "adv.这(那)个，这(那)些"
+      "art. used before a noun to refer to a particular, known or unique person or thing"
     ]
   },
   {
     "name": "door",
     "trans": [
-      "adv.门"
+      "n. a swinging or sliding barrier that will close the entrance to a room or building or vehicle"
     ]
   },
   {
     "name": "sit",
     "trans": [
-      "adv.坐"
+      "v. be seated; be around, often idly or without specific purpose"
     ]
   },
   {
     "name": "down",
     "trans": [
-      "adv.向下"
+      "adv. spatially or metaphorically from a higher to a lower level or position; away from a more central or a more northerly place"
     ]
   },
   {
     "name": "stand",
     "trans": [
-      "adv.站"
+      "v. be standing; be upright; be in some specified state or condition",
+      "n. a support or foundation; the position where a thing or person stands"
     ]
   },
   {
     "name": "up",
     "trans": [
-      "adv.向上"
+      "adv. spatially or metaphorically from a lower to a higher position"
     ]
   },
   {
     "name": "window",
     "trans": [
-      "adv.窗户"
+      "n. a framework of wood or metal that contains a glass windowpane and is built into a wall or roof to admit light or air"
     ]
   },
   {
     "name": "blackboard",
     "trans": [
-      "adv.黑板"
+      "n. sheet of slate; for writing with chalk"
     ]
   },
   {
     "name": "bird",
     "trans": [
-      "adv.鸟"
+      "n. warm-blooded egg-laying vertebrates characterized by feathers and forelimbs modified as wings; the flesh of a bird or fowl (wild or domestic) used as food"
     ]
   },
   {
     "name": "tweet",
     "trans": [
-      "adv.鸟(啾啾的声音)"
+      "n. a weak chirping sound as of a small bird",
+      "v. make a weak, chirping sound"
     ]
   },
   {
     "name": "desk",
     "trans": [
-      "adv.书桌"
+      "n. a piece of furniture with a writing surface and usually drawers or other compartments"
     ]
   },
   {
     "name": "chair",
     "trans": [
-      "adv.椅子"
+      "n. a seat for one person, with a support for the back; the position of professor"
     ]
   },
   {
     "name": "it ",
     "trans": [
-      "adv.它"
+      "pron. a thing, animal or situation previously mentioned or easily identified",
+      "pron. used as an empty subject (e.g. it is raining)"
     ]
   },
   {
@@ -260,31 +268,37 @@
   {
     "name": "red",
     "trans": [
-      "adv.红色的"
+      "adj. of a color at the end of the color spectrum (next to orange); resembling the color of blood or cherries or tomatoes or rubies",
+      "n. red color or pigment; the chromatic color resembling the hue of blood"
     ]
   },
   {
     "name": "look",
     "trans": [
-      "adv.看"
+      "v. perceive with attention; direct one's gaze towards; give a certain impression or have a certain outward aspect",
+      "n. the feelings expressed on a person's face; the act of directing the eyes toward something and perceiving it visually"
     ]
   },
   {
     "name": "wow",
     "trans": [
-      "adv.呀，哇"
+      "n. a joke that seems extremely funny",
+      "v. impress greatly"
     ]
   },
   {
     "name": "yellow",
     "trans": [
-      "adv.黄色的"
+      "adj. of the color intermediate between green and orange in the color spectrum; of something resembling the color of an egg yolk; easily frightened",
+      "n. yellow color or pigment; the chromatic color resembling the hue of sunflowers or ripe lemons",
+      "v. turn yellow"
     ]
   },
   {
     "name": "blue",
     "trans": [
-      "adv.蓝色的"
+      "adj. of the color intermediate between green and violet; having a color similar to that of a clear unclouded sky",
+      "n. blue color or pigment; resembling the color of the clear sky in the daytime; blue clothing"
     ]
   },
   {
@@ -296,205 +310,224 @@
   {
     "name": "chameleon",
     "trans": [
-      "adv.变色龙"
+      "n. a changeable or inconstant person"
     ]
   },
   {
     "name": "my",
     "trans": [
-      "adv.我的"
+      "det. belonging to or associated with the speaker"
     ]
   },
   {
     "name": "panda",
     "trans": [
-      "adv.熊猫"
+      "n. large black-and-white herbivorous mammal of bamboo forests of China and Tibet…"
     ]
   },
   {
     "name": "now",
     "trans": [
-      "adv.现在"
+      "adv. in the historical present; at this point in the narration of a series of past events; in these times"
     ]
   },
   {
     "name": "green",
     "trans": [
-      "adv.绿色的"
+      "adj. of the color between blue and yellow in the color spectrum; similar to the color of fresh grass",
+      "n. green color or pigment; resembling the color of growing grass; a piece of open land for recreational use in an urban area"
     ]
   },
   {
     "name": "black",
     "trans": [
-      "adv.黑色的"
+      "adj. being of the achromatic color of maximum darkness; having little or no hue owing to absorption of almost all incident light",
+      "n. the quality or state of the achromatic color of least lightness (bearing the least resemblance to white)"
     ]
   },
   {
     "name": "dog",
     "trans": [
-      "adv.狗"
+      "n. a member of the genus Canis (probably descended from the common wolf) that has been domesticated by man since prehistoric times; occurs in many breeds",
+      "v. go after with the intent to catch"
     ]
   },
   {
     "name": "cat",
     "trans": [
-      "adv.猫"
+      "n. feline mammal usually having thick soft fur and no ability to roar: domestic cats; wildcats"
     ]
   },
   {
     "name": "cap",
     "trans": [
-      "adv.帽子"
+      "n. a tight-fitting headdress; a top (as for a bottle)",
+      "v. lie at the top of"
     ]
   },
   {
     "name": "how many",
     "trans": [
-      "adv.多少"
+      "phr. used to ask about a number"
     ]
   },
   {
     "name": "one",
     "trans": [
-      "adv.一"
+      "adj. used of a single unit or thing; not two or more; having the indivisible character of a unit",
+      "n. the smallest whole number or a numeral representing this number; a single person or thing"
     ]
   },
   {
     "name": "two",
     "trans": [
-      "adv.二"
+      "adj. being one more than one",
+      "n. the cardinal number that is the sum of one and one or a numeral representing this number"
     ]
   },
   {
     "name": "three",
     "trans": [
-      "adv.三"
+      "adj. being one more than two",
+      "n. the cardinal number that is the sum of one and one and one"
     ]
   },
   {
     "name": "four",
     "trans": [
-      "adv.四"
+      "prep. intended to belong to or be used by",
+      "prep. in order to help or benefit",
+      "prep. during (a period of time); in place of"
     ]
   },
   {
     "name": "five",
     "trans": [
-      "adv.五"
+      "adj. being one more than four",
+      "n. the cardinal number that is the sum of four and one"
     ]
   },
   {
     "name": "six",
     "trans": [
-      "adv.六"
+      "adj. denoting a quantity consisting of six items or units",
+      "n. the cardinal number that is the sum of five and one"
     ]
   },
   {
     "name": "seven",
     "trans": [
-      "adv.七"
+      "adj. being one more than six",
+      "n. the cardinal number that is the sum of six and one"
     ]
   },
   {
     "name": "eight",
     "trans": [
-      "adv.八"
+      "adj. being one more than seven"
     ]
   },
   {
     "name": "nine",
     "trans": [
-      "adv.九"
+      "adj. denoting a quantity consisting of one more than eight and one less than ten",
+      "n. the cardinal number that is the sum of eight and one"
     ]
   },
   {
     "name": "oh",
     "trans": [
-      "adv.哦，噢"
+      "n. a midwestern state in north central United States in the Great Lakes region"
     ]
   },
   {
     "name": "ten",
     "trans": [
-      "adv.十"
+      "adj. being one more than nine",
+      "n. the cardinal number that is the sum of nine and one; the base of the decimal system"
     ]
   },
   {
     "name": "eleven",
     "trans": [
-      "adv.十一"
+      "adj. being one more than ten"
     ]
   },
   {
     "name": "twelve",
     "trans": [
-      "adv.十二"
+      "adj. denoting a quantity consisting of 12 items or units",
+      "n. the cardinal number that is the sum of eleven and one"
     ]
   },
   {
     "name": "happy",
     "trans": [
-      "adv.快乐的"
+      "adj. enjoying or showing or marked by joy or pleasure; marked by good fortune"
     ]
   },
   {
     "name": "birthday",
     "trans": [
-      "adv.生日"
+      "n. an anniversary of the day on which a person was born (or the celebration of it); the date on which a person was born"
     ]
   },
   {
     "name": "here",
     "trans": [
-      "adv.这里"
+      "adv. in or at this place; where the speaker or writer is; in this circumstance or respect or on this point or detail"
     ]
   },
   {
     "name": "present",
     "trans": [
-      "adv.礼物"
+      "v. give an exhibition of to an interested audience; bring forward and present to the mind",
+      "adj. temporal sense; intermediate between past and future; now existing or happening or in consideration; being or existing in a specified place",
+      "n. the period of time that is happening now; any continuous stretch of time including the moment of speech; something presented as a gift"
     ]
   },
   {
     "name": "this",
     "trans": [
-      "adv.这个"
+      "det. / pron. the person or thing near the speaker or just mentioned",
+      "adv. to this degree; so"
     ]
   },
   {
     "name": "pencil",
     "trans": [
-      "adv.铅笔"
+      "n. a thin cylindrical pointed writing implement; a rod of marking substance encased in wood"
     ]
   },
   {
     "name": "pen",
     "trans": [
-      "adv.钢笔"
+      "n. a writing implement with a point from which ink flows; an enclosure for confining livestock",
+      "v. produce a literary work"
     ]
   },
   {
     "name": "cake",
     "trans": [
-      "adv.蛋糕"
+      "n. a block of solid substance (such as soap or wax)"
     ]
   },
   {
     "name": "old",
     "trans": [
-      "adv.岁的"
+      "adj. (used especially of persons) having lived for a relatively long time or attained a specific age; of long duration; not new"
     ]
   },
   {
     "name": "how old",
     "trans": [
-      "adv.多大"
+      "phr. used to ask about someone's age"
     ]
   },
   {
     "name": "yes",
     "trans": [
-      "adv.是的"
+      "adv. used to give an affirmative answer"
     ]
   },
   {
@@ -506,91 +539,98 @@
   {
     "name": "teacher",
     "trans": [
-      "adv.教师"
+      "n. a person whose occupation is teaching; a personified abstraction that teaches"
     ]
   },
   {
     "name": "pupil",
     "trans": [
-      "adv.小学生"
+      "n. a learner who is enrolled in an educational institution; the contractile aperture in the center of the iris of the eye; resembles a large black dot"
     ]
   },
   {
     "name": "school",
     "trans": [
-      "adv.学校"
+      "n. an educational institution; a building where young people receive education",
+      "v. educate in or as if in a school"
     ]
   },
   {
     "name": "classroom",
     "trans": [
-      "adv.教室"
+      "n. a room in a school where lessons take place"
     ]
   },
   {
     "name": "English",
     "trans": [
-      "adv.英语"
+      "adj. of or relating to or characteristic of England or its culture or people",
+      "n. an Indo-European language belonging to the West Germanic branch; the official language of Britain and the United States and most of the commonwealth countries"
     ]
   },
   {
     "name": "that",
     "trans": [
-      "adv.那个"
+      "det. / pron. the person or thing farther away or already mentioned",
+      "conj. introducing a clause (e.g. I know that he left)",
+      "adv. to that degree; so"
     ]
   },
   {
     "name": "say",
     "trans": [
-      "adv.说"
+      "v. express in words; report or maintain"
     ]
   },
   {
     "name": "again",
     "trans": [
-      "adv.再一次"
+      "adv. anew"
     ]
   },
   {
     "name": "schoolbag",
     "trans": [
-      "adv.书包"
+      "n. a bag for carrying school books and supplies"
     ]
   },
   {
     "name": "ball",
     "trans": [
-      "adv.球"
+      "n. round object that is hit or thrown or kicked in games; a solid projectile that is shot by a musket",
+      "v. form into a ball by winding or rolling"
     ]
   },
   {
     "name": "book",
     "trans": [
-      "adv.书"
+      "n. a written work or composition that has been published (printed on pages bound together); physical objects consisting of a number of pages bound together",
+      "v. engage for a performance; arrange for and reserve (something for someone else) in advance"
     ]
   },
   {
     "name": "monster",
     "trans": [
-      "adv.怪物"
+      "n. an imaginary creature usually having various human and animal parts; someone or something that is abnormally large and powerful"
     ]
   },
   {
     "name": "new",
     "trans": [
-      "adv.新的"
+      "adv. very recently"
     ]
   },
   {
     "name": "kite",
     "trans": [
-      "adv.风筝"
+      "n. a bank check that has been fraudulently altered to increase its face value",
+      "v. increase the amount (of a check) fraudulently"
     ]
   },
   {
     "name": "or",
     "trans": [
-      "adv.或者"
+      "conj. used to link alternatives"
     ]
   },
   {
@@ -602,13 +642,14 @@
   {
     "name": "know",
     "trans": [
-      "adv.知道"
+      "v. be cognizant or aware of a fact or a specific piece of information; possess knowledge or information about; know how to do or perform something"
     ]
   },
   {
     "name": "no",
     "trans": [
-      "adv.不"
+      "det. not any",
+      "adv. used to give a negative answer"
     ]
   },
   {
@@ -620,67 +661,73 @@
   {
     "name": "help",
     "trans": [
-      "adv.救命(呼救用语）"
+      "v. give help or assistance; be of service; improve the condition of",
+      "n. the activity of contributing to the fulfillment of a need or furtherance of an effort or purpose"
     ]
   },
   {
     "name": "where",
     "trans": [
-      "adv.哪里"
+      "adv. in or to what place",
+      "conj. at, in or to the place in which"
     ]
   },
   {
     "name": "in",
     "trans": [
-      "adv.在......里"
+      "prep. inside; contained by; during",
+      "adv. into a place; at home"
     ]
   },
   {
     "name": "bag",
     "trans": [
-      "adv.包"
+      "n. a flexible container with a single opening; the quantity of game taken in a particular period (usually by one person)",
+      "v. capture or kill, as in hunting"
     ]
   },
   {
     "name": "mother",
     "trans": [
-      "adv.母亲"
+      "n. a woman who has given birth to a child (also used as a term of address to your mother)",
+      "v. care for like a mother"
     ]
   },
   {
     "name": "father",
     "trans": [
-      "adv.父亲"
+      "n. a male parent (also used as a term of address to your father); the founder of a family",
+      "v. make children"
     ]
   },
   {
     "name": "sister",
     "trans": [
-      "adv.姐妹"
+      "n. a female person who has the same parents as another person"
     ]
   },
   {
     "name": "brother",
     "trans": [
-      "adv.兄弟"
+      "n. a male with the same parents as someone else; a male person who is a fellow member (of a fraternity or religion or other group)"
     ]
   },
   {
     "name": "she",
     "trans": [
-      "adv.她"
+      "pron. a female person or animal previously mentioned"
     ]
   },
   {
     "name": "grandpa",
     "trans": [
-      "adv.祖父；外祖父"
+      "n. the father of your father or mother"
     ]
   },
   {
     "name": "grandma",
     "trans": [
-      "adv.祖母；外祖母"
+      "n. the mother of your father or mother"
     ]
   },
   {
@@ -692,7 +739,7 @@
   {
     "name": "me",
     "trans": [
-      "adv.我"
+      "pron. the speaker or writer, used as the object of a verb or preposition"
     ]
   },
   {
@@ -704,103 +751,116 @@
   {
     "name": "doctor",
     "trans": [
-      "adv.医生"
+      "n. a licensed medical practitioner",
+      "v. alter and make impure, as with the intention to deceive; give medical treatment to"
     ]
   },
   {
     "name": "policeman",
     "trans": [
-      "adv.警察"
+      "n. a member of a police force"
     ]
   },
   {
     "name": "nurse",
     "trans": [
-      "adv.护士"
+      "n. one skilled in caring for young children or the sick (usually under the supervision of a physician); a woman who is the custodian of children",
+      "v. try to cure by special care of treatment, of an illness or injury; maintain (a theory, thoughts, or feelings)"
     ]
   },
   {
     "name": "driver",
     "trans": [
-      "adv.司机"
+      "n. the operator of a motor vehicle"
     ]
   },
   {
     "name": "farmer",
     "trans": [
-      "adv.农民"
+      "n. a person who operates a farm"
     ]
   },
   {
     "name": "his",
     "trans": [
-      "adv.他的"
+      "det. belonging to or associated with a male person previously mentioned",
+      "pron. the one(s) belonging to him"
     ]
   },
   {
     "name": "head",
     "trans": [
-      "adv.头"
+      "n. the upper part of the human body or the front part of the body in animals; contains the face and brains; a single domestic animal",
+      "v. to go or travel towards; be in charge of"
     ]
   },
   {
     "name": "leg",
     "trans": [
-      "adv.腿"
+      "n. a human limb; commonly used to refer to a whole limb but technically only the part of the limb between the knee and ankle"
     ]
   },
   {
     "name": "foot",
     "trans": [
-      "adv.脚"
+      "n. the part of the leg of a human being below the ankle joint; a linear unit of length equal to 12 inches or a third of a yard",
+      "v. pay for something"
     ]
   },
   {
     "name": "on",
     "trans": [
-      "adv.在......上"
+      "prep. touching and supported by the top surface of",
+      "prep. about; concerning; on a particular day",
+      "adv. continuing; in operation"
     ]
   },
   {
     "name": "arm",
     "trans": [
-      "adv.胳膊"
+      "n. a human limb; technically the part of the superior limb between the shoulder and the elbow but commonly used to refer to the whole superior limb",
+      "v. prepare oneself for a military confrontation; supply with arms"
     ]
   },
   {
     "name": "hand",
     "trans": [
-      "adv.手"
+      "n. the (prehensile) extremity of the superior limb; a hired laborer on a farm or ranch",
+      "v. place into the hands or custody of"
     ]
   },
   {
     "name": "her",
     "trans": [
-      "adv.她的"
+      "pron. a female person or animal, as the object of a verb or preposition",
+      "det. belonging to or associated with a female person previously mentioned"
     ]
   },
   {
     "name": "nose",
     "trans": [
-      "adv.鼻子"
+      "n. the organ of smell and entrance to the respiratory tract; the prominent part of the face of man or other mammals",
+      "v. search or inquire in a meddlesome way; advance the forward part of with caution"
     ]
   },
   {
     "name": "eye",
     "trans": [
-      "adv.眼睛"
+      "n. the organ of sight; good discernment (either visually or as if visually)",
+      "v. look at"
     ]
   },
   {
     "name": "mouth",
     "trans": [
-      "adv.嘴"
+      "n. the opening through which food is taken in and vocalizations emerge",
+      "v. express in speech; articulate silently; form words with the lips only"
     ]
   },
   {
     "name": "ear",
     "trans": [
-      "adv.耳朵"
+      "n. the sense organ for hearing and equilibrium; good hearing"
     ]
   }
 ]

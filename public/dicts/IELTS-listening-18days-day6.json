@@ -1,310 +1,464 @@
 [
     {
         "name": "deliver",
-        "trans": ["v. 递送"]
+        "trans": [
+            "v. deliver (a speech, oration, or idea); bring to a destination, make a delivery"
+        ]
     },
     {
         "name": "purse",
-        "trans": ["n. 钱包"]
+        "trans": [
+            "n. a container used for carrying money and small personal items or accessories (especially by women); a sum of money spoken of as the contents of a money purse"
+        ]
     },
     {
         "name": "suit",
-        "trans": ["n. 套装"]
+        "trans": [
+            "n. a set of garments (usually including a jacket and trousers or skirt) for outerwear all of the same fabric and color"
+        ]
     },
     {
         "name": "brick",
-        "trans": ["n. 砖块"]
+        "trans": [
+            "n. rectangular block of clay baked by the sun or in a kiln; used as a building or paving material; a good fellow; helpful and trustworthy"
+        ]
     },
     {
         "name": "assignment",
-        "trans": ["n. 作业"]
+        "trans": [
+            "n. a duty that you are assigned to perform (especially in the armed forces)"
+        ]
     },
     {
         "name": "register",
-        "trans": ["v. 注册"]
+        "trans": [
+            "v. record in writing; enter into a book of names or events or transactions; record in a public office or in a court of law"
+        ]
     },
     {
         "name": "research",
-        "trans": ["n./v. 研究"]
+        "trans": [
+            "n. systematic investigation to establish facts; a search for knowledge"
+        ]
     },
     {
         "name": "soil",
-        "trans": ["n. 土壤"]
+        "trans": [
+            "n. the state of being covered with unclean things; the part of the earth's surface consisting of humus and disintegrated rock"
+        ]
     },
     {
         "name": "residence",
-        "trans": ["n. 住处，住宅"]
+        "trans": [
+            "n. any address at which you dwell more than temporarily; the official house or establishment of an important person (as a sovereign or president)"
+        ]
     },
     {
         "name": "designer",
-        "trans": ["n. 设计师"]
+        "trans": [
+            "n. a person who specializes in designing architectural interiors and their furnishings…"
+        ]
     },
     {
         "name": "board game",
-        "trans": ["n. 桌游"]
+        "trans": [
+            "n. a game played on a specially designed board"
+        ]
     },
     {
         "name": "locker",
-        "trans": ["n. 储物柜"]
+        "trans": [
+            "n. a storage compartment for clothes and valuables; usually it has a lock"
+        ]
     },
     {
         "name": "century",
-        "trans": ["n. 世纪"]
+        "trans": [
+            "n. a period of 100 years"
+        ]
     },
     {
         "name": "agriculture",
-        "trans": ["n. 农业"]
+        "trans": [
+            "n. a large-scale farming enterprise; the practice of cultivating the land or raising stock"
+        ]
     },
     {
         "name": "fair",
-        "trans": ["n. 展览会"]
+        "trans": [
+            "n. a traveling show; having sideshows and rides and games of skill etc."
+        ]
     },
     {
         "name": "region",
-        "trans": ["n. 地区"]
+        "trans": [
+            "n. the extended spatial location of something; a part of an animal that has a special function or is supplied by a given artery or nerve"
+        ]
     },
     {
         "name": "website",
-        "trans": ["n. 网站"]
+        "trans": [
+            "n. a computer connected to the internet that maintains a series of web pages on the World Wide Web"
+        ]
     },
     {
         "name": "formal",
-        "trans": ["adj. 正式的"]
+        "trans": [
+            "adj. being in accord with established forms and conventions and requirements (as e.g. of formal dress); characteristic of or befitting a person in authority"
+        ]
     },
     {
         "name": "log in",
-        "trans": ["v. 登录"]
+        "trans": [
+            "v. enter a computer"
+        ]
     },
     {
         "name": "cover",
-        "trans": ["v. 包括"]
+        "trans": [
+            "v. provide with a covering or cause to be covered; form a cover over"
+        ]
     },
     {
         "name": "development",
-        "trans": ["n. 发展"]
+        "trans": [
+            "n. act of improving by expanding or enlarging or refining"
+        ]
     },
     {
         "name": "shelf",
-        "trans": ["n. 架子"]
+        "trans": [
+            "n. a support that consists of a horizontal surface for holding objects"
+        ]
     },
     {
         "name": "save",
-        "trans": ["v. 节省"]
+        "trans": [
+            "v. save from ruin, destruction, or harm; to keep up and reserve for personal or special use"
+        ]
     },
     {
         "name": "audience",
-        "trans": ["n. 观众"]
+        "trans": [
+            "n. a gathering of spectators or listeners at a (usually public) performance; the part of the general public interested in a source of information or entertainment"
+        ]
     },
     {
         "name": "heat",
-        "trans": ["n. 高温"]
+        "trans": [
+            "n. a form of energy that is transferred by a difference in temperature; the presence of heat"
+        ]
     },
     {
         "name": "indicator",
-        "trans": ["n. 指标"]
+        "trans": [
+            "n. a number or ratio (a value on a scale of measurement) derived from a series of observed facts; can reveal relative changes as a function of time"
+        ]
     },
     {
         "name": "kilogram",
-        "trans": ["n. 公斤"]
+        "trans": [
+            "n. one thousand grams; the basic unit of mass adopted under the Systeme International d'Unites"
+        ]
     },
     {
         "name": "specially",
-        "trans": ["adv. 特别地"]
+        "trans": [
+            "adv. in a special manner; to a distinctly greater extent or degree than is common"
+        ]
     },
     {
         "name": "traditional",
-        "trans": ["adj. 传统的"]
+        "trans": [
+            "adj. consisting of or derived from tradition; pertaining to time-honored orthodox doctrines"
+        ]
     },
     {
         "name": "refund",
-        "trans": ["v. 退还"]
+        "trans": [
+            "v. pay back"
+        ]
     },
     {
         "name": "trip",
-        "trans": ["n. 旅行"]
+        "trans": [
+            "n. a journey for some purpose (usually including the return)"
+        ]
     },
     {
         "name": "sick",
-        "trans": ["n. 病人"]
+        "trans": [
+            "n. people who are sick"
+        ]
     },
     {
         "name": "tap water",
-        "trans": ["n. 自来水"]
+        "trans": [
+            "n. water directly from the spigot"
+        ]
     },
     {
         "name": "destination",
-        "trans": ["n. 目的地"]
+        "trans": [
+            "n. the place designated as the end (as of a race or journey); the ultimate goal for which something is done"
+        ]
     },
     {
         "name": "advance",
-        "trans": ["n. 发展"]
+        "trans": [
+            "n. a movement forward; a change for the better; progress in development"
+        ]
     },
     {
         "name": "match",
-        "trans": ["v. 比赛"]
+        "trans": [
+            "v. be compatible, similar or consistent; coincide in their characteristics; provide funds complementary to"
+        ]
     },
     {
         "name": "length",
-        "trans": ["n. 长度"]
+        "trans": [
+            "n. the linear extent in space from one end to the other; the longest dimension of something that is fixed in place; continuance in time"
+        ]
     },
     {
         "name": "remove",
-        "trans": ["v. 移除"]
+        "trans": [
+            "v. remove something concrete, as by lifting, pushing, or taking off, or remove something abstract; remove from a position or an office"
+        ]
     },
     {
         "name": "change",
-        "trans": ["v. 改变"]
+        "trans": [
+            "v. cause to change; make different; cause a transformation; undergo a change; become different in essence; losing one's or its original nature"
+        ]
     },
     {
         "name": "tools",
-        "trans": ["n. 工具"]
+        "trans": [
+            "n. an implement used in the practice of a vocation; the means whereby some act is accomplished"
+        ]
     },
     {
         "name": "garden",
-        "trans": ["n. 花园"]
+        "trans": [
+            "n. a plot of ground where plants are cultivated; the flowers or vegetables or fruits or herbs that are cultivated in a garden"
+        ]
     },
     {
         "name": "overfill",
-        "trans": ["v. 装满"]
+        "trans": [
+            "v. fill beyond capacity"
+        ]
     },
     {
         "name": "ferry",
-        "trans": ["n. 渡轮"]
+        "trans": [
+            "n. a boat that transports people or vehicles across a body of water and operates on a regular schedule"
+        ]
     },
     {
         "name": "plastic",
-        "trans": ["adj. 塑料的"]
+        "trans": [
+            "adj. capable of being molded or modeled (especially of earth or clay or other soft material)"
+        ]
     },
     {
         "name": "waterproof",
-        "trans": ["adj. 防水的"]
+        "trans": [
+            "adj. not permitting the passage of water"
+        ]
     },
     {
         "name": "station",
-        "trans": ["n. 车站"]
+        "trans": [
+            "n. a facility equipped with special equipment and personnel for a particular purpose"
+        ]
     },
     {
         "name": "dancing",
-        "trans": ["n. 舞蹈"]
+        "trans": [
+            "n. taking a series of rhythmical steps (and movements) in time to music"
+        ]
     },
     {
         "name": "monitor",
-        "trans": ["v. 监视"]
+        "trans": [
+            "v. keep tabs on; keep an eye on; keep under surveillance"
+        ]
     },
     {
         "name": "questionnaire",
-        "trans": ["n. 调查问卷"]
+        "trans": [
+            "n. a form containing a set of questions; submitted to people to gain statistical information"
+        ]
     },
     {
         "name": "silver",
-        "trans": ["n. 银"]
+        "trans": [
+            "n. a soft white precious univalent metallic element having the highest electrical and thermal conductivity of any metal; occurs in argentite and in free form…"
+        ]
     },
     {
         "name": "experiment",
-        "trans": ["n. 实验"]
+        "trans": [
+            "n. the act of conducting a controlled test or investigation; the testing of an idea"
+        ]
     },
     {
         "name": "chip",
-        "trans": ["n. 芯片"]
+        "trans": [
+            "n. a small fragment of something broken off from the whole; a triangular wooden float attached to the end of a log line"
+        ]
     },
     {
         "name": "firewood",
-        "trans": ["n. 柴火"]
+        "trans": [
+            "n. wood used for fuel"
+        ]
     },
     {
         "name": "information",
-        "trans": ["n. 信息"]
+        "trans": [
+            "n. a message received and understood; knowledge acquired through study or experience or instruction"
+        ]
     },
     {
         "name": "prize",
-        "trans": ["n. 奖品"]
+        "trans": [
+            "n. something given for victory or superiority in a contest or competition or for winning a lottery; goods or money obtained illegally"
+        ]
     },
     {
         "name": "inspection",
-        "trans": ["n. 视察"]
+        "trans": [
+            "n. a formal or official examination"
+        ]
     },
     {
         "name": "fee",
-        "trans": ["n. 费用"]
+        "trans": [
+            "n. a fixed charge for a privilege or for professional services"
+        ]
     },
     {
         "name": "budget",
-        "trans": ["n. 预算"]
+        "trans": [
+            "n. a sum of money allocated for a particular purpose; a summary of intended expenditures along with proposals for how to meet them"
+        ]
     },
     {
         "name": "insurance",
-        "trans": ["n. 保险"]
+        "trans": [
+            "n. promise of reimbursement in the case of loss; paid to people or companies so concerned about hazards that they have made prepayments to an insurance company"
+        ]
     },
     {
         "name": "health",
-        "trans": ["n. 健康"]
+        "trans": [
+            "n. a healthy state of wellbeing free from disease"
+        ]
     },
     {
         "name": "land",
-        "trans": ["n. 陆地"]
+        "trans": [
+            "n. the land on which real estate is located"
+        ]
     },
     {
         "name": "labour",
-        "trans": ["n. 劳动力"]
+        "trans": [
+            "n. a social class comprising those who do manual labor or work for wages"
+        ]
     },
     {
         "name": "furniture",
-        "trans": ["n. 家具"]
+        "trans": [
+            "n. furnishings that make a room or other area ready for occupancy"
+        ]
     },
     {
         "name": "feature",
-        "trans": ["n. 特色"]
+        "trans": [
+            "n. a prominent attribute or aspect of something; the characteristic parts of a person's face: eyes and nose and mouth and chin"
+        ]
     },
     {
         "name": "art",
-        "trans": ["n. 艺术"]
+        "trans": [
+            "n. the products of human creativity; works of art collectively; the creation of beautiful or significant things"
+        ]
     },
     {
         "name": "participate",
-        "trans": ["v. 参与"]
+        "trans": [
+            "v. share in something; become a participant; be involved in"
+        ]
     },
     {
         "name": "mixed",
-        "trans": ["adj. 混合的"]
+        "trans": [
+            "adj. consisting of a haphazard assortment of different kinds; involving or composed of different races"
+        ]
     },
     {
         "name": "attend",
-        "trans": ["v. 出席"]
+        "trans": [
+            "v. be present at (meetings, church services, university), etc.; take charge of or deal with"
+        ]
     },
     {
         "name": "assignment",
-        "trans": ["n. 作业"]
+        "trans": [
+            "n. a duty that you are assigned to perform (especially in the armed forces)"
+        ]
     },
     {
         "name": "government",
-        "trans": ["n. 政府"]
+        "trans": [
+            "n. the organization that is the governing authority of a political unit; the act of governing; exercising authority"
+        ]
     },
     {
         "name": "fund",
-        "trans": ["n. 资助"]
+        "trans": [
+            "n. a reserve of money set aside for some purpose; a supply of something available for future use"
+        ]
     },
     {
         "name": "salary",
-        "trans": ["n. 工资"]
+        "trans": [
+            "n. something that remunerates"
+        ]
     },
     {
         "name": "confidence",
-        "trans": ["n. 信心"]
+        "trans": [
+            "n. freedom from doubt; belief in yourself and your abilities; a feeling of trust (in someone or something)"
+        ]
     },
     {
         "name": "register",
-        "trans": ["v. 注册"]
+        "trans": [
+            "v. record in writing; enter into a book of names or events or transactions; record in a public office or in a court of law"
+        ]
     },
     {
         "name": "flexible",
-        "trans": ["adj. 灵活的"]
+        "trans": [
+            "adj. capable of being changed; able to flex; able to bend easily"
+        ]
     },
     {
         "name": "password",
-        "trans": ["n. 密码"]
+        "trans": [
+            "n. a secret word or phrase known only to a restricted group"
+        ]
     },
     {
         "name": "flat",
-        "trans": ["adj. 平的"]
+        "trans": [
+            "adj. having a surface without slope, tilt in which no part is higher or lower than another; having a relatively broad surface in relation to depth or thickness"
+        ]
     }
 ]

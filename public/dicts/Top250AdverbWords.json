@@ -2,7 +2,7 @@
     {
         "name": "not",
         "trans": [
-            "Not means the opposite or the absence of a particular thing or action."
+            "adv. used to make a word, phrase or sentence negative"
         ],
         "usphone": "nɑt",
         "ukphone": "nɒt"
@@ -10,7 +10,7 @@
     {
         "name": "also",
         "trans": [
-            "Also means in addition to something or too."
+            "adv. in addition"
         ],
         "usphone": "'ɔlso",
         "ukphone": "'ɔːlsəʊ"
@@ -18,7 +18,8 @@
     {
         "name": "very",
         "trans": [
-            "Very means to a great extent or degree."
+            "adv. used as intensifiers; 'real' is sometimes used informally for 'really'; 'rattling' is informal; precisely so",
+            "adj. precisely as stated; being the exact same one; not any other:"
         ],
         "usphone": "ˈvɛrɪ",
         "ukphone": "'verɪ"
@@ -26,7 +27,7 @@
     {
         "name": "often",
         "trans": [
-            "Often means many times or frequently."
+            "adv. many times at short intervals; frequently or in great quantities"
         ],
         "usphone": "ˈɔ:fn; ɔfən",
         "ukphone": "'ɒf(tə)n"
@@ -34,7 +35,7 @@
     {
         "name": "however",
         "trans": [
-            "However means on the other hand or nevertheless."
+            "adv. despite anything to the contrary (usually following a concession); by contrast; on the other hand"
         ],
         "usphone": "haʊ'ɛvɚ",
         "ukphone": "haʊ'evə"
@@ -42,7 +43,7 @@
     {
         "name": "too",
         "trans": [
-            "Too means also or in addition, and can also indicate an excess or degree of something."
+            "adv. to a degree exceeding normal or proper limits; in addition"
         ],
         "usphone": "tu",
         "ukphone": "tuː"
@@ -50,7 +51,7 @@
     {
         "name": "usually",
         "trans": [
-            "Usually means normally or typically."
+            "adv. under normal conditions"
         ],
         "usphone": "juʒəlɪ",
         "ukphone": "ˈjuːʒʊəlɪ"
@@ -58,7 +59,7 @@
     {
         "name": "really",
         "trans": [
-            "Really means truly or genuinely."
+            "adv. in accordance with truth or fact or reality; in actual fact"
         ],
         "usphone": "ˈriəˌli, ˈrili",
         "ukphone": "'rɪəlɪ"
@@ -66,7 +67,8 @@
     {
         "name": "early",
         "trans": [
-            "Early means before the usual or expected time."
+            "adj. at or near the beginning of a period of time or course of events or before the usual or expected time; being or occurring at an early stage of development",
+            "adv. during an early stage; before the usual time or the time expected"
         ],
         "usphone": "'ɝli",
         "ukphone": "'ɜːlɪ"
@@ -74,7 +76,7 @@
     {
         "name": "never",
         "trans": [
-            "Never means not at any time or not once."
+            "adv. not ever; at no time in the past or future"
         ],
         "usphone": "'nɛvɚ",
         "ukphone": "'nevə"
@@ -82,7 +84,7 @@
     {
         "name": "always",
         "trans": [
-            "Always means at all times or on every occasion."
+            "adv. at all times; all the time and on every occasion"
         ],
         "usphone": "'ɔlwez",
         "ukphone": "ˈɔ:lweɪz"
@@ -90,7 +92,7 @@
     {
         "name": "sometimes",
         "trans": [
-            "Sometimes means occasionally or from time to time."
+            "adv. on certain occasions or in certain cases but not always"
         ],
         "usphone": "'sʌmtaɪmz",
         "ukphone": "'sʌmtaɪmz"
@@ -98,7 +100,8 @@
     {
         "name": "together",
         "trans": [
-            "Together means in a group or in a cooperative manner."
+            "adv. in contact with each other or in proximity; assembled in one place",
+            "adj. mentally and emotionally stable"
         ],
         "usphone": "tə'ɡɛðɚ",
         "ukphone": "tə'geðə"
@@ -106,7 +109,8 @@
     {
         "name": "likely",
         "trans": [
-            "Likely means probably or with a high probability."
+            "adj. has a good chance of being the case or of coming about; likely but not certain to be or become true or real",
+            "adv. with considerable certainty; without much doubt"
         ],
         "usphone": "'laɪkli",
         "ukphone": "'laɪklɪ"
@@ -114,7 +118,7 @@
     {
         "name": "simply",
         "trans": [
-            "Simply means in a plain or straightforward manner."
+            "adv. and nothing more; absolutely"
         ],
         "usphone": "'sɪmpli",
         "ukphone": "'sɪmplɪ"
@@ -122,7 +126,7 @@
     {
         "name": "generally",
         "trans": [
-            "Generally means usually or commonly."
+            "adv. usually; as a rule; without distinction of one from others"
         ],
         "usphone": "'dʒɛnrəli",
         "ukphone": "'dʒen(ə)rəlɪ"
@@ -130,7 +134,7 @@
     {
         "name": "instead",
         "trans": [
-            "Instead means as an alternative or substitute."
+            "adv. in place of, or as an alternative to; on the contrary"
         ],
         "usphone": "ɪn'stɛd",
         "ukphone": "ɪn'sted"
@@ -138,7 +142,7 @@
     {
         "name": "actually",
         "trans": [
-            "Actually means in reality or in fact."
+            "adv. in actual fact; used to imply that one would expect the fact to be the opposite of that stated; surprisingly"
         ],
         "usphone": "'æktʃuəli",
         "ukphone": "ˈæktʃuəli"
@@ -146,7 +150,7 @@
     {
         "name": "again",
         "trans": [
-            "Again means once more or another time."
+            "adv. anew"
         ],
         "usphone": "əˈɡɛn, əˈɡen",
         "ukphone": "ə'gen; ə'geɪn"
@@ -154,7 +158,7 @@
     {
         "name": "rather",
         "trans": [
-            "Rather means to a certain extent or degree."
+            "adv. on the contrary; to some (great or small) extent"
         ],
         "usphone": "'ræðɚ",
         "ukphone": "'rɑːðə"
@@ -162,7 +166,7 @@
     {
         "name": "almost",
         "trans": [
-            "Almost means nearly or just about."
+            "adv. (of actions or states) slightly short of or not quite accomplished; all but"
         ],
         "usphone": "'ɔlmost",
         "ukphone": "'ɔːlməʊst"
@@ -170,7 +174,7 @@
     {
         "name": "especially",
         "trans": [
-            "Especially means particularly or notably."
+            "adv. to a distinctly greater extent or degree than is common"
         ],
         "usphone": "ɪˈspɛʃlɪ",
         "ukphone": "ɪˈspeʃəlɪ"
@@ -178,7 +182,7 @@
     {
         "name": "ever",
         "trans": [
-            "Ever means at any time or in the course of one's life."
+            "adv. at any time; at all times; all the time and on every occasion"
         ],
         "usphone": "'ɛvɚ",
         "ukphone": "'evə"
@@ -186,7 +190,7 @@
     {
         "name": "quickly",
         "trans": [
-            "Quickly means in a rapid or speedy manner."
+            "adv. with rapid movements; with little or no delay"
         ],
         "usphone": "'kwɪkli",
         "ukphone": "'kwɪklɪ"
@@ -194,7 +198,7 @@
     {
         "name": "probably",
         "trans": [
-            "Probably means likely or with a high probability."
+            "adv. with considerable certainty; without much doubt"
         ],
         "usphone": "'prɑbəbli",
         "ukphone": "'prɒbəblɪ"
@@ -202,7 +206,7 @@
     {
         "name": "already",
         "trans": [
-            "Already means by this time or before the present time."
+            "adv. prior to a specified or implied time"
         ],
         "usphone": "ɔl'rɛdi",
         "ukphone": "ɔːl'redɪ"
@@ -210,7 +214,7 @@
     {
         "name": "below",
         "trans": [
-            "Below means lower or beneath."
+            "prep. / adv. at a lower level than; under"
         ],
         "usphone": "bɪ'lo",
         "ukphone": "bɪ'ləʊ"
@@ -218,7 +222,7 @@
     {
         "name": "directly",
         "trans": [
-            "Directly means immediately or straight."
+            "adv. without deviation; without anyone or anything intervening"
         ],
         "usphone": "dəˈrektli",
         "ukphone": "dɪ'rektlɪ; daɪ-"
@@ -226,7 +230,7 @@
     {
         "name": "therefore",
         "trans": [
-            "Therefore means as a result or consequently."
+            "adv. (used to introduce a logical conclusion) from that fact or reason or as a result"
         ],
         "usphone": "'ðɛrfɔr",
         "ukphone": "'ðerfɔːr"
@@ -234,7 +238,7 @@
     {
         "name": "else",
         "trans": [
-            "Else means otherwise or in addition to."
+            "adv. in addition; besides; different"
         ],
         "usphone": "ɛls",
         "ukphone": "els"
@@ -242,7 +246,7 @@
     {
         "name": "thus",
         "trans": [
-            "Thus means in this way or as a result of this."
+            "adv. (used to introduce a logical conclusion) from that fact or reason or as a result; in the way indicated; ('thusly' is a nonstandard variant)"
         ],
         "usphone": "ðʌs",
         "ukphone": "ðʌs"
@@ -250,7 +254,7 @@
     {
         "name": "easily",
         "trans": [
-            "Easily means with ease or without difficulty."
+            "adv. with ease ('easy' is sometimes used informally for 'easily'); without question"
         ],
         "usphone": "'izəli",
         "ukphone": "'iːzɪlɪ"
@@ -258,7 +262,7 @@
     {
         "name": "eventually",
         "trans": [
-            "Eventually means in the end or finally."
+            "adv. after an unspecified period of time or an especially long delay"
         ],
         "usphone": "ɪ'vɛntʃuəli",
         "ukphone": "ɪ'ventʃʊəlɪ"
@@ -266,7 +270,7 @@
     {
         "name": "exactly",
         "trans": [
-            "Exactly means precisely or accurately."
+            "adv. indicating exactness or preciseness; just as it should be"
         ],
         "usphone": "ɪɡ'zæktli",
         "ukphone": "ɪg'zæk(t)lɪ"
@@ -274,7 +278,7 @@
     {
         "name": "certainly",
         "trans": [
-            "Certainly means without doubt or surely."
+            "adv. definitely or positively ('sure' is sometimes used informally for 'surely')"
         ],
         "usphone": "'sɝtnli",
         "ukphone": "ˈsəːt(ə)nli"
@@ -282,7 +286,7 @@
     {
         "name": "normally",
         "trans": [
-            "Normally means typically or usually."
+            "adv. under normal conditions"
         ],
         "usphone": "'nɔrmli",
         "ukphone": "'nɔːrməli"
@@ -290,7 +294,7 @@
     {
         "name": "currently",
         "trans": [
-            "Currently means at the present time or now."
+            "adv. at this time or period; now"
         ],
         "usphone": "'kɝrəntlɪ",
         "ukphone": "'kʌrəntlɪ"
@@ -298,7 +302,7 @@
     {
         "name": "extremely",
         "trans": [
-            "Extremely means to a great extent or degree."
+            "adv. to a high degree or extent; favorably or with much respect; to an extreme degree"
         ],
         "usphone": "ɪk'strimli",
         "ukphone": "ɪk'striːmlɪ; ek-"
@@ -306,7 +310,7 @@
     {
         "name": "finally",
         "trans": [
-            "Finally means at last or in the end."
+            "adv. after an unspecified period of time or an especially long delay; as the end result of a succession or process"
         ],
         "usphone": "'faɪnlɪ",
         "ukphone": "'faɪnəlɪ"
@@ -314,7 +318,7 @@
     {
         "name": "constantly",
         "trans": [
-            "Constantly means continuously or always."
+            "adv. without variation or change, in every case; without interruption"
         ],
         "usphone": "'kɑnstəntli",
         "ukphone": "'kɒnst(ə)ntlɪ"
@@ -322,7 +326,7 @@
     {
         "name": "properly",
         "trans": [
-            "Properly means correctly or in the appropriate manner."
+            "adv. in the right manner; with reason or justice"
         ],
         "usphone": "'prɑpɚli",
         "ukphone": "'prɒp(ə)lɪ"
@@ -330,7 +334,7 @@
     {
         "name": "soon",
         "trans": [
-            "Soon means in a short time or shortly."
+            "adv. in the near future"
         ],
         "usphone": "sun",
         "ukphone": "suːn"
@@ -338,7 +342,7 @@
     {
         "name": "specifically",
         "trans": [
-            "Specifically means in a precise or detailed manner."
+            "adv. in distinction from others"
         ],
         "usphone": "spə'sɪfɪkli",
         "ukphone": "spɪ'sɪfɪkəlɪ"
@@ -346,7 +350,8 @@
     {
         "name": "ahead",
         "trans": [
-            "Ahead means in front or before."
+            "adv. at or in the front; toward the future; forward in time",
+            "adj. having the leading position or higher score in a contest"
         ],
         "usphone": "ə'hɛd",
         "ukphone": "ə'hed"
@@ -354,7 +359,7 @@
     {
         "name": "daily",
         "trans": [
-            "Daily means occurring every day or on a daily basis."
+            "adv. every day; without missing a day"
         ],
         "usphone": "'delɪ",
         "ukphone": "'deɪlɪ"
@@ -362,7 +367,7 @@
     {
         "name": "highly",
         "trans": [
-            "Highly means to a great degree or extent."
+            "adv. to a high degree or extent; favorably or with much respect"
         ],
         "usphone": "'haɪli",
         "ukphone": "'haɪlɪ"
@@ -370,7 +375,7 @@
     {
         "name": "immediately",
         "trans": [
-            "Immediately means instantly or without delay."
+            "adv. without delay or hesitation; with no time intervening; near or close by"
         ],
         "usphone": "ɪ'midɪətli",
         "ukphone": "ɪ'miːdɪətlɪ"
@@ -378,7 +383,7 @@
     {
         "name": "relatively",
         "trans": [
-            "Relatively means comparatively or to a certain extent."
+            "adv. in a relative manner; by comparison to something else"
         ],
         "usphone": "'rɛlətɪvli",
         "ukphone": "'relətivli"
@@ -386,7 +391,7 @@
     {
         "name": "slowly",
         "trans": [
-            "Slowly means at a low speed or pace."
+            "adv. without speed ('slow' is sometimes used informally for 'slowly')"
         ],
         "usphone": "'sloli",
         "ukphone": "'sləʊlɪ"
@@ -394,7 +399,7 @@
     {
         "name": "fairly",
         "trans": [
-            "Fairly means in a just or impartial manner."
+            "adv. to a moderately sufficient extent or degree; without favoring one party, in a fair evenhanded manner"
         ],
         "usphone": "'fɛrli",
         "ukphone": "'feəlɪ"
@@ -402,7 +407,7 @@
     {
         "name": "primarily",
         "trans": [
-            "Primarily means mainly or principally."
+            "adv. for the most part"
         ],
         "usphone": "praɪ'mɛrəli",
         "ukphone": "'praɪm(ə)rɪlɪ; praɪ'mer-"
@@ -410,7 +415,7 @@
     {
         "name": "completely",
         "trans": [
-            "Completely means entirely or fully."
+            "adv. to a complete degree or to the full or entire extent ('whole' is often used informally for 'wholly'); so as to be complete; with everything necessary"
         ],
         "usphone": "kəm'plitli",
         "ukphone": "kəm'pliːtlɪ"
@@ -418,7 +423,7 @@
     {
         "name": "ultimately",
         "trans": [
-            "Ultimately means finally or in the end."
+            "adv. as the end result of a succession or process"
         ],
         "usphone": "'ʌltɪmətli",
         "ukphone": "'ʌltɪmətlɪ"
@@ -426,7 +431,7 @@
     {
         "name": "widely",
         "trans": [
-            "Widely means extensively or broadly."
+            "adv. to a great degree; to or over a great extent or range; far"
         ],
         "usphone": "'waɪdli",
         "ukphone": "'waɪdlɪ"
@@ -434,7 +439,7 @@
     {
         "name": "recently",
         "trans": [
-            "Recently means in the recent past or lately."
+            "adv. in the recent past"
         ],
         "usphone": "'risntli",
         "ukphone": "'riːsntlɪ"
@@ -442,7 +447,7 @@
     {
         "name": "seriously",
         "trans": [
-            "Seriously means in a serious manner or with sincerity."
+            "adv. in a serious manner; to a severe or serious degree"
         ],
         "usphone": "'sɪrɪəsli",
         "ukphone": "'sɪərɪəslɪ"
@@ -450,7 +455,7 @@
     {
         "name": "frequently",
         "trans": [
-            "Frequently means often or repeatedly."
+            "adv. many times at short intervals"
         ],
         "usphone": "'frikwəntli",
         "ukphone": "'friːkw(ə)ntlɪ"
@@ -458,7 +463,7 @@
     {
         "name": "fully",
         "trans": [
-            "Fully means completely or entirely."
+            "adv. to the greatest degree or extent; completely or entirely; ('full' in this sense is used as a combining form); sufficiently; more than adequately"
         ],
         "usphone": "'fʊli",
         "ukphone": "'fʊlɪ"
@@ -466,7 +471,7 @@
     {
         "name": "mostly",
         "trans": [
-            "Mostly means mainly or for the most part."
+            "adv. in large part; mainly or chiefly; usually; as a rule"
         ],
         "usphone": "'mostli",
         "ukphone": "'məʊs(t)lɪ"
@@ -474,7 +479,7 @@
     {
         "name": "naturally",
         "trans": [
-            "Naturally means in a natural way or without any artificial influence."
+            "adv. as might be expected; according to nature; by natural means; without artificial help"
         ],
         "usphone": "'nætʃrəli",
         "ukphone": "'nætʃrəli"
@@ -482,7 +487,7 @@
     {
         "name": "nearly",
         "trans": [
-            "Nearly means almost or close to."
+            "adv. (of actions or states) slightly short of or not quite accomplished; all but"
         ],
         "usphone": "'nɪrli",
         "ukphone": "'nɪəlɪ"
@@ -490,7 +495,7 @@
     {
         "name": "occasionally",
         "trans": [
-            "Occasionally means sometimes or from time to time."
+            "adv. now and then or here and there"
         ],
         "usphone": "o'keʒənəli",
         "ukphone": "əˈkeɪʒnəli"
@@ -498,7 +503,7 @@
     {
         "name": "carefully",
         "trans": [
-            "Carefully means with care or caution."
+            "adv. taking care or paying attention; as if with kid gloves; with caution or prudence or tact"
         ],
         "usphone": "'kɛrfəli",
         "ukphone": "'keəfəlɪ"
@@ -506,7 +511,7 @@
     {
         "name": "clearly",
         "trans": [
-            "Clearly means in a clear or obvious way."
+            "adv. without doubt or question; in an intelligible manner"
         ],
         "usphone": "'klɪrli",
         "ukphone": "'klɪəlɪ"
@@ -514,7 +519,7 @@
     {
         "name": "essentially",
         "trans": [
-            "Essentially means basically or fundamentally."
+            "adv. in essence; at bottom or by one's (or its) very nature"
         ],
         "usphone": "ɪ'sɛnʃəli",
         "ukphone": "ɪ'senʃəli"
@@ -522,7 +527,7 @@
     {
         "name": "possibly",
         "trans": [
-            "Possibly means maybe or perhaps."
+            "adv. by chance"
         ],
         "usphone": "'pɑsəbli",
         "ukphone": "'pɒsɪblɪ"
@@ -530,7 +535,7 @@
     {
         "name": "slightly",
         "trans": [
-            "Slightly means to a small degree or in a minor way."
+            "adv. to a small degree or extent"
         ],
         "usphone": "'slaɪtli",
         "ukphone": "'slaɪtlɪ"
@@ -538,7 +543,7 @@
     {
         "name": "somewhat",
         "trans": [
-            "Somewhat means to some extent or in a moderate way."
+            "adv. to a small degree or extent; to a moderately sufficient extent or degree"
         ],
         "usphone": "'sʌmwʌt",
         "ukphone": "'sʌmwʌt"
@@ -546,7 +551,7 @@
     {
         "name": "equally",
         "trans": [
-            "Equally means to an equal degree or in a balanced way."
+            "adv. to the same degree (often followed by 'as'); in equal amounts or shares; in a balanced or impartial way"
         ],
         "usphone": "'ikwəli",
         "ukphone": "'iːkw(ə)lɪ"
@@ -554,7 +559,7 @@
     {
         "name": "greatly",
         "trans": [
-            "Greatly means to a large extent or significantly."
+            "adv. to an extraordinary extent or degree"
         ],
         "usphone": "'ɡretli",
         "ukphone": "'greɪtlɪ"
@@ -562,7 +567,7 @@
     {
         "name": "necessarily",
         "trans": [
-            "Necessarily means inevitably or as a logical consequence."
+            "adv. in an essential manner; in such a manner as could not be otherwise"
         ],
         "usphone": ",nɛsə'sɛrəli",
         "ukphone": "'nesəs(ə)rɪlɪ; ,nesə'serɪlɪ"
@@ -570,7 +575,7 @@
     {
         "name": "personally",
         "trans": [
-            "Personally means in a personal or individual manner."
+            "adv. as yourself; as a person"
         ],
         "usphone": "'pə:sənəli",
         "ukphone": "'pɜːs(ə)n(ə)lɪ"
@@ -578,7 +583,7 @@
     {
         "name": "rarely",
         "trans": [
-            "Rarely means seldom or infrequently."
+            "adv. not often"
         ],
         "usphone": "'rɛrli",
         "ukphone": "'reəlɪ"
@@ -586,7 +591,7 @@
     {
         "name": "regularly",
         "trans": [
-            "Regularly means habitually or on a consistent basis."
+            "adv. in a regular manner"
         ],
         "usphone": "'reɡjələli",
         "ukphone": "'reɡjələli"
@@ -594,7 +599,7 @@
     {
         "name": "similarly",
         "trans": [
-            "Similarly means in a similar way or manner."
+            "adv. in like or similar manner"
         ],
         "usphone": "'sɪməlɚli",
         "ukphone": "'sɪmələlɪ"
@@ -602,7 +607,7 @@
     {
         "name": "basically",
         "trans": [
-            "Basically means fundamentally or essentially."
+            "adv. in essence; at bottom or by one's (or its) very nature"
         ],
         "usphone": "'besɪkli",
         "ukphone": "'beɪsɪk(ə)lɪ"
@@ -610,7 +615,7 @@
     {
         "name": "closely",
         "trans": [
-            "Closely means intimately or with close attention."
+            "adv. in a close relation or position in time or space; in an attentive manner"
         ],
         "usphone": "'klosli",
         "ukphone": "'kləʊslɪ"
@@ -618,7 +623,7 @@
     {
         "name": "effectively",
         "trans": [
-            "Effectively means in an effective or successful way."
+            "adv. in an effective manner; in actuality or reality or fact"
         ],
         "usphone": "ɪ'fɛktɪvli",
         "ukphone": "ɪ'fektɪvlɪ"
@@ -626,7 +631,7 @@
     {
         "name": "initially",
         "trans": [
-            "Initially means at first or initially."
+            "adv. at the beginning"
         ],
         "usphone": "ɪ'nɪʃəli",
         "ukphone": "ɪ'nɪʃ(ə)lɪ"
@@ -634,7 +639,7 @@
     {
         "name": "literally",
         "trans": [
-            "Literally means actually or in a literal sense."
+            "adv. in a literal sense; (intensifier before a figurative expression) without exaggeration"
         ],
         "usphone": "'lɪtərəli",
         "ukphone": "'lɪt(ə)rəlɪ"
@@ -642,7 +647,7 @@
     {
         "name": "mainly",
         "trans": [
-            "Mainly means primarily or chiefly."
+            "adv. for the most part"
         ],
         "usphone": "'menli",
         "ukphone": "'meɪnlɪ"
@@ -650,7 +655,7 @@
     {
         "name": "merely",
         "trans": [
-            "Merely means only or just."
+            "adv. and nothing more"
         ],
         "usphone": "'mɪrli",
         "ukphone": "'mɪəlɪ"
@@ -658,7 +663,7 @@
     {
         "name": "gently",
         "trans": [
-            "Gently means in a gentle or mild way."
+            "adv. in a gradual manner; in a gentle manner"
         ],
         "usphone": "'dʒɛntli",
         "ukphone": "'dʒentlɪ"
@@ -666,13 +671,13 @@
     {
         "name": "hopefully",
         "trans": [
-            "Hopefully means with hope or optimism."
+            "adv. with hope; in a hopeful manner"
         ]
     },
     {
         "name": "originally",
         "trans": [
-            "Originally means initially or from the beginning."
+            "adv. in an original manner; with reference to the origin or beginning"
         ],
         "usphone": "ə'rɪdʒənəli",
         "ukphone": "ə'rɪdʒɪn(ə)lɪ"
@@ -680,7 +685,7 @@
     {
         "name": "roughly",
         "trans": [
-            "Roughly means approximately or roughly."
+            "adv. (of quantities) imprecise but fairly close to correct; with roughness or violence ('rough' is an informal variant for 'roughly')"
         ],
         "usphone": "'rʌfli",
         "ukphone": "'rʌflɪ"
@@ -688,7 +693,7 @@
     {
         "name": "significantly",
         "trans": [
-            "Significantly means in a significant or important way."
+            "adv. in a statistically significant way; in a significant manner"
         ],
         "usphone": "sɪg'nɪfɪkəntli",
         "ukphone": "sɪg'nɪfɪk(ə)ntlɪ"
@@ -696,7 +701,7 @@
     {
         "name": "totally",
         "trans": [
-            "Totally means completely or entirely."
+            "adv. to a complete degree or to the full or entire extent ('whole' is often used informally for 'wholly')"
         ],
         "usphone": "'totəli",
         "ukphone": "'təʊtəlɪ"
@@ -704,7 +709,7 @@
     {
         "name": "twice",
         "trans": [
-            "Twice means two times or twice as much."
+            "adv. two times; to double the degree"
         ],
         "usphone": "twaɪs",
         "ukphone": "twaɪs"
@@ -712,7 +717,7 @@
     {
         "name": "elsewhere",
         "trans": [
-            "Elsewhere means in another place or elsewhere."
+            "adv. in or to another place"
         ],
         "usphone": ",els'hwεə",
         "ukphone": "els'weə; 'elsweə"
@@ -720,7 +725,7 @@
     {
         "name": "everywhere",
         "trans": [
-            "Everywhere means in all places or everywhere."
+            "adv. to or in any or all places; ('everyplace' is used informally for 'everywhere')"
         ],
         "usphone": "'ɛvrɪwɛr",
         "ukphone": "'evrɪweə"
@@ -728,7 +733,7 @@
     {
         "name": "obviously",
         "trans": [
-            "Obviously means clearly or obviously."
+            "adv. unmistakably ('plain' is often used informally for 'plainly')"
         ],
         "usphone": "'ɑbvɪəsli",
         "ukphone": "'ɒbvɪəslɪ"
@@ -736,7 +741,7 @@
     {
         "name": "perfectly",
         "trans": [
-            "Perfectly means in a perfect or flawless way."
+            "adv. completely and without qualification; used informally as intensifiers; in a perfect or faultless way"
         ],
         "usphone": "'pɝfɪktli",
         "ukphone": "'pɜːfɪk(t)lɪ"
@@ -744,7 +749,7 @@
     {
         "name": "physically",
         "trans": [
-            "Physically means in a physical or bodily way."
+            "adv. in accord with physical laws"
         ],
         "usphone": "'fɪzɪkli",
         "ukphone": "'fɪzɪkəllɪ"
@@ -752,13 +757,13 @@
     {
         "name": "successfully",
         "trans": [
-            "Successfully means in a successful or effective way."
+            "adv. with success; in a successful manner"
         ]
     },
     {
         "name": "suddenly",
         "trans": [
-            "Suddenly means suddenly or abruptly."
+            "adv. happening unexpectedly; quickly and without warning"
         ],
         "usphone": "'sʌdnlɪ",
         "ukphone": "ˈsʌdnlɪ"
@@ -766,7 +771,7 @@
     {
         "name": "truly",
         "trans": [
-            "Truly means truly or sincerely."
+            "adv. in accordance with truth or fact or reality; by right"
         ],
         "usphone": "ˈtruːli",
         "ukphone": "'truːlɪ"
@@ -774,7 +779,7 @@
     {
         "name": "virtually",
         "trans": [
-            "Virtually means almost or nearly."
+            "adv. in essence or effect but not in fact; (of actions or states) slightly short of or not quite accomplished; all but"
         ],
         "usphone": "ˈvɜrtʃuəli",
         "ukphone": "ˈvəːtʃʊəli"
@@ -782,7 +787,7 @@
     {
         "name": "altogether",
         "trans": [
-            "Altogether means completely or entirely."
+            "adv. to a complete degree or to the full or entire extent ('whole' is often used informally for 'wholly'); with everything included or counted"
         ],
         "usphone": ",ɔltə'ɡɛðɚ",
         "ukphone": "ɔːltə'geðə; ɒl-"
@@ -790,7 +795,7 @@
     {
         "name": "anyway",
         "trans": [
-            "Anyway means regardless or in any case."
+            "adv. used to indicate that a statement explains or supports a previous statement"
         ],
         "usphone": "'ɛnɪ'we",
         "ukphone": "'enɪweɪ"
@@ -798,7 +803,7 @@
     {
         "name": "automatically",
         "trans": [
-            "Automatically means in a way that is done without conscious thought or effort."
+            "adv. in a reflex manner"
         ],
         "usphone": ",ɔ:tə'mætikəli",
         "ukphone": "ɔːtə'mætɪklɪ"
@@ -806,7 +811,7 @@
     {
         "name": "deeply",
         "trans": [
-            "Deeply means to an intense or extreme degree."
+            "adv. to a great depth psychologically; to a great depth; far down"
         ],
         "usphone": "'diplɪ",
         "ukphone": "'diːplɪ"
@@ -814,7 +819,7 @@
     {
         "name": "definitely",
         "trans": [
-            "Definitely means without doubt, for sure."
+            "adv. without question and beyond doubt"
         ],
         "usphone": "'dɛfɪnətli",
         "ukphone": "'defɪnɪtlɪ"
@@ -822,13 +827,13 @@
     {
         "name": "deliberately",
         "trans": [
-            "Deliberately means done consciously and intentionally."
+            "adv. with intention; in an intentional manner; in a deliberate unhurried manner"
         ]
     },
     {
         "name": "hardly",
         "trans": [
-            "Hardly means barely or almost not at all."
+            "adv. only a very short time before; almost not"
         ],
         "usphone": "'hɑrdli",
         "ukphone": "'hɑːdlɪ"
@@ -836,7 +841,7 @@
     {
         "name": "readily",
         "trans": [
-            "Readily means easily and without hesitation."
+            "adv. without much difficulty"
         ],
         "usphone": "'rɛdɪli",
         "ukphone": "'redɪli"
@@ -844,7 +849,7 @@
     {
         "name": "terribly",
         "trans": [
-            "Terribly means in a very bad or serious way."
+            "adv. used as intensifiers"
         ],
         "usphone": "'tɛrəbli",
         "ukphone": "'terəbli"
@@ -852,7 +857,7 @@
     {
         "name": "unfortunately",
         "trans": [
-            "Unfortunately means regrettably or sadly."
+            "adv. by bad luck"
         ],
         "usphone": "ʌn'fɔrtʃənətli",
         "ukphone": "ʌnˈfɔːtʃənətli"
@@ -860,7 +865,7 @@
     {
         "name": "forth",
         "trans": [
-            "Forth means forward in time or place."
+            "adv. from a particular thing or place or position ('forth' is obsolete); forward in time or order or degree"
         ],
         "usphone": "fɔrθ",
         "ukphone": "fɔːθ"
@@ -868,7 +873,7 @@
     {
         "name": "briefly",
         "trans": [
-            "Briefly means for a short period of time."
+            "adv. for a short time; in a concise manner; in a few words"
         ],
         "usphone": "'brifli",
         "ukphone": "'briːflɪ"
@@ -876,7 +881,7 @@
     {
         "name": "moreover",
         "trans": [
-            "Moreover means in addition to what has been said."
+            "adv. in addition"
         ],
         "usphone": "mɔr'ovɚ",
         "ukphone": "mɔːr'əʊvə"
@@ -884,7 +889,7 @@
     {
         "name": "strongly",
         "trans": [
-            "Strongly means with great force or intensity."
+            "adv. with strength or in a strong manner"
         ],
         "usphone": "'strɔŋli",
         "ukphone": "'strɒŋlɪ"
@@ -892,7 +897,7 @@
     {
         "name": "honestly",
         "trans": [
-            "Honestly means in an honest or truthful manner."
+            "adv. (used as intensives reflecting the speaker's attitude) it is sincerely the case that; in an honest manner"
         ],
         "usphone": "'ɑnɪstli",
         "ukphone": "'ɒnɪstlɪ"
@@ -900,7 +905,7 @@
     {
         "name": "previously",
         "trans": [
-            "Previously means at an earlier time or before."
+            "adv. at an earlier time or formerly"
         ],
         "usphone": "'priviəsli",
         "ukphone": "'pri:vɪəslɪ"
@@ -908,7 +913,9 @@
     {
         "name": "as",
         "trans": [
-            "As means to the same degree or in the same way."
+            "conj. while; when; because",
+            "prep. in the role or function of",
+            "adv. to the same degree (as … as)"
         ],
         "usphone": "æz; əz",
         "ukphone": "æz; əz"
@@ -916,7 +923,7 @@
     {
         "name": "there",
         "trans": [
-            "There means in or at that place or position."
+            "adv. in or at that place; in that matter"
         ],
         "usphone": "ðɛr",
         "ukphone": "ðeə; ðə"
@@ -924,7 +931,8 @@
     {
         "name": "when",
         "trans": [
-            "When means at what time or during what period."
+            "adv. at what time",
+            "conj. at the time that; whenever"
         ],
         "usphone": "hwen; hwɛn",
         "ukphone": "wen"
@@ -932,7 +940,8 @@
     {
         "name": "how",
         "trans": [
-            "How means in what way or by what means."
+            "adv. in what way or manner; by what means",
+            "adv. to what extent or degree"
         ],
         "usphone": "haʊ",
         "ukphone": "haʊ"
@@ -940,7 +949,8 @@
     {
         "name": "so",
         "trans": [
-            "So means in such a way or to such an extent."
+            "adv. to such a great extent; very",
+            "conj. and for this reason; therefore"
         ],
         "usphone": "so",
         "ukphone": "səʊ"
@@ -948,7 +958,9 @@
     {
         "name": "up",
         "trans": [
-            "Up means towards a higher place or position."
+            "adv. spatially or metaphorically from a lower to a higher position",
+            "adj. being or moving higher in position or greater in some value; being above a former position or level; getting higher or more vigorous",
+            "v. raise"
         ],
         "usphone": "ʌp",
         "ukphone": "ʌp"
@@ -956,7 +968,8 @@
     {
         "name": "out",
         "trans": [
-            "Out means away from the inside or center."
+            "adj. not allowed to continue to bat or run; being out or having grown cold",
+            "adv. away from home"
         ],
         "usphone": "aʊt",
         "ukphone": "aʊt"
@@ -964,7 +977,8 @@
     {
         "name": "no",
         "trans": [
-            "No means not at all or not by any means."
+            "det. not any",
+            "adv. used to give a negative answer"
         ],
         "usphone": "no",
         "ukphone": "nəʊ"
@@ -972,7 +986,7 @@
     {
         "name": "only",
         "trans": [
-            "Only means and no one or nothing more besides."
+            "adv. and nothing more; without any others being included or involved"
         ],
         "usphone": "onlɪ",
         "ukphone": "'əʊnlɪ"
@@ -980,7 +994,9 @@
     {
         "name": "well",
         "trans": [
-            "Well means in a good or satisfactory way."
+            "adv. (often used as a combining form) in a good or proper or satisfactory manner or to a high standard ('good' is a nonstandard dialectal variant for 'well')",
+            "adj. in good health especially after having suffered illness or injury; resulting favorably",
+            "n. a deep hole or shaft dug or drilled to obtain water or oil or gas or brine; a cavity or vessel used to contain liquid"
         ],
         "usphone": "wɛl",
         "ukphone": "wel"
@@ -988,7 +1004,9 @@
     {
         "name": "then",
         "trans": [
-            "Then means at that time or subsequently."
+            "adv. subsequently or soon afterward (often used as sentence connectors); in that case or as a consequence",
+            "n. that time; that moment",
+            "adj. at a specific prior time"
         ],
         "usphone": "ðɛn",
         "ukphone": "ðen"
@@ -996,7 +1014,9 @@
     {
         "name": "first",
         "trans": [
-            "First means before anything else in order or time."
+            "adj. preceding all others in time or space or degree; indicating the beginning unit in a series",
+            "adv. before anything else; the initial time",
+            "n. the first or highest in an ordering or series; the first element in a countable series"
         ],
         "usphone": "fɝst",
         "ukphone": "fɜːst"
@@ -1004,7 +1024,8 @@
     {
         "name": "where",
         "trans": [
-            "Where means in or at what place or location."
+            "adv. in or to what place",
+            "conj. at, in or to the place in which"
         ],
         "usphone": "hweə(r); hwɛr",
         "ukphone": "weə"
@@ -1012,7 +1033,7 @@
     {
         "name": "why",
         "trans": [
-            "Why means for what reason or purpose."
+            "adv. for what reason or purpose"
         ],
         "usphone": "hwaɪ",
         "ukphone": "waɪ"
@@ -1020,7 +1041,8 @@
     {
         "name": "now",
         "trans": [
-            "Now means at the present time or moment."
+            "adv. in the historical present; at this point in the narration of a series of past events; in these times",
+            "n. the momentary present"
         ],
         "usphone": "naʊ",
         "ukphone": "naʊ"
@@ -1028,7 +1050,8 @@
     {
         "name": "around",
         "trans": [
-            "Around means in a circular direction or surrounding."
+            "prep. / adv. on every side of; surrounding",
+            "adv. approximately"
         ],
         "usphone": "ə'raʊnd",
         "ukphone": "ə'raʊnd"
@@ -1036,7 +1059,7 @@
     {
         "name": "once",
         "trans": [
-            "Once means on one occasion or at one time."
+            "adv. on one occasion; as soon as"
         ],
         "usphone": "wʌns",
         "ukphone": "wʌns"
@@ -1044,7 +1067,9 @@
     {
         "name": "down",
         "trans": [
-            "Down means towards or in a lower place or position."
+            "adv. spatially or metaphorically from a higher to a lower level or position; away from a more central or a more northerly place",
+            "adj. being or moving lower in position or less in some value; becoming progressively lower",
+            "v. drink down entirely; eat immoderately"
         ],
         "usphone": "daʊn",
         "ukphone": "daʊn"
@@ -1052,7 +1077,8 @@
     {
         "name": "off",
         "trans": [
-            "Off means away from a place or position."
+            "adv. from a particular thing or place or position ('forth' is obsolete); at a distance in space or time",
+            "adj. not in operation or operational; below a satisfactory level"
         ],
         "usphone": "ɔf",
         "ukphone": "ɒf"
@@ -1060,7 +1086,9 @@
     {
         "name": "here",
         "trans": [
-            "Here means in or at this place or location."
+            "adv. in or at this place; where the speaker or writer is; in this circumstance or respect or on this point or detail",
+            "adj. being here now",
+            "n. the present location; this place"
         ],
         "usphone": "hɪr",
         "ukphone": "hɪə"
@@ -1068,7 +1096,8 @@
     {
         "name": "tonight",
         "trans": [
-            "Tonight means on the present or coming evening."
+            "adv. during the night of the present day",
+            "n. the present or immediately coming night"
         ],
         "usphone": "tə'naɪt",
         "ukphone": "tə'naɪt"
@@ -1076,7 +1105,8 @@
     {
         "name": "away",
         "trans": [
-            "Away means at a distance from a particular place or person."
+            "adv. from a particular thing or place or position ('forth' is obsolete); from one's possession",
+            "adj. not present; having left"
         ],
         "usphone": "əˈwe",
         "ukphone": "ə'weɪ"
@@ -1084,7 +1114,8 @@
     {
         "name": "today",
         "trans": [
-            "Today means on the present or current day."
+            "n. the present time or age; the day that includes the present moment (as opposed to yesterday or tomorrow)",
+            "adv. in these times; on this day as distinct from yesterday or tomorrow"
         ],
         "usphone": "tə'de",
         "ukphone": "tə'deɪ"
@@ -1092,7 +1123,8 @@
     {
         "name": "far",
         "trans": [
-            "Far means at, to, or by a great distance."
+            "adv. to a considerable degree; very much; at or to or from a great distance in space",
+            "adj. located at a great distance in time or space or degree; being of a considerable distance or length"
         ],
         "usphone": "fɑr",
         "ukphone": "fɑː"
@@ -1100,7 +1132,7 @@
     {
         "name": "quite",
         "trans": [
-            "Quite means to a considerable extent or degree."
+            "adv. to a degree (not used with a negative); to the greatest extent; completely"
         ],
         "usphone": "kwaɪt",
         "ukphone": "kwaɪt"
@@ -1108,7 +1140,8 @@
     {
         "name": "later",
         "trans": [
-            "Later means at a time in the future or subsequently."
+            "adv. happening at a time subsequent to a reference time; at some eventual time in the future",
+            "adj. coming at a subsequent time or stage"
         ],
         "usphone": "'letɚ",
         "ukphone": "'leɪtə"
@@ -1116,7 +1149,7 @@
     {
         "name": "above",
         "trans": [
-            "Above means at a higher level or position."
+            "prep. / adv. at a higher level than; over"
         ],
         "usphone": "ə'bʌv",
         "ukphone": "ə'bʌv"
@@ -1124,7 +1157,8 @@
     {
         "name": "yet",
         "trans": [
-            "Yet means up until the present or a specified time."
+            "adv. up until now; still",
+            "conj. but at the same time; nevertheless"
         ],
         "usphone": "jɛt",
         "ukphone": "jet"
@@ -1132,7 +1166,7 @@
     {
         "name": "maybe",
         "trans": [
-            "Maybe means perhaps or possibly."
+            "adv. by chance"
         ],
         "usphone": "'mebi",
         "ukphone": "'meɪbiː; -bɪ"
@@ -1140,7 +1174,7 @@
     {
         "name": "otherwise",
         "trans": [
-            "Otherwise means in a different way or under different circumstances."
+            "adv. in other respects or ways; in another and different manner"
         ],
         "usphone": "'ʌðɚwaɪz",
         "ukphone": "'ʌðərwaɪz"
@@ -1148,7 +1182,8 @@
     {
         "name": "near",
         "trans": [
-            "Near means close to or not far away from."
+            "prep. / adv. at or to a short distance from",
+            "adj. close in space or time"
         ],
         "usphone": "nɪr",
         "ukphone": "nɪə"
@@ -1156,7 +1191,9 @@
     {
         "name": "forward",
         "trans": [
-            "Forward means towards a destination or goal."
+            "adv. at or to or toward the front; ('forrad' and 'forrard' are dialectal variations); forward in time or order or degree",
+            "adj. at or near or directed toward the front",
+            "v. send or ship onward from an intermediate post or station in transit"
         ],
         "usphone": "'fɔrwɚd",
         "ukphone": "'fɔːwəd"
@@ -1164,7 +1201,7 @@
     {
         "name": "somewhere",
         "trans": [
-            "Somewhere means in or to a place not specified or known."
+            "adv. in or at or to some place; ('someplace' is used informally for 'somewhere')"
         ],
         "usphone": "'sʌmwɛr",
         "ukphone": "'sʌmweə"
@@ -1172,7 +1209,7 @@
     {
         "name": "anywhere",
         "trans": [
-            "Anywhere means in, at, or to any place."
+            "adv. at or in or to any place; ('anyplace' is used informally for 'anywhere')"
         ],
         "usphone": "'ɛnɪwɛr",
         "ukphone": "'enɪweə"
@@ -1180,7 +1217,7 @@
     {
         "name": "please",
         "trans": [
-            "Please means as a polite expression of request or agreement."
+            "v. give pleasure to or be pleasing to; be the will of or have the will (to)"
         ],
         "usphone": "pliz",
         "ukphone": "pliːz"
@@ -1188,7 +1225,7 @@
     {
         "name": "forever",
         "trans": [
-            "Forever means for all future time; for always."
+            "adv. for a limitless time; for a very long or seemingly endless time"
         ],
         "usphone": "fɚ'ɛvɚ",
         "ukphone": "fə'revə"
@@ -1196,7 +1233,7 @@
     {
         "name": "somehow",
         "trans": [
-            "In a way that is not known or specified."
+            "adv. in some unspecified way or manner; or by some unspecified means; for some unspecified reason"
         ],
         "usphone": "'sʌmhaʊ",
         "ukphone": "'sʌmhaʊ"
@@ -1204,7 +1241,7 @@
     {
         "name": "absolutely",
         "trans": [
-            "Completely or totally."
+            "adv. completely and without qualification; used informally as intensifiers"
         ],
         "usphone": "'æbsəlutli",
         "ukphone": "'æbsəluːtlɪ"
@@ -1212,7 +1249,8 @@
     {
         "name": "abroad",
         "trans": [
-            "In or to a foreign country or countries."
+            "adv. to or in a foreign country; far away from home or one's usual surroundings",
+            "adj. in a foreign country"
         ],
         "usphone": "ə'brɔd",
         "ukphone": "ə'brɔːd"
@@ -1220,7 +1258,7 @@
     {
         "name": "yeah",
         "trans": [
-            "Yes or sure."
+            "adv. not only so, but"
         ],
         "usphone": "jɛə",
         "ukphone": "jeə; je"
@@ -1228,7 +1266,8 @@
     {
         "name": "nowhere",
         "trans": [
-            "Not in or to any place."
+            "adv. not anywhere; in or at or to no place",
+            "n. an insignificant place"
         ],
         "usphone": "'no'wɛr",
         "ukphone": "'nəʊhweə"
@@ -1236,7 +1275,8 @@
     {
         "name": "tomorrow",
         "trans": [
-            "On or for the day after today."
+            "n. the day after today; the near future",
+            "adv. the next day, the day after, following the present day"
         ],
         "usphone": "tə'mɔro",
         "ukphone": "tə'mɒrəʊ"
@@ -1244,7 +1284,8 @@
     {
         "name": "yesterday",
         "trans": [
-            "On or for the day before today."
+            "n. the day immediately before today",
+            "adv. on the day preceding today"
         ],
         "usphone": "ˈjɛstɚdɪ;-de",
         "ukphone": "ˈjestədɪ;-deɪ"
@@ -1252,7 +1293,7 @@
     {
         "name": "the",
         "trans": [
-            "Used to indicate a particular thing already mentioned or known."
+            "art. used before a noun to refer to a particular, known or unique person or thing"
         ],
         "usphone": "ðə; ði",
         "ukphone": "ðə;ði:"
@@ -1260,7 +1301,8 @@
     {
         "name": "to",
         "trans": [
-            "Expressing motion in the direction of (a particular location)."
+            "prep. in the direction of; towards",
+            "prep. used before a verb to form the infinitive"
         ],
         "usphone": "tə;tu;tuː",
         "ukphone": "tə;tu;tuː"
@@ -1268,7 +1310,8 @@
     {
         "name": "in",
         "trans": [
-            "Expressing the location of someone or something inside a place or thing."
+            "prep. inside; contained by; during",
+            "adv. into a place; at home"
         ],
         "usphone": "ɪn",
         "ukphone": "ɪn"
@@ -1276,7 +1319,9 @@
     {
         "name": "on",
         "trans": [
-            "Expressing the location of something at the surface of a thing."
+            "prep. touching and supported by the top surface of",
+            "prep. about; concerning; on a particular day",
+            "adv. continuing; in operation"
         ],
         "usphone": "ɑn",
         "ukphone": "ɒn"
@@ -1284,7 +1329,9 @@
     {
         "name": "by",
         "trans": [
-            "Indicating the means of achieving something."
+            "prep. beside; next to",
+            "prep. through the action or means of",
+            "prep. not later than"
         ],
         "usphone": "baɪ",
         "ukphone": "baɪ"
@@ -1292,7 +1339,8 @@
     {
         "name": "more",
         "trans": [
-            "To a greater extent or degree."
+            "adv. used to form the comparative of some adjectives and adverbs; comparative of much; to a greater degree or extent",
+            "adj. (comparative of 'much' used with mass nouns) a quantifier meaning greater in size or amount or extent or degree"
         ],
         "usphone": "mɔr",
         "ukphone": "mɔː"
@@ -1300,7 +1348,8 @@
     {
         "name": "about",
         "trans": [
-            "On the subject of; concerning."
+            "prep. on the subject of; concerning",
+            "adv. approximately; around"
         ],
         "usphone": "ə'baʊt",
         "ukphone": "ə'baʊt"
@@ -1308,7 +1357,7 @@
     {
         "name": "such",
         "trans": [
-            "Of the type previously mentioned or easily identified."
+            "adv. to so extreme a degree"
         ],
         "usphone": "sʌtʃ",
         "ukphone": "sʌtʃ"
@@ -1316,7 +1365,8 @@
     {
         "name": "through",
         "trans": [
-            "Moving in one side and out of the other side of (an opening, channel, or location)."
+            "prep. moving in one side and out of the other side of",
+            "prep. by means of; because of"
         ],
         "usphone": "θru",
         "ukphone": "θruː"
@@ -1324,7 +1374,8 @@
     {
         "name": "new",
         "trans": [
-            "Recently made, discovered, or created."
+            "adj. not of long duration; having just (or relatively recently) come into being or been made or acquired or discovered; original and of a kind not seen before",
+            "adv. very recently"
         ],
         "usphone": "nu",
         "ukphone": "njuː"
@@ -1332,7 +1383,8 @@
     {
         "name": "just",
         "trans": [
-            "Exactly or very recently."
+            "adv. and nothing more; indicating exactness or preciseness",
+            "adj. used especially of what is legally or ethically right or proper or fitting"
         ],
         "usphone": "dʒʌst",
         "ukphone": "dʒʌst"
@@ -1340,7 +1392,7 @@
     {
         "name": "any",
         "trans": [
-            "Used to refer to one or some of a thing or number of things, no matter how much or how many."
+            "adv. to any degree or extent"
         ],
         "usphone": "'ɛni",
         "ukphone": "'enɪ"
@@ -1348,7 +1400,7 @@
     {
         "name": "each",
         "trans": [
-            "Used to refer to every one of two or more people or things."
+            "adv. to or from every one of two or more (considered individually)"
         ],
         "usphone": "itʃ",
         "ukphone": "iːtʃ"
@@ -1356,7 +1408,9 @@
     {
         "name": "much",
         "trans": [
-            "To a great extent or degree."
+            "adj. (quantifier used with mass nouns) great in quantity or degree or extent",
+            "adv. to a great degree or extent; very",
+            "n. a great amount or extent"
         ],
         "usphone": "mʌtʃ",
         "ukphone": "mʌtʃ"
@@ -1364,7 +1418,8 @@
     {
         "name": "before",
         "trans": [
-            "During the period of time preceding (a particular event or time)."
+            "prep. / conj. earlier than",
+            "prep. in front of"
         ],
         "usphone": "bɪ'fɔr",
         "ukphone": "bɪ'fɔː"
@@ -1372,7 +1427,7 @@
     {
         "name": "between",
         "trans": [
-            "At, into, or across the space separating (two objects or regions)."
+            "prep. in the space or time separating two things"
         ],
         "usphone": "bəˈtwin",
         "ukphone": "bɪ'twiːn"
@@ -1380,7 +1435,8 @@
     {
         "name": "free",
         "trans": [
-            "Without cost or payment."
+            "adj. able to act at will; not hampered; not under compulsion or restraint",
+            "v. grant freedom to; free from confinement; relieve from"
         ],
         "usphone": "fri",
         "ukphone": "friː"
@@ -1388,7 +1444,9 @@
     {
         "name": "right",
         "trans": [
-            "To an exact or precise extent or degree."
+            "n. an abstract idea of that which is due to a person or governmental body by law or tradition or nature",
+            "adj. being or located on or directed toward the side of the body to the east when facing north; free from error; especially conforming to fact or truth",
+            "adv. precisely, exactly; immediately"
         ],
         "usphone": "raɪt",
         "ukphone": "raɪt"
@@ -1396,7 +1454,9 @@
     {
         "name": "best",
         "trans": [
-            "Most excellently or effectively."
+            "adj. (superlative of 'good') having the most positive qualities",
+            "adv. in a most excellent way or manner; it would be sensible",
+            "n. the supreme effort one can make; the person who is most outstanding or excellent; someone who tops all others"
         ],
         "usphone": "bɛst",
         "ukphone": "best"
@@ -1404,7 +1464,8 @@
     {
         "name": "since",
         "trans": [
-            "From a particular time or event in the past until now or a particular time in the past."
+            "prep. / conj. from a past time until now",
+            "conj. because; as"
         ],
         "usphone": "sɪns",
         "ukphone": "sɪns"
@@ -1412,7 +1473,7 @@
     {
         "name": "both",
         "trans": [
-            "Used to refer to two people or things, regarded and identified together."
+            "adj. (used with count nouns) two considered together; the two"
         ],
         "usphone": "boθ",
         "ukphone": "bəʊθ"
@@ -1420,7 +1481,8 @@
     {
         "name": "sure",
         "trans": [
-            "Completely confident or certain about something."
+            "adj. having or feeling no doubt or uncertainty; confident and assured; exercising or taking care great enough to bring assurance",
+            "adv. definitely or positively ('sure' is sometimes used informally for 'surely')"
         ],
         "usphone": "ʃʊər; ʃʊr",
         "ukphone": "ʃɔ:(r)"
@@ -1428,7 +1490,7 @@
     {
         "name": "without",
         "trans": [
-            "Not having or using."
+            "prep. not having; in the absence of"
         ],
         "usphone": "wɪðˈaʊt",
         "ukphone": "wɪˈðaʊt"
@@ -1436,7 +1498,9 @@
     {
         "name": "back",
         "trans": [
-            "In or into a previous position or state."
+            "adv. in or to or toward a former location; at or to or toward the back or rear",
+            "n. the posterior part of a human (or animal) body from the neck to the end of the spine; the side that goes last or is not normally seen",
+            "v. be behind; approve of; travel backward"
         ],
         "usphone": "bæk",
         "ukphone": "bæk"
@@ -1444,7 +1508,9 @@
     {
         "name": "better",
         "trans": [
-            "To a greater extent or degree."
+            "adj. (comparative of 'good') superior to another (of the same class or set or kind) in excellence or quality or desirability or suitability…",
+            "adv. comparative of 'well'; in a better or more excellent manner or more advantageously or attractively or to a greater degree etc.",
+            "v. surpass in excellence; to make better"
         ],
         "usphone": "'bɛtɚ",
         "ukphone": "'betə"
@@ -1452,7 +1518,9 @@
     {
         "name": "enough",
         "trans": [
-            "As much or as many as required."
+            "adv. as much as necessary; ('plenty' is nonstandard)",
+            "adj. sufficient for the purpose",
+            "n. an adequate quantity; a quantity that is large enough to achieve a purpose"
         ],
         "usphone": "ɪ'nʌf",
         "ukphone": "ɪ'nʌf"
@@ -1460,7 +1528,7 @@
     {
         "name": "lot",
         "trans": [
-            "A large number or amount."
+            "n. (often followed by 'of') a large number or amount or extent; a parcel of land having fixed boundaries"
         ],
         "usphone": "lɑt",
         "ukphone": "lɒt"
@@ -1468,7 +1536,8 @@
     {
         "name": "small",
         "trans": [
-            "In a way that is limited in size or amount."
+            "adj. limited or below average in number or quantity or magnitude or extent; limited in size or scope",
+            "n. the slender part of the back"
         ],
         "usphone": "smɔl",
         "ukphone": "smɔːl"
@@ -1476,7 +1545,8 @@
     {
         "name": "though",
         "trans": [
-            "Despite the fact that; although."
+            "conj. despite the fact that; although",
+            "adv. however; nevertheless"
         ],
         "usphone": "ðo",
         "ukphone": "ðəʊ"
@@ -1484,7 +1554,8 @@
     {
         "name": "less",
         "trans": [
-            "To a smaller extent or degree."
+            "adv. used to form the comparative of some adjectives and adverbs; comparative of little",
+            "adj. (comparative of 'little' usually used with mass nouns) a quantifier meaning not as great in amount or degree"
         ],
         "usphone": "lɛs",
         "ukphone": "les"
@@ -1492,7 +1563,9 @@
     {
         "name": "little",
         "trans": [
-            "To only a small extent or degree."
+            "adj. limited or below average in number or quantity or magnitude or extent",
+            "adv. not much",
+            "n. a small amount or duration"
         ],
         "usphone": "'lɪtl",
         "ukphone": "'lɪt(ə)l"
@@ -1500,7 +1573,7 @@
     {
         "name": "under",
         "trans": [
-            "Extending or directly below something else."
+            "prep. beneath; below; less than"
         ],
         "usphone": "'ʌndɚ",
         "ukphone": "'ʌndə"
@@ -1508,7 +1581,8 @@
     {
         "name": "next",
         "trans": [
-            "Coming immediately after the present one in sequence or order."
+            "adj. nearest in space or position; immediately adjoining without intervening space; (of elected officers) elected but not yet serving",
+            "adv. at the time or occasion immediately following"
         ],
         "usphone": "nɛkst",
         "ukphone": "nekst"
@@ -1516,7 +1590,8 @@
     {
         "name": "hard",
         "trans": [
-            "With a great deal of effort or force."
+            "adj. not easy; requiring great physical or mental effort to accomplish or comprehend or endure; dispassionate",
+            "adv. with effort or force or vigor; with firmness"
         ],
         "usphone": "hɑrd",
         "ukphone": "hɑːd"
@@ -1524,7 +1599,8 @@
     {
         "name": "real",
         "trans": [
-            "Actually existing or happening as described or perceived."
+            "adj. being or occurring in fact or actuality; having verified existence; not illusory; no less than what is stated; worthy of the name",
+            "adv. used as intensifiers; 'real' is sometimes used informally for 'really'; 'rattling' is informal"
         ],
         "usphone": "'riəl",
         "ukphone": "riːl"
@@ -1532,7 +1608,9 @@
     {
         "name": "left",
         "trans": [
-            "On or to the side of something that is considered the weaker or less important side."
+            "adj. being or located on or directed toward the side of the body to the west when facing north; not used up",
+            "n. location near or direction toward the left side; i.e. the side to the north when a person or object faces east",
+            "adv. toward or on the left; also used figuratively"
         ],
         "usphone": "lɛft",
         "ukphone": "left"
@@ -1540,7 +1618,8 @@
     {
         "name": "least",
         "trans": [
-            "To the smallest extent or degree."
+            "adv. used to form the superlative",
+            "adj. the superlative of 'little' that can be used with mass nouns and is usually preceded by 'the'; a quantifier meaning smallest in amount or extent or degree"
         ],
         "usphone": "list",
         "ukphone": "liːst"
@@ -1548,7 +1627,9 @@
     {
         "name": "short",
         "trans": [
-            "In a way that does not take a long time."
+            "adj. primarily temporal sense; indicating or being or seeming to be limited in duration; (primarily spatial sense) having little length or lacking in length",
+            "n. the location on a baseball field where the shortstop is stationed",
+            "adv. quickly and without warning"
         ],
         "usphone": "ʃɔrt",
         "ukphone": "ʃɔːt"
@@ -1556,7 +1637,9 @@
     {
         "name": "last",
         "trans": [
-            "On or until the final part of an event or period of time."
+            "adj. immediately past; coming after all others in time or space or degree or being the only one remaining",
+            "v. persist for a specified period of time; continue to live through hardship or adversity",
+            "n. the temporal end; the concluding time; the last or lowest in an ordering or series"
         ],
         "usphone": "læst",
         "ukphone": "lɑːst"
@@ -1564,7 +1647,7 @@
     {
         "name": "within",
         "trans": [
-            "Inside something; inside a particular area or space."
+            "prep. inside; not beyond (a limit or time)"
         ],
         "usphone": "wɪ'ðɪn",
         "ukphone": "wɪð'ɪn"
@@ -1572,7 +1655,7 @@
     {
         "name": "along",
         "trans": [
-            "Moving in a constant direction on (a path or route)."
+            "prep. moving in a line from one end towards the other end of"
         ],
         "usphone": "ə'lɔŋ",
         "ukphone": "ə'lɒŋ"
@@ -1580,7 +1663,7 @@
     {
         "name": "lower",
         "trans": [
-            "At a lower level or rank than something."
+            "v. move something or somebody to a lower position; set lower"
         ],
         "usphone": "'loɚ",
         "ukphone": "'louər"
@@ -1588,13 +1671,16 @@
     {
         "name": "true",
         "trans": [
-            "In accordance with fact or reality."
+            "adj. consistent with fact or reality; not false; accurately placed or thrown",
+            "adv. as acknowledged"
         ]
     },
     {
         "name": "bad",
         "trans": [
-            "Badly is used to describe how something is done, or how someone is feeling, in a negative or unpleasant way."
+            "adj. having undesirable or negative qualities; very intense",
+            "n. that which is below standard or expectations as of ethics or decency",
+            "adv. with great intensity ('bad' is a nonstandard variant for 'badly'); very much; strongly"
         ],
         "usphone": "bæd",
         "ukphone": "bæd"
@@ -1602,7 +1688,7 @@
     {
         "name": "across",
         "trans": [
-            "Across means from one side of something to the other side."
+            "prep. / adv. from one side to the other of"
         ],
         "usphone": "ə'krɔs",
         "ukphone": "ə'krɒs"
@@ -1610,7 +1696,9 @@
     {
         "name": "clear",
         "trans": [
-            "Clearly means something is easy to see, hear, or understand."
+            "adj. readily apparent to the mind; free from confusion or doubt",
+            "v. rid of obstructions; make a way or path by removing objects",
+            "adv. completely"
         ],
         "usphone": "klɪr",
         "ukphone": "klɪə"
@@ -1618,7 +1706,8 @@
     {
         "name": "easy",
         "trans": [
-            "Easily means without difficulty or effort."
+            "adj. posing no difficulty; requiring little effort; not hurried or forced",
+            "adv. with ease ('easy' is sometimes used informally for 'easily')"
         ],
         "usphone": "'izi",
         "ukphone": "'iːzɪ"
@@ -1626,7 +1715,8 @@
     {
         "name": "full",
         "trans": [
-            "Fully means completely or to the greatest extent possible."
+            "adj. containing as much or as many as is possible or normal; constituting the full quantity or extent; complete",
+            "adv. to the greatest degree or extent; completely or entirely; ('full' in this sense is used as a combining form)"
         ],
         "usphone": "fʊl",
         "ukphone": "fʊl"
@@ -1634,7 +1724,9 @@
     {
         "name": "close",
         "trans": [
-            "Closely means in a way that is near in space, time, or relationship."
+            "v. move so that an opening or passage is obstructed; make shut; become closed",
+            "adj. at or within a short distance in space or time or having elements near each other; close in relevance or relationship",
+            "adv. near in time or place or relationship; in an attentive manner"
         ],
         "usphone": "kloz",
         "ukphone": "kləʊs"
@@ -1642,7 +1734,8 @@
     {
         "name": "late",
         "trans": [
-            "Lately means not on time, or after the expected or usual time."
+            "adj. being or occurring at an advanced period of time or after a usual or expected time; after the expected or usual time; delayed",
+            "adv. later than usual or than expected; to an advanced time"
         ],
         "usphone": "let",
         "ukphone": "leɪt"
@@ -1650,7 +1743,7 @@
     {
         "name": "proper",
         "trans": [
-            "Properly means in the right or appropriate way."
+            "adj. marked by suitability or rightness or appropriateness; limited to the thing specified"
         ],
         "usphone": "'prɑpɚ",
         "ukphone": "'prɒpə"
@@ -1658,7 +1751,9 @@
     {
         "name": "fast",
         "trans": [
-            "Fast means quickly or at a high speed."
+            "adj. acting or moving or capable of acting or moving quickly",
+            "adv. quickly or rapidly (often used as a combining form); firmly or closely",
+            "n. abstaining from food"
         ],
         "usphone": "fæst",
         "ukphone": "fɑːst"
@@ -1666,7 +1761,8 @@
     {
         "name": "wide",
         "trans": [
-            "Widely means over a large area or range."
+            "adj. having great (or a certain) extent from one side to the other; broad in scope or content",
+            "adv. with or by a broad space; to the fullest extent possible"
         ],
         "usphone": "waɪd",
         "ukphone": "waɪd"
@@ -1674,7 +1770,7 @@
     {
         "name": "item",
         "trans": [
-            "An item refers to a particular thing or object."
+            "n. a distinct part that can be specified separately in a group of things that could be enumerated on a list"
         ],
         "usphone": "'aɪtəm",
         "ukphone": "'aɪtəm"
@@ -1682,7 +1778,9 @@
     {
         "name": "wrong",
         "trans": [
-            "Wrongly means in a way that is not correct or accurate."
+            "adj. not correct; not in conformity with fact or truth; contrary to conscience or morality or law",
+            "n. that which is contrary to the principles of justice or law; any harm or injury resulting from a violation of a legal right",
+            "v. treat unjustly; do wrong to"
         ],
         "usphone": "rɔŋ",
         "ukphone": "rɒŋ"
@@ -1690,7 +1788,7 @@
     {
         "name": "ago",
         "trans": [
-            "Ago means in the past or before the present time."
+            "adv. in the past"
         ],
         "usphone": "ə'ɡo",
         "ukphone": "ə'gəʊ"
@@ -1698,7 +1796,7 @@
     {
         "name": "behind",
         "trans": [
-            "Behind means at the back of or in the rear of something."
+            "prep. / adv. at or towards the back of"
         ],
         "usphone": "bɪ'haɪnd",
         "ukphone": "bɪ'haɪnd"
@@ -1706,7 +1804,8 @@
     {
         "name": "quick",
         "trans": [
-            "Quickly means in a short amount of time or without delay."
+            "adj. accomplished rapidly and without delay; hurried and brief",
+            "adv. with little or no delay"
         ],
         "usphone": "kwɪk",
         "ukphone": "kwɪk"
@@ -1714,7 +1813,8 @@
     {
         "name": "straight",
         "trans": [
-            "Straight means without bending or curving, or in a direct and honest way."
+            "adj. successive (without a break); having no deviations",
+            "adv. without deviation; in a forthright manner; candidly or frankly"
         ],
         "usphone": "stret",
         "ukphone": "streɪt"
@@ -1722,7 +1822,8 @@
     {
         "name": "direct",
         "trans": [
-            "Directly means in a straight line or without intervening factors."
+            "v. command with authority; intend (something) to move towards a certain goal",
+            "adj. direct in spatial dimensions; proceeding without deviation or interruption; straight and short; having no intervening persons, agents, conditions"
         ],
         "usphone": "dəˈrekt; daɪˈrekt",
         "ukphone": "dɪˈrekt ; daɪ-"
@@ -1730,7 +1831,7 @@
     {
         "name": "extra",
         "trans": [
-            "Extra means in addition to what is usual or expected."
+            "adj. more than is needed, desired, or required"
         ],
         "usphone": "'ɛkstrə",
         "ukphone": "'ekstrə"
@@ -1738,7 +1839,7 @@
     {
         "name": "morning",
         "trans": [
-            "In the morning means during the early part of the day, from sunrise until noon."
+            "n. the time period between dawn and noon; a conventional expression of greeting or farewell"
         ],
         "usphone": "'mɔrnɪŋ",
         "ukphone": "'mɔːnɪŋ"
@@ -1746,7 +1847,8 @@
     {
         "name": "pretty",
         "trans": [
-            "Pretty means attractive or pleasing to look at."
+            "adv. to a moderately sufficient extent or degree",
+            "adj. pleasing by delicacy or grace; not imposing; (used ironically) unexpectedly bad"
         ],
         "usphone": "ˈprɪtɪ",
         "ukphone": "'prɪtɪ"
@@ -1754,7 +1856,8 @@
     {
         "name": "overall",
         "trans": [
-            "Overall means taking everything into account or in general."
+            "adj. involving only main features; including everything",
+            "n. (usually plural) work clothing consisting of denim trousers (usually with a bib and shoulder straps)"
         ],
         "usphone": ",ovə'rɔl",
         "ukphone": "'əʊvərɔːl"
@@ -1762,7 +1865,8 @@
     {
         "name": "alone",
         "trans": [
-            "Alone means without anyone else or being solitary."
+            "adv. without any others being included or involved; without anybody else or anything else",
+            "adj. isolated from others; lacking companions or companionship"
         ],
         "usphone": "ə'lon",
         "ukphone": "ə'ləʊn"
@@ -1770,7 +1874,8 @@
     {
         "name": "bright",
         "trans": [
-            "Brightly means giving out a lot of light or shining strongly."
+            "adj. emitting or reflecting light readily or in large amounts; having striking color",
+            "adv. with brightness"
         ],
         "usphone": "braɪt",
         "ukphone": "braɪt"
@@ -1778,7 +1883,8 @@
     {
         "name": "flat",
         "trans": [
-            "Flatly means without any emotion or enthusiasm."
+            "adj. having a surface without slope, tilt in which no part is higher or lower than another; having a relatively broad surface in relation to depth or thickness",
+            "n. a level tract of land; a shallow box in which seedlings are started"
         ],
         "usphone": "flæt",
         "ukphone": "flæt"
@@ -1786,7 +1892,8 @@
     {
         "name": "whatever",
         "trans": [
-            "Whatever means anything or everything that."
+            "pron. / det. anything that; no matter what",
+            "adv. at all; of any kind"
         ],
         "usphone": "wət'ɛvɚ",
         "ukphone": "wɒt'evə"
@@ -1794,7 +1901,9 @@
     {
         "name": "slow",
         "trans": [
-            "Slowly means at a low speed or taking a long time."
+            "adj. not moving quickly; taking a comparatively long time; at a slow tempo",
+            "v. lose velocity; move more slowly; become slow or slower",
+            "adv. without speed ('slow' is sometimes used informally for 'slowly')"
         ],
         "usphone": "sloʊ",
         "ukphone": "sləʊ"
@@ -1802,7 +1911,9 @@
     {
         "name": "clean",
         "trans": [
-            "Cleanly means in a way that is free from dirt, marks, or unwanted substances."
+            "v. make clean by removing dirt, filth, or unwanted substances from; remove unwanted substances from, such as feathers or pits",
+            "adj. free from dirt or impurities; or having clean habits; free of restrictions or qualifications",
+            "n. a weightlift in which the barbell is lifted to shoulder height and then jerked overhead"
         ],
         "usphone": "klin",
         "ukphone": "kliːn"
@@ -1810,7 +1921,8 @@
     {
         "name": "fresh",
         "trans": [
-            "Freshly means recently or newly."
+            "adj. recently made, produced, or harvested; (of a cycle) beginning or occurring again",
+            "adv. very recently"
         ],
         "usphone": "frɛʃ",
         "ukphone": "freʃ"
@@ -1818,7 +1930,7 @@
     {
         "name": "whenever",
         "trans": [
-            "Whenever means at any time or every time that."
+            "conj. at any time that; every time that"
         ],
         "usphone": "wɛn'ɛvɚ",
         "ukphone": "wen'evə"
@@ -1826,7 +1938,7 @@
     {
         "name": "cheap",
         "trans": [
-            "Cheaply means at a low cost or price."
+            "adj. relatively low in price or charging low prices; tastelessly showy"
         ],
         "usphone": "tʃip",
         "ukphone": "tʃiːp"
@@ -1834,7 +1946,8 @@
     {
         "name": "thin",
         "trans": [
-            "Thinly means in a way that is not thick or with very little substance."
+            "adj. of relatively small extent from one surface to the opposite or in cross section; lacking excess flesh",
+            "v. lose thickness; become thin or thinner"
         ],
         "usphone": "θɪn",
         "ukphone": "θɪn"
@@ -1842,7 +1955,8 @@
     {
         "name": "cool",
         "trans": [
-            "Coolly means in a calm and composed way or without showing much emotion."
+            "adj. neither warm nor very cold; giving relief from heat; marked by calm self-control (especially in trying circumstances); unemotional",
+            "v. make cool or cooler; loose heat"
         ],
         "usphone": "kul",
         "ukphone": "kuːl"
@@ -1850,7 +1964,9 @@
     {
         "name": "fair",
         "trans": [
-            "Fairly means in a way that is just, reasonable, or without bias."
+            "adj. free from favoritism or self-interest or bias or deception; conforming with established standards or rules; not excessive or extreme",
+            "n. a traveling show; having sideshows and rides and games of skill etc.",
+            "v. join so that the external surfaces blend smoothly"
         ],
         "usphone": "fɛr",
         "ukphone": "feə"
@@ -1858,7 +1974,8 @@
     {
         "name": "fine",
         "trans": [
-            "Finely means in a way that is delicate, subtle, or precise."
+            "adj. being satisfactory or in satisfactory condition; minutely precise especially in differences in meaning",
+            "adv. an expression of agreement normally occurring at the beginning of a sentence; in a delicate manner"
         ],
         "usphone": "faɪn",
         "ukphone": "faɪn"
@@ -1866,7 +1983,8 @@
     {
         "name": "smooth",
         "trans": [
-            "Smoothly means in a way that is without any roughness, bumps, or irregularities."
+            "adj. having a surface free from roughness or bumps or ridges or irregularities; smoothly agreeable and courteous with a degree of sophistication",
+            "v. make smooth or smoother, as if by rubbing; make (a surface) shine"
         ],
         "usphone": "smʊð",
         "ukphone": "smuːð"
@@ -1874,13 +1992,14 @@
     {
         "name": "false",
         "trans": [
-            "Falsely means in a way that is not true or accurate."
+            "adj. not in accordance with the fact or reality or actuality; arising from error"
         ]
     },
     {
         "name": "thick",
         "trans": [
-            "Thickly means in a way that is not thin or with a lot of substance."
+            "adj. not thin; of a specific thickness or of relatively great extent from one surface to the opposite usually in the smallest of the three solid dimensions",
+            "n. the location of something surrounded by other things"
         ],
         "usphone": "θɪk",
         "ukphone": "θɪk"
@@ -1888,7 +2007,7 @@
     {
         "name": "collect",
         "trans": [
-            "Collectively means as a group or as a whole."
+            "v. get or gather together; call for and obtain payment of"
         ],
         "usphone": "kə'lɛkt",
         "ukphone": "kə'lekt"
@@ -1896,7 +2015,8 @@
     {
         "name": "nearby",
         "trans": [
-            "Nearby means in the vicinity or close to a particular place."
+            "adj. close at hand",
+            "adv. not far away in relative terms"
         ],
         "usphone": ",nɪr'baɪ",
         "ukphone": "'nɪəbaɪ"
@@ -1904,7 +2024,8 @@
     {
         "name": "wild",
         "trans": [
-            "Wildly means in a way that is uncontrolled or with great enthusiasm."
+            "adj. marked by extreme lack of restraint or control; in a natural state; not tamed or domesticated or cultivated",
+            "adv. in an uncontrolled and rampant manner"
         ],
         "usphone": "waɪld",
         "ukphone": "waɪld"
@@ -1912,7 +2033,8 @@
     {
         "name": "apart",
         "trans": [
-            "Apart means separated by a distance or interval."
+            "adv. separated or at a distance in place or position or time; not taken into account or excluded from consideration",
+            "adj. remote and separate physically or socially"
         ],
         "usphone": "ə'pɑrt",
         "ukphone": "ə'pɑːt"
@@ -1920,7 +2042,7 @@
     {
         "name": "none",
         "trans": [
-            "None means not any or not one."
+            "adv. not at all or in no way"
         ],
         "usphone": "nʌn",
         "ukphone": "nʌn"
@@ -1928,7 +2050,7 @@
     {
         "name": "strange",
         "trans": [
-            "Strangely means in a way that is unusual, surprising, or difficult to understand."
+            "adj. being definitely out of the ordinary and unexpected; slightly odd or even a bit weird; not known before"
         ],
         "usphone": "strendʒ",
         "ukphone": "streɪndʒ"
@@ -1936,7 +2058,7 @@
     {
         "name": "tourist",
         "trans": [
-            "Touristically means in a way that is related to tourism or the tourist industry."
+            "n. someone who travels for pleasure"
         ],
         "usphone": "'tʊrɪst",
         "ukphone": "'tʊərɪst"
@@ -1944,7 +2066,7 @@
     {
         "name": "aside",
         "trans": [
-            "Aside means to one side or out of the way."
+            "adv. on or to one side; out of the way (especially away from one's thoughts)"
         ],
         "usphone": "ə'saɪd",
         "ukphone": "ə'saɪd"
@@ -1952,7 +2074,8 @@
     {
         "name": "loud",
         "trans": [
-            "Loudly means with a high volume or in a way that can be easily heard."
+            "adj. characterized by or producing sound of great volume or intensity; tastelessly showy",
+            "adv. with relatively high volume"
         ],
         "usphone": "laʊd",
         "ukphone": "laʊd"
@@ -1960,7 +2083,8 @@
     {
         "name": "super",
         "trans": [
-            "Super means to an extremely high degree or level."
+            "adj. of the highest quality; including more than a specified category",
+            "adv. to an extreme degree"
         ],
         "usphone": "'sʊpɚ",
         "ukphone": "'suːpə; 'sjuː-"
@@ -1968,7 +2092,8 @@
     {
         "name": "tight",
         "trans": [
-            "Tightly means in a way that is firmly or closely fixed in place."
+            "adj. closely constrained or constricted or constricting; pulled or drawn tight",
+            "adv. firmly or closely; in an attentive manner"
         ],
         "usphone": "taɪt",
         "ukphone": "taɪt"
@@ -1976,7 +2101,7 @@
     {
         "name": "gross",
         "trans": [
-            "Grossly means in a way that is extremely unpleasant or offensive."
+            "adj. before any deductions; lacking fine distinctions or detail"
         ],
         "usphone": "ɡros",
         "ukphone": "grous"
@@ -1984,7 +2109,8 @@
     {
         "name": "ill",
         "trans": [
-            "Ill means in a way that is not healthy or suffering from a disease or illness."
+            "adj. affected by an impairment of normal physical or mental function; resulting in suffering or adversity",
+            "adv. ('ill' is often used as a combining form) in a poor or improper or unsatisfactory manner; not well"
         ],
         "usphone": "ɪl",
         "ukphone": "ɪl"
@@ -1992,7 +2118,8 @@
     {
         "name": "downtown",
         "trans": [
-            "Downtown means in or towards the central part of a city or town."
+            "adj. of or located in the lower part of a town, or in the business center",
+            "n. the central area or commercial center of a town or city"
         ],
         "usphone": "'daʊn'taʊn",
         "ukphone": "ˌdaun'taun"
@@ -2000,7 +2127,7 @@
     {
         "name": "honest",
         "trans": [
-            "Honestly means in a way that is truthful or sincere."
+            "adj. not disposed to cheat or defraud; not deceptive or fraudulent; without dissimulation; frank"
         ],
         "usphone": "'ɑnɪst",
         "ukphone": "'ɒnɪst"
@@ -2008,13 +2135,13 @@
     {
         "name": "ok",
         "trans": [
-            "Okay means in a way that is acceptable or satisfactory."
+            "adv. an expression of agreement normally occurring at the beginning of a sentence"
         ]
     },
     {
         "name": "pray",
         "trans": [
-            "Pray means in a way that is related to religious worship or asking for help from a higher power."
+            "v. address a deity, a prophet, a saint or an object of worship; say a prayer; call upon in supplication; entreat"
         ],
         "usphone": "pre",
         "ukphone": "preɪ"
@@ -2022,7 +2149,7 @@
     {
         "name": "weekly",
         "trans": [
-            "Weekly means happening or done once a week."
+            "n. a periodical that is published every week (or 52 issues per year)"
         ],
         "usphone": "'wikli",
         "ukphone": "'wiːklɪ"

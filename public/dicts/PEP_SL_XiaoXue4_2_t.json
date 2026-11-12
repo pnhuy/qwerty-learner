@@ -1,698 +1,718 @@
 [
-{
-    "name": "across from",
-    "trans": [
-        "在对面"
-    ],
-    "usphone": "əˈkrɔs from",
-    "ukphone": "əˈkrɒs frɒm"
-},
-{
-    "name": "next to",
-    "trans": [
-        "紧邻"
-    ],
-    "usphone": "nɛkst tu",
-    "ukphone": "nɛkst tu"
-},
-{
-    "name": "between",
-    "trans": [
-        "在……之间"
-    ],
-    "usphone": "bɪˈtwiːn",
-    "ukphone": "bɪˈtwiːn"
-},
-{
-    "name": "restaurant",
-    "trans": [
-        "餐馆"
-    ],
-    "usphone": "ˈrɛstərənt",
-    "ukphone": "ˈrɛstərɒnt"
-},
-{
-    "name": "post office",
-    "trans": [
-        "邮局"
-    ],
-    "usphone": "poʊst ˈɔfɪs",
-    "ukphone": "pəʊst ˈɒfɪs"
-},
-{
-    "name": "bank",
-    "trans": [
-        "银行"
-    ],
-    "usphone": "bæŋk",
-    "ukphone": "bæŋk"
-},
-{
-    "name": "grocery",
-    "trans": [
-        "食品杂货店"
-    ],
-    "usphone": "ˈɡroʊsəri",
-    "ukphone": "ˈɡrəʊsəri"
-},
-{
-    "name": "turn left",
-    "trans": [
-        "向左转"
-    ],
-    "usphone": "tɝn lɛft",
-    "ukphone": "tɜːn lɛft"
-},
-{
-    "name": "turn right",
-    "trans": [
-        "向右转"
-    ],
-    "usphone": "tɝn raɪt",
-    "ukphone": "tɜːn raɪt"
-},
-{
-    "name": "go straight",
-    "trans": [
-        "直行"
-    ],
-    "usphone": "ɡoʊ streɪt",
-    "ukphone": "ɡəʊ streɪt"
-},
-{
-    "name": "crossroads",
-    "trans": [
-        "十字路口"
-    ],
-    "usphone": "ˈkrɔːsroʊdz",
-    "ukphone": "ˈkrɒsroʊdz"
-},
-{
-    "name": "neighbourhood",
-    "trans": [
-        "街坊；附近"
-    ],
-    "usphone": "ˈneɪbərˌhʊd",
-    "ukphone": "ˈneɪbəhʊd"
-},
-{
-    "name": "send",
-    "trans": [
-        "寄；发送"
-    ],
-    "usphone": "sɛnd",
-    "ukphone": "sɛnd"
-},
-{
-    "name": "get",
-    "trans": [
-        "得到"
-    ],
-    "usphone": "ɡɛt",
-    "ukphone": "ɡɛt"
-},
-{
-    "name": "money",
-    "trans": [
-        "钱"
-    ],
-    "usphone": "ˈmʌni",
-    "ukphone": "ˈmʌni"
-},
-{
-    "name": "get to",
-    "trans": [
-        "到达"
-    ],
-    "usphone": "ɡɛt tu",
-    "ukphone": "ɡɛt tu"
-},
-{
-    "name": "before",
-    "trans": [
-        "在……之前"
-    ],
-    "usphone": "bɪˈfɔr",
-    "ukphone": "bɪˈfɔːr"
-},
-{
-    "name": "leave",
-    "trans": [
-        "离开"
-    ],
-    "usphone": "liv",
-    "ukphone": "liːv"
-},
-{
-    "name": "toy",
-    "trans": [
-        "玩具"
-    ],
-    "usphone": "tɔɪ",
-    "ukphone": "tɔɪ"
-},
-{
-    "name": "hospital",
-    "trans": [
-        "医院"
-    ],
-    "usphone": "ˈhɑːspɪtəl",
-    "ukphone": "ˈhɒspɪtl̩"
-},
-{
-    "name": "bookshop",
-    "trans": [
-        "书店"
-    ],
-    "usphone": "ˈbʊkˌʃɑp",
-    "ukphone": "ˈbʊkʃɒp"
-},
-{
-    "name": "school",
-    "trans": [
-        "学校"
-    ],
-    "usphone": "skul",
-    "ukphone": "skuːl"
-},
-{
-    "name": "supermarket",
-    "trans": [
-        "超市"
-    ],
-    "usphone": "ˈsupərˌmɑrkɪt",
-    "ukphone": "ˈsuːpəmɑːkɪt"
-},
-{
-    "name": "ball",
-    "trans": [
-        "球"
-    ],
-    "usphone": "bɔl",
-    "ukphone": "bɔːl"
-},
-{
-    "name": "city",
-    "trans": [
-        "城市"
-    ],
-    "usphone": "ˈsɪti",
-    "ukphone": "ˈsɪti"
-},
-{
-    "name": "street",
-    "trans": [
-        "街道"
-    ],
-    "usphone": "strit",
-    "ukphone": "striːt"
-},
-{
-    "name": "sports centre",
-    "trans": [
-        "体育中心"
-    ],
-    "usphone": "spɔrts ˈsɛntər",
-    "ukphone": "spɔːts ˈsɛntə"
-},
-{
-    "name": "hotel",
-    "trans": [
-        "宾馆"
-    ],
-    "usphone": "hoʊˈtɛl",
-    "ukphone": "hoʊˈtɛl"
-},
-{
-    "name": "square",
-    "trans": [
-        "广场"
-    ],
-    "usphone": "skwɛr",
-    "ukphone": "skwɛər"
-},
-{
-    "name": "buy toys",
-    "trans": [
-        "买玩具"
-    ],
-    "usphone": "baɪ tɔɪz",
-    "ukphone": "baɪ tɔɪz"
-},
-{
-    "name": "see a film",
-    "trans": [
-        "看电影"
-    ],
-    "usphone": "si ə fɪlm",
-    "ukphone": "siː ə fɪlm"
-},
-{
-    "name": "go boating",
-    "trans": [
-        "去划船"
-    ],
-    "usphone": "ɡoʊ ˈboʊtɪŋ",
-    "ukphone": "ɡəʊ ˈbəʊtɪŋ"
-},
-{
-    "name": "busy",
-    "trans": [
-        "忙碌的"
-    ],
-    "usphone": "ˈbɪzi",
-    "ukphone": "ˈbɪzi"
-},
-{
-    "name": "station",
-    "trans": [
-        "（车）站"
-    ],
-    "usphone": "ˈsteɪʃən",
-    "ukphone": "ˈsteɪʃən"
-},
-{
-    "name": "place",
-    "trans": [
-        "地方"
-    ],
-    "usphone": "pleɪs",
-    "ukphone": "pleɪs"
-},
-{
-    "name": "thing",
-    "trans": [
-        "事；事物"
-    ],
-    "usphone": "θɪŋ",
-    "ukphone": "θɪŋ"
-},
-{
-    "name": "stay",
-    "trans": [
-        "停留"
-    ],
-    "usphone": "steɪ",
-    "ukphone": "steɪ"
-},
-{
-    "name": "star",
-    "trans": [
-        "星"
-    ],
-    "usphone": "stɑr",
-    "ukphone": "stɑːr"
-},
-{
-    "name": "king",
-    "trans": [
-        "国王"
-    ],
-    "usphone": "kɪŋ",
-    "ukphone": "kɪŋ"
-},
-{
-    "name": "central",
-    "trans": [
-        "中心的"
-    ],
-    "usphone": "ˈsɛntrəl",
-    "ukphone": "ˈsɛntrəl"
-},
-{
-    "name": "take photos",
-    "trans": [
-        "照相"
-    ],
-    "usphone": "teɪk ˈfoʊtoʊz",
-    "ukphone": "teɪk ˈfəʊtəʊz"
-},
-{
-    "name": "museum",
-    "trans": [
-        "博物馆"
-    ],
-    "usphone": "mjuˈziəm",
-    "ukphone": "mju(ː)ˈziːəm"
-},
-{
-    "name": "dream",
-    "trans": [
-        "梦"
-    ],
-    "usphone": "driːm",
-    "ukphone": "driːm"
-},
-{
-    "name": "sea",
-    "trans": [
-        "海；海洋"
-    ],
-    "usphone": "si",
-    "ukphone": "siː"
-},
-{
-    "name": "ski",
-    "trans": [
-        "滑雪"
-    ],
-    "usphone": "ski",
-    "ukphone": "skiː"
-},
-{
-    "name": "eat seafood",
-    "trans": [
-        "吃海鲜"
-    ],
-    "usphone": "it ˈsiˌfʊd",
-    "ukphone": "iːt ˈsiːˌfʊd"
-},
-{
-    "name": "visit the Mogao Caves",
-    "trans": [
-        "参观莫高窟"
-    ],
-    "usphone": "ˈvɪzɪt ðə məˈɡaʊ keɪvz",
-    "ukphone": "ˈvɪzɪt ðiː məˈɡaʊ keɪvz"
-},
-{
-    "name": "West Lake",
-    "trans": [
-        "西湖"
-    ],
-    "usphone": "wɛst leɪk",
-    "ukphone": "wɛst leɪk"
-},
-{
-    "name": "row a boat",
-    "trans": [
-        "划船"
-    ],
-    "usphone": "roʊ ə boʊt",
-    "ukphone": "rəʊ ə bəʊt"
-},
-{
-    "name": "the Great Wall",
-    "trans": [
-        "长城"
-    ],
-    "usphone": "ðə ɡreɪt wɔl",
-    "ukphone": "ðiː ɡreɪt wɔːl"
-},
-{
-    "name": "take photos",
-    "trans": [
-        "照相"
-    ],
-    "usphone": "teɪk ˈfoʊtoʊz",
-    "ukphone": "teɪk ˈfəʊtəʊz"
-},
-{
-    "name": "summer vacation",
-    "trans": [
-        "暑假"
-    ],
-    "usphone": "ˈsʌmər veɪˈkeɪʃən",
-    "ukphone": "ˈsʌmə veɪˈkeɪʃən"
-},
-{
-    "name": "travel",
-    "trans": [
-        "旅游"
-    ],
-    "usphone": "ˈtrævəl",
-    "ukphone": "ˈtrævəl"
-},
-{
-    "name": "reading",
-    "trans": [
-        "读书"
-    ],
-    "usphone": "ˈridɪŋ",
-    "ukphone": "ˈriːdɪŋ"
-},
-{
-    "name": "skateboarding",
-    "trans": [
-        "玩滑板"
-    ],
-    "usphone": "ˈskeɪtbɔrdɪŋ",
-    "ukphone": "ˈskeɪtbɔːrdɪŋ"
-},
-{
-    "name": "singing",
-    "trans": [
-        "唱歌"
-    ],
-    "usphone": "ˈsɪŋɪŋ",
-    "ukphone": "ˈsɪŋɪŋ"
-},
-{
-    "name": "dancing",
-    "trans": [
-        "跳舞"
-    ],
-    "usphone": "ˈdænsɪŋ",
-    "ukphone": "ˈdɑːnsɪŋ"
-},
-{
-    "name": "doing jigsaw puzzles",
-    "trans": [
-        "拼拼图"
-    ],
-    "usphone": "ˈduɪŋ ˈdʒɪɡˌsɔ pʌzəlz",
-    "ukphone": "ˈduːɪŋ ˈdʒɪɡˌsɔː pʌzl̩z"
-},
-{
-    "name": "making models",
-    "trans": [
-        "制作模型"
-    ],
-    "usphone": "ˈmeɪkɪŋ ˈmɑdəlz",
-    "ukphone": "ˈmeɪkɪŋ ˈmɒdl̩z"
-},
-{
-    "name": "collecting erasers",
-    "trans": [
-        "收集橡皮"
-    ],
-    "usphone": "kəˈlɛktɪŋ ɪˈreɪzərz",
-    "ukphone": "kəˈlɛktɪŋ ɪˈreɪzəz"
-},
-{
-    "name": "different",
-    "trans": [
-        "不同的"
-    ],
-    "usphone": "ˈdɪfərənt",
-    "ukphone": "ˈdɪfərənt"
-},
-{
-    "name": "hobby",
-    "trans": [
-        "爱好"
-    ],
-    "usphone": "ˈhɑbi",
-    "ukphone": "ˈhɒbi"
-},
-{
-    "name": "stamp",
-    "trans": [
-        "邮票"
-    ],
-    "usphone": "stæmp",
-    "ukphone": "stæmp"
-},
-{
-    "name": "catch",
-    "trans": [
-        "抓住"
-    ],
-    "usphone": "kætʃ",
-    "ukphone": "kætʃ"
-},
-{
-    "name": "go for a picnic",
-    "trans": [
-        "去野餐"
-    ],
-    "usphone": "ɡoʊ fɔr ə ˈpɪkˌnɪk",
-    "ukphone": "ɡəʊ fɔːr ə ˈpɪknɪk"
-},
-{
-    "name": "play the violin",
-    "trans": [
-        "拉小提琴"
-    ],
-    "usphone": "pleɪ ðə vaɪəˈlɪn",
-    "ukphone": "pleɪ ðə vaɪəˈlɪn"
-},
-{
-    "name": "go skating",
-    "trans": [
-        "去滑冰"
-    ],
-    "usphone": "ɡoʊ ˈskeɪtɪŋ",
-    "ukphone": "ɡəʊ ˈskeɪtɪŋ"
-},
-{
-    "name": "go camping",
-    "trans": [
-        "去野营"
-    ],
-    "usphone": "ɡoʊ ˈkæmpɪŋ",
-    "ukphone": "ɡəʊ ˈkæmpɪŋ"
-},
-{
-    "name": "do the housework",
-    "trans": [
-        "做家务"
-    ],
-    "usphone": "du ðə ˈhaʊswɜrk",
-    "ukphone": "duː ðə ˈhaʊswɜːk"
-},
-{
-    "name": "free",
-    "trans": [
-        "空闲的"
-    ],
-    "usphone": "fri",
-    "ukphone": "friː"
-},
-{
-    "name": "never",
-    "trans": [
-        "从不"
-    ],
-    "usphone": "ˈnɛvər",
-    "ukphone": "ˈnɛvər"
-},
-{
-    "name": "once a week",
-    "trans": [
-        "一周一次"
-    ],
-    "usphone": "wʌns ə wik",
-    "ukphone": "wʌns ə wiːk"
-},
-{
-    "name": "twice a week",
-    "trans": [
-        "一周两次"
-    ],
-    "usphone": "twaɪs ə wik",
-    "ukphone": "twaɪs ə wiːk"
-},
-{
-    "name": "three times a week",
-    "trans": [
-        "一周三次"
-    ],
-    "usphone": "θriː taɪmz ə wik",
-    "ukphone": "θriː taɪmz ə wiːk"
-},
-{
-    "name": "Canada",
-    "trans": [
-        "加拿大"
-    ],
-    "usphone": "ˈkænədə",
-    "ukphone": "ˈkænədə"
-},
-{
-    "name": "Australia",
-    "trans": [
-        "澳大利亚"
-    ],
-    "usphone": "ɔˈstreɪliə",
-    "ukphone": "ɔːˈstreɪliə"
-},
-{
-    "name": "the UK",
-    "trans": [
-        "英国"
-    ],
-    "usphone": "ðə juː keɪ",
-    "ukphone": "ðə ju(ː) keɪ"
-},
-{
-    "name": "the USA",
-    "trans": [
-        "美国"
-    ],
-    "usphone": "ði ˈjuˈɛsˈeɪ",
-    "ukphone": "ðiː ˈjuːˈɛsˈeɪ"
-},
-{
-    "name": "China",
-    "trans": [
-        "中国"
-    ],
-    "usphone": "ˈtʃaɪnə",
-    "ukphone": "ˈtʃaɪnə"
-},
-{
-    "name": "koala",
-    "trans": [
-        "考拉"
-    ],
-    "usphone": "koʊˈɑlə",
-    "ukphone": "kəʊˈɑːlə"
-},
-{
-    "name": "maple leaves",
-    "trans": [
-        "枫叶"
-    ],
-    "usphone": "ˈmeɪpəl liːvz",
-    "ukphone": "ˈmeɪpəl liːvz"
-},
-{
-    "name": "Big Ben",
-    "trans": [
-        "大本钟"
-    ],
-    "usphone": "bɪg bɛn",
-    "ukphone": "bɪg bɛn"
-},
-{
-    "name": "Disneyland",
-    "trans": [
-        "迪斯尼乐园"
-    ],
-    "usphone": "ˈdɪzniˌlænd",
-    "ukphone": "ˈdɪzniˌlænd"
-},
-{
-    "name": "campfire",
-    "trans": [
-        "篝火"
-    ],
-    "usphone": "kæmpˌfaɪr",
-    "ukphone": "kæmpˌfaɪər"
-},
-{
-    "name": "cute",
-    "trans": [
-        "可爱的"
-    ],
-    "usphone": "kjut",
-    "ukphone": "kjuːt"
-},
-{
-    "name": "country",
-    "trans": [
-        "国家"
-    ],
-    "usphone": "ˈkʌntri",
-    "ukphone": "ˈkʌntri"
-},
-{
-    "name": "pretty",
-    "trans": [
-        "漂亮的"
-    ],
-    "usphone": "ˈprɪti",
-    "ukphone": "ˈprɪti"
-}
+    {
+        "name": "across from",
+        "trans": [
+            "prep. opposite; on the other side from"
+        ],
+        "usphone": "əˈkrɔs from",
+        "ukphone": "əˈkrɒs frɒm"
+    },
+    {
+        "name": "next to",
+        "trans": [
+            "prep. beside; very close to"
+        ],
+        "usphone": "nɛkst tu",
+        "ukphone": "nɛkst tu"
+    },
+    {
+        "name": "between",
+        "trans": [
+            "prep. in the space or time separating two things"
+        ],
+        "usphone": "bɪˈtwiːn",
+        "ukphone": "bɪˈtwiːn"
+    },
+    {
+        "name": "restaurant",
+        "trans": [
+            "n. a building where people go to eat"
+        ],
+        "usphone": "ˈrɛstərənt",
+        "ukphone": "ˈrɛstərɒnt"
+    },
+    {
+        "name": "post office",
+        "trans": [
+            "n. a local branch where postal services are available\""
+        ],
+        "usphone": "poʊst ˈɔfɪs",
+        "ukphone": "pəʊst ˈɒfɪs"
+    },
+    {
+        "name": "bank",
+        "trans": [
+            "n. sloping land (especially the slope beside a body of water); a financial institution that accepts deposits and channels the money into lending activities",
+            "v. tip laterally; enclose with a bank"
+        ],
+        "usphone": "bæŋk",
+        "ukphone": "bæŋk"
+    },
+    {
+        "name": "grocery",
+        "trans": [
+            "n. a marketplace where groceries are sold"
+        ],
+        "usphone": "ˈɡroʊsəri",
+        "ukphone": "ˈɡrəʊsəri"
+    },
+    {
+        "name": "turn left",
+        "trans": [
+            "向左转"
+        ],
+        "usphone": "tɝn lɛft",
+        "ukphone": "tɜːn lɛft"
+    },
+    {
+        "name": "turn right",
+        "trans": [
+            "向右转"
+        ],
+        "usphone": "tɝn raɪt",
+        "ukphone": "tɜːn raɪt"
+    },
+    {
+        "name": "go straight",
+        "trans": [
+            "直行"
+        ],
+        "usphone": "ɡoʊ streɪt",
+        "ukphone": "ɡəʊ streɪt"
+    },
+    {
+        "name": "crossroads",
+        "trans": [
+            "n. a community of people smaller than a village; a crisis situation or point in time when a critical decision must be made"
+        ],
+        "usphone": "ˈkrɔːsroʊdz",
+        "ukphone": "ˈkrɒsroʊdz"
+    },
+    {
+        "name": "neighbourhood",
+        "trans": [
+            "n. a surrounding or nearby region"
+        ],
+        "usphone": "ˈneɪbərˌhʊd",
+        "ukphone": "ˈneɪbəhʊd"
+    },
+    {
+        "name": "send",
+        "trans": [
+            "v. cause to go somewhere; to cause or order to be taken, directed, or transmitted to another place"
+        ],
+        "usphone": "sɛnd",
+        "ukphone": "sɛnd"
+    },
+    {
+        "name": "get",
+        "trans": [
+            "v. come into the possession of something concrete or abstract; enter or assume a certain state or condition"
+        ],
+        "usphone": "ɡɛt",
+        "ukphone": "ɡɛt"
+    },
+    {
+        "name": "money",
+        "trans": [
+            "n. the most common medium of exchange; functions as legal tender; wealth reckoned in terms of money"
+        ],
+        "usphone": "ˈmʌni",
+        "ukphone": "ˈmʌni"
+    },
+    {
+        "name": "get to",
+        "trans": [
+            "v. reach a goal, e.g.,; arrive at the point of"
+        ],
+        "usphone": "ɡɛt tu",
+        "ukphone": "ɡɛt tu"
+    },
+    {
+        "name": "before",
+        "trans": [
+            "prep. / conj. earlier than",
+            "prep. in front of"
+        ],
+        "usphone": "bɪˈfɔr",
+        "ukphone": "bɪˈfɔːr"
+    },
+    {
+        "name": "leave",
+        "trans": [
+            "v. go away from a place; go and leave behind, either intentionally or by neglect or forgetfulness",
+            "n. the period of time during which you are absent from work or duty; permission to do something"
+        ],
+        "usphone": "liv",
+        "ukphone": "liːv"
+    },
+    {
+        "name": "toy",
+        "trans": [
+            "n. an artifact designed to be played with"
+        ],
+        "usphone": "tɔɪ",
+        "ukphone": "tɔɪ"
+    },
+    {
+        "name": "hospital",
+        "trans": [
+            "n. a health facility where patients receive treatment"
+        ],
+        "usphone": "ˈhɑːspɪtəl",
+        "ukphone": "ˈhɒspɪtl̩"
+    },
+    {
+        "name": "bookshop",
+        "trans": [
+            "n. a shop where books are sold"
+        ],
+        "usphone": "ˈbʊkˌʃɑp",
+        "ukphone": "ˈbʊkʃɒp"
+    },
+    {
+        "name": "school",
+        "trans": [
+            "n. an educational institution; a building where young people receive education",
+            "v. educate in or as if in a school"
+        ],
+        "usphone": "skul",
+        "ukphone": "skuːl"
+    },
+    {
+        "name": "supermarket",
+        "trans": [
+            "n. a large self-service grocery store selling groceries and dairy products and household goods"
+        ],
+        "usphone": "ˈsupərˌmɑrkɪt",
+        "ukphone": "ˈsuːpəmɑːkɪt"
+    },
+    {
+        "name": "ball",
+        "trans": [
+            "n. round object that is hit or thrown or kicked in games; a solid projectile that is shot by a musket",
+            "v. form into a ball by winding or rolling"
+        ],
+        "usphone": "bɔl",
+        "ukphone": "bɔːl"
+    },
+    {
+        "name": "city",
+        "trans": [
+            "n. a large and densely populated urban area; may include several independent administrative districts"
+        ],
+        "usphone": "ˈsɪti",
+        "ukphone": "ˈsɪti"
+    },
+    {
+        "name": "street",
+        "trans": [
+            "n. a thoroughfare (usually including sidewalks) that is lined with buildings"
+        ],
+        "usphone": "strit",
+        "ukphone": "striːt"
+    },
+    {
+        "name": "sports centre",
+        "trans": [
+            "体育中心"
+        ],
+        "usphone": "spɔrts ˈsɛntər",
+        "ukphone": "spɔːts ˈsɛntə"
+    },
+    {
+        "name": "hotel",
+        "trans": [
+            "n. a building where travelers can pay for lodging and meals and other services"
+        ],
+        "usphone": "hoʊˈtɛl",
+        "ukphone": "hoʊˈtɛl"
+    },
+    {
+        "name": "square",
+        "trans": [
+            "n. (geometry) a plane rectangle with four equal sides and four right angles; a four-sided regular polygon; the product of two equal terms",
+            "v. make square; raise to the second power",
+            "adj. having four equal sides and four right angles or forming a right angle"
+        ],
+        "usphone": "skwɛr",
+        "ukphone": "skwɛər"
+    },
+    {
+        "name": "buy toys",
+        "trans": [
+            "买玩具"
+        ],
+        "usphone": "baɪ tɔɪz",
+        "ukphone": "baɪ tɔɪz"
+    },
+    {
+        "name": "see a film",
+        "trans": [
+            "看电影"
+        ],
+        "usphone": "si ə fɪlm",
+        "ukphone": "siː ə fɪlm"
+    },
+    {
+        "name": "go boating",
+        "trans": [
+            "去划船"
+        ],
+        "usphone": "ɡoʊ ˈboʊtɪŋ",
+        "ukphone": "ɡəʊ ˈbəʊtɪŋ"
+    },
+    {
+        "name": "busy",
+        "trans": [
+            "adj. actively or fully engaged or occupied; overcrowded or cluttered with detail",
+            "v. keep busy with"
+        ],
+        "usphone": "ˈbɪzi",
+        "ukphone": "ˈbɪzi"
+    },
+    {
+        "name": "station",
+        "trans": [
+            "n. a facility equipped with special equipment and personnel for a particular purpose",
+            "v. assign to a station"
+        ],
+        "usphone": "ˈsteɪʃən",
+        "ukphone": "ˈsteɪʃən"
+    },
+    {
+        "name": "place",
+        "trans": [
+            "n. a point located with respect to surface features of some region; any area set aside for a particular purpose",
+            "v. put into a certain place or abstract location; place somebody in a particular situation or location"
+        ],
+        "usphone": "pleɪs",
+        "ukphone": "pleɪs"
+    },
+    {
+        "name": "thing",
+        "trans": [
+            "n. a special situation; an action"
+        ],
+        "usphone": "θɪŋ",
+        "ukphone": "θɪŋ"
+    },
+    {
+        "name": "stay",
+        "trans": [
+            "v. stay the same; remain in a certain state; stay put (in a certain place)",
+            "n. continuing or remaining in a place or state"
+        ],
+        "usphone": "steɪ",
+        "ukphone": "steɪ"
+    },
+    {
+        "name": "star",
+        "trans": [
+            "n. (astronomy) a celestial body of hot gases that radiates energy derived from thermonuclear reactions in the interior",
+            "v. feature as the star",
+            "adj. indicating the most important performer or role"
+        ],
+        "usphone": "stɑr",
+        "ukphone": "stɑːr"
+    },
+    {
+        "name": "king",
+        "trans": [
+            "n. a male sovereign; ruler of a kingdom; a competitor who holds a preeminent position"
+        ],
+        "usphone": "kɪŋ",
+        "ukphone": "kɪŋ"
+    },
+    {
+        "name": "central",
+        "trans": [
+            "adj. serving as an essential component; in or near a center or constituting a center; the inner area"
+        ],
+        "usphone": "ˈsɛntrəl",
+        "ukphone": "ˈsɛntrəl"
+    },
+    {
+        "name": "take photos",
+        "trans": [
+            "phr. to photograph things"
+        ],
+        "usphone": "teɪk ˈfoʊtoʊz",
+        "ukphone": "teɪk ˈfəʊtəʊz"
+    },
+    {
+        "name": "museum",
+        "trans": [
+            "n. a depository for collecting and displaying objects having scientific or historical or artistic value"
+        ],
+        "usphone": "mjuˈziəm",
+        "ukphone": "mju(ː)ˈziːəm"
+    },
+    {
+        "name": "dream",
+        "trans": [
+            "n. a series of mental images and emotions occurring during sleep; imaginative thoughts indulged in while awake",
+            "v. have a daydream; indulge in a fantasy; experience while sleeping"
+        ],
+        "usphone": "driːm",
+        "ukphone": "driːm"
+    },
+    {
+        "name": "sea",
+        "trans": [
+            "n. a division of an ocean or a large body of salt water partially enclosed by land; anything apparently limitless in quantity or volume"
+        ],
+        "usphone": "si",
+        "ukphone": "siː"
+    },
+    {
+        "name": "ski",
+        "trans": [
+            "n. narrow wood or metal or plastic runners used in pairs for gliding over snow",
+            "v. move along on skis"
+        ],
+        "usphone": "ski",
+        "ukphone": "skiː"
+    },
+    {
+        "name": "eat seafood",
+        "trans": [
+            "吃海鲜"
+        ],
+        "usphone": "it ˈsiˌfʊd",
+        "ukphone": "iːt ˈsiːˌfʊd"
+    },
+    {
+        "name": "visit the Mogao Caves",
+        "trans": [
+            "参观莫高窟"
+        ],
+        "usphone": "ˈvɪzɪt ðə məˈɡaʊ keɪvz",
+        "ukphone": "ˈvɪzɪt ðiː məˈɡaʊ keɪvz"
+    },
+    {
+        "name": "West Lake",
+        "trans": [
+            "西湖"
+        ],
+        "usphone": "wɛst leɪk",
+        "ukphone": "wɛst leɪk"
+    },
+    {
+        "name": "row a boat",
+        "trans": [
+            "划船"
+        ],
+        "usphone": "roʊ ə boʊt",
+        "ukphone": "rəʊ ə bəʊt"
+    },
+    {
+        "name": "the Great Wall",
+        "trans": [
+            "n. a series of ancient fortification walls across northern China"
+        ],
+        "usphone": "ðə ɡreɪt wɔl",
+        "ukphone": "ðiː ɡreɪt wɔːl"
+    },
+    {
+        "name": "take photos",
+        "trans": [
+            "phr. to photograph things"
+        ],
+        "usphone": "teɪk ˈfoʊtoʊz",
+        "ukphone": "teɪk ˈfəʊtəʊz"
+    },
+    {
+        "name": "summer vacation",
+        "trans": [
+            "暑假"
+        ],
+        "usphone": "ˈsʌmər veɪˈkeɪʃən",
+        "ukphone": "ˈsʌmə veɪˈkeɪʃən"
+    },
+    {
+        "name": "travel",
+        "trans": [
+            "v. change location; move, travel, or proceed, also metaphorically; undertake a journey or trip",
+            "n. the act of going from one place to another; a movement through space that changes the location of something"
+        ],
+        "usphone": "ˈtrævəl",
+        "ukphone": "ˈtrævəl"
+    },
+    {
+        "name": "reading",
+        "trans": [
+            "n. the cognitive process of understanding a written linguistic message; a particular interpretation or performance"
+        ],
+        "usphone": "ˈridɪŋ",
+        "ukphone": "ˈriːdɪŋ"
+    },
+    {
+        "name": "skateboarding",
+        "trans": [
+            "n. the sport of skating on a skateboard"
+        ],
+        "usphone": "ˈskeɪtbɔrdɪŋ",
+        "ukphone": "ˈskeɪtbɔːrdɪŋ"
+    },
+    {
+        "name": "singing",
+        "trans": [
+            "n. the act of singing vocal music"
+        ],
+        "usphone": "ˈsɪŋɪŋ",
+        "ukphone": "ˈsɪŋɪŋ"
+    },
+    {
+        "name": "dancing",
+        "trans": [
+            "n. taking a series of rhythmical steps (and movements) in time to music"
+        ],
+        "usphone": "ˈdænsɪŋ",
+        "ukphone": "ˈdɑːnsɪŋ"
+    },
+    {
+        "name": "doing jigsaw puzzles",
+        "trans": [
+            "n. a puzzle that requires you to reassemble a picture that has been mounted on a stiff base and cut into interlocking pieces"
+        ],
+        "usphone": "ˈduɪŋ ˈdʒɪɡˌsɔ pʌzəlz",
+        "ukphone": "ˈduːɪŋ ˈdʒɪɡˌsɔː pʌzl̩z"
+    },
+    {
+        "name": "making models",
+        "trans": [
+            "制作模型"
+        ],
+        "usphone": "ˈmeɪkɪŋ ˈmɑdəlz",
+        "ukphone": "ˈmeɪkɪŋ ˈmɒdl̩z"
+    },
+    {
+        "name": "collecting erasers",
+        "trans": [
+            "收集橡皮"
+        ],
+        "usphone": "kəˈlɛktɪŋ ɪˈreɪzərz",
+        "ukphone": "kəˈlɛktɪŋ ɪˈreɪzəz"
+    },
+    {
+        "name": "different",
+        "trans": [
+            "adj. unlike in nature or quality or form or degree; distinctly separate from the first"
+        ],
+        "usphone": "ˈdɪfərənt",
+        "ukphone": "ˈdɪfərənt"
+    },
+    {
+        "name": "hobby",
+        "trans": [
+            "n. an auxiliary activity"
+        ],
+        "usphone": "ˈhɑbi",
+        "ukphone": "ˈhɒbi"
+    },
+    {
+        "name": "stamp",
+        "trans": [
+            "v. walk heavily; to mark, or produce an imprint in or on something",
+            "n. the distinctive form in which a thing is made; a type or class"
+        ],
+        "usphone": "stæmp",
+        "ukphone": "stæmp"
+    },
+    {
+        "name": "catch",
+        "trans": [
+            "v. discover or come upon accidentally, suddenly, or unexpectedly; catch somebody doing something or in a certain state",
+            "n. a drawback or difficulty that is not readily evident"
+        ],
+        "usphone": "kætʃ",
+        "ukphone": "kætʃ"
+    },
+    {
+        "name": "go for a picnic",
+        "trans": [
+            "去野餐"
+        ],
+        "usphone": "ɡoʊ fɔr ə ˈpɪkˌnɪk",
+        "ukphone": "ɡəʊ fɔːr ə ˈpɪknɪk"
+    },
+    {
+        "name": "play the violin",
+        "trans": [
+            "拉小提琴"
+        ],
+        "usphone": "pleɪ ðə vaɪəˈlɪn",
+        "ukphone": "pleɪ ðə vaɪəˈlɪn"
+    },
+    {
+        "name": "go skating",
+        "trans": [
+            "phr. to skate for pleasure"
+        ],
+        "usphone": "ɡoʊ ˈskeɪtɪŋ",
+        "ukphone": "ɡəʊ ˈskeɪtɪŋ"
+    },
+    {
+        "name": "go camping",
+        "trans": [
+            "去野营"
+        ],
+        "usphone": "ɡoʊ ˈkæmpɪŋ",
+        "ukphone": "ɡəʊ ˈkæmpɪŋ"
+    },
+    {
+        "name": "do the housework",
+        "trans": [
+            "做家务"
+        ],
+        "usphone": "du ðə ˈhaʊswɜrk",
+        "ukphone": "duː ðə ˈhaʊswɜːk"
+    },
+    {
+        "name": "free",
+        "trans": [
+            "adj. able to act at will; not hampered; not under compulsion or restraint",
+            "v. grant freedom to; free from confinement; relieve from"
+        ],
+        "usphone": "fri",
+        "ukphone": "friː"
+    },
+    {
+        "name": "never",
+        "trans": [
+            "adv. not ever; at no time in the past or future"
+        ],
+        "usphone": "ˈnɛvər",
+        "ukphone": "ˈnɛvər"
+    },
+    {
+        "name": "once a week",
+        "trans": [
+            "一周一次"
+        ],
+        "usphone": "wʌns ə wik",
+        "ukphone": "wʌns ə wiːk"
+    },
+    {
+        "name": "twice a week",
+        "trans": [
+            "一周两次"
+        ],
+        "usphone": "twaɪs ə wik",
+        "ukphone": "twaɪs ə wiːk"
+    },
+    {
+        "name": "three times a week",
+        "trans": [
+            "一周三次"
+        ],
+        "usphone": "θriː taɪmz ə wik",
+        "ukphone": "θriː taɪmz ə wiːk"
+    },
+    {
+        "name": "Canada",
+        "trans": [
+            "n. a nation in northern North America; the French were the first Europeans to settle in mainland Canada"
+        ],
+        "usphone": "ˈkænədə",
+        "ukphone": "ˈkænədə"
+    },
+    {
+        "name": "Australia",
+        "trans": [
+            "n. a nation occupying the whole of the Australian continent; Aboriginal tribes are thought to have migrated from southeastern Asia 20,000 years ago…"
+        ],
+        "usphone": "ɔˈstreɪliə",
+        "ukphone": "ɔːˈstreɪliə"
+    },
+    {
+        "name": "the UK",
+        "trans": [
+            "英国"
+        ],
+        "usphone": "ðə juː keɪ",
+        "ukphone": "ðə ju(ː) keɪ"
+    },
+    {
+        "name": "the USA",
+        "trans": [
+            "美国"
+        ],
+        "usphone": "ði ˈjuˈɛsˈeɪ",
+        "ukphone": "ðiː ˈjuːˈɛsˈeɪ"
+    },
+    {
+        "name": "China",
+        "trans": [
+            "n. a communist nation that covers a vast territory in eastern Asia; the most populous country in the world; high quality porcelain originally made only in China"
+        ],
+        "usphone": "ˈtʃaɪnə",
+        "ukphone": "ˈtʃaɪnə"
+    },
+    {
+        "name": "koala",
+        "trans": [
+            "n. sluggish tailless Australian arboreal marsupial with grey furry ears and coat; feeds on eucalyptus leaves and bark"
+        ],
+        "usphone": "koʊˈɑlə",
+        "ukphone": "kəʊˈɑːlə"
+    },
+    {
+        "name": "maple leaves",
+        "trans": [
+            "枫叶"
+        ],
+        "usphone": "ˈmeɪpəl liːvz",
+        "ukphone": "ˈmeɪpəl liːvz"
+    },
+    {
+        "name": "Big Ben",
+        "trans": [
+            "n. clock in the clock tower of the Houses of Parliament, London"
+        ],
+        "usphone": "bɪg bɛn",
+        "ukphone": "bɪg bɛn"
+    },
+    {
+        "name": "Disneyland",
+        "trans": [
+            "n. an amusement park in Anaheim created in 1955 by Walt Disney"
+        ],
+        "usphone": "ˈdɪzniˌlænd",
+        "ukphone": "ˈdɪzniˌlænd"
+    },
+    {
+        "name": "campfire",
+        "trans": [
+            "n. a small outdoor fire for warmth or cooking (as at a camp)"
+        ],
+        "usphone": "kæmpˌfaɪr",
+        "ukphone": "kæmpˌfaɪər"
+    },
+    {
+        "name": "cute",
+        "trans": [
+            "adj. attractive especially by means of smallness or prettiness or quaintness; obviously contrived to charm"
+        ],
+        "usphone": "kjut",
+        "ukphone": "kjuːt"
+    },
+    {
+        "name": "country",
+        "trans": [
+            "n. a politically organized body of people under a single government; the territory occupied by a nation"
+        ],
+        "usphone": "ˈkʌntri",
+        "ukphone": "ˈkʌntri"
+    },
+    {
+        "name": "pretty",
+        "trans": [
+            "adv. to a moderately sufficient extent or degree",
+            "adj. pleasing by delicacy or grace; not imposing; (used ironically) unexpectedly bad"
+        ],
+        "usphone": "ˈprɪti",
+        "ukphone": "ˈprɪti"
+    }
 ]

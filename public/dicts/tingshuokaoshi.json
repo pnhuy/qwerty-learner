@@ -14,7 +14,8 @@
   {
     "name": "buffet",
     "trans": [
-      "自助餐，小卖部"
+      "v. strike against forcefully",
+      "n. a piece of furniture that stands at the side of a dining room; has shelves and drawers"
     ]
   },
   {
@@ -32,61 +33,61 @@
   {
     "name": "cafeteria",
     "trans": [
-      "自助餐厅"
+      "n. a restaurant where you serve yourself and pay a cashier"
     ]
   },
   {
     "name": "restaurant",
     "trans": [
-      "餐馆"
+      "n. a building where people go to eat"
     ]
   },
   {
     "name": "canteen",
     "trans": [
-      "食堂，小卖部"
+      "n. a flask for carrying water; used by soldiers or travelers"
     ]
   },
   {
     "name": "snack bar",
     "trans": [
-      "小吃街；大排挡"
+      "n. usually inexpensive bar"
     ]
   },
   {
     "name": "appetizer",
     "trans": [
-      "开胃品"
+      "n. food or drink to stimulate the appetite (usually served before a meal or as the first course)"
     ]
   },
   {
     "name": "steak",
     "trans": [
-      "牛排"
+      "n. a slice of meat cut from the fleshy part of an animal or large fish"
     ]
   },
   {
     "name": "cheese",
     "trans": [
-      "奶酪"
+      "n. a solid food prepared from the pressed curd of milk"
     ]
   },
   {
     "name": "sandwich",
     "trans": [
-      "三明治"
+      "n. two (or more) slices of bread with a filling between them"
     ]
   },
   {
     "name": "bacon",
     "trans": [
-      "腌肉"
+      "n. back and sides of a hog salted and dried or smoked; usually sliced thin and fried"
     ]
   },
   {
     "name": "soup",
     "trans": [
-      "汤"
+      "n. liquid food especially of meat or fish or vegetable stock often containing pieces of solid food"
     ]
   },
   {
@@ -98,55 +99,59 @@
   {
     "name": "hamburger",
     "trans": [
-      "汉堡包"
+      "n. a sandwich consisting of a fried cake of minced beef served on a bun, often with other ingredients"
     ]
   },
   {
     "name": "doughnut",
     "trans": [
-      "油炸圈饼"
+      "n. a toroidal shape"
     ]
   },
   {
     "name": "dessert",
     "trans": [
-      "甜品，水果(作为正餐的最后一道)"
+      "n. a dish served as the last course of a meal"
     ]
   },
   {
     "name": "coke",
     "trans": [
-      "可口可乐"
+      "n. carbon fuel produced by distillation of coal",
+      "v. become coke"
     ]
   },
   {
     "name": "French fries",
     "trans": [
-      "炸薯条"
+      "n. strips of potato fried in deep fat"
     ]
   },
   {
     "name": "order",
     "trans": [
-      "点菜"
+      "n. (often plural) a command given by a superior (e.g., a military or law enforcement officer) that must be obeyed; a degree in a continuum of size or quantity",
+      "v. give instructions to or direct somebody to do something with authority; make a request for something"
     ]
   },
   {
     "name": "serve",
     "trans": [
-      "上菜"
+      "v. serve a purpose, role, or function; do duty or hold offices; serve in a specific function"
     ]
   },
   {
     "name": "change",
     "trans": [
-      "零钱"
+      "v. cause to change; make different; cause a transformation; undergo a change; become different in essence; losing one's or its original nature",
+      "n. an event that occurs when something passes from one state or phase to another"
     ]
   },
   {
     "name": "tip",
     "trans": [
-      "小费"
+      "n. the extreme end of something; especially something pointed; a relatively small amount of money given for services rendered (as by a waiter)",
+      "v. cause to tilt; mark with a tip"
     ]
   },
   {
@@ -170,55 +175,55 @@
   {
     "name": "menu",
     "trans": [
-      "菜单"
+      "n. a list of dishes available at a restaurant"
     ]
   },
   {
     "name": "knife",
     "trans": [
-      "小刀"
+      "n. edge tool used as a cutting instrument; has a pointed blade with a sharp edge and a handle; a weapon with a handle and blade with a sharp point"
     ]
   },
   {
     "name": "fork",
     "trans": [
-      "叉子"
+      "n. cutlery used for serving and eating food; the act of branching out or dividing into branches"
     ]
   },
   {
     "name": "spoon",
     "trans": [
-      "调羹"
+      "n. a piece of cutlery with a shallow bowl-shaped container and a handle; used to stir or serve or take up food"
     ]
   },
   {
     "name": "chopsticks",
     "trans": [
-      "筷子"
+      "n. one of a pair of slender sticks used as oriental tableware to eat food with"
     ]
   },
   {
     "name": "plate",
     "trans": [
-      "碟子"
+      "n. (baseball) base consisting of a rubber slab where the batter stands; it must be touched by a base runner in order to score"
     ]
   },
   {
     "name": "tray",
     "trans": [
-      "托盘"
+      "n. an open receptacle for holding or displaying or serving articles or food"
     ]
   },
   {
     "name": "French fries",
     "trans": [
-      "炸薯条"
+      "n. strips of potato fried in deep fat"
     ]
   },
   {
     "name": "pizza",
     "trans": [
-      "比萨饼"
+      "n. Italian open pie made of thin bread dough spread with a spiced mixture of e.g. tomato sauce and cheese"
     ]
   },
   {
@@ -230,25 +235,26 @@
   {
     "name": "rare",
     "trans": [
-      "半熟的"
+      "adj. not widely known; especially valued for its uncommonness; recurring only at long intervals"
     ]
   },
   {
     "name": "drink",
     "trans": [
-      "饮料"
+      "v. take in liquids; consume alcohol",
+      "n. a single serving of a beverage; the act of drinking alcoholic beverages to excess"
     ]
   },
   {
     "name": "wine",
     "trans": [
-      "葡萄酒"
+      "n. fermented juice (of grapes especially); a red as dark as red wine"
     ]
   },
   {
     "name": "Coca-Cola",
     "trans": [
-      "可口可乐"
+      "n. Coca Cola is a trademarked cola"
     ]
   },
   {
@@ -260,13 +266,14 @@
   {
     "name": "stamp",
     "trans": [
-      "邮票"
+      "v. walk heavily; to mark, or produce an imprint in or on something",
+      "n. the distinctive form in which a thing is made; a type or class"
     ]
   },
   {
     "name": "envelope",
     "trans": [
-      "信封"
+      "n. a flat (usually rectangular) container for a letter, thin package, etc.; any wrapper or covering"
     ]
   },
   {
@@ -284,13 +291,13 @@
   {
     "name": "overweight",
     "trans": [
-      "超重"
+      "adj. usually describes a large person who is fat but has a large frame to carry it"
     ]
   },
   {
     "name": "postage",
     "trans": [
-      "邮资"
+      "n. the charge for mailing something"
     ]
   },
   {
@@ -308,19 +315,20 @@
   {
     "name": "express mail",
     "trans": [
-      "快件"
+      "n. mail that is distributed by a rapid and efficient system"
     ]
   },
   {
     "name": "airmail",
     "trans": [
-      "航空信件"
+      "n. letters and packages that are transported by aircraft",
+      "v. send or transport by airmail"
     ]
   },
   {
     "name": "surface mail",
     "trans": [
-      "平邮，陆地邮寄"
+      "n. mail that is sent by land or sea"
     ]
   },
   {
@@ -344,19 +352,21 @@
   {
     "name": "insurance",
     "trans": [
-      "保险"
+      "n. promise of reimbursement in the case of loss; paid to people or companies so concerned about hazards that they have made prepayments to an insurance company"
     ]
   },
   {
     "name": "claim",
     "trans": [
-      "领取"
+      "v. assert or affirm strongly; state to be true or existing; demand as being one's due or property; assert one's right or title to",
+      "n. an assertion of a right (as to money or property); an assertion that something is true or factual"
     ]
   },
   {
     "name": "weight",
     "trans": [
-      "重量"
+      "n. the vertical force exerted by a mass as a result of gravity",
+      "v. weight down with a load; present with a bias"
     ]
   },
   {
@@ -380,55 +390,56 @@
   {
     "name": "library card",
     "trans": [
-      "借书证"
+      "n. a card certifying the bearer's right to use the library"
     ]
   },
   {
     "name": "borrow",
     "trans": [
-      "借进"
+      "v. get temporarily; take up and practice as one's own"
     ]
   },
   {
     "name": "lend",
     "trans": [
-      "借出"
+      "v. bestow a quality on; give temporarily; let have for a limited time"
     ]
   },
   {
     "name": "keep",
     "trans": [
-      "保管"
+      "v. keep in a certain state, position, or activity; e.g.,; continue a certain state, condition, or activity"
     ]
   },
   {
     "name": "renew",
     "trans": [
-      "续借"
+      "v. reestablish on a new, usually improved, basis or make new or like new; cause to appear in a new form"
     ]
   },
   {
     "name": "overdue",
     "trans": [
-      "借书逾期"
+      "adj. past due; not paid at the scheduled time"
     ]
   },
   {
     "name": "bookshelf",
     "trans": [
-      "书架"
+      "n. a shelf on which to keep books"
     ]
   },
   {
     "name": "novel",
     "trans": [
-      "小说/新颖的"
+      "n. an extended fictional work in prose; usually in the form of a story",
+      "adj. original and of a kind not seen before"
     ]
   },
   {
     "name": "science fiction",
     "trans": [
-      "科幻小说"
+      "n. literary fantasy involving the imagined impact of science on society"
     ]
   },
   {
@@ -440,19 +451,19 @@
   {
     "name": "periodical",
     "trans": [
-      "期刊"
+      "n. a publication that appears at fixed intervals"
     ]
   },
   {
     "name": "reference book",
     "trans": [
-      "参考书"
+      "n. a book to which you can refer for authoritative facts"
     ]
   },
   {
     "name": "librarian",
     "trans": [
-      "图书管理员"
+      "n. a professional person trained in library science and engaged in library services"
     ]
   },
   {
@@ -464,13 +475,13 @@
   {
     "name": "tuition",
     "trans": [
-      "学费"
+      "n. a fee paid for instruction (especially for higher education)"
     ]
   },
   {
     "name": "scholarship",
     "trans": [
-      "奖学金"
+      "n. financial aid provided to a student on the basis of academic merit; profound scholarly knowledge"
     ]
   },
   {
@@ -482,49 +493,51 @@
   {
     "name": "register",
     "trans": [
-      "注册"
+      "v. record in writing; enter into a book of names or events or transactions; record in a public office or in a court of law",
+      "n. an official written record of names or events or transactions"
     ]
   },
   {
     "name": "be absent",
     "trans": [
-      "缺课"
+      "adj. not being in a specified place",
+      "v. go away or leave"
     ]
   },
   {
     "name": "seminar",
     "trans": [
-      "讨论班，研讨会"
+      "n. any meeting for an exchange of ideas"
     ]
   },
   {
     "name": "assignment",
     "trans": [
-      "作业"
+      "n. a duty that you are assigned to perform (especially in the armed forces)"
     ]
   },
   {
     "name": "presentation",
     "trans": [
-      "课堂发言"
+      "n. the activity of formally presenting something (as a prize or reward); a show or display; the act of presenting something to sight or view"
     ]
   },
   {
     "name": "final exam",
     "trans": [
-      "期末考试"
+      "n. an examination administered at the end of an academic term"
     ]
   },
   {
     "name": "go over",
     "trans": [
-      "复习"
+      "v. hold a review (of troops); happen in a particular manner"
     ]
   },
   {
     "name": "fail",
     "trans": [
-      "不及格"
+      "v. fail to do something; leave something undone; be unsuccessful"
     ]
   },
   {
@@ -536,13 +549,15 @@
   {
     "name": "graduate",
     "trans": [
-      "毕业"
+      "v. receive an academic degree upon completion of one's studies; confer an academic degree upon",
+      "n. a person who has received a degree from a school (high school or college or university)",
+      "adj. of or relating to studies beyond a bachelor's degree"
     ]
   },
   {
     "name": "stationery",
     "trans": [
-      "文具用品"
+      "n. paper cut to an appropriate size for writing letters; usually with matching envelopes"
     ]
   },
   {
@@ -560,7 +575,7 @@
   {
     "name": "hospital",
     "trans": [
-      "医院"
+      "n. a health facility where patients receive treatment"
     ]
   },
   {
@@ -572,7 +587,7 @@
   {
     "name": "clinic",
     "trans": [
-      "诊所"
+      "n. a medical establishment run by a group of medical specialists"
     ]
   },
   {
@@ -584,7 +599,7 @@
   {
     "name": "treatment",
     "trans": [
-      "治疗手段"
+      "n. care provided to improve a situation (especially medical procedures or applications that are intended to relieve illness or injury)"
     ]
   },
   {
@@ -602,13 +617,13 @@
   {
     "name": "aspirin",
     "trans": [
-      "阿司匹林"
+      "n. the acetylated derivative of salicylic acid; used as an analgesic anti-inflammatory drug (trade names Bayer, Empirin…"
     ]
   },
   {
     "name": "heart attack",
     "trans": [
-      "心脏病"
+      "n. a sudden severe instance of abnormal heart function"
     ]
   },
   {
@@ -626,25 +641,26 @@
   {
     "name": "pain",
     "trans": [
-      "疼痛"
+      "n. a symptom of some physical hurt or disorder; emotional distress; a fundamental feeling that people try to avoid",
+      "v. cause bodily suffering to and make sick or indisposed"
     ]
   },
   {
     "name": "headache",
     "trans": [
-      "头痛"
+      "n. something or someone that causes anxiety; a source of unhappiness"
     ]
   },
   {
     "name": "stomachache",
     "trans": [
-      "腹痛"
+      "n. an ache localized in the stomach or abdominal region"
     ]
   },
   {
     "name": "backache",
     "trans": [
-      "背痛"
+      "n. an ache localized in the back"
     ]
   },
   {
@@ -656,19 +672,20 @@
   {
     "name": "cough",
     "trans": [
-      "咳嗽"
+      "v. exhale abruptly, as when one has a chest cold or congestion"
     ]
   },
   {
     "name": "fever",
     "trans": [
-      "发烧"
+      "n. a rise in the temperature of the body; frequently a symptom of infection; intense nervous anticipation"
     ]
   },
   {
     "name": "doctor",
     "trans": [
-      "医生"
+      "n. a licensed medical practitioner",
+      "v. alter and make impure, as with the intention to deceive; give medical treatment to"
     ]
   },
   {
@@ -680,25 +697,26 @@
   {
     "name": "dentist",
     "trans": [
-      "牙医"
+      "n. a person qualified to practice dentistry"
     ]
   },
   {
     "name": "surgeon",
     "trans": [
-      "外科医生"
+      "n. a physician who specializes in surgery"
     ]
   },
   {
     "name": "physician",
     "trans": [
-      "内科医生"
+      "n. a licensed medical practitioner"
     ]
   },
   {
     "name": "nurse",
     "trans": [
-      "护士"
+      "n. one skilled in caring for young children or the sick (usually under the supervision of a physician); a woman who is the custodian of children",
+      "v. try to cure by special care of treatment, of an illness or injury; maintain (a theory, thoughts, or feelings)"
     ]
   },
   {
@@ -728,7 +746,7 @@
   {
     "name": "check-up",
     "trans": [
-      "检查"
+      "n. a thorough medical or dental examination"
     ]
   },
   {
@@ -740,31 +758,32 @@
   {
     "name": "treatment",
     "trans": [
-      "治疗手段"
+      "n. care provided to improve a situation (especially medical procedures or applications that are intended to relieve illness or injury)"
     ]
   },
   {
     "name": "treat",
     "trans": [
-      "治疗"
+      "v. interact in a certain way; subject to a process or treatment, with the aim of readying for some purpose, improving, or remedying a condition"
     ]
   },
   {
     "name": "cure",
     "trans": [
-      "治愈"
+      "v. provide a cure for, make healthy again; prepare by drying, salting, or chemical processing in order to preserve",
+      "n. a medicine or therapy that cures disease or relieve pain"
     ]
   },
   {
     "name": "dizzy",
     "trans": [
-      "晕眩的"
+      "adj. having or causing a whirling sensation; liable to falling; lacking seriousness; given to frivolity"
     ]
   },
   {
     "name": "operator",
     "trans": [
-      "接线员"
+      "n. (mathematics) a symbol or function representing a mathematical operation; an agent that operates some apparatus or machine"
     ]
   },
   {
@@ -782,13 +801,13 @@
   {
     "name": "long-distance call",
     "trans": [
-      "长途电话"
+      "n. a telephone call made outside the local calling area"
     ]
   },
   {
     "name": "collect call",
     "trans": [
-      "对方付费电话"
+      "n. a telephone call that the receiving party is asked to pay for"
     ]
   },
   {
@@ -806,7 +825,7 @@
   {
     "name": "put through",
     "trans": [
-      "接通电话"
+      "v. pursue to a conclusion or bring to a successful issue"
     ]
   },
   {
@@ -836,7 +855,7 @@
   {
     "name": "Hold on",
     "trans": [
-      "请稍候。"
+      "v. hold firmly; stop and wait, as if awaiting further instructions or developments"
     ]
   },
   {
@@ -866,13 +885,13 @@
   {
     "name": "check in",
     "trans": [
-      "登记入住"
+      "v. announce one's arrival, e.g. at hotels or airports"
     ]
   },
   {
     "name": "check out",
     "trans": [
-      "结账退房"
+      "v. examine so as to determine accuracy, quality, or condition; announce one's departure from a hotel"
     ]
   },
   {
@@ -920,7 +939,7 @@
   {
     "name": "suite",
     "trans": [
-      "套间"
+      "n. a musical composition of several movements only loosely connected; apartment consisting of a series of connected rooms used as a living unit (as in a hotel)"
     ]
   },
   {
@@ -932,25 +951,25 @@
   {
     "name": "wake-up call",
     "trans": [
-      "叫醒电话"
+      "n. a warning to take action concerning something that was overlooked or neglected"
     ]
   },
   {
     "name": "accommodation",
     "trans": [
-      "住宿"
+      "n. making or becoming suitable; adjusting to circumstances"
     ]
   },
   {
     "name": "registration",
     "trans": [
-      "登记"
+      "n. the act of enrolling"
     ]
   },
   {
     "name": "receptionist",
     "trans": [
-      "前台接待员"
+      "n. a secretary whose main duty is to answer the telephone and receive visitors"
     ]
   },
   {
@@ -962,19 +981,21 @@
   {
     "name": "tip",
     "trans": [
-      "小费"
+      "n. the extreme end of something; especially something pointed; a relatively small amount of money given for services rendered (as by a waiter)",
+      "v. cause to tilt; mark with a tip"
     ]
   },
   {
     "name": "service charge",
     "trans": [
-      "服务费"
+      "n. a percentage of a bill (as at a hotel or restaurant) added in payment for service"
     ]
   },
   {
     "name": "lobby",
     "trans": [
-      "大堂"
+      "n. a large entrance or reception room or area",
+      "v. detain in conversation by or as if by holding on to the outer garments of; as for political or economic favors"
     ]
   },
   {
@@ -992,7 +1013,8 @@
   {
     "name": "cook",
     "trans": [
-      "炊事员"
+      "v. prepare a hot meal; prepare for eating by applying heat",
+      "n. someone who cooks food"
     ]
   },
   {
@@ -1046,7 +1068,7 @@
   {
     "name": "shuttle bus",
     "trans": [
-      "班车"
+      "n. shuttle consisting of a bus that travels between two points"
     ]
   },
   {
@@ -1082,7 +1104,7 @@
   {
     "name": "speeding",
     "trans": [
-      "超速行驶"
+      "n. changing location rapidly"
     ]
   },
   {
@@ -1094,13 +1116,13 @@
   {
     "name": "waiting room",
     "trans": [
-      "候车室"
+      "n. a room (as in a hotel or airport) with seating where people can wait"
     ]
   },
   {
     "name": "platform",
     "trans": [
-      "月台"
+      "n. a raised horizontal surface; a document stating the aims and principles of a political party"
     ]
   },
   {
@@ -1118,13 +1140,13 @@
   {
     "name": "one-way street",
     "trans": [
-      "单行道"
+      "n. unilateral interaction"
     ]
   },
   {
     "name": "rush hour",
     "trans": [
-      "交通高峰时间"
+      "n. the times at the beginning and end of the working day when many people are traveling to or from work"
     ]
   },
   {
@@ -1136,13 +1158,13 @@
   {
     "name": "traffic jam",
     "trans": [
-      "交通阻塞"
+      "n. a number of vehicles blocking one another until they can scarcely move"
     ]
   },
   {
     "name": "traffic lights",
     "trans": [
-      "交通灯"
+      "n. a visual signal to control the flow of traffic at intersections"
     ]
   },
   {
@@ -1154,13 +1176,13 @@
   {
     "name": "driving license",
     "trans": [
-      "驾照"
+      "n. a license authorizing the bearer to drive a motor vehicle"
     ]
   },
   {
     "name": "crowded",
     "trans": [
-      "拥挤的"
+      "adj. overfilled or compacted or concentrated"
     ]
   },
   {
@@ -1202,7 +1224,8 @@
   {
     "name": "transfer",
     "trans": [
-      "换乘/转机"
+      "v. transfer somebody to a different position or location of work; move from one place to another",
+      "n. the act of moving something from one location to another; someone who transfers or is transferred from one position to another"
     ]
   },
   {
@@ -1214,25 +1237,26 @@
   {
     "name": "dining car",
     "trans": [
-      "餐车"
+      "n. a passenger car where food is served in transit"
     ]
   },
   {
     "name": "garage",
     "trans": [
-      "修车场/车库"
+      "n. an outbuilding (or part of a building) for housing automobiles",
+      "v. keep or store in a garage"
     ]
   },
   {
     "name": "driver",
     "trans": [
-      "司机"
+      "n. the operator of a motor vehicle"
     ]
   },
   {
     "name": "conductor",
     "trans": [
-      "售票员"
+      "n. the person who leads a musical group; a substance that readily conducts e.g. electricity and heat"
     ]
   },
   {
@@ -1256,7 +1280,8 @@
   {
     "name": "scratches",
     "trans": [
-      "刮蹭"
+      "v. cause friction; cut the surface of; wear away the surface of",
+      "n. an abraded area where the skin is torn or worn off"
     ]
   },
   {
@@ -1268,13 +1293,13 @@
   {
     "name": "survive",
     "trans": [
-      "活下来"
+      "v. continue to live through hardship or adversity; continue in existence after (an adversity, etc.)"
     ]
   },
   {
     "name": "flight",
     "trans": [
-      "航班"
+      "n. a formation of aircraft in flight; an instance of traveling by air"
     ]
   },
   {
@@ -1292,19 +1317,19 @@
   {
     "name": "check in",
     "trans": [
-      "办理登机手续"
+      "v. announce one's arrival, e.g. at hotels or airports"
     ]
   },
   {
     "name": "airway",
     "trans": [
-      "航线"
+      "n. a duct that provides ventilation (as in mines)"
     ]
   },
   {
     "name": "flight",
     "trans": [
-      "航班"
+      "n. a formation of aircraft in flight; an instance of traveling by air"
     ]
   },
   {
@@ -1328,13 +1353,13 @@
   {
     "name": "departure time",
     "trans": [
-      "起飞时间"
+      "n. the time at which a public conveyance is scheduled to depart from a given point of origin"
     ]
   },
   {
     "name": "cancel",
     "trans": [
-      "取消"
+      "v. postpone indefinitely or annul something that was scheduled"
     ]
   },
   {
@@ -1346,13 +1371,13 @@
   {
     "name": "round-trip ticket",
     "trans": [
-      "往返票"
+      "n. a ticket to a place and back (usually over the same route)"
     ]
   },
   {
     "name": "departure lounge",
     "trans": [
-      "候机室"
+      "n. lounge where passengers can await departure"
     ]
   },
   {
@@ -1388,31 +1413,32 @@
   {
     "name": "fasten",
     "trans": [
-      "系紧"
+      "v. cause to be firmly attached; become fixed or fastened"
     ]
   },
   {
     "name": "airsick",
     "trans": [
-      "晕机的"
+      "adj. experiencing motion sickness"
     ]
   },
   {
     "name": "jet lag",
     "trans": [
-      "飞行时差反应"
+      "n. fatigue and sleep disturbance resulting from disruption of the body's normal circadian rhythm as a result of jet travel"
     ]
   },
   {
     "name": "captain",
     "trans": [
-      "机长"
+      "n. an officer holding a rank below a major but above a lieutenant; the naval officer in command of a military ship"
     ]
   },
   {
     "name": "pilot",
     "trans": [
-      "飞行员"
+      "n. someone who is licensed to operate an aircraft in flight",
+      "v. operate an airplane; act as the navigator in a car, plane, or vessel and plan, direct, plot the path and position of the conveyance"
     ]
   },
   {
@@ -1424,7 +1450,7 @@
   {
     "name": "customs",
     "trans": [
-      "海关"
+      "n. money collected under a tariff"
     ]
   },
   {
@@ -1442,7 +1468,7 @@
   {
     "name": "destination",
     "trans": [
-      "目的地"
+      "n. the place designated as the end (as of a race or journey); the ultimate goal for which something is done"
     ]
   },
   {
@@ -1454,19 +1480,20 @@
   {
     "name": "passport",
     "trans": [
-      "护照"
+      "n. any authorization to pass or go somewhere"
     ]
   },
   {
     "name": "board",
     "trans": [
-      "登机"
+      "n. a committee having supervisory powers; a stout length of sawn timber; made in a wide variety of sizes and used for many purposes",
+      "v. get on board of (trains, buses, ships, aircraft, etc.); live and take one's meals at or in"
     ]
   },
   {
     "name": "departure gate",
     "trans": [
-      "登机口"
+      "n. gate where passengers embark"
     ]
   },
   {
@@ -1478,13 +1505,14 @@
   {
     "name": "suitcase",
     "trans": [
-      "行李箱"
+      "n. a portable rectangular container for carrying clothes"
     ]
   },
   {
     "name": "land",
     "trans": [
-      "着陆"
+      "n. the land on which real estate is located",
+      "v. reach or come to rest; cause to come to the ground"
     ]
   },
   {
@@ -1496,13 +1524,14 @@
   {
     "name": "off",
     "trans": [
-      "为某人送行"
+      "adv. from a particular thing or place or position ('forth' is obsolete); at a distance in space or time",
+      "adj. not in operation or operational; below a satisfactory level"
     ]
   },
   {
     "name": "pick up",
     "trans": [
-      "接机"
+      "v. take and lift upward; take up by hand"
     ]
   },
   {
@@ -1514,13 +1543,14 @@
   {
     "name": "take off",
     "trans": [
-      "起飞"
+      "v. leave; take away or remove"
     ]
   },
   {
     "name": "land",
     "trans": [
-      "降落"
+      "n. the land on which real estate is located",
+      "v. reach or come to rest; cause to come to the ground"
     ]
   },
   {
@@ -1538,25 +1568,25 @@
   {
     "name": "department store",
     "trans": [
-      "百货商场"
+      "n. a large retail store organized into departments offering a variety of merchandise; commonly part of a retail chain"
     ]
   },
   {
     "name": "drugstore",
     "trans": [
-      "药店，杂货店"
+      "n. a retail shop where medicine and other articles are sold"
     ]
   },
   {
     "name": "grocery store",
     "trans": [
-      "杂货店，食杂店，食品杂货店"
+      "n. a marketplace where groceries are sold"
     ]
   },
   {
     "name": "grocer",
     "trans": [
-      "食品杂货店，食品杂货商"
+      "n. a retail merchant who sells foodstuffs (and some household supplies)"
     ]
   },
   {
@@ -1568,103 +1598,115 @@
   {
     "name": "convenience store",
     "trans": [
-      "便利店"
+      "n. a store selling a limited variety of food and pharmaceutical items; open long hours for the convenience of customers"
     ]
   },
   {
     "name": "shopping center",
     "trans": [
-      "购物中心"
+      "n. mercantile establishment consisting of a carefully landscaped complex of shops representing leading merchandisers…"
     ]
   },
   {
     "name": "supermarket",
     "trans": [
-      "超市"
+      "n. a large self-service grocery store selling groceries and dairy products and household goods"
     ]
   },
   {
     "name": "mall",
     "trans": [
-      "商场"
+      "n. a public area set aside as a pedestrian walk"
     ]
   },
   {
     "name": "shop assistant",
     "trans": [
-      "店员"
+      "n. a salesperson in a store"
     ]
   },
   {
     "name": "counter",
     "trans": [
-      "柜台"
+      "n. table consisting of a horizontal surface over which business is transacted",
+      "v. speak in response; act in advance of; deal with ahead of time",
+      "adj. indicating opposition or resistance"
     ]
   },
   {
     "name": "receipt",
     "trans": [
-      "收据"
+      "n. the act of receiving; an acknowledgment (usually tangible) that payment has been made"
     ]
   },
   {
     "name": "invoice",
     "trans": [
-      "发票"
+      "n. an itemized statement of money owed for goods shipped or services rendered",
+      "v. send an bill to"
     ]
   },
   {
     "name": "catalogue",
     "trans": [
-      "产品目录"
+      "n. a complete list of things; usually arranged systematically",
+      "v. make an itemized list or catalog of; classify; make a catalogue, compile a catalogue"
     ]
   },
   {
     "name": "deliver",
     "trans": [
-      "送货"
+      "v. deliver (a speech, oration, or idea); bring to a destination, make a delivery"
     ]
   },
   {
     "name": "refund",
     "trans": [
-      "退款"
+      "n. money returned to a payer; the act of returning money received previously",
+      "v. pay back"
     ]
   },
   {
     "name": "brand",
     "trans": [
-      "品牌"
+      "n. a name given to a product or service; a recognizable kind",
+      "v. burn with a branding iron to indicate ownership; of animals"
     ]
   },
   {
     "name": "bargain",
     "trans": [
-      "便宜货"
+      "n. an agreement between parties (usually arrived at after discussion) fixing obligations of each",
+      "v. negotiate the terms of an exchange"
     ]
   },
   {
     "name": "size",
     "trans": [
-      "尺寸大小"
+      "n. the physical magnitude of something (how big it is); the property resulting from being one of a series of graduated measurements (as of clothing)",
+      "adj. (used in combination) sized"
     ]
   },
   {
     "name": "color",
     "trans": [
-      "颜色"
+      "n. a visual attribute of things that results from the light they emit or transmit or reflect; interest and variety and intensity",
+      "v. add color to; affect as in thought or feeling",
+      "adj. having or capable of producing colors"
     ]
   },
   {
     "name": "style",
     "trans": [
-      "式样"
+      "n. how something is done or how it happens",
+      "v. designate by an identifying term"
     ]
   },
   {
     "name": "price",
     "trans": [
-      "价格"
+      "n. the property of having material worth (often indicated by the amount of money something would bring if sold); the amount of money needed to purchase something",
+      "v. determine the price of"
     ]
   },
   {
@@ -1676,7 +1718,7 @@
   {
     "name": "cheap",
     "trans": [
-      "便宜的"
+      "adj. relatively low in price or charging low prices; tastelessly showy"
     ]
   },
   {
@@ -1694,13 +1736,16 @@
   {
     "name": "high",
     "trans": [
-      "价格高的"
+      "adj. greater than normal in degree or intensity or amount",
+      "adv. at a great altitude; in or to a high position, amount, or degree",
+      "n. a lofty level or position or degree"
     ]
   },
   {
     "name": "low",
     "trans": [
-      "价格低的"
+      "adj. less than normal in degree or intensity or amount; literal meanings; being at or having a relatively small elevation or upward extension",
+      "adv. in a low position; near the ground"
     ]
   },
   {
@@ -1718,37 +1763,41 @@
   {
     "name": "fair",
     "trans": [
-      "公平的，集市，交易会"
+      "adj. free from favoritism or self-interest or bias or deception; conforming with established standards or rules; not excessive or extreme",
+      "n. a traveling show; having sideshows and rides and games of skill etc.",
+      "v. join so that the external surfaces blend smoothly"
     ]
   },
   {
     "name": "cashier",
     "trans": [
-      "收银员，出纳员"
+      "n. an employee of a bank who receives and pays out money",
+      "v. discard or do away with"
     ]
   },
   {
     "name": "window-shopping",
     "trans": [
-      "逛商店"
+      "v. examine the shop windows; shop with the eyes only"
     ]
   },
   {
     "name": "price tag",
     "trans": [
-      "价格标签"
+      "n. a tag showing the price of the article it is attached to"
     ]
   },
   {
     "name": "purchase",
     "trans": [
-      "购买"
+      "v. obtain by purchase; acquire by means of a financial transaction",
+      "n. the acquisition of something for payment; something acquired by purchase"
     ]
   },
   {
     "name": "customer",
     "trans": [
-      "顾客"
+      "n. someone who pays for goods or services"
     ]
   },
   {
@@ -1760,19 +1809,23 @@
   {
     "name": "budget",
     "trans": [
-      "预算"
+      "n. a sum of money allocated for a particular purpose; a summary of intended expenditures along with proposals for how to meet them",
+      "v. make a budget"
     ]
   },
   {
     "name": "retail",
     "trans": [
-      "零售"
+      "n. the selling of goods to consumers; usually in small quantities and not for resale",
+      "v. be sold at the retail level"
     ]
   },
   {
     "name": "wholesale",
     "trans": [
-      "批发"
+      "n. the selling of goods to merchants; usually in large quantities for resale to consumers",
+      "v. sell in large quantities",
+      "adj. ignoring distinctions"
     ]
   },
   {
@@ -1796,19 +1849,19 @@
   {
     "name": "credit card",
     "trans": [
-      "信用卡"
+      "n. a card (usually plastic) that assures a seller that the person using it has a satisfactory credit rating and that the issuer will see to it that the seller…"
     ]
   },
   {
     "name": "out of stock",
     "trans": [
-      "脱销/缺货"
+      "adj. not available for sale or use"
     ]
   },
   {
     "name": "in stock",
     "trans": [
-      "有货"
+      "adj. available for use or sale"
     ]
   },
   {
@@ -1826,7 +1879,7 @@
   {
     "name": "on sale",
     "trans": [
-      "廉价出售"
+      "phr. available to buy; offered at a reduced price"
     ]
   },
   {
@@ -1850,19 +1903,21 @@
   {
     "name": "cloudy",
     "trans": [
-      "阴天的"
+      "adj. lacking definite form or limits"
     ]
   },
   {
     "name": "overcast",
     "trans": [
-      "多云的"
+      "n. the state of the sky when it is covered by clouds",
+      "adj. filled or abounding with clouds"
     ]
   },
   {
     "name": "fine",
     "trans": [
-      "晴朗的"
+      "adj. being satisfactory or in satisfactory condition; minutely precise especially in differences in meaning",
+      "adv. an expression of agreement normally occurring at the beginning of a sentence; in a delicate manner"
     ]
   },
   {
@@ -1874,25 +1929,27 @@
   {
     "name": "rainy",
     "trans": [
-      "有雨的"
+      "adj. (of weather) wet by periods of rain"
     ]
   },
   {
     "name": "wet",
     "trans": [
-      "潮湿的"
+      "adj. covered or soaked with a liquid such as water",
+      "v. cause to become wet",
+      "n. wetness caused by water"
     ]
   },
   {
     "name": "humid",
     "trans": [
-      "湿润的"
+      "adj. containing or characterized by a great deal of water vapor"
     ]
   },
   {
     "name": "damp",
     "trans": [
-      "潮湿的"
+      "adj. slightly wet"
     ]
   },
   {
@@ -1904,7 +1961,8 @@
   {
     "name": "cool",
     "trans": [
-      "凉爽的"
+      "adj. neither warm nor very cold; giving relief from heat; marked by calm self-control (especially in trying circumstances); unemotional",
+      "v. make cool or cooler; loose heat"
     ]
   },
   {
@@ -1916,43 +1974,49 @@
   {
     "name": "warm",
     "trans": [
-      "暖和的"
+      "adj. having or producing a comfortable and agreeable degree of heat or imparting or maintaining heat; psychologically warm; friendly and responsive",
+      "v. get warm or warmer; make warm or warmer"
     ]
   },
   {
     "name": "hot",
     "trans": [
-      "炎热的"
+      "adj. used of physical heat; having a high or higher than desirable temperature or giving off heat or feeling or causing a sensation of heat or burning"
     ]
   },
   {
     "name": "windy",
     "trans": [
-      "有风的"
+      "adj. abounding in or exposed to the wind or breezes"
     ]
   },
   {
     "name": "calm",
     "trans": [
-      "无风的"
+      "adj. not agitated; without losing self-possession",
+      "v. make calm or still; make steady",
+      "n. steadiness of mind under stress"
     ]
   },
   {
     "name": "moderate",
     "trans": [
-      "风力不大的"
+      "adj. being within reasonable or average limits; not excessive or extreme; not extreme",
+      "v. preside over; make less fast or intense",
+      "n. a person who takes a position in the political center"
     ]
   },
   {
     "name": "thunder",
     "trans": [
-      "打雷"
+      "n. a deep prolonged loud noise; a booming or crashing noise caused by air expanding along the path of a bolt of lightning",
+      "v. move fast, noisily, and heavily; utter words loudly and forcefully"
     ]
   },
   {
     "name": "lightening",
     "trans": [
-      "闪电"
+      "n. descent of the uterus into the pelvic cavity that occurs late in pregnancy; the fetus is said to have dropped"
     ]
   },
   {
@@ -1970,37 +2034,38 @@
   {
     "name": "tornado",
     "trans": [
-      "龙卷风"
+      "n. a localized and violently destructive windstorm occurring over land characterized by a funnel-shaped cloud extending toward the ground"
     ]
   },
   {
     "name": "typhoon",
     "trans": [
-      "台风"
+      "n. a tropical cyclone occurring in the western Pacific or Indian oceans"
     ]
   },
   {
     "name": "snow",
     "trans": [
-      "雪"
+      "n. precipitation falling from clouds in the form of ice crystals; a layer of snowflakes (white crystals of frozen water) covering the ground",
+      "v. fall as snow"
     ]
   },
   {
     "name": "blizzard",
     "trans": [
-      "暴风雪"
+      "n. a storm with widespread snowfall accompanied by strong winds"
     ]
   },
   {
     "name": "snowstorm",
     "trans": [
-      "暴风雪"
+      "n. a storm with widespread snowfall accompanied by strong winds"
     ]
   },
   {
     "name": "drizzle",
     "trans": [
-      "毛毛雨"
+      "n. very light rain; stronger than mist but less than a shower"
     ]
   },
   {
@@ -2012,49 +2077,52 @@
   {
     "name": "downpour",
     "trans": [
-      "倾盆大雨"
+      "n. a heavy rain"
     ]
   },
   {
     "name": "storm",
     "trans": [
-      "暴风雨"
+      "n. a violent weather condition with winds 64-72 knots (11 on the Beaufort scale) and precipitation and thunder and lightning; a violent commotion or disturbance",
+      "v. behave violently, as if in state of a great anger; take by force"
     ]
   },
   {
     "name": "shower",
     "trans": [
-      "阵雨"
+      "n. a plumbing fixture that sprays water over you; washing yourself by standing upright under water sprayed from a nozzle",
+      "v. expend profusely; also used with abstract nouns; spray or sprinkle with"
     ]
   },
   {
     "name": "fog",
     "trans": [
-      "雾"
+      "n. droplets of water vapor suspended in the air near the ground; an atmosphere in which visibility is reduced because of a cloud of some substance"
     ]
   },
   {
     "name": "mist",
     "trans": [
-      "薄雾"
+      "n. a thin fog with condensation near the ground",
+      "v. become covered with mist"
     ]
   },
   {
     "name": "smog",
     "trans": [
-      "烟雾"
+      "n. air pollution by a mixture of smoke and fog"
     ]
   },
   {
     "name": "foggy",
     "trans": [
-      "有雾的"
+      "adj. stunned or confused and slow to react (as from blows or drunkenness or exhaustion)"
     ]
   },
   {
     "name": "misty",
     "trans": [
-      "有薄雾的"
+      "adj. filled or abounding with fog or mist"
     ]
   },
   {
@@ -2066,19 +2134,19 @@
   {
     "name": "climate",
     "trans": [
-      "气候"
+      "n. the weather in some location averaged over some long period of time; the prevailing psychological state"
     ]
   },
   {
     "name": "weather forecast",
     "trans": [
-      "天气预报"
+      "n. a forecast of the weather"
     ]
   },
   {
     "name": "warm up",
     "trans": [
-      "转暖"
+      "v. run until the normal working temperature is reached; become more friendly or open"
     ]
   },
   {
@@ -2102,7 +2170,7 @@
   {
     "name": "clear up",
     "trans": [
-      "天空放晴"
+      "v. make clear and (more) comprehensible; finish a task completely"
     ]
   },
   {
@@ -2126,7 +2194,8 @@
   {
     "name": "vacation",
     "trans": [
-      "经常和天气相联系的情况：(度假)和(航班)"
+      "n. leisure time away from work devoted to rest or pleasure",
+      "v. spend or take a vacation"
     ]
   },
   {
@@ -2144,67 +2213,67 @@
   {
     "name": "scenery",
     "trans": [
-      "风景"
+      "n. the painted structures of a stage set that are intended to suggest a particular locale; the appearance of a place"
     ]
   },
   {
     "name": "museum",
     "trans": [
-      "博物馆"
+      "n. a depository for collecting and displaying objects having scientific or historical or artistic value"
     ]
   },
   {
     "name": "mountain",
     "trans": [
-      "山脉"
+      "n. a land mass that projects well above its surroundings; higher than a hill"
     ]
   },
   {
     "name": "river",
     "trans": [
-      "河流"
+      "n. a large natural stream of water (larger than a creek)"
     ]
   },
   {
     "name": "lake",
     "trans": [
-      "湖泊"
+      "n. a body of (usually fresh) water surrounded by land"
     ]
   },
   {
     "name": "waterfall",
     "trans": [
-      "瀑布"
+      "n. a steep descent of the water of a river"
     ]
   },
   {
     "name": "beach",
     "trans": [
-      "沙滩"
+      "n. an area of sand sloping down to the water of a sea or lake"
     ]
   },
   {
     "name": "island",
     "trans": [
-      "岛屿"
+      "n. a land mass (smaller than a continent) that is surrounded by water; a zone or area resembling an island"
     ]
   },
   {
     "name": "lawn",
     "trans": [
-      "草地"
+      "n. a field of cultivated and mowed grass"
     ]
   },
   {
     "name": "temple",
     "trans": [
-      "寺庙"
+      "n. place of worship consisting of an edifice for the worship of a deity; the flat area on either side of the forehead"
     ]
   },
   {
     "name": "zoo",
     "trans": [
-      "动物园"
+      "n. the facility where wild animals are housed for exhibition"
     ]
   },
   {
@@ -2216,7 +2285,7 @@
   {
     "name": "travel agency",
     "trans": [
-      "旅行社"
+      "n. an agency that arranges personal travel"
     ]
   },
   {
@@ -2228,19 +2297,19 @@
   {
     "name": "hotel",
     "trans": [
-      "宾馆"
+      "n. a building where travelers can pay for lodging and meals and other services"
     ]
   },
   {
     "name": "souvenir",
     "trans": [
-      "纪念品"
+      "n. something of sentimental value"
     ]
   },
   {
     "name": "ticket",
     "trans": [
-      "票"
+      "n. a commercial document showing that the holder is entitled to something (as to ride on public transportation or to enter a public entertainment)"
     ]
   },
   {
@@ -2258,13 +2327,15 @@
   {
     "name": "ship",
     "trans": [
-      "轮船"
+      "n. a vessel that carries passengers or freight",
+      "v. transport commercially"
     ]
   },
   {
     "name": "taxi",
     "trans": [
-      "出租车"
+      "n. a car driven by a person whose job is to take passengers where they want to go in exchange for money",
+      "v. travel slowly"
     ]
   },
   {
@@ -2276,13 +2347,13 @@
   {
     "name": "railway",
     "trans": [
-      "铁路"
+      "n. line that is the commercial organization responsible for operating a system of transportation for trains that pull passengers or freight"
     ]
   },
   {
     "name": "highway",
     "trans": [
-      "公路"
+      "n. a major road for any form of motor transport"
     ]
   },
   {
@@ -2294,31 +2365,31 @@
   {
     "name": "fascinating",
     "trans": [
-      "迷人的"
+      "adj. capable of arousing and holding the attention"
     ]
   },
   {
     "name": "thrilling",
     "trans": [
-      "刺激的"
+      "adj. causing a surge of emotion or excitement"
     ]
   },
   {
     "name": "unforgettable",
     "trans": [
-      "难忘的"
+      "adj. impossible to forget"
     ]
   },
   {
     "name": "terrific",
     "trans": [
-      "好极了"
+      "adj. very great or intense; extraordinarily good or great; used especially as intensifiers"
     ]
   },
   {
     "name": "fantastic",
     "trans": [
-      "难忘的"
+      "adj. ludicrously odd; extraordinarily good or great; used especially as intensifiers"
     ]
   },
   {
@@ -2336,85 +2407,88 @@
   {
     "name": "psychologist",
     "trans": [
-      "心理学家"
+      "n. a scientist trained in psychology"
     ]
   },
   {
     "name": "principal",
     "trans": [
-      "校长"
+      "adj. most important element",
+      "n. the original amount of a debt on which interest is calculated; the educator who has executive authority for a school"
     ]
   },
   {
     "name": "professor",
     "trans": [
-      "教授"
+      "n. someone who is a member of the faculty at a college or university"
     ]
   },
   {
     "name": "teacher",
     "trans": [
-      "教师"
+      "n. a person whose occupation is teaching; a personified abstraction that teaches"
     ]
   },
   {
     "name": "policeman",
     "trans": [
-      "警率"
+      "n. a member of a police force"
     ]
   },
   {
     "name": "firefighter",
     "trans": [
-      "消防员"
+      "n. a member of a fire department who tries to extinguish fires"
     ]
   },
   {
     "name": "secretary",
     "trans": [
-      "秘书"
+      "n. a person who is head of an administrative department of government; an assistant who handles correspondence and clerical work for a boss or an organization"
     ]
   },
   {
     "name": "assistant",
     "trans": [
-      "助理"
+      "n. a person who contributes to the fulfillment of a need or furtherance of an effort or purpose",
+      "adj. of or relating to a person who is subordinate to another"
     ]
   },
   {
     "name": "receptionist",
     "trans": [
-      "接待员"
+      "n. a secretary whose main duty is to answer the telephone and receive visitors"
     ]
   },
   {
     "name": "typist",
     "trans": [
-      "打字员"
+      "n. someone paid to operate a typewriter"
     ]
   },
   {
     "name": "clerk",
     "trans": [
-      "职员"
+      "n. an employee who performs clerical work (e.g., keeps records or accounts); a salesperson in a store"
     ]
   },
   {
     "name": "cashier",
     "trans": [
-      "出纳员"
+      "n. an employee of a bank who receives and pays out money",
+      "v. discard or do away with"
     ]
   },
   {
     "name": "lawyer",
     "trans": [
-      "律炕"
+      "n. a professional person authorized to practice law; conducts lawsuits or gives legal advice"
     ]
   },
   {
     "name": "editor",
     "trans": [
-      "编辑"
+      "n. a person responsible for the editorial aspects of publication; the person who determines the final content of a text (especially of a newspaper or magazine)"
     ]
   },
   {
@@ -2426,61 +2500,61 @@
   {
     "name": "author",
     "trans": [
-      "作家"
+      "n. writes (books or stories or articles or the like) professionally (for pay); someone who originates or causes or initiates something"
     ]
   },
   {
     "name": "writer",
     "trans": [
-      "作者"
+      "n. writes (books or stories or articles or the like) professionally (for pay); a person who is able to write and has written something"
     ]
   },
   {
     "name": "artist",
     "trans": [
-      "艺术家"
+      "n. a person whose creative work shows sensitivity and imagination"
     ]
   },
   {
     "name": "pianist",
     "trans": [
-      "钢琴家"
+      "n. a person who plays the piano"
     ]
   },
   {
     "name": "photographer",
     "trans": [
-      "摄影师"
+      "n. someone who takes photographs professionally"
     ]
   },
   {
     "name": "painter",
     "trans": [
-      "画家"
+      "n. an artist who paints"
     ]
   },
   {
     "name": "musician",
     "trans": [
-      "音乐家"
+      "n. someone who plays a musical instrument (as a profession); artist who composes or conducts music as a profession"
     ]
   },
   {
     "name": "singer",
     "trans": [
-      "歌唱家"
+      "n. a person who sings"
     ]
   },
   {
     "name": "designer",
     "trans": [
-      "设计师"
+      "n. a person who specializes in designing architectural interiors and their furnishings…"
     ]
   },
   {
     "name": "scientist",
     "trans": [
-      "科学家"
+      "n. a person with advanced knowledge of one or more sciences"
     ]
   },
   {
@@ -2492,13 +2566,13 @@
   {
     "name": "architect",
     "trans": [
-      "建筑师"
+      "n. someone who creates plans to be used in making something (such as buildings)"
     ]
   },
   {
     "name": "engineer",
     "trans": [
-      "工程师"
+      "n. a person who uses scientific knowledge to solve practical problems"
     ]
   },
   {
@@ -2510,19 +2584,20 @@
   {
     "name": "mailman",
     "trans": [
-      "邮差"
+      "n. a man who delivers the mail"
     ]
   },
   {
     "name": "guide",
     "trans": [
-      "导游"
+      "v. direct the course; determine the direction of travelling; take somebody somewhere",
+      "n. someone employed to conduct others; someone who shows the way by leading or advising"
     ]
   },
   {
     "name": "competition",
     "trans": [
-      "竞赛"
+      "n. a business relation in which two parties compete to gain customers; an occasion on which a winner is selected from among two or more contestants"
     ]
   },
   {
@@ -2534,7 +2609,7 @@
   {
     "name": "club",
     "trans": [
-      "俱乐部"
+      "n. a team of professional baseball players who play and travel together; a formal association of people with similar interests"
     ]
   },
   {
@@ -2546,67 +2621,69 @@
   {
     "name": "coach",
     "trans": [
-      "教练"
+      "n. (sports) someone in charge of training an athlete or a team",
+      "v. teach and supervise (someone); act as a trainer or coach (to), as in sports; drive a coach"
     ]
   },
   {
     "name": "champion",
     "trans": [
-      "冠军"
+      "n. someone who has won first place in a competition; someone who fights for a cause",
+      "v. protect or fight for as a champion"
     ]
   },
   {
     "name": "gold medal",
     "trans": [
-      "金牌"
+      "n. a trophy made of gold (or having the appearance of gold) that is usually awarded for winning first place in a competition"
     ]
   },
   {
     "name": "silver medal",
     "trans": [
-      "银牌"
+      "n. a trophy made of silver (or having the appearance of silver) that is usually awarded for winning second place in a competition"
     ]
   },
   {
     "name": "bronze medal",
     "trans": [
-      "铜牌"
+      "n. a trophy made of bronze (or having the appearance of bronze) that is usually awarded for winning third place in a competition"
     ]
   },
   {
     "name": "basketball",
     "trans": [
-      "篮球"
+      "n. a game played on a court by two opposing teams of 5 players; points are scored by throwing the ball through an elevated horizontal hoop"
     ]
   },
   {
     "name": "football",
     "trans": [
-      "美式足球"
+      "n. any of various games played with a ball (round or oval) in which two teams try to kick or carry or propel the ball into each other's goal"
     ]
   },
   {
     "name": "soccer",
     "trans": [
-      "英式足球"
+      "n. a football game in which two teams of 11 players try to kick or head a ball into the opponents' goal"
     ]
   },
   {
     "name": "volleyball",
     "trans": [
-      "排球"
+      "n. a game in which two teams hit an inflated ball over a high net using their hands"
     ]
   },
   {
     "name": "baseball",
     "trans": [
-      "棒球"
+      "n. a ball game played with a bat and ball between two teams of nine players; teams take turns at bat trying to score runs; a ball used in playing baseball"
     ]
   },
   {
     "name": "tennis",
     "trans": [
-      "网球"
+      "n. a game played with rackets by two or four players who hit a ball back and forth over a net that divides the court"
     ]
   },
   {
@@ -2618,49 +2695,49 @@
   {
     "name": "golf",
     "trans": [
-      "高尔夫球"
+      "n. a game played on a large open course with 9 or 18 holes; the object is use as few strokes as possible in playing all the holes"
     ]
   },
   {
     "name": "jogging",
     "trans": [
-      "慢跑"
+      "n. running at a jog trot as a form of cardiopulmonary exercise"
     ]
   },
   {
     "name": "swimming",
     "trans": [
-      "游泳"
+      "n. the act of swimming; :"
     ]
   },
   {
     "name": "wrestling",
     "trans": [
-      "摔跤"
+      "n. the act of engaging in close hand-to-hand combat; the sport of hand-to-hand struggle between unarmed contestants who try to throw each other down"
     ]
   },
   {
     "name": "shooting",
     "trans": [
-      "射击"
+      "n. the act of firing a projectile; killing someone by gunfire"
     ]
   },
   {
     "name": "boxing",
     "trans": [
-      "拳击"
+      "n. fighting with the fists"
     ]
   },
   {
     "name": "weightlifting",
     "trans": [
-      "举重"
+      "n. bodybuilding by exercise that involves lifting weights"
     ]
   },
   {
     "name": "relay race",
     "trans": [
-      "接力赛"
+      "n. a race between teams; each member runs or swims part of the distance"
     ]
   },
   {
@@ -2684,13 +2761,15 @@
   {
     "name": "interview",
     "trans": [
-      "面试"
+      "v. conduct an interview in television, newspaper, and radio reporting; discuss formally with (somebody) for the purpose of an evaluation",
+      "n. the questioning of a person (or a conversation in which information is elicited); often conducted by journalists; a conference (usually with someone important)"
     ]
   },
   {
     "name": "resume",
     "trans": [
-      "简历"
+      "v. take up or begin anew; return to a previous location or condition",
+      "n. short descriptive summary (of events)"
     ]
   },
   {
@@ -2708,25 +2787,26 @@
   {
     "name": "recommendation",
     "trans": [
-      "推荐信"
+      "n. something (as a course of action) that is recommended as advisable"
     ]
   },
   {
     "name": "certificate",
     "trans": [
-      "证书"
+      "n. a document attesting to the truth of certain stated facts"
     ]
   },
   {
     "name": "qualification",
     "trans": [
-      "资历"
+      "n. an attribute that must be met or complied with and that fits a person for something; the act of modifying or changing the strength of some idea"
     ]
   },
   {
     "name": "experience",
     "trans": [
-      "经验/经历"
+      "n. the accumulation of knowledge or skill that results from direct participation in events or activities",
+      "v. go or live through; have firsthand knowledge of states, situations, emotions, or sensations"
     ]
   },
   {
@@ -2738,37 +2818,39 @@
   {
     "name": "salary",
     "trans": [
-      "薪水"
+      "n. something that remunerates"
     ]
   },
   {
     "name": "allowance",
     "trans": [
-      "津贴"
+      "n. an amount allowed or granted (as during a given period); a sum granted as reimbursement for expenses"
     ]
   },
   {
     "name": "promotion",
     "trans": [
-      "晋升"
+      "n. a message issued in behalf of some product or cause or idea or person or institution; act of raising in rank or position"
     ]
   },
   {
     "name": "vacation",
     "trans": [
-      "休假"
+      "n. leisure time away from work devoted to rest or pleasure",
+      "v. spend or take a vacation"
     ]
   },
   {
     "name": "break",
     "trans": [
-      "喝杯茶或咖啡的)休息"
+      "v. terminate; become separated into pieces or fragments",
+      "n. some abrupt occurrence that interrupts an ongoing activity; an unexpected piece of good luck"
     ]
   },
   {
     "name": "retire",
     "trans": [
-      "退休"
+      "v. go into retirement; stop performing one's work or withdraw from one's position; withdraw from active participation"
     ]
   },
   {
@@ -2798,37 +2880,37 @@
   {
     "name": "sick leave",
     "trans": [
-      "病假"
+      "n. a leave of absence from work because of illness"
     ]
   },
   {
     "name": "employee",
     "trans": [
-      "雇员"
+      "n. a worker who is hired to perform a job"
     ]
   },
   {
     "name": "employer",
     "trans": [
-      "雇主"
+      "n. a person or firm that employs workers"
     ]
   },
   {
     "name": "clerk",
     "trans": [
-      "职员"
+      "n. an employee who performs clerical work (e.g., keeps records or accounts); a salesperson in a store"
     ]
   },
   {
     "name": "secretary",
     "trans": [
-      "秘书"
+      "n. a person who is head of an administrative department of government; an assistant who handles correspondence and clerical work for a boss or an organization"
     ]
   },
   {
     "name": "manager",
     "trans": [
-      "经理"
+      "n. someone who controls resources and expenditures; (sports) someone in charge of training an athlete or a team"
     ]
   },
   {
@@ -2840,25 +2922,25 @@
   {
     "name": "general manager",
     "trans": [
-      "总经理"
+      "n. the highest ranking manager"
     ]
   },
   {
     "name": "client",
     "trans": [
-      "客户"
+      "n. a person who seeks the advice of a lawyer; someone who pays for goods or services"
     ]
   },
   {
     "name": "hobby",
     "trans": [
-      "兴趣"
+      "n. an auxiliary activity"
     ]
   },
   {
     "name": "entertainment",
     "trans": [
-      "娱乐"
+      "n. an activity that is diverting and that holds the attention"
     ]
   },
   {
@@ -2888,13 +2970,13 @@
   {
     "name": "cartoon",
     "trans": [
-      "漫画/动画片"
+      "n. a humorous or satirical drawing published in a newspaper or magazine"
     ]
   },
   {
     "name": "comedy",
     "trans": [
-      "喜剧"
+      "n. light and humorous drama with a happy ending; a comic incident or series of incidents"
     ]
   },
   {
@@ -2912,97 +2994,100 @@
   {
     "name": "hiking",
     "trans": [
-      "徒步旅行"
+      "n. a long walk usually for exercise or pleasure"
     ]
   },
   {
     "name": "camping",
     "trans": [
-      "野营"
+      "n. the act of encamping and living in tents in a camp"
     ]
   },
   {
     "name": "diving",
     "trans": [
-      "潜水"
+      "n. an athletic competition that involves diving into water"
     ]
   },
   {
     "name": "surfing",
     "trans": [
-      "冲浪"
+      "n. the sport of riding a surfboard toward the shore on the crest of a wave"
     ]
   },
   {
     "name": "skiing",
     "trans": [
-      "滑雪"
+      "n. a sport in which participants must travel on skis"
     ]
   },
   {
     "name": "seashore",
     "trans": [
-      "海岸"
+      "n. the shore of a sea or ocean"
     ]
   },
   {
     "name": "beach",
     "trans": [
-      "海滩"
+      "n. an area of sand sloping down to the water of a sea or lake"
     ]
   },
   {
     "name": "sunburned",
     "trans": [
-      "晒黑的"
+      "adj. suffering from overexposure to direct sunlight"
     ]
   },
   {
     "name": "palace",
     "trans": [
-      "宫殿"
+      "n. a large and stately mansion; the governing group of a kingdom"
     ]
   },
   {
     "name": "castle",
     "trans": [
-      "城堡"
+      "n. a large and stately mansion; a large building formerly occupied by a ruler and fortified against attack"
     ]
   },
   {
     "name": "spare time",
     "trans": [
-      "业余时间"
+      "n. time available for hobbies and other activities that you enjoy"
     ]
   },
   {
     "name": "favorite",
     "trans": [
-      "最喜欢的"
+      "n. something regarded with special favor or liking; a special loved one",
+      "adj. appealing to the general public; preferred above all others and treated with partiality"
     ]
   },
   {
     "name": "interest",
     "trans": [
-      "兴趣"
+      "n. a sense of concern with and curiosity about someone or something; a reason for wanting something done",
+      "v. excite the curiosity of; engage the interest of; be on the mind of"
     ]
   },
   {
     "name": "hobby",
     "trans": [
-      "爱好"
+      "n. an auxiliary activity"
     ]
   },
   {
     "name": "appetite",
     "trans": [
-      "嗜好"
+      "n. a feeling of craving something"
     ]
   },
   {
     "name": "taste",
     "trans": [
-      "口味"
+      "n. the sensation that results when taste buds in the tongue and throat convey information about the chemical composition of a soluble stimulus; a strong liking",
+      "v. have flavor; taste of something; perceive by the sense of taste"
     ]
   },
   {
@@ -3056,7 +3141,7 @@
   {
     "name": "watch TV",
     "trans": [
-      "看电视"
+      "phr. to watch television"
     ]
   },
   {
@@ -3074,7 +3159,7 @@
   {
     "name": "be interested in",
     "trans": [
-      "对……感兴趣"
+      "phr. to want to know or learn about something"
     ]
   },
   {
@@ -3086,7 +3171,7 @@
   {
     "name": "be fond of",
     "trans": [
-      "喜欢……"
+      "phr. to like very much"
     ]
   },
   {
@@ -3104,55 +3189,60 @@
   {
     "name": "landlady",
     "trans": [
-      "女房东"
+      "n. a landlord who is a woman"
     ]
   },
   {
     "name": "landlord",
     "trans": [
-      "房东"
+      "n. a landowner who leases to others"
     ]
   },
   {
     "name": "rent",
     "trans": [
-      "租，租金"
+      "v. let for money; grant use or occupation of under a term of contract",
+      "n. a payment or series of payments made by the lessee to an owner for use of some property, facility, equipment, or service"
     ]
   },
   {
     "name": "deposit",
     "trans": [
-      "押金"
+      "v. put, fix, force, or implant; put into a bank account",
+      "n. the phenomenon of sediment or gravel accumulating; matter that has been deposited by some natural process"
     ]
   },
   {
     "name": "contract",
     "trans": [
-      "合同"
+      "n. a binding agreement between two or more persons that is enforceable by law",
+      "v. enter into a contractual arrangement; engage by written agreement"
     ]
   },
   {
     "name": "furnished",
     "trans": [
-      "有家具电器的"
+      "adj. provided with whatever is necessary for a purpose (as furniture or equipment or authority)"
     ]
   },
   {
     "name": "heat",
     "trans": [
-      "暖气"
+      "n. a form of energy that is transferred by a difference in temperature; the presence of heat",
+      "v. make hot or hotter"
     ]
   },
   {
     "name": "gas",
     "trans": [
-      "煤气"
+      "n. the state of matter distinguished from the solid and liquid states by: relatively low density and viscosity…",
+      "v. attack with gas; subject to gas fumes"
     ]
   },
   {
     "name": "electricity",
     "trans": [
-      "电"
+      "n. a physical phenomenon associated with stationary or moving electrons and protons; energy made available by the flow of electric charge through a conductor"
     ]
   },
   {
@@ -3164,19 +3254,19 @@
   {
     "name": "stairs",
     "trans": [
-      "楼梯"
+      "n. a flight of stairs or a flight of steps"
     ]
   },
   {
     "name": "balcony",
     "trans": [
-      "阳台"
+      "n. an upper floor projecting from the rear over the main floor in an auditorium"
     ]
   },
   {
     "name": "living room",
     "trans": [
-      "起居室"
+      "n. a room in a private house or establishment where people can sit and talk and relax"
     ]
   },
   {
@@ -3188,157 +3278,162 @@
   {
     "name": "dining room",
     "trans": [
-      "餐厅"
+      "n. a room used for dining"
     ]
   },
   {
     "name": "kitchen",
     "trans": [
-      "厨房"
+      "n. a room equipped for preparing meals"
     ]
   },
   {
     "name": "bathroom",
     "trans": [
-      "浴室"
+      "n. a room (as in a residence) containing a bathtub or shower and usually a washbasin and toilet"
     ]
   },
   {
     "name": "toilet",
     "trans": [
-      "卫生间"
+      "n. a room or building equipped with one or more toilets; a plumbing fixture for defecation and urination"
     ]
   },
   {
     "name": "basement",
     "trans": [
-      "地下室"
+      "n. the lowermost portion of a structure partly or wholly below ground level; often used for storage"
     ]
   },
   {
     "name": "housework",
     "trans": [
-      "家务"
+      "n. the work of cleaning and running a house"
     ]
   },
   {
     "name": "channel",
     "trans": [
-      "频道"
+      "n. a path over which electrical signals can pass; a passage for water (or other fluids) to flow through",
+      "v. transmit or serve as the medium for transmission"
     ]
   },
   {
     "name": "cook",
     "trans": [
-      "烹饪"
+      "v. prepare a hot meal; prepare for eating by applying heat",
+      "n. someone who cooks food"
     ]
   },
   {
     "name": "furniture",
     "trans": [
-      "家具"
+      "n. furnishings that make a room or other area ready for occupancy"
     ]
   },
   {
     "name": "dining table",
     "trans": [
-      "餐桌"
+      "n. a table at which meals are served"
     ]
   },
   {
     "name": "fridge",
     "trans": [
-      "冰箱"
+      "n. a refrigerator in which the coolant is pumped around by an electric motor"
     ]
   },
   {
     "name": "television",
     "trans": [
-      "电视"
+      "n. broadcasting visual images of stationary or moving objects"
     ]
   },
   {
     "name": "oven",
     "trans": [
-      "烤箱"
+      "n. kitchen appliance used for baking or roasting"
     ]
   },
   {
     "name": "cabinet",
     "trans": [
-      "橱柜"
+      "n. a piece of furniture resembling a cupboard with doors and shelves and drawers; for storage or display"
     ]
   },
   {
     "name": "dishwasher",
     "trans": [
-      "洗碗机"
+      "n. a machine for washing dishes"
     ]
   },
   {
     "name": "sheet",
     "trans": [
-      "床单"
+      "n. any broad thin expanse or surface; paper used for writing or printing"
     ]
   },
   {
     "name": "blanket",
     "trans": [
-      "毯子"
+      "n. bedding that keeps a person warm in bed; anything that covers",
+      "v. cover as if with a blanket"
     ]
   },
   {
     "name": "carpet",
     "trans": [
-      "地毯"
+      "n. floor covering consisting of a piece of thick heavy fabric (usually with nap or pile)"
     ]
   },
   {
     "name": "curtain",
     "trans": [
-      "窗帘"
+      "n. hanging cloth used as a blind (especially for a window); any barrier to communication or vision"
     ]
   },
   {
     "name": "towel",
     "trans": [
-      "毛巾"
+      "n. a rectangular piece of absorbent cloth (or paper) for drying or wiping"
     ]
   },
   {
     "name": "shampoo",
     "trans": [
-      "洗发水"
+      "n. cleansing agent consisting of soaps or detergents used for washing the hair",
+      "v. use shampoo on (hair)"
     ]
   },
   {
     "name": "soap",
     "trans": [
-      "香皂"
+      "n. a cleansing agent made from the salts of vegetable or animal fats"
     ]
   },
   {
     "name": "haircut",
     "trans": [
-      "理发"
+      "n. the style in which hair has been cut"
     ]
   },
   {
     "name": "barber",
     "trans": [
-      "理发师"
+      "n. United States composer (1910-1981)",
+      "v. perform the services of a barber: cut the hair and/or beard of"
     ]
   },
   {
     "name": "shaver",
     "trans": [
-      "剃须刀"
+      "n. an adult male who shaves"
     ]
   },
   {
     "name": "shave",
     "trans": [
-      "剃须"
+      "v. remove body hair with a razor; cut closely"
     ]
   }
 ]
